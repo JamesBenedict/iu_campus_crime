@@ -10,7 +10,6 @@ new_dates = []
 site_links = []
 log_links = []
 
-
 history = open('data/past_dates.txt', 'r')
 past_dates = history.readlines()
 # print(past_dates)
@@ -179,14 +178,16 @@ class Bdp_crime(object):
 		# print()
 
 	def crime_today(self):
-		log = open('data/crime_new.txt', 'w')		
+		log = open('data/crime_new.txt', 'a')		
 		log.write('\n'+ '-'*10 +'Start of ' +str(self.day) + '-'*10 + '\n')
 
-		for crime in self.crime_list:
-			crime_string = ''.join(crime)
-			log.writelines(crime_string)
+		print(self.crime_list)
+		# for crime in self.crime_list:
+		# 	crime_string = ''.join(crime)
+		# 	print(crime_string)
+		# 	log.writelines(crime_string)
 
-			
+
 		
 		log.write('-'*10 +'End of ' + str(self.day) + '-'*10 + '\n')
 		log.close()
@@ -195,13 +196,15 @@ class Bdp_crime(object):
 
 
 	def crimes_all(self):
-		new_crimes = open('data/crime_new.txt', 'r')
-		new_content = new_crimes.readlines()
-		new_crimes.close()
+		pass
+		# new_crimes = open('data/crime_new.txt', 'r')
+		# new_content = new_crimes.readlines()
+		# new_crimes.close()
 
-		log = open('data/crimes_all.txt', 'a')
-		log.writelines()
-		log.close()
+
+		# log = open('data/crimes_all.txt', 'a')
+		# log.writelines()
+		# log.close()
 
 	def cleanup(self):
 		pass

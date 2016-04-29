@@ -1,0 +1,120 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/04/2016 00:00 to 02/04/2016 23:59
+date reported: 02/04/16 - THU at 00:00
+location:
+
+cad event #:
+
+16-02-04-002645
+
+READ CENTER, 125 S. JORDAN, 5TH FLOOR OF CURRY
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/04/16 - THU at 00:23
+date reported: 02/04/16 - THU at 01:23
+general location:
+
+report #:
+
+160322
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 02/04/16 - THU at 01:23
+date occurred to:
+
+02/04/16 - THU at 03:08
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/04/16 - THU at 10:38
+date reported: 02/04/16 - THU at 11:12
+general location:
+
+report #:
+
+160324
+
+FEE LANE PARKING GARAGE - On Campus
+
+date occurred from: 02/03/16 - WED at 19:30
+date occurred to:
+
+02/03/16 - WED at 20:30
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 02/05/16 - FRI at 13:42
+date reported: 02/04/16 - THU at 17:03
+general location:
+
+report #:
+
+160327
+
+WRIGHT EDUCATION BLDG - On Campus
+
+date occurred from: 02/04/16 - THU at 12:00
+date occurred to:
+
+02/04/16 - THU at 17:03
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 02/04/16 - THU at 19:33
+date reported: 02/04/16 - THU at 19:08
+general location:
+
+report #:
+
+160330
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 02/04/16 - THU at 19:00
+date occurred to:
+
+02/04/16 - THU at 19:08
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/04/16 - THU at 22:52
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/04/2016 00:00 to 02/04/2016 23:59
+
+date reported: 02/04/16 - THU at 23:13
+location:
+
+cad event #:
+
+16-02-04-002725
+
+TETER QUAD, 501 N. SUNRISE, THOMPSON 4TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/04/16 - THU at 23:19
+
+

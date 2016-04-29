@@ -1,0 +1,2 @@
+class bdp_crime(object):
+	'anaylzes a text file from bdp crime logs'

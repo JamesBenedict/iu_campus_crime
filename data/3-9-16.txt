@@ -1,0 +1,216 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/09/2016 00:00 to 03/09/2016 23:59
+date reported: 03/09/16 - WED at 03:33
+general location:
+
+report #:
+
+160657
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 03/09/16 - WED at 03:30
+date occurred to:
+
+03/09/16 - WED at 03:33
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 16:22
+date reported: 03/09/16 - WED at 10:27
+location:
+
+cad event #:
+
+16-03-09-005624
+
+READ CENTER, 125 S. JORDAN
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARM - FALSE CALL
+disposition: NO CASE REPORT
+modified date: 03/09/16 - WED at 10:36
+date reported: 03/09/16 - WED at 10:58
+general location:
+
+report #:
+
+160659
+
+STONEBELT - Non-campus building or property
+
+date occurred from: 03/03/16 - THU at 08:00
+date occurred to:
+
+03/04/16 - FRI at 17:00
+
+incident/offenses:
+
+FORGERY/COUNTERFEITING // THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/11/16 - FRI at 16:45
+date reported: 03/09/16 - WED at 11:31
+general location:
+
+report #:
+
+160660
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 03/09/16 - WED at 11:20
+date occurred to:
+
+03/09/16 - WED at 11:40
+
+incident/offenses:
+
+FALSE IDENTIFICATION // FOUND PROPERTY
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 03/11/16 - FRI at 16:56
+date reported: 03/09/16 - WED at 11:50
+general location:
+
+report #:
+
+160662
+
+ALPHA TAU OMEGA - Non-campus building or property
+
+date occurred from: 03/09/16 - WED at 02:10
+date occurred to:
+
+03/09/16 - WED at 02:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 03/11/16 - FRI at 17:10
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/09/2016 00:00 to 03/09/2016 23:59
+date reported: 03/09/16 - WED at 11:53
+general location:
+
+report #:
+
+160661
+
+MEMORIAL HALL - On Campus
+
+date occurred from: 03/08/16 - TUE at 17:30
+date occurred to:
+
+03/09/16 - WED at 08:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 03/11/16 - FRI at 16:58
+date reported: 03/09/16 - WED at 15:16
+general location:
+
+report #:
+
+160663
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 03/09/16 - WED at 14:20
+date occurred to:
+
+03/09/16 - WED at 14:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: UNFOUNDED
+modified date: 03/11/16 - FRI at 17:12
+date reported: 03/09/16 - WED at 17:02
+general location:
+
+report #:
+
+160665
+
+USA COMMON AREA - On Campus
+
+date occurred from: 01/10/16 - SUN at 12:00
+date occurred to:
+
+02/01/16 - MON at 12:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 03/11/16 - FRI at 17:18
+date reported: 03/09/16 - WED at 19:18
+location:
+
+cad event #:
+
+16-03-09-005692
+
+WELLS LIBRARY, 1320 E. 10TH STREET
+
+incident: TRESPASS & MALICIOUS TRESPASS
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: FAILED TO LOCATE
+modified date: 03/09/16 - WED at 19:35
+date reported: 03/09/16 - WED at 22:09
+location:
+
+cad event #:
+
+16-03-09-005701
+
+FOREST QUAD, 1725 E. 3RD STREET, SYSTEM #258 ZONE 004 1ST SMOKE EAST TOWER
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARM - FALSE CALL
+disposition: NO CASE REPORT
+modified date: 03/09/16 - WED at 22:26
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/09/2016 00:00 to 03/09/2016 23:59
+
+date reported: 03/09/16 - WED at 22:39
+general location:
+
+report #:
+
+160669
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from:
+date occurred to:
+incident/offenses:
+
+FALSE IDENTIFICATION // ILLEGAL POSSESSION/CONSUMPTION // POSSESSION OF DRUG
+PARAPHERNALIA
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 17:28
+
+

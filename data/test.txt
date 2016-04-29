@@ -1,0 +1,167 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/17/2016 00:00 to 04/17/2016 23:59
+date reported: 04/17/16 - SUN at 00:39
+general location:
+
+report #:
+
+161055
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/17/16 - SUN at 00:00
+date occurred to:
+
+04/17/16 - SUN at 00:00
+
+incident/offenses:
+
+RAPE
+
+disposition: OPEN CASE
+modified date: 04/18/16 - MON at 14:42
+date reported: 04/17/16 - SUN at 01:30
+general location:
+
+
+report #:
+
+161056
+
+PARK AVENUE/SOUTH OF 10TH - Public property
+
+date occurred from: 04/17/16 - SUN at 01:25
+date occurred to:
+
+04/17/16 - SUN at 01:30
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/18/16 - MON at 09:20
+date reported: 04/17/16 - SUN at 01:37
+general location:
+
+report #:
+
+161054
+
+ATHLETIC/WHITE LOT - On Campus
+
+date occurred from: 04/17/16 - SUN at 01:30
+date occurred to:
+
+04/17/16 - SUN at 01:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/18/16 - MON at 10:52
+date reported: 04/17/16 - SUN at 02:07
+location:
+
+cad event #:
+
+16-04-17-008740
+
+WRIGHT QUAD, 501 N. JORDAN, CIRCLE DRIVE ON JORDAN
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/17/16 - SUN at 05:25
+date reported: 04/17/16 - SUN at 02:50
+location:
+
+cad event #:
+
+16-04-17-008748
+
+ALL OTHER NON-UNIVERSITY, , KIRKWOOD AND GRANT
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 04/17/16 - SUN at 02:52
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/17/2016 00:00 to 04/17/2016 23:59
+
+date reported: 04/17/16 - SUN at 02:58
+general location:
+
+report #:
+
+161057
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 04/17/16 - SUN at 02:55
+date occurred to:
+
+04/17/16 - SUN at 02:57
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 04/18/16 - MON at 09:12
+date reported: 04/17/16 - SUN at 03:21
+location:
+
+cad event #:
+
+16-04-17-008757
+
+ATHLETIC/WHITE LOT, 1500/1600 BLOCK N. DUNN STREET
+
+incident: VANDALISM, MISCHIEF
+final incident: DISORDERLY CONDUCT
+disposition: NO CASE REPORT
+modified date: 04/17/16 - SUN at 03:34
+date reported: 04/17/16 - SUN at 06:03
+general location:
+
+report #:
+
+161060
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 04/17/16 - SUN at 05:55
+date occurred to:
+
+04/17/16 - SUN at 06:13
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/18/16 - MON at 02:35
+date reported: 04/17/16 - SUN at 16:32
+location:
+
+cad event #:
+
+16-04-17-008788
+
+FOREST QUAD, 1725 E. 3RD, A TOWER 8TH FLOOR - MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/17/16 - SUN at 16:53
+
+

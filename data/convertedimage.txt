@@ -1,0 +1,68 @@
+Indiana University, Bloomington
+
+ 
+
+Police Department
+Daily crime log report
+from 04(17I2016 00:00to 04(17I2016 23:59
+
+date reported: 04/17/16 - SUN at 00:39 report #: 161055
+
+general location: ALL OTHER NON-UNIVERSITY - Non-reportable Location
+date occurred from: 04/17/16 - SUN at 00:00
+
+date occurred to: 04/17/16 - SUN at 00:00
+
+incidentloffenses: RAPE
+
+disposition: OPEN CASE
+
+modiﬁed date: 04/18/16 - MON at 14:42
+
+date reported: 04/17/16 - SUN at 01:30 report #: 161056
+
+general location: PARK AVENUE/SOUTH OF 10TH - Public property
+
+date occurred from: 04/17/16 - SUN at 01:25
+
+date occurred to: 04/17/16 - SUN at 01:30
+
+incident/offenses: DRIVING UNDER THE INFLUENCE II ILLEGAL POSSESSION/CONSUMPTION
+disposition: CLOSED CASE- ARREST
+
+modiﬁed date: 04/18/16 - MON at 09:20
+
+date reported: 04/17/16 - SUN at 01:37 report #: 161054
+general location: ATHLETICNVHITE LOT - On Campus
+
+date occurred from: 04/17/16 - SUN at 01:30
+
+date occurred to: 04/17/16 - SUN at 01:30
+
+incidentloffenses: VANDALISM, MlSCHlEF
+
+disposition: OPEN CASE
+
+modiﬁed date: 04/18/16 - MON at 10:52
+
+date reported: 04/17/16 - SUN at 02:07 cad event #: 16-04—17—008740
+location: WRIGHT QUAD, 501 N. JORDAN, CIRCLE DRIVE ON JORDAN
+incident: POSSESSION - MARIJUANA
+
+final incident: POSSESSION - MARIJUANA
+
+dispositlon: FAILED TO LOCATE
+
+modiﬁed date: 04/17/16 - SUN at 05:25
+
+date reported: 04/17/16 - SUN at 02:50 cad event #: 16-04—17—008748
+location: ALL OTHER NON-UNIVERSITY, , KIRKWOOD AND GRANT
+
+incident: OTHER DISTURBANCES
+
+final incident: OTHER DISTURBANCES
+
+disposition: NO CASE REPORT
+
+modiﬁed date: 04/17/16 - SUN at 02:52
+

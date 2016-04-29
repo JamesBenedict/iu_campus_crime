@@ -1,0 +1,61 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/31/2016 00:00 to 01/31/2016 23:59
+date reported: 01/31/16 - SUN at 01:19
+general location:
+
+report #:
+
+160290
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 01/31/16 - SUN at 01:18
+date occurred to:
+
+01/31/16 - SUN at 01:19
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // DRIVING UNDER THE INFLUENCE // POSSESSION - MARIJUANA //
+PROPERTY DAMAGE ONLY // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/02/16 - TUE at 00:37
+date reported: 01/31/16 - SUN at 03:28
+general location:
+
+report #:
+
+160291
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 01/31/16 - SUN at 03:25
+date occurred to:
+
+01/31/16 - SUN at 05:41
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/02/16 - TUE at 11:31
+date reported: 01/31/16 - SUN at 19:39
+location:
+
+cad event #:
+
+16-01-31-002379
+
+ASHTON STEMPEL HALL, 1794 E. 10TH STREET, MEET AT SERVICE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAIL TO LOCATE
+modified date: 01/31/16 - SUN at 19:54
+
+

@@ -1,0 +1,153 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 04/04/2016 00:00 to 04/04/2016 23:59
+date reported: 04/04/16 - MON at 02:17
+general location:
+
+report #:
+
+160871
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/04/16 - MON at 02:15
+date occurred to:
+
+04/04/16 - MON at 02:17
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/04/16 - MON at 08:26
+date reported: 04/04/16 - MON at 08:30
+general location:
+
+report #:
+
+160872
+
+HOOSIER COURTS DAYCARE - On Campus
+
+date occurred from: 04/04/16 - MON at 08:30
+date occurred to:
+
+04/04/16 - MON at 08:40
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/05/16 - TUE at 09:59
+date reported: 04/04/16 - MON at 13:43
+general location:
+
+report #:
+
+160873
+
+ALL OTHER LOCATIONS OUT OF BLTGN - Non-campus building or property
+
+date occurred from: 02/05/16 - FRI at 14:22
+date occurred to:
+
+04/01/16 - FRI at 02:34
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 04/05/16 - TUE at 09:26
+date reported: 04/04/16 - MON at 14:00
+general location:
+
+report #:
+
+160874
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/03/16 - SUN at 10:30
+date occurred to:
+
+04/03/16 - SUN at 14:30
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: OPEN CASE
+modified date: 04/04/16 - MON at 15:07
+date reported: 04/04/16 - MON at 14:41
+general location:
+
+report #:
+
+160875
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/04/16 - MON at 14:41
+date occurred to:
+
+04/04/16 - MON at 14:57
+
+incident/offenses:
+
+DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/05/16 - TUE at 10:10
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 04/04/2016 00:00 to 04/04/2016 23:59
+date reported: 04/04/16 - MON at 16:08
+general location:
+
+report #:
+
+160876
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 09/01/15 - TUE at 12:00
+date occurred to:
+
+03/24/16 - THU at 12:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/04/16 - MON at 17:11
+date reported: 04/04/16 - MON at 16:12
+general location:
+
+report #:
+
+160877
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/04/16 - MON at 14:12
+date occurred to:
+
+04/04/16 - MON at 14:14
+
+incident/offenses:
+
+ALL OTHER-unless other code applies
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/05/16 - TUE at 09:59
+
+

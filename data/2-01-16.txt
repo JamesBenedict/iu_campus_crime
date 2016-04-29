@@ -1,0 +1,73 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/01/2016 00:00 to 02/01/2016 23:59
+date reported: 02/01/16 - MON at 09:33
+location:
+
+cad event #:
+
+16-02-01-002415
+
+Global & International Studies, 355 N. JORDAN, #230 ZONE 001 GEN BLDG
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 02/01/16 - MON at 09:47
+date reported: 02/01/16 - MON at 14:26
+general location:
+
+report #:
+
+160294
+
+Global & International Studies - On Campus
+
+date occurred from: 01/30/16 - SAT at 20:00
+date occurred to:
+
+01/30/16 - SAT at 20:01
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/02/16 - TUE at 10:29
+date reported: 02/01/16 - MON at 18:28
+general location:
+
+report #:
+
+160296
+
+ALPHA PHI - Non-campus building or property
+
+date occurred from: 01/30/16 - SAT at 21:00
+date occurred to:
+
+01/30/16 - SAT at 21:05
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 02/02/16 - TUE at 00:47
+date reported: 02/01/16 - MON at 20:17
+location:
+
+cad event #:
+
+16-02-01-002451
+
+READ CENTER, 125 S. JORDAN, MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/01/16 - MON at 20:35
+
+

@@ -76,12 +76,6 @@ class Bdp_crime(object):
 	'anaylzes a text file from bdp crime logs'
 	crime_list =[]
 
-	today = str(datetime.datetime.now().month)
-	today += '/'
-	today += str(datetime.datetime.now().day)
-	today += '/'
-	today += str(datetime.datetime.now().year)
-	
 	def __init__(self, file, day):
 		self.day = day
 		self.file = file
@@ -92,15 +86,7 @@ class Bdp_crime(object):
 		self.crime_today()
 		self.crimes_all()
 		self.cleanup()
-		
 
-	def __str__(self):
-		reply = self.name
-
-	def test(self):
-		# print(self.content.split('\n'))
-		pass
-	
 	def readlines(self):
 		return self.content.split('\n')
 		# print(self.content.split())
@@ -117,16 +103,7 @@ class Bdp_crime(object):
 		end_key_chunk = []
 		chunks = {}
 
-		# fiding the start of each block of info from the crime report.
-		#'#:' is the most consistent indicator in the begining of each block or chunk 
-		# This is the first step of chunking, finding where to start and end in the overall text document
-		for i in range(len(lines)):
-			if '#:' in lines[i]:
-				chunk_indexs.append(i)
-				# print(lines[i])
-				# print(i)
-				
-		#finding indexes of keywords
+		#finding indexes of keywords in the crimelog text
 		#I use this to then find the closest start/end of a chunk 
 		#building the chunk middle out
 		for i in range(len(lines)):
@@ -137,13 +114,22 @@ class Bdp_crime(object):
 					# print(word)
 					# print(key_word_index)
 
+		# finding the start of each chunk from the crime report.
+		#'#:' is the most consistent indicator in the begining of each block or chunk 
+		# This is the first step of chunking, finding all the '#:'
+		for i in range(len(lines)):
+			if '#:' in lines[i]:
+				chunk_indexs.append(i)
+				# print(lines[i])
+				# print(i)
+				
 		# finds the index of the begining of the crime's chunk
-		# I overstackexchanged here and just got something that takes the closest item in chunk_index that is less than the key_word_index
+		# Searches for the nearest chunk index less than the key_word_index that hasn't already been used by another key_word
 		for num in key_word_index:
 			for item in chunk_indexs:
 				if item < num and item not in closest_index:
 					closest_index.append(item)
-
+			# I overstack exchanged here, and this is flattening my list of lists in a regular list.
 			temp_list.append(nsmallest(1, closest_index, key=lambda x: abs(x-num)))
 			# flattens my list of lists in a list
 			start_key_chunk = [val for sublist in temp_list for val in sublist]
@@ -166,25 +152,25 @@ class Bdp_crime(object):
 			chunks[start_key_chunk[i]] = end_key_chunk[i]
 
 		# appends every line between key and end to the crimes_list list
-		# This is a long way of writing:
+		# The following is a long way of writing:
 			# 	for key, value in chunks.items():
-			# 	crimes.append(lines[key:value])
-			# 	print(lines[key:value])
+			# 		crimes.append(lines[key:value])
+			# 		print(lines[key:value])
 		# But I didn't want to append the ' ' and I wanted to add a linebreak
 
-		for key, value in chunks.items():	
-			i = key
-			crimes = []
-			while i < value:
+		for start_chunk, end_chunk in chunks.items():	
+			i = start_chunk
+			key_crimes = []
+			while i < end_chunk:
 				if lines[i] == '':
 					pass
 				else:
-					crimes.append(lines[i])
-					crimes.append('\n')
+					key_crimes.append(lines[i])
+					key_crimes.append('\n')
 				i += 1
-			# print(crimes)
+			# print(key_crimes)
 			# print()
-			crimes.append('\n')
+			key_crimes.append('\n')
 			self.crime_list.append(crimes)
 		# print(self.crime_list)
 		# print()
@@ -208,11 +194,9 @@ class Bdp_crime(object):
 
 
 	def crimes_all(self):
-		
 		new_crimes = open('data/crime_new.txt', 'r')
 		new_content = new_crimes.readlines()
 		new_crimes.close()
-
 
 		log = open('data/crimes_all.txt', 'a')
 		log.writelines(' ')

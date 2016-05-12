@@ -1,0 +1,142 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/23/2016 00:00 to 02/23/2016 23:59
+date reported: 02/23/16 - TUE at 00:21
+general location:
+
+report #:
+
+160512
+
+PSYCHOLOGY BUILDING - On Campus
+
+date occurred from: 02/22/16 - MON at 23:55
+date occurred to:
+
+02/23/16 - TUE at 00:05
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: UNFOUNDED
+modified date: 02/23/16 - TUE at 03:58
+date reported: 02/23/16 - TUE at 00:50
+general location:
+
+report #:
+
+160513
+
+CAMPUS VIEW APTS. - On Campus - in any student residential facility
+
+date occurred from: 02/23/16 - TUE at 00:50
+date occurred to:
+
+02/23/16 - TUE at 01:37
+
+incident/offenses:
+
+OTHER DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/23/16 - TUE at 09:55
+date reported: 02/23/16 - TUE at 06:45
+general location:
+
+report #:
+
+160514
+
+WRIGHT EDUCATION BLDG - On Campus
+
+date occurred from: 02/16/16 - TUE at 06:45
+date occurred to:
+
+02/23/16 - TUE at 06:45
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 02/23/16 - TUE at 09:01
+date reported: 02/23/16 - TUE at 10:54
+general location:
+
+report #:
+
+160516
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/20/16 - SAT at 08:25
+date occurred to:
+
+02/20/16 - SAT at 08:25
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/24/16 - WED at 16:34
+date reported: 02/23/16 - TUE at 12:16
+location:
+
+cad event #:
+
+16-02-23-004330
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 6TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/23/16 - TUE at 12:31
+date reported: 02/23/16 - TUE at 14:10
+location:
+
+cad event #:
+
+LIBRARY LOT, 400 BLOCK N. JORDAN AVE
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 02/23/16 - TUE at 14:23
+
+16-02-23-004341
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/23/2016 00:00 to 02/23/2016 23:59
+date reported:
+
+02/23/16 - TUE at 18:57
+
+general location:
+
+report #:
+
+160521
+
+FOSTER MARTIN HALL - On Campus - in any student residential facility
+
+date occurred from: 02/23/16 - TUE at 17:15
+date occurred to:
+
+02/23/16 - TUE at 18:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/23/16 - TUE at 23:43
+
+

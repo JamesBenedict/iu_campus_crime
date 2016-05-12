@@ -1,0 +1,81 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/10/2016 00:00 to 02/10/2016 23:59
+date reported: 02/10/16 - WED at 00:27
+general location:
+
+report #:
+
+160383
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from: 02/10/16 - WED at 00:15
+date occurred to:
+
+02/10/16 - WED at 00:34
+
+incident/offenses:
+
+ALL OTHER-unless other code applies // POSSESSION - MARIJUANA // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/10/16 - WED at 08:33
+date reported: 02/10/16 - WED at 06:46
+general location:
+
+report #:
+
+160384
+
+WRIGHT EDUCATION BLDG - On Campus
+
+date occurred from: 02/03/16 - WED at 06:30
+date occurred to:
+
+02/10/16 - WED at 06:45
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/12/16 - FRI at 10:03
+date reported: 02/10/16 - WED at 07:49
+location:
+
+cad event #:
+
+16-02-10-003189
+
+IUPD STATION, 1469 E. 17TH STREET
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: NO CASE REPORT
+modified date: 02/10/16 - WED at 08:03
+date reported: 02/10/16 - WED at 15:08
+general location:
+
+report #:
+
+160388
+
+309-311 NORTH PARK STREET (DUPLEX) - On Campus
+
+date occurred from: 10/19/15 - MON at 16:00
+date occurred to:
+
+12/15/15 - TUE at 15:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/12/16 - FRI at 10:04
+
+

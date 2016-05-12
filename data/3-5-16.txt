@@ -1,0 +1,272 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/05/2016 00:00 to 03/05/2016 23:59
+date reported: 03/05/16 - SAT at 00:02
+location:
+
+cad event #:
+
+16-03-05-005242
+
+FOREST QUAD, 1725 E. 3RD STREET, EAST TOWER
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/11/16 - FRI at 18:05
+date reported: 03/05/16 - SAT at 00:06
+general location:
+
+report #:
+
+160613
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 03/04/16 - FRI at 11:00
+date occurred to:
+
+03/05/16 - SAT at 00:00
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/10/16 - THU at 11:32
+date reported: 03/05/16 - SAT at 00:19
+general location:
+
+report #:
+
+160614
+
+INDIANA AVENUE/SOUTH OF 1OTH STR - Public property
+
+date occurred from: 03/05/16 - SAT at 00:18
+date occurred to:
+
+03/05/16 - SAT at 00:19
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/10/16 - THU at 11:26
+date reported: 03/05/16 - SAT at 00:29
+general location:
+
+report #:
+
+160615
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 03/05/16 - SAT at 00:00
+date occurred to:
+
+03/05/16 - SAT at 00:29
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/10/16 - THU at 11:32
+date reported: 03/05/16 - SAT at 00:57
+general location:
+
+report #:
+
+160616
+
+ASHTON STEMPEL HALL - On Campus - in any student residential facility
+
+date occurred from: 03/04/16 - FRI at 23:00
+date occurred to:
+
+03/05/16 - SAT at 00:01
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 13:37
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/05/2016 00:00 to 03/05/2016 23:59
+date reported: 03/05/16 - SAT at 01:36
+general location:
+
+report #:
+
+160617
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/05/16 - SAT at 01:00
+date occurred to:
+
+04/05/16 - TUE at 01:36
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 13:39
+date reported: 03/05/16 - SAT at 02:10
+general location:
+
+report #:
+
+160618
+
+ALPHA DELTA PI - Non-campus building or property
+
+date occurred from: 03/05/16 - SAT at 02:00
+date occurred to:
+
+03/05/16 - SAT at 03:15
+
+incident/offenses:
+
+MISSING PERSON(NOT 29 OR 303B)
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/05/16 - SAT at 03:55
+date reported: 03/05/16 - SAT at 02:53
+general location:
+
+report #:
+
+160619
+
+MYERS HALL - On Campus
+
+date occurred from: 03/05/16 - SAT at 02:50
+date occurred to:
+
+03/05/16 - SAT at 02:53
+
+incident/offenses:
+
+PUBLIC INTOXICATION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/05/16 - SAT at 05:05
+date reported: 03/05/16 - SAT at 06:29
+general location:
+
+report #:
+
+160620
+
+TETER QUAD COMMON AREA - On Campus
+
+date occurred from: 03/05/16 - SAT at 05:30
+date occurred to:
+
+03/05/16 - SAT at 06:38
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 13:45
+date reported: 03/05/16 - SAT at 16:54
+general location:
+
+report #:
+
+160622
+
+IUPD STATION
+
+date occurred from: 03/05/16 - SAT at 04:00
+date occurred to:
+
+03/05/16 - SAT at 00:00
+
+incident/offenses:
+
+FALSE IDENTIFICATION // FOUND PROPERTY
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 13:49
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/05/2016 00:00 to 03/05/2016 23:59
+date reported: 03/05/16 - SAT at 17:10
+general location:
+
+report #:
+
+160623
+
+EIGENMANN PARKING LOT - On Campus
+
+date occurred from: 03/05/16 - SAT at 17:10
+date occurred to:
+
+03/05/16 - SAT at 17:30
+
+incident/offenses:
+
+PUBLIC INTOXICATION // POSS-DANGEROUS NON-NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 13:54
+date reported: 03/05/16 - SAT at 22:46
+general location:
+
+report #:
+
+160624
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 03/05/16 - SAT at 22:38
+date occurred to:
+
+03/05/16 - SAT at 22:38
+
+incident/offenses:
+
+OTHER DANGEROUS WEAPON // PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION //
+MEDICAL ASSIST
+disposition: CLOSED CASE- ARREST
+modified date: 03/07/16 - MON at 15:11
+date reported: 03/05/16 - SAT at 23:48
+general location:
+
+report #:
+
+160625
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/05/16 - SAT at 21:00
+date occurred to:
+
+03/05/16 - SAT at 23:45
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 14:32
+
+

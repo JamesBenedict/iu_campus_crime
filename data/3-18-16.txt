@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/18/2016 00:00 to 03/18/2016 23:59
+date reported: 03/18/16 - FRI at 10:21
+general location:
+
+report #:
+
+160713
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 03/11/16 - FRI at 17:00
+date occurred to:
+
+03/18/16 - FRI at 09:30
+
+incident/offenses:
+
+ATTEMPTED FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 03/22/16 - TUE at 03:12
+date reported: 03/18/16 - FRI at 13:34
+general location:
+
+report #:
+
+160714
+
+ATHLETIC/WHITE LOT - On Campus
+
+date occurred from: 03/15/16 - TUE at 18:00
+date occurred to:
+
+03/18/16 - FRI at 13:34
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 03/22/16 - TUE at 10:51
+
+

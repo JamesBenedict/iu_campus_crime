@@ -1,0 +1,68 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/16/2016 00:00 to 03/16/2016 23:59
+
+date reported: 03/16/16 - WED at 03:11
+general location:
+
+report #:
+
+160708
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 03/16/16 - WED at 03:09
+date occurred to:
+
+03/16/16 - WED at 03:11
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/16/16 - WED at 22:23
+date reported: 03/16/16 - WED at 13:36
+general location:
+
+report #:
+
+160709
+
+FOREST QUAD EAST LOT - On Campus
+
+date occurred from: 03/04/16 - FRI at 10:00
+date occurred to:
+
+03/04/16 - FRI at 14:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 03/21/16 - MON at 11:28
+date reported: 03/16/16 - WED at 17:28
+general location:
+
+report #:
+
+160710
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 03/15/16 - TUE at 19:30
+date occurred to:
+
+03/15/16 - TUE at 19:30
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 03/17/16 - THU at 09:58
+
+

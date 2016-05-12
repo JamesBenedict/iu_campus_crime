@@ -1,0 +1,191 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/25/2016 00:00 to 03/25/2016 23:59
+date reported: 03/25/16 - FRI at 01:12
+location:
+
+cad event #:
+
+16-03-25-006680
+
+WRIGHT QUAD, 501 N. JORDAN, CAMPBELL NEAR 10TH STREET
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/25/16 - FRI at 01:27
+date reported: 03/25/16 - FRI at 02:17
+general location:
+
+report #:
+
+160767
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/24/16 - THU at 22:00
+date occurred to:
+
+03/25/16 - FRI at 02:17
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/28/16 - MON at 16:09
+date reported: 03/25/16 - FRI at 12:36
+general location:
+
+report #:
+
+160769
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 03/25/16 - FRI at 12:30
+date occurred to:
+
+03/25/16 - FRI at 12:40
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 03/28/16 - MON at 11:56
+date reported: 03/25/16 - FRI at 14:13
+location:
+
+cad event #:
+
+16-03-25-006730
+
+FOSTER BACK LOT, , BEHIND HARPER
+
+incident: THEFT FROM MOTOR VEHICLE
+final incident: THEFT FROM MOTOR VEHICLE
+disposition: NO CASE REPORT
+modified date: 03/25/16 - FRI at 14:19
+date reported: 03/25/16 - FRI at 14:18
+location:
+
+cad event #:
+
+16-03-25-006731
+
+EIGENMANN PARKING LOT,
+
+incident: THEFT FROM MOTOR VEHICLE
+final incident: THEFT FROM MOTOR VEHICLE
+disposition: NO CASE REPORT
+modified date: 03/25/16 - FRI at 14:20
+date reported: 03/25/16 - FRI at 14:26
+location:
+
+cad event #:
+
+FOSTER BACK LOT,
+
+incident: THEFT FROM MOTOR VEHICLE
+final incident: THEFT FROM MOTOR VEHICLE
+disposition: NO CASE REPORT
+modified date: 03/25/16 - FRI at 14:28
+
+16-03-25-006732
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/25/2016 00:00 to 03/25/2016 23:59
+date reported: 03/25/16 - FRI at 14:31
+general location:
+
+report #:
+
+160771
+
+MULTIDISCIPLINARY SCIENCE 2 - On Campus
+
+date occurred from: 03/24/16 - THU at 08:00
+date occurred to:
+
+03/25/16 - FRI at 08:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 03/28/16 - MON at 16:23
+date reported: 03/25/16 - FRI at 14:39
+location:
+
+cad event #:
+
+16-03-25-006737
+
+BRISCOE QUAD, 1225 N. FEE LANE
+
+incident: THEFT FROM MOTOR VEHICLE
+final incident: THEFT FROM MOTOR VEHICLE
+disposition: NO CASE REPORT
+modified date: 03/25/16 - FRI at 14:40
+date reported: 03/25/16 - FRI at 15:00
+general location:
+
+report #:
+
+160773
+
+ASHTON STEMPEL HALL - On Campus - in any student residential facility
+
+date occurred from: 03/25/16 - FRI at 15:00
+date occurred to:
+
+03/25/16 - FRI at 15:11
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/28/16 - MON at 05:35
+date reported: 03/25/16 - FRI at 17:00
+general location:
+
+report #:
+
+160774
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/25/16 - FRI at 15:15
+date occurred to:
+
+03/25/16 - FRI at 16:15
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/25/16 - FRI at 23:21
+date reported: 03/25/16 - FRI at 23:53
+location:
+
+cad event #:
+
+WILLKIE NORTH, 150 N. ROSE, CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/26/16 - SAT at 00:01
+
+16-03-25-006784
+
+

@@ -1,0 +1,194 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/21/2016 00:00 to 03/21/2016 23:59
+
+date reported: 03/21/16 - MON at 15:48
+general location:
+
+report #:
+
+160731
+
+MCNUTT QUAD BACK LOT - On Campus
+
+date occurred from: 03/21/16 - MON
+date occurred to:
+
+03/21/16 - MON
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 03/22/16 - TUE at 13:29
+date reported: 03/21/16 - MON at 02:00
+general location:
+
+report #:
+
+160721
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 03/18/16 - FRI at 06:30
+date occurred to:
+
+03/20/16 - SUN at 22:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 03/22/16 - TUE at 11:23
+date reported: 03/21/16 - MON at 10:34
+general location:
+
+report #:
+
+160724
+
+Global & International Studies - On Campus
+
+date occurred from: 03/01/16 - TUE at 08:00
+date occurred to:
+
+03/03/16 - THU at 22:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/22/16 - TUE at 11:46
+date reported: 03/21/16 - MON at 11:52
+general location:
+
+report #:
+
+160725
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 03/21/16 - MON at 10:30
+date occurred to:
+
+03/21/16 - MON at 10:45
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: UNFOUNDED
+modified date: 03/22/16 - TUE at 14:32
+date reported: 03/21/16 - MON at 11:52
+general location:
+
+report #:
+
+705 EAST 7TH - On Campus
+
+date occurred from: 03/18/16 - FRI at 15:00
+date occurred to:
+
+03/21/16 - MON at 08:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 03/22/16 - TUE at 14:34
+
+160726
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/21/2016 00:00 to 03/21/2016 23:59
+date reported: 03/21/16 - MON at 15:43
+general location:
+
+report #:
+
+160730
+
+STUDENT SERVICES - On Campus
+
+date occurred from: 03/21/16 - MON at 07:25
+date occurred to:
+
+03/21/16 - MON at 15:30
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 03/21/16 - MON at 17:03
+date reported: 03/21/16 - MON at 16:13
+general location:
+
+report #:
+
+160732
+
+STUDENT SERVICES - On Campus
+
+date occurred from: 03/21/16 - MON at 07:25
+date occurred to:
+
+03/21/16 - MON at 15:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 03/22/16 - TUE at 14:36
+date reported: 03/21/16 - MON at 19:42
+general location:
+
+report #:
+
+160734
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/21/16 - MON at 19:40
+date occurred to:
+
+03/21/16 - MON at 19:42
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/22/16 - TUE at 12:12
+date reported: 02/11/16 - THU at 15:07
+general location:
+
+report #:
+
+160397
+
+ASHTON COMMON AREA - On Campus
+
+date occurred from: 02/11/16 - THU at 14:50
+date occurred to:
+
+03/21/16 - MON at 23:30
+
+incident/offenses:
+
+SALE/MANUFACTURING DANGEROUS NON-NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/22/16 - TUE at 14:31
+
+

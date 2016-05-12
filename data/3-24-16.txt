@@ -1,0 +1,156 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/24/2016 00:00 to 03/24/2016 23:59
+date reported: 03/24/16 - THU at 01:50
+general location:
+
+report #:
+
+160753
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 03/24/16 - THU at 01:30
+date occurred to:
+
+03/24/16 - THU at 01:50
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // POSS-DANGEROUS NON-NARCOTICS // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: OPEN CASE
+modified date: 03/28/16 - MON at 14:54
+date reported: 03/24/16 - THU at 02:05
+general location:
+
+report #:
+
+160752
+
+UNION STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 03/24/16 - THU at 02:05
+date occurred to:
+
+03/24/16 - THU at 02:09
+
+incident/offenses:
+
+ALL OTHER-unless other code applies // PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/24/16 - THU at 04:01
+date reported: 03/24/16 - THU at 03:29
+general location:
+
+report #:
+
+160754
+
+VON LEE LOT - On Campus
+
+date occurred from: 03/24/16 - THU at 03:15
+date occurred to:
+
+03/24/16 - THU at 03:29
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/24/16 - THU at 04:50
+date reported: 03/24/16 - THU at 15:54
+general location:
+
+report #:
+
+160759
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 03/24/16 - THU at 15:50
+date occurred to:
+
+03/24/16 - THU at 15:51
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: OPEN CASE
+modified date: 03/28/16 - MON at 15:16
+date reported: 03/24/16 - THU at 16:29
+general location:
+
+report #:
+
+160760
+
+TETER QUAD COMMON AREA - On Campus
+
+date occurred from: 03/23/16 - WED at 08:00
+date occurred to:
+
+03/24/16 - THU at 16:00
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 03/28/16 - MON at 10:11
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/24/2016 00:00 to 03/24/2016 23:59
+
+date reported: 03/24/16 - THU at 21:10
+general location:
+
+report #:
+
+160763
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/24/16 - THU at 21:11
+date occurred to:
+
+03/24/16 - THU at 21:52
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // POSSESSION - MARIJUANA // POSSESSION OF DRUG
+PARAPHERNALIA
+disposition: CLOSED CASE- ARREST
+modified date: 03/24/16 - THU at 23:22
+date reported: 03/24/16 - THU at 22:01
+general location:
+
+report #:
+
+160766
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/24/16 - THU at 22:02
+date occurred to:
+
+03/25/16 - FRI at 00:56
+
+incident/offenses:
+
+ALL OTHER-unless other code applies // ILLEGAL POSSESSION/CONSUMPTION // SALE/MANUFACTURING
+MARIJUANA // POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: OPEN CASE
+modified date: 03/28/16 - MON at 15:41
+
+

@@ -1,0 +1,107 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/12/2016 00:00 to 02/12/2016 23:59
+date reported: 02/12/16 - FRI at 00:58
+general location:
+
+report #:
+
+160404
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 02/11/16 - THU at 06:30
+date occurred to:
+
+02/11/16 - THU at 22:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 02/15/16 - MON at 08:24
+date reported: 02/12/16 - FRI at 03:43
+general location:
+
+report #:
+
+160405
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/12/16 - FRI at 01:00
+date occurred to:
+
+02/12/16 - FRI at 03:43
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // ILLEGAL POSSESSION/CONSUMPTION // WELFARE
+CHECK
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/15/16 - MON at 08:31
+date reported: 02/12/16 - FRI at 16:19
+general location:
+
+report #:
+
+160409
+
+OPTOMETRY - On Campus
+
+date occurred from: 02/11/16 - THU at 16:00
+date occurred to:
+
+02/12/16 - FRI at 11:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 02/13/16 - SAT at 10:04
+date reported: 02/12/16 - FRI at 16:41
+general location:
+
+report #:
+
+160410
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 02/12/16 - FRI at 16:39
+date occurred to:
+
+02/12/16 - FRI at 16:40
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 02/12/16 - FRI at 18:02
+date reported: 02/12/16 - FRI at 23:36
+general location:
+
+report #:
+
+160412
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/12/16 - FRI at 23:06
+date occurred to:
+
+02/13/16 - SAT at 23:36
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/13/16 - SAT at 04:31
+
+

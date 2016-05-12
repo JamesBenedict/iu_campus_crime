@@ -1,0 +1,53 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/11/2016 00:00 to 03/11/2016 23:59
+date reported: 03/11/16 - FRI at 01:39
+general location:
+
+report #:
+
+160687
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 03/11/16 - FRI at 01:37
+date occurred to:
+
+03/11/16 - FRI at 01:39
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 07:59
+date reported: 03/11/16 - FRI at 14:22
+location:
+
+cad event #:
+
+16-03-11-005867
+
+ART MUSEUM, 1133 E. 7TH STREET
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARM - FALSE CALL
+disposition: NO CASE REPORT
+modified date: 03/11/16 - FRI at 15:04
+date reported: 03/11/16 - FRI at 22:03
+location:
+
+cad event #:
+
+16-03-11-005896
+
+MYERS HALL, 915 E. 3RD STREET, SYSTEM 101; ZONE 001; GENERAL BUILDING
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARM - FALSE CALL
+disposition: NO CASE REPORT
+modified date: 03/11/16 - FRI at 22:19
+
+

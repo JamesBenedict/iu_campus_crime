@@ -1,0 +1,636 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/15/2016 00:00 to 04/15/2016 23:59
+date reported: 04/15/16 - FRI at 00:21
+general location:
+
+report #:
+
+160996
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/14/16 - THU at 23:30
+date occurred to:
+
+04/14/16 - THU at 23:40
+
+incident/offenses:
+
+PEEPING
+
+disposition: OPEN CASE
+modified date: 04/15/16 - FRI at 12:16
+date reported: 04/15/16 - FRI at 01:19
+location:
+
+cad event #:
+
+16-04-15-008423
+
+MCNUTT QUAD, 1101 N. FEE LANE, BORDNER 100
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/15/16 - FRI at 01:36
+date reported: 04/15/16 - FRI at 01:46
+general location:
+
+report #:
+
+160997
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/15/16 - FRI at 01:45
+date occurred to:
+
+04/15/16 - FRI at 01:55
+
+incident/offenses:
+
+PEEPING // SUSPICIOUS PERSON OR VEHICLE
+
+disposition: OPEN CASE
+modified date: 04/16/16 - SAT at 03:43
+date reported: 04/15/16 - FRI at 01:49
+general location:
+
+report #:
+
+160998
+
+DELTA UPSILON - Non-campus building or property
+
+date occurred from: 04/15/16 - FRI at 01:45
+date occurred to:
+
+04/15/16 - FRI at 01:49
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/16/16 - SAT at 03:39
+date reported: 04/15/16 - FRI at 02:25
+general location:
+
+report #:
+
+160999
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/15/16 - FRI at 00:18
+date occurred to:
+
+04/15/16 - FRI at 00:35
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/15/16 - FRI at 06:27
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/15/2016 00:00 to 04/15/2016 23:59
+
+date reported: 04/15/16 - FRI at 02:42
+general location:
+
+report #:
+
+161000
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 04/15/16 - FRI at 01:27
+date occurred to:
+
+04/15/16 - FRI at 03:21
+
+incident/offenses:
+
+PUBLIC INTOXICATION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/15/16 - FRI at 18:43
+date reported: 04/15/16 - FRI at 03:57
+general location:
+
+report #:
+
+161001
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/15/16 - FRI at 03:57
+date occurred to:
+
+04/15/16 - FRI at 05:30
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/15/16 - FRI at 09:16
+date reported: 04/15/16 - FRI at 11:18
+general location:
+
+report #:
+
+161005
+
+CLASSROOM-OFFICE BLDG - On Campus
+
+date occurred from: 04/12/16 - TUE at 12:00
+date occurred to:
+
+04/14/16 - THU at 16:00
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 04/16/16 - SAT at 23:03
+date reported: 04/15/16 - FRI at 11:21
+general location:
+
+report #:
+
+161008
+
+KAPPA KAPPA GAMMA - Non-campus building or property
+
+date occurred from: 04/15/16 - FRI at 09:15
+date occurred to:
+
+04/15/16 - FRI at 09:17
+
+incident/offenses:
+
+FORCIBLE FONDLING
+
+disposition: OPEN CASE
+modified date: 04/15/16 - FRI at 16:04
+date reported: 04/15/16 - FRI at 11:24
+general location:
+
+report #:
+
+161006
+
+ASHTON STEMPEL HALL - On Campus - in any student residential facility
+
+date occurred from: 03/24/16 - THU at 20:00
+date occurred to:
+
+04/15/16 - FRI at 10:30
+
+incident/offenses:
+
+FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 04/15/16 - FRI at 14:21
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/15/2016 00:00 to 04/15/2016 23:59
+
+date reported: 04/15/16 - FRI at 11:28
+general location:
+
+report #:
+
+161007
+
+POPLARS PARKING GARAGE - On Campus
+
+date occurred from: 04/15/16 - FRI at 11:40
+date occurred to:
+
+04/15/16 - FRI at 11:45
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/15/16 - FRI at 13:18
+date reported: 04/15/16 - FRI at 12:06
+general location:
+
+report #:
+
+161009
+
+KAPPA KAPPA GAMMA - Non-campus building or property
+
+date occurred from: 11/30/15 - MON at 12:00
+date occurred to:
+
+01/31/16 - SUN at 12:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/15/16 - FRI at 14:24
+date reported: 04/15/16 - FRI at 12:20
+general location:
+
+report #:
+
+161010
+
+SWAIN HALL (E & W) - On Campus
+
+date occurred from: 04/15/16 - FRI at 12:15
+date occurred to:
+
+04/15/16 - FRI at 12:20
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/16/16 - SAT at 10:56
+date reported: 04/15/16 - FRI at 14:44
+location:
+
+cad event #:
+
+16-04-15-008481
+
+READ CENTER, 125 S. JORDAN, CURRY 5
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/15/16 - FRI at 15:04
+date reported: 04/15/16 - FRI at 16:24
+general location:
+
+report #:
+
+161015
+
+IMU PAY LOT #1 - On Campus
+
+date occurred from: 04/15/16 - FRI at 11:27
+date occurred to:
+
+04/15/16 - FRI at 16:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/16/16 - SAT at 18:35
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/15/2016 00:00 to 04/15/2016 23:59
+
+date reported: 04/15/16 - FRI at 18:49
+general location:
+
+report #:
+
+161017
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 04/15/16 - FRI at 18:45
+date occurred to:
+
+04/15/16 - FRI at 18:49
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/16 - SAT at 09:50
+date reported: 04/15/16 - FRI at 19:23
+location:
+
+cad event #:
+
+16-04-15-008528
+
+ALL OTHER NON-UNIVERSITY, , CONVENIENCE MART
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 04/15/16 - FRI at 19:56
+date reported: 04/15/16 - FRI at 20:14
+general location:
+
+report #:
+
+161019
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 04/16/16 - SAT at 20:14
+date occurred to:
+
+04/16/16 - SAT at 20:14
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/15/16 - FRI at 23:59
+date reported: 04/15/16 - FRI at 20:14
+location:
+
+cad event #:
+
+16-04-15-008536
+
+FOSTER HARPER HALL, 1000 N. FEE LANE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/15/16 - FRI at 20:29
+date reported: 04/15/16 - FRI at 20:32
+general location:
+
+report #:
+
+161020
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/15/16 - FRI at 20:42
+date occurred to:
+
+04/15/16 - FRI at 21:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: UNFOUNDED
+modified date: 04/16/16 - SAT at 00:10
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/15/2016 00:00 to 04/15/2016 23:59
+
+date reported: 04/15/16 - FRI at 20:32
+general location:
+
+report #:
+
+161021
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 04/15/16 - FRI at 20:32
+date occurred to:
+
+04/15/16 - FRI at 21:04
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/15/16 - FRI at 21:28
+date reported: 04/15/16 - FRI at 21:24
+location:
+
+cad event #:
+
+16-04-15-008547
+
+ALL OTHER NON-UNIVERSITY, , 17TH & WASHINGTON
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 04/15/16 - FRI at 21:33
+date reported: 04/15/16 - FRI at 21:33
+general location:
+
+report #:
+
+161022
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 04/15/46 - MON at 21:35
+date occurred to:
+
+04/15/16 - FRI at 21:51
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/16 - SAT at 00:29
+date reported: 04/15/16 - FRI at 21:48
+general location:
+
+report #:
+
+161023
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 04/15/16 - FRI at 21:49
+date occurred to:
+
+04/15/16 - FRI at 22:00
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/16 - SAT at 01:06
+date reported: 04/15/16 - FRI at 22:03
+general location:
+
+report #:
+
+161024
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 04/15/16 - FRI at 22:00
+date occurred to:
+
+04/15/16 - FRI at 22:03
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/16 - SAT at 00:16
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/15/2016 00:00 to 04/15/2016 23:59
+
+date reported: 04/15/16 - FRI at 22:17
+general location:
+
+report #:
+
+161029
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/15/16 - FRI at 22:25
+date occurred to:
+
+04/15/16 - FRI at 22:25
+
+incident/offenses:
+
+HANDS, FISTS, FEET,ETC-AGGRAVATED INJURY
+
+disposition: OPEN CASE
+modified date: 04/16/16 - SAT at 23:50
+date reported: 04/15/16 - FRI at 22:17
+general location:
+
+report #:
+
+161064
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/07/16 - THU at 12:00
+date occurred to:
+
+04/07/16 - THU at 23:59
+
+incident/offenses:
+
+RAPE
+
+disposition:
+
+OPEN CASE
+
+modified date: 04/18/16 - MON at 11:50
+date reported: 04/15/16 - FRI at 22:18
+general location:
+
+report #:
+
+161025
+
+DUNN STREET/NORTH OF 10TH - Public property
+
+date occurred from: 04/15/16 - FRI at 22:18
+date occurred to:
+
+04/15/16 - FRI at 22:18
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/16 - SAT at 07:54
+date reported: 04/15/16 - FRI at 22:45
+general location:
+
+report #:
+
+161026
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 04/15/16 - FRI at 22:45
+date occurred to:
+
+04/15/16 - FRI at 23:19
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/16 - SAT at 10:26
+date reported: 04/15/16 - FRI at 23:50
+general location:
+
+report #:
+
+161027
+
+ALL OTHER OPEN AREAS - On Campus
+
+date occurred from: 04/15/16 - FRI at 23:45
+date occurred to:
+
+04/15/16 - FRI at 23:50
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/16 - SAT at 10:28
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/15/2016 00:00 to 04/15/2016 23:59
+date reported: 04/15/16 - FRI at 23:53
+general location:
+
+report #:
+
+161028
+
+CROSSTOWN SHOP CTR - Non-campus building or property
+
+date occurred from: 04/15/16 - FRI at 23:50
+date occurred to:
+
+04/16/16 - SAT at 00:03
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/16 - SAT at 07:58
+
+

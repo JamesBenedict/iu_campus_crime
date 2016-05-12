@@ -1,0 +1,245 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/12/2016 00:00 to 04/12/2016 23:59
+date reported: 04/12/16 - TUE at 00:41
+general location:
+
+report #:
+
+160948
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/11/16 - MON at 23:45
+date occurred to:
+
+04/11/16 - MON at 23:55
+
+incident/offenses:
+
+PEEPING
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/13/16 - WED at 09:37
+date reported: 04/12/16 - TUE at 01:20
+general location:
+
+report #:
+
+160949
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/12/16 - TUE at 01:00
+date occurred to:
+
+04/12/16 - TUE at 01:30
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/12/16 - TUE at 13:50
+date reported: 04/12/16 - TUE at 02:43
+general location:
+
+report #:
+
+160952
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/12/16 - TUE at 02:30
+date occurred to:
+
+04/12/16 - TUE at 02:43
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/13/16 - WED at 10:17
+date reported: 04/12/16 - TUE at 08:19
+general location:
+
+report #:
+
+160953
+
+NELSON BUILDING - On Campus
+
+date occurred from: 04/11/16 - MON at 12:00
+date occurred to:
+
+04/11/16 - MON at 13:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/13/16 - WED at 05:18
+date reported: 04/12/16 - TUE at 11:11
+general location:
+
+report #:
+
+160955
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 09/01/15 - TUE at 12:00
+date occurred to:
+
+01/10/16 - SUN at 12:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/13/16 - WED at 10:24
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/12/2016 00:00 to 04/12/2016 23:59
+date reported: 04/12/16 - TUE at 14:29
+general location:
+
+report #:
+
+160956
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 04/12/16 - TUE at 14:29
+date occurred to:
+
+04/12/16 - TUE at 14:32
+
+incident/offenses:
+
+PUBLIC INTOXICATION // POSSESSION - MARIJUANA // POSSESSION - SYNTHETIC NARCOTICS
+
+disposition: OPEN CASE
+modified date: 04/13/16 - WED at 12:38
+date reported: 04/12/16 - TUE at 15:36
+general location:
+
+report #:
+
+160957
+
+SIGMA DELTA TAU - Non-campus building or property
+
+date occurred from: 04/12/16 - TUE at 15:35
+date occurred to:
+
+04/12/16 - TUE at 15:39
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // DOMESTIC DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/13/16 - WED at 11:00
+date reported: 04/12/16 - TUE at 16:19
+general location:
+
+report #:
+
+160958
+
+ASHTON JOHNSTON - On Campus - in any student residential facility
+
+date occurred from: 12/17/15 - THU at 18:00
+date occurred to:
+
+01/10/16 - SUN at 18:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 04/13/16 - WED at 11:04
+date reported: 04/12/16 - TUE at 16:56
+general location:
+
+report #:
+
+160959
+
+Global & International Studies - On Campus
+
+date occurred from: 04/07/16 - THU at 14:00
+date occurred to:
+
+04/07/16 - THU at 22:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 04/13/16 - WED at 11:06
+date reported: 04/12/16 - TUE at 17:24
+general location:
+
+report #:
+
+160961
+
+46 BYPASS/WEST OF GOLF CO - Public property
+
+date occurred from: 04/12/16 - TUE at 17:23
+date occurred to:
+
+04/12/16 - TUE at 17:24
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/13/16 - WED at 09:31
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/12/2016 00:00 to 04/12/2016 23:59
+date reported: 04/12/16 - TUE at 20:40
+location:
+
+cad event #:
+
+16-04-12-008192
+
+10TH STREET/WEST OF JORDAN, WEST OF JORDAN E. 10TH, 10TH & WALNUT GROVE
+
+incident: HARASSMENT/INTIMIDATION
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 04/13/16 - WED at 11:11
+date reported: 04/12/16 - TUE at 21:24
+location:
+
+FOREST QUAD, 1725 E. 3RD
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/12/16 - TUE at 21:34
+
+cad event #:
+
+16-04-12-008195
+
+

@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/16/2016 00:00 to 02/16/2016 23:59
+date reported: 02/16/16 - TUE at 13:13
+general location:
+
+report #:
+
+160445
+
+WOODBURN HALL - On Campus
+
+date occurred from: 02/12/16 - FRI at 17:00
+date occurred to:
+
+02/16/16 - TUE at 13:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/17/16 - WED at 17:18
+date reported: 02/16/16 - TUE at 15:19
+general location:
+
+report #:
+
+IUPD STATION - On Campus
+
+date occurred from: 02/01/16 - MON at 12:00
+date occurred to:
+
+02/01/16 - MON at 13:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 02/17/16 - WED at 16:12
+
+160446
+
+

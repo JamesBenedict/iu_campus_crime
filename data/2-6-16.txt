@@ -1,0 +1,169 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/06/2016 00:00 to 02/06/2016 23:59
+date reported: 02/06/16 - SAT at 00:08
+general location:
+
+report #:
+
+160351
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 02/06/16 - SAT at 00:09
+date occurred to:
+
+02/06/16 - SAT at 00:38
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/08/16 - MON at 11:32
+date reported: 02/06/16 - SAT at 02:10
+general location:
+
+report #:
+
+160353
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from: 02/06/16 - SAT at 02:15
+date occurred to:
+
+02/06/16 - SAT at 05:00
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/09/16 - TUE at 19:27
+date reported: 02/06/16 - SAT at 02:56
+general location:
+
+report #:
+
+160352
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 02/06/16 - SAT at 02:55
+date occurred to:
+
+02/06/16 - SAT at 02:56
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // DRIVING UNDER THE INFLUENCE // POSSESSION - MARIJUANA // HIT &
+RUN, PROPERTY DAMAGE ONLY // DRIVING WHILE SUSPENDED // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/08/16 - MON at 17:12
+date reported: 02/06/16 - SAT at 07:41
+general location:
+
+report #:
+
+160354
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 02/06/16 - SAT at 07:41
+date occurred to:
+
+02/06/16 - SAT at 08:02
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/08/16 - MON at 11:25
+date reported: 02/06/16 - SAT at 19:01
+general location:
+
+report #:
+
+160355
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 02/06/16 - SAT at 19:09
+date occurred to:
+
+02/06/16 - SAT at 19:18
+
+incident/offenses:
+
+WELFARE CHECK // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/08/16 - MON at 11:28
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/06/2016 00:00 to 02/06/2016 23:59
+date reported: 02/06/16 - SAT at 21:43
+location:
+
+cad event #:
+
+16-02-06-002932
+
+CHI OMEGA, 1414 N. JORDAN AVE, MEET AT FRONT DOORS
+
+incident: HARASSMENT/INTIMIDATION
+final incident: SUSPICIOUS PERSON OR VEHICLE
+disposition: CASE REPORT FOLLOWS.
+modified date: 02/06/16 - SAT at 22:23
+date reported: 02/06/16 - SAT at 23:17
+general location:
+
+report #:
+
+160358
+
+EIGENMANN HALL COMMON AREA - On Campus
+
+date occurred from: 02/06/16 - SAT at 23:00
+date occurred to:
+
+02/06/16 - SAT at 23:18
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/07/16 - SUN at 02:53
+date reported: 02/06/16 - SAT at 23:25
+general location:
+
+report #:
+
+160359
+
+MCNUTT QUAD BACK LOT - On Campus
+
+date occurred from: 02/06/15 - FRI at 23:25
+date occurred to:
+
+02/07/16 - SUN at 00:24
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION - SYNTHETIC NARCOTICS // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/08/16 - MON at 12:03
+
+

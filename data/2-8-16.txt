@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/08/2016 00:00 to 02/08/2016 23:59
+date reported: 02/08/16 - MON at 23:11
+general location:
+
+report #:
+
+160370
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 02/08/16 - MON at 08:00
+date occurred to:
+
+02/08/16 - MON at 23:18
+
+incident/offenses:
+
+FALSE IDENTIFICATION // FOUND PROPERTY
+
+disposition: OPEN CASE
+modified date: 02/09/16 - TUE at 00:35
+date reported: 02/08/16 - MON at 23:19
+general location:
+
+report #:
+
+160371
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 02/08/16 - MON at 21:00
+date occurred to:
+
+02/08/16 - MON at 23:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 02/09/16 - TUE at 00:40
+
+

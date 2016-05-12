@@ -5,7 +5,7 @@ import urllib
 import bs4
 import requests
 import re
-# hey yaaaah
+
 new_dates = []
 site_links = []
 log_links = []

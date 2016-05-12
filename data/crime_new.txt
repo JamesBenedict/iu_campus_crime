@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 78abc49... trying to get this working again
 =======
 >>>>>>> parent of 78abc49... trying to get this working again
 
@@ -31,8 +34,11 @@
 ----------Start of 3-20-16----------
 ----------End of 3-20-16----------
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 46f7a56... started to clean up what i got
 =======
+=======
+>>>>>>> parent of 78abc49... trying to get this working again
 
 ----------Start of 4-25-16----------
 ----------End of 4-25-16----------
@@ -1068,4 +1074,7 @@
 
 ----------Start of 1-31-16----------
 ----------End of 1-31-16----------
+<<<<<<< HEAD
+>>>>>>> parent of 78abc49... trying to get this working again
+=======
 >>>>>>> parent of 78abc49... trying to get this working again

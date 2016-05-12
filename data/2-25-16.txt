@@ -1,0 +1,87 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/25/2016 00:00 to 02/25/2016 23:59
+date reported: 02/25/16 - THU at 04:09
+general location:
+
+report #:
+
+160537
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 02/24/16 - WED at 22:00
+date occurred to:
+
+02/25/16 - THU at 00:49
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // INDECENT EXPOSURE
+
+disposition: OPEN CASE
+modified date: 02/25/16 - THU at 16:35
+date reported: 02/25/16 - THU at 08:29
+general location:
+
+report #:
+
+160538
+
+CAMPUS WAREHOUSE BLDG - On Campus
+
+date occurred from: 02/24/16 - WED at 16:00
+date occurred to:
+
+02/24/16 - WED at 16:26
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/29/16 - MON at 11:01
+date reported: 02/25/16 - THU at 13:18
+general location:
+
+report #:
+
+160541
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/24/16 - WED at 20:00
+date occurred to:
+
+02/25/16 - THU at 13:21
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 02/29/16 - MON at 14:24
+date reported: 02/25/16 - THU at 14:48
+general location:
+
+report #:
+
+160543
+
+FOSTER COMMON AREA - On Campus
+
+date occurred from: 11/24/15 - TUE at 00:00
+date occurred to:
+
+11/26/15 - THU at 00:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 02/29/16 - MON at 13:46
+
+

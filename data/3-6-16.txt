@@ -1,0 +1,174 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/06/2016 00:00 to 03/06/2016 23:59
+date reported: 03/06/16 - SUN at 00:09
+general location:
+
+report #:
+
+160626
+
+ROSE AVE/SOUTH OF 10TH ST - Public property
+
+date occurred from: 03/06/16 - SUN at 00:00
+date occurred to:
+
+03/06/16 - SUN at 00:20
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 14:34
+date reported: 03/06/16 - SUN at 00:15
+general location:
+
+report #:
+
+160627
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/06/16 - SUN at 00:14
+date occurred to:
+
+03/06/16 - SUN at 00:15
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 14:37
+date reported: 03/06/16 - SUN at 01:27
+general location:
+
+report #:
+
+160628
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/06/16 - SUN at 01:25
+date occurred to:
+
+03/06/16 - SUN at 01:30
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 14:39
+date reported: 03/06/16 - SUN at 02:55
+general location:
+
+report #:
+
+160629
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/06/16 - SUN at 02:40
+date occurred to:
+
+03/06/16 - SUN at 02:55
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 14:42
+date reported: 03/06/16 - SUN at 10:40
+general location:
+
+report #:
+
+160630
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 03/06/16 - SUN at 10:30
+date occurred to:
+
+03/06/16 - SUN at 10:40
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/11/16 - FRI at 14:43
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/06/2016 00:00 to 03/06/2016 23:59
+
+date reported: 03/06/16 - SUN at 15:38
+general location:
+
+report #:
+
+160633
+
+ASSEMBLY HALL - On Campus
+
+date occurred from: 03/06/16 - SUN at 14:00
+date occurred to:
+
+03/06/16 - SUN at 15:38
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 14:46
+date reported: 03/06/16 - SUN at 18:19
+general location:
+
+report #:
+
+160635
+
+USA LINDEN HALL - On Campus - in any student residential facility
+
+date occurred from: 03/06/16 - SUN at 18:20
+date occurred to:
+
+03/07/16 - MON at 22:50
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/11/16 - FRI at 15:14
+date reported: 03/06/16 - SUN at 23:55
+general location:
+
+report #:
+
+160638
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 03/06/16 - SUN at 23:50
+date occurred to:
+
+03/06/16 - SUN at 23:57
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // POSSESSION - MARIJUANA // POSSESSION - SYNTHETIC NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/07/16 - MON at 10:15
+
+

@@ -1,0 +1,166 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+from 04/25/2016 00:00 to 04/25/2016 23:59
+date reported: 04/25/16 - MON at 10:06
+general location:
+
+report #:
+
+161146
+
+RADIO AND TV - On Campus
+
+date occurred from: 04/20/16 - WED at 10:00
+date occurred to:
+
+04/25/16 - MON at 10:09
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 04/25/16 - MON at 16:16
+date reported: 04/25/16 - MON at 10:22
+location:
+
+cad event #:
+
+16-04-25-009409
+
+TENTH STREET LOT, 1600 BLOCK E. 10TH
+
+incident: THEFT FROM MOTOR VEHICLE
+final incident: THEFT FROM MOTOR VEHICLE
+disposition: NO CASE REPORT
+modified date: 04/25/16 - MON at 10:35
+date reported: 04/25/16 - MON at 11:24
+general location:
+
+report #:
+
+161147
+
+IU GOLF DRIVING RANGE - On Campus
+
+date occurred from: 04/24/16 - SUN at 21:00
+date occurred to:
+
+04/25/16 - MON at 10:30
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 04/25/16 - MON at 13:07
+date reported: 04/25/16 - MON at 11:49
+general location:
+
+report #:
+
+161148
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 04/15/16 - FRI at 18:00
+date occurred to:
+
+04/22/16 - FRI at 11:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/25/16 - MON at 12:57
+date reported: 04/25/16 - MON at 13:35
+general location:
+
+incident/offenses:
+disposition:
+
+161149
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/22/16 - FRI at 17:00
+date occurred to:
+
+report #:
+
+04/25/16 - MON at 12:00
+ALL TYPES OF FRAUD
+OPEN CASE
+
+modified date: 04/25/16 - MON at 14:06
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+from 04/25/2016 00:00 to 04/25/2016 23:59
+date reported: 04/25/16 - MON at 16:25
+general location:
+
+report #:
+
+161150
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/23/16 - SAT at 16:30
+date occurred to:
+
+04/23/16 - SAT at 21:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/25/16 - MON at 17:47
+date reported: 04/25/16 - MON at 20:51
+general location:
+
+report #:
+
+161153
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 04/25/16 - MON at 18:00
+date occurred to:
+
+04/25/16 - MON at 20:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 04/25/16 - MON at 22:46
+date reported: 04/25/16 - MON at 21:37
+general location:
+
+report #:
+
+161155
+
+CAMPUS VIEW PARKING LOT - On Campus
+
+date occurred from: 04/24/16 - SUN at 16:30
+date occurred to:
+
+04/25/16 - MON at 20:30
+
+incident/offenses:
+
+THEFT-OTHER VEHICLES
+
+disposition: OPEN CASE
+modified date: 04/26/16 - TUE at 02:48
+
+

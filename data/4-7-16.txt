@@ -1,0 +1,156 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/07/2016 00:00 to 04/07/2016 23:59
+date reported: 04/07/16 - THU at 02:22
+general location:
+
+report #:
+
+160900
+
+APPLIED HEALTH SCIENCE - On Campus
+
+date occurred from: 04/07/16 - THU at 02:17
+date occurred to:
+
+04/07/16 - THU at 02:17
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/07/16 - THU at 05:04
+date reported: 04/07/16 - THU at 04:21
+location:
+
+cad event #:
+
+16-04-07-007704
+
+ROTC-ARMY/AIR FORCE, 814 E. 3RD STREET
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: ILLEGAL POSSESSION/CONSUMPTION
+disposition: NO CASE REPORT
+modified date: 04/07/16 - THU at 07:55
+date reported: 04/07/16 - THU at 05:19
+general location:
+
+report #:
+
+160901
+
+SWAIN HALL (E & W) - On Campus
+
+date occurred from: 04/07/16 - THU at 05:00
+date occurred to:
+
+04/07/16 - THU at 05:19
+
+incident/offenses:
+
+ALL OTHER-unless other code applies // PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION //
+FIRE ALARM - FALSE CALL
+disposition: CLOSED CASE- ARREST
+modified date: 04/07/16 - THU at 10:03
+date reported: 04/07/16 - THU at 09:07
+general location:
+
+report #:
+
+160902
+
+WYLIE HALL - On Campus
+
+date occurred from: 03/10/16 - THU at 08:13
+date occurred to:
+
+04/07/16 - THU at 09:05
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 04/07/16 - THU at 10:17
+date reported: 04/07/16 - THU at 11:51
+general location:
+
+report #:
+
+160903
+
+HODGE HALL (BUSINESS BUILDING) - On Campus
+
+date occurred from: 04/06/16 - WED at 12:00
+date occurred to:
+
+04/06/16 - WED at 17:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/08/16 - FRI at 11:15
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/07/2016 00:00 to 04/07/2016 23:59
+
+date reported: 04/07/16 - THU at 14:42
+location:
+
+cad event #:
+
+16-04-07-007741
+
+WELLS LIBRARY, 1320 E. 10TH, LOADING DOCK
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: CASE REPORT FOLLOWS.
+modified date: 04/07/16 - THU at 15:19
+date reported: 04/07/16 - THU at 15:46
+general location:
+
+report #:
+
+160906
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/07/16 - THU at 15:40
+date occurred to:
+
+04/07/16 - THU at 15:51
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition:
+
+OPEN CASE
+
+modified date: 04/08/16 - FRI at 11:24
+date reported: 04/07/16 - THU at 18:09
+location:
+
+cad event #:
+
+16-04-07-007758
+
+ASHTON MOFFAT HALL, 1774 E. 10TH STREET, 2ND FLOOR MEET AT SERVICE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/07/16 - THU at 18:23
+
+

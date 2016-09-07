@@ -1,0 +1,108 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/03/2016 00:00 to 05/03/2016 23:59
+date reported: 05/03/16 - TUE at 00:49
+general location:
+
+report #:
+
+161229
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 05/03/16 - TUE at 00:40
+date occurred to:
+
+05/03/16 - TUE at 00:55
+
+incident/offenses:
+
+FALSE IDENTIFICATION // ILLEGAL POSSESSION/CONSUMPTION // POSSESSION - MARIJUANA //
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/03/16 - TUE at 05:08
+date reported: 05/03/16 - TUE at 01:09
+general location:
+
+report #:
+
+161230
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 05/02/16 - MON at 22:00
+date occurred to:
+
+05/03/16 - TUE at 01:15
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/03/16 - TUE at 04:56
+date reported: 05/03/16 - TUE at 04:41
+general location:
+
+report #:
+
+161231
+
+report #:
+
+161237
+
+SPEA - On Campus
+
+date occurred from: 05/02/16 - MON at 06:30
+date occurred to:
+
+05/03/16 - TUE at 00:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 05/03/16 - TUE at 11:29
+date reported: 05/03/16 - TUE at 21:41
+general location:
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from: 05/01/16 - SUN at 19:30
+date occurred to:
+
+05/02/16 - MON at 10:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 05/04/16 - WED at 14:21
+date reported: 05/03/16 - TUE at 23:40
+general location:
+
+report #:
+
+161239
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 05/03/16 - TUE at 16:30
+date occurred to:
+
+05/03/16 - TUE at 23:30
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 05/04/16 - WED at 13:34
+
+

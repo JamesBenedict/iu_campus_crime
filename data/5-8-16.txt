@@ -1,0 +1,73 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 05/08/2016 00:00 to 05/08/2016 23:59
+date reported: 05/08/16 - SUN at 03:51
+general location:
+
+report #:
+
+161279
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 05/08/16 - SUN at 03:30
+date occurred to:
+
+05/08/16 - SUN at 03:51
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // ASSIST OTHER AGENCY
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/09/16 - MON at 11:29
+date reported: 05/08/16 - SUN at 13:31
+location:
+
+cad event #:
+
+16-05-08-010526
+
+BICKNELL APTS, 1120 N. UNION CT
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: FAILED TO LOCATE
+modified date: 05/08/16 - SUN at 13:41
+date reported: 05/08/16 - SUN at 16:52
+location:
+
+cad event #:
+
+16-05-08-010535
+
+BRISCOE QUAD BACK LOT,
+
+incident: THEFT-BICYCLES
+final incident: CITIZEN ASSIST
+disposition: NO CASE REPORT
+modified date: 05/08/16 - SUN at 17:03
+date reported: 05/08/16 - SUN at 21:48
+general location:
+
+report #:
+
+161281
+
+PHI GAMMA DELTA - Non-campus building or property
+
+date occurred from: 05/06/16 - FRI at 13:00
+date occurred to:
+
+05/08/16 - SUN at 21:00
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 05/09/16 - MON at 06:36
+
+

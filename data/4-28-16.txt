@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 04/28/2016 00:00 to 04/28/2016 23:59
+date reported: 04/28/16 - THU at 01:19
+general location:
+
+report #:
+
+161176
+
+ASHTON VOS HALL - On Campus - in any student residential facility
+
+date occurred from: 04/27/16 - WED at 23:00
+date occurred to:
+
+04/28/16 - THU at 01:19
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/28/16 - THU at 04:40
+date reported: 04/28/16 - THU at 23:24
+general location:
+
+report #:
+
+161184
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/28/16 - THU at 14:00
+date occurred to:
+
+04/28/16 - THU at 22:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/29/16 - FRI at 05:15
+
+

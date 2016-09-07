@@ -7,39 +7,43 @@ import requests
 import re
 
 new_dates = []
+# a list of relevant urls from IUPD webpage
 site_links = []
 log_links = []
 
+# Opens a file of days that have already been scrapped
 history = open('data/past_dates.txt', 'r')
 past_dates = history.readlines()
-# print(past_dates)
 history.close()
 
 def url_grab():
-	# grabs a list of all urls from iupd webpage
+	# directs program to IUPD webpage
 	res = requests.get('http://www.indiana.edu/~iupd/dailyLog.html')
 	res.raise_for_status()
 	website = bs4.BeautifulSoup(res.text, 'html.parser')
 	# .site_links = website.select('li > a')
+	# Grabs all links with 'Docu..' in the url. Then appeneds the these links to the list <site_links>
 	for link in website.find_all('a', href=re.compile('Documents/Daily Log/')):
 		site_links.append(link)
-		# print(link)
 
 def history_check():
 	# checks to see if date was already anaylzed
-	for element in site_links:
-		element_list = (str(element).split())
+	for dayily_url in site_links:
+		# Finds the date in the url 
+		element_list = (str(dayily_url).split())
 		date = element_list[2][4:11]
+		# corrects for single digit days
 		if date[-1] == '.':
 			date = date[0:6]
-
 		date += '\n'
 
+		# stops program from repeating dates already scrapped
 		if date in past_dates:
 			pass
 		else: 
 			new_dates.append(date)
 
+	# Consider adding all this under the else statement above. Might remove duplication
 	log = open('data/past_dates.txt', 'a')
 	log.writelines(new_dates)
 	log.close()

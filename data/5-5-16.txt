@@ -1,0 +1,134 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/05/2016 00:00 to 05/05/2016 23:59
+date reported: 05/05/16 - THU at 04:50
+general location:
+
+report #:
+
+161250
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 05/05/16 - THU at 04:30
+date occurred to:
+
+05/05/16 - THU at 04:50
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // FOUND PROPERTY
+
+disposition: OPEN CASE
+modified date: 05/06/16 - FRI at 18:56
+date reported: 05/05/16 - THU at 08:02
+general location:
+
+report #:
+
+161252
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 05/05/16 - THU at 08:00
+date occurred to:
+
+05/05/16 - THU at 08:10
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/05/16 - THU at 10:26
+date reported: 05/05/16 - THU at 08:10
+general location:
+
+report #:
+
+161251
+
+WYLIE HALL - On Campus
+
+date occurred from: 04/28/16 - THU at 08:00
+date occurred to:
+
+05/05/16 - THU at 08:10
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 05/05/16 - THU at 11:17
+date reported: 05/05/16 - THU at 10:42
+general location:
+
+report #:
+
+161268
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 05/02/16 - MON at 00:00
+date occurred to:
+
+05/05/16 - THU at 10:42
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/06/16 - FRI at 19:10
+date reported: 05/05/16 - THU at 15:38
+general location:
+
+report #:
+
+161257
+
+ALL OTHER OPEN AREAS - On Campus
+
+date occurred from: 04/12/16 - TUE at 10:00
+date occurred to:
+
+04/13/16 - WED at 14:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 05/06/16 - FRI at 05:19
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/05/2016 00:00 to 05/05/2016 23:59
+
+date reported: 05/05/16 - THU at 18:36
+general location:
+
+report #:
+
+161258
+
+CROSSTOWN SHOP CTR - Non-campus building or property
+
+date occurred from: 05/05/16 - THU at 00:00
+date occurred to:
+
+05/05/16 - THU at 00:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/06/16 - FRI at 05:46
+
+

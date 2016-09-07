@@ -1,0 +1,27 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/10/2016 00:00 to 05/10/2016 23:59
+date reported: 05/10/16 - TUE at 14:08
+general location:
+
+report #:
+
+OPTOMETRY - On Campus
+
+date occurred from: 05/04/16 - WED at 15:00
+date occurred to:
+
+05/11/16 - WED at 14:00
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 05/10/16 - TUE at 15:57
+
+161297
+
+

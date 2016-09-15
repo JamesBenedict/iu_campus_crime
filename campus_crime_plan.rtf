@@ -1,0 +1,44 @@
+1	download bpd crime report
+	1	create a list of all dates on bpd website
+	2	compare list with date_history (empty the first time)
+	3	use beautiful soup to scrape new dates 
+	4	download pdf files to data folder
+
+
+2	add the date to date_history
+	1	append each date downloaded to date_history
+
+
+3	convert pdf to text
+	1	use os's pdftotext feature to create date_crime.txt
+	2	delete the pdf
+	3	append date_crime.txt to a crime_history.txt (used for verification purposes only)
+
+
+4	break date_crime.txt into chunks for each crime
+	1	every crime chunk begins with 'date reported'
+	2	every crime chunk ends with a variable length string preceded by 'modified date' 
+	3	insert a tag one index position before the beginning of each chunk ('date reported') and at the end of the document
+	4	select all the text between 'date reported' and the tag
+	5	send this selection to be analyzed  
+
+
+5	analyze the chunk and classify a crime
+	1	using regex, take key info from chunk
+	2	create a crime_dict based on info
+
+
+6	append analyzed info to a csv of crimes
+	1	create csv with headers ('date_reported', 'location', 'from', 'to', 'incident', 'disposition', 'modified_date')
+	2	if crime_dict has a key not found in header, print error message
+	3	else append crime_dict to csv	
+
+
+7	take csv info and feed into leaflet(cartodb?) map and crime stats	
+	1	IDK about this yet
+	2	For now I will just type in the sexual/violent crimes by hand to the violent crime map
+	3	Use all crimes for stats done as needed
+	
+
+9	compare history to bpd website for new dates, if new repeat steps 1-7
+	

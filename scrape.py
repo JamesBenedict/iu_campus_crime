@@ -7,6 +7,8 @@ import urllib.request
 import bs4
 import requests
 import re
+import glob
+import csv
 
 open('data/history.txt', 'w').close()
 
@@ -79,31 +81,50 @@ def pdf_del():
 	os.makedirs('data/pdf')
 # pdf_del()
 
+
 def day_log_open():
+	# for file in new_files:
+		# file = open('data/text'+file+"'", 'r')
 	file = open('data/text/1-1-16.txt', 'r')
 	log = file.readlines()
 	file.close()
 	return log
 
 # print(day_log_open()) 
-def start_chunk():
-	start_chunk = []
-	log = day_log_open()
+
+def chunk():
+	chunk_start = []
+	chunk_end = []
+	chunks = {}
+
+	log = day_log_open()	
+
 	for i in range(len(log)):
-		if '#:' in log[i]:
-			start_chunk.append(i)
+		if 'date reported' in log[i]:
+			chunk_start.append(i)
+		elif 'modified date' in log[i]:
+			chunk_end.append(i+1)
 
-	return start_chunk
+	for i in range(len(chunk_start)):
+		chunks[chunk_start[i]] = chunk_end[i]
+	
+	# for key, value in chunks.items():
+		# print(log[key:value])
+		# print()
+		# print()
 
-# chunk_start()
+	return log, chunks
 
-def end_chunk():
-	start = start_chunk()
-	end = []
+def crime_list():
+	log = chunk()[0]
+	chunks = chunk()[1]
+	crime_list = []
+	
+	for key, value in chunks.items():
+		crime_list.append(log[key:value])
 
-	for i in range(len(start)):
-		start[i]
-
+	return crime_list
+# crime_list()
 
 
 

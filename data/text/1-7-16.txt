@@ -1,0 +1,93 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/07/2016 00:00 to 01/07/2016 23:59
+date reported: 01/07/16 - THU at 00:47
+general location:
+
+report #:
+
+160020
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 01/06/16 - WED at 23:00
+date occurred to:
+
+01/07/16 - THU at 00:47
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/07/16 - THU at 13:32
+date reported: 01/07/16 - THU at 03:30
+location:
+
+cad event #:
+
+16-01-07-000273
+
+SWAIN HALL (E & W), 727 E. 3RD STREET, BEHIND SWAIN
+
+incident: SUSPICIOUS PERSON OR VEHICLE
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: CASE FOLLOW UP
+modified date: 01/07/16 - THU at 03:52
+date reported: 01/07/16 - THU at 10:02
+location:
+
+cad event #:
+
+16-01-07-000289
+
+Global & International Studies, 355 N. JORDAN
+
+incident: THEFT-ALL OTHER
+final incident: THEFT-ALL OTHER
+disposition: CASE REPORT FOLLOWS.
+modified date: 01/08/16 - FRI at 08:21
+date reported: 01/07/16 - THU at 20:35
+general location:
+
+report #:
+
+160024
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 01/07/16 - THU at 20:35
+date occurred to:
+
+01/07/16 - THU at 20:35
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // RESISTING LAW ENFORCEMENT
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/11/16 - MON at 10:45
+date reported: 01/07/16 - THU at 23:31
+general location:
+
+report #:
+
+160025
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 01/07/16 - THU at 23:31
+date occurred to:
+
+01/07/16 - THU at 23:31
+
+incident/offenses:
+
+NO OPER, CHAUFF, OR PUBLIC PASS LICENSE
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/08/16 - FRI at 00:08
+
+

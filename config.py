@@ -1,4 +1,5 @@
-import os
+import os,csv
+
 home = os.getcwd()
 
 data = os.path.join(home, 'data')
@@ -14,3 +15,6 @@ if not os.path.exists(text):
 
 os.chdir(data)
 history = open('history.txt', 'a').close()
+
+# crime_log = open('crime_log.csv', 'a').close
+

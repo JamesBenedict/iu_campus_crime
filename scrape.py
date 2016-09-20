@@ -85,7 +85,7 @@ def pdf_del():
 def day_log_open():
 	# for file in new_files:
 		# file = open('data/text'+file+"'", 'r')
-	file = open('data/text/1-1-16.txt', 'r')
+	file = open('data/text/1-5-16.txt', 'r')
 	log = file.readlines()
 	file.close()
 	return log
@@ -124,7 +124,35 @@ def crime_list():
 		crime_list.append(log[key:value])
 
 	return crime_list
-# crime_list()
+# print(crime_list())
 
+def check():
+	crimes = crime_list()
+	for crime in crimes:
+		csv_magic(crime)
+
+def csv_magic(alist):
+	crime_dict = {'date_reported': 0, 'time': 0, 'general_loc': 0, 'report_num': 0, 'occured_from': 0, 'occured_to': 0, 'incident':0, 'disposition':0, 'modified_date':0}
+	
+	alist = ''.join(alist)
+
+	# pulls the date out of the list
+	match = re.search(r'\d{2}/\d{2}/\d{2}', alist)
+	date = datetime.strptime(match.group(), '%m/%d/%y').date()
+	crime_dict['date_reported'] = date.strftime('%m/%d/%y')
+
+	# general locatoin
+	time = re.search(r'\d{2}:\d{2}', alist)
+	print(time)
+
+
+
+
+	
+
+alist = ['date reported: 01/05/16 - TUE at 18:14\n', 'general location:\n', '\n', 'report #:\n', '\n', '160015\n', '\n', 'IU CREDIT UNION - Non-campus building or property\n', '\n', 'date occurred from: 01/05/16 - TUE at 18:00\n', 'date occurred to:\n', '\n', '01/05/16 - TUE at 18:14\n', '\n', 'incident/offenses:\n', '\n', 'RESISTING LAW ENFORCEMENT // OTHER DISTURBANCES // PUBLIC INTOXICATION\n', '\n', 'disposition: CLOSED CASE- ARREST\n', 'modified date: 01/06/16 - WED at 08:45\n']
+# print(alist)
+
+csv_magic(alist)
 
 

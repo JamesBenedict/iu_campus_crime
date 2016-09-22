@@ -1,3 +1,4 @@
+#this just sets up my directories because I wanted to learn how to do it
 import os,csv
 
 home = os.getcwd()

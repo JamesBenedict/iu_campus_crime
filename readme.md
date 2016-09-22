@@ -31,5 +31,7 @@ crime_list()_output.txt is the exact output of each crime chunks. The output is 
 
 ## Examples
 [Bloomington crime map w/short timespan](https://jamesbenedict.carto.com/viz/886db910-0030-11e6-9f73-0e8c56e2ffdb/embed_map)
+
 [Crime in Chicagoland](http://crime.chicagotribune.com/)
+
 [Crime LA](http://maps.latimes.com/crime/)

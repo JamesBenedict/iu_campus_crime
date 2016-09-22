@@ -1,7 +1,5 @@
 # Indiana University Violent Crime Scrapper and Map
 
-Hi YY,
-
 This scrapper goes to the Bloomington Police Department [crime log](http://www.indiana.edu/~iupd/dailyLog.html) and downloads the listed pdfs. The pdfs are posted all the way back to 1-1-2013 if you just change the url and don't use the html page. 
 
 I'm using urllib to download the pdfs and os to convert the pdfs to text. If there is a better method, please let me know. 

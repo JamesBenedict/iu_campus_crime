@@ -1,0 +1,75 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+from 07/06/2016 00:00 to 07/06/2016 23:59
+
+date reported: 07/06/16 - WED at 00:17
+general location:
+
+report #:
+
+161551
+
+15TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 07/06/16 - WED at 00:00
+date occurred to:
+
+07/06/16 - WED at 00:18
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // TRAFFIC - ACCIDENTS - TRAFFIC ACCIDENTS -HIT
+& RUN, PROPERTY DAMAGE ONLY // TRAFFIC - NON-MOVING - DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/07/16 - THU at 03:37
+date reported: 07/06/16 - WED at 10:24
+general location:
+
+report #:
+
+161552
+
+COLLINS SMITH - On Campus - in any student residential facility
+
+date occurred from: 07/05/16 - TUE at 16:00
+date occurred to:
+
+07/06/16 - WED at 10:00
+
+incident/offenses:
+
+BURGLARY - FORCIBLE ENTRY // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 07/07/16 - THU at 10:46
+date reported: 07/06/16 - WED at 11:15
+location:
+
+cad event #:
+
+16-07-06-013810
+
+FOSTER BACK LOT,
+
+incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 07/06/16 - WED at 12:00
+date reported: 07/06/16 - WED at 19:03
+location:
+
+cad event #:
+
+16-07-06-013835
+
+COTTAGE GROVE/WEST OF JORAN, WEST OF JORAN COTTAGE GROVE, COTTAGE GROVE & WOODLAWN
+
+incident: THEFT-AUTOS
+final incident:THEFT-AUTOS
+disposition: UNFOUNDED
+modified date: 07/06/16 - WED at 19:42
+
+

@@ -1,0 +1,238 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/02/2016 00:00 to 09/02/2016 23:59
+
+date reported: 09/02/16 - FRI at 02:25
+general location:
+
+report #:
+
+161986
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/02/16 - FRI at 02:25
+date occurred to:
+
+09/02/16 - FRI at 02:50
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/02/16 - FRI at 12:11
+date reported: 09/02/16 - FRI at 03:04
+general location:
+
+report #:
+
+161987
+
+ALL OTHER NON-UNIVERSITY – 300 BLK N WALNUT
+
+date occurred from: 09/02/16 - FRI at 03:04
+date occurred to:
+
+09/02/16 - FRI at 03:36
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // DRUNKENNESS - PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/02/16 - FRI at 20:07
+date reported: 09/02/16 - FRI at 03:30
+general location:
+
+report #:
+
+161988
+
+ALL OTHER NON-UNIVERSITY – 7TH @ N WALNUT
+
+date occurred from: 09/02/16 - FRI at 03:30
+date occurred to:
+
+09/02/16 - FRI at 03:58
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/02/16 - FRI at 20:12
+date reported: 09/02/16 - FRI at 04:21
+general location:
+
+report #:
+
+161989
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 09/02/16 - FRI at 04:21
+date occurred to:
+
+09/02/16 - FRI at 05:02
+
+incident/offenses:
+
+DRUNKENNESS - PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/02/16 - FRI at 13:33
+date reported: 09/02/16 - FRI at 09:46
+location:
+
+cad event #:
+
+16-09-02-018099
+
+GODFREY GRAD&EXEC CTR., 1275 E. 10TH STREET, WALKWAY LEADING TO MAIN ENTRANCE, SOUTH SIDE
+
+incident: VANDALISM, MISCHIEF
+final incident: VANDALISM, MISCHIEF
+disposition: NO CASE REPORT
+modified date: 09/02/16 - FRI at 10:04
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/02/2016 00:00 to 09/02/2016 23:59
+date reported:
+general location:
+
+09/02/16 - FRI at 14:59report #:161994
+
+CROSSTOWN SHOP CTR - Non-campus building or property
+
+date occurred from: 09/02/16 - FRI at 14:50
+date occurred to:
+
+09/02/16 - FRI at 14:59
+
+incident/offenses:
+
+ASSAULT- SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 09/05/16 - MON at 14:20
+date reported: 09/02/16 - FRI at 16:48
+general location:
+
+report #:
+
+161995
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/02/16 - FRI at 16:48
+date occurred to:
+
+09/02/16 - FRI at 17:06
+
+incident/offenses:
+
+ASSAULT- SIMPLE, NOT AGGRAVATED // DISTURBANCES - DOMESTIC DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/06/16 - TUE at 09:35
+
+date reported: 09/02/16 - FRI at 18:21
+location:
+
+cad event #:
+
+16-09-02-018137
+
+INDIANA AVENUE/SOUTH OF 1OTH STR, SOUTH OF 1OTH STR INDIANA AVENUE, SAMPLE GATES
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: NO CASE REPORT
+modified date: 09/02/16 - FRI at 18:35
+date reported: 09/02/16 - FRI at 22:53
+general location:
+
+report #:
+
+161997
+
+13TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 09/02/16 - FRI at 22:40
+date occurred to:
+
+09/02/16 - FRI at 22:53
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/03/16 - SAT at 02:00
+date reported: 09/02/16 - FRI at 22:56
+general location:
+
+report #:
+
+161998
+
+JORDAN AVENUE PARKING GAR - On Campus
+
+date occurred from: 09/02/16 - FRI at 22:56
+date occurred to:
+
+09/02/16 - FRI at 23:29
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/03/16 - SAT at 01:49
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/02/2016 00:00 to 09/02/2016 23:59
+date reported: 09/02/16 - FRI at 23:18
+location:
+
+cad event #:
+
+16-09-02-018159
+
+TETER QUAD, 501 N. SUNRISE, THOMPSON 4 - MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/02/16 - FRI at 23:31
+date reported: 09/02/16 - FRI at 23:25
+general location:
+
+report #:
+
+161999
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/02/16 - FRI at 23:22
+date occurred to:
+
+09/02/16 - FRI at 23:51
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/05/16 - MON at 13:08
+
+

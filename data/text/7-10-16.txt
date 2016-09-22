@@ -1,0 +1,61 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 07/10/2016 00:00 to 07/10/2016 23:59
+date reported: 07/10/16 - SUN at 01:17
+location:
+
+cad event #:
+
+16-07-10-014034
+
+ALL OTHER NON-UNIVERSITY - KIRKWOOD & GRANT
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 07/10/16 - SUN at 01:27
+date reported: 07/10/16 - SUN at 02:04
+general location:
+
+report #:
+
+161567
+
+ALL OTHER NON-UNIVERSITY – 600 BLOCK N. MORTON STREET
+
+date occurred from: 07/10/16 - SUN at 02:04
+date occurred to:
+
+07/10/16 - SUN at 02:05
+
+incident/offenses:
+
+DRUNK DRIVING - DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/11/16 - MON at 09:22
+date reported: 07/10/16 - SUN at 02:25
+general location:
+
+report #:
+
+161568
+
+INDIANA AVENUE/SOUTH OF 1OTH STR - Public property
+
+date occurred from: 07/10/16 - SUN at 02:15
+date occurred to:
+
+07/10/16 - SUN at 02:20
+
+incident/offenses:
+
+ALL OTHER OFFENSES - TRESPASS & MALICIOUS TRESPASS // ASSAULT - ASSAULT- SIMPLE, NOT
+AGGRAVATED
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/10/16 - SUN at 06:32
+
+

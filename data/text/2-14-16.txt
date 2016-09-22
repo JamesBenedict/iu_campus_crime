@@ -1,0 +1,165 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/14/2016 00:00 to 02/14/2016 23:59
+date reported: 02/14/16 - SUN at 00:13
+general location:
+
+report #:
+
+160420
+
+ASHTON STEMPEL HALL - On Campus - in any student residential facility
+
+date occurred from: 02/14/16 - SUN at 00:13
+date occurred to:
+
+02/14/16 - SUN at 00:42
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/14/16 - SUN at 04:24
+date reported: 02/14/16 - SUN at 02:06
+location:
+
+cad event #:
+
+16-02-14-003567
+
+MCNUTT QUAD – On Campus – Student Residential Facility
+
+incident: RAPE
+final incident: ASSIST OTHER AGENCY
+disposition: CASE REPORT FOLLOWS.
+modified date: 02/14/16 - SUN at 04:05
+date reported: 02/14/16 - SUN at 02:09
+general location:
+
+report #:
+
+160424
+
+UNKNOWN/DOES NOT APPLY - Non-reportable Location
+
+date occurred from: 02/14/16 - SUN at 02:00
+date occurred to:
+
+02/14/16 - SUN at 02:09
+
+incident/offenses:
+
+RAPE
+
+disposition: OPEN CASE
+modified date: 02/15/16 - MON at 12:16
+date reported: 02/14/16 - SUN at 02:46
+general location:
+
+report #:
+
+160425
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 02/13/16 - SAT at 21:00
+date occurred to:
+
+02/14/16 - SUN at 01:00
+
+incident/offenses:
+
+MISSING PERSON(NOT 29 OR 303B)
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/15/16 - MON at 23:25
+date reported: 02/14/16 - SUN at 03:06
+location:
+
+cad event #:
+
+16-02-14-003571
+
+INDIANA MEMORIAL UNION, 900 E. 7TH STREET, ROOM 146
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 02/14/16 - SUN at 04:03
+date reported: 02/14/16 - SUN at 03:38
+location:
+
+cad event #:
+
+16-02-14-003573
+
+TETER QUAD, 501 N. SUNRISE, IN FRONT OF DORM
+
+incident: ILLEGAL POSSESSION/CONSUMPTION
+final incident: CITIZEN ASSIST
+disposition: NO CASE REPORT
+modified date: 02/14/16 - SUN at 04:26
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 02/14/2016 00:00 to 02/14/2016 23:59
+date reported: 02/14/16 - SUN at 04:25
+general location:
+
+report #:
+
+160426
+
+CAMPBELL STREET - Public property
+
+date occurred from: 02/14/16 - SUN at 04:00
+date occurred to:
+
+02/14/16 - SUN at 04:25
+
+incident/offenses:
+
+RAPE // STRONG-ARM (HANDS,FISTS,FEET,ETC)
+
+disposition: OPEN CASE
+modified date: 02/17/16 - WED at 13:56
+date reported: 02/14/16 - SUN at 20:42
+general location:
+
+report #:
+
+160433
+
+SIGMA NU - Non-campus building or property
+
+date occurred from: 02/14/16 - SUN at 20:42
+date occurred to:
+
+02/14/16 - SUN at 20:55
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // FIRE ALARM - FALSE CALL
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/15/16 - MON at 03:09
+date reported: 02/14/16 - SUN at 20:55
+location:
+
+SIGMA NU, 1015 N. JORDAN AVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: CASE REPORT FOLLOWS.
+modified date: 02/14/16 - SUN at 20:56
+
+cad event #:
+
+16-02-14-003630
+
+

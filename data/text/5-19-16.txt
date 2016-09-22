@@ -1,0 +1,108 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/19/2016 00:00 to 05/19/2016 23:59
+date reported: 05/19/16 - THU at 02:03
+general location:
+
+report #:
+
+161340
+
+MATLOCK ROAD/WEST OF JORD - Public property
+
+date occurred from: 05/19/16 - THU at 02:00
+date occurred to:
+
+05/19/16 - THU at 02:03
+
+incident/offenses:
+
+NO OPER, CHAUFF, OR PUBLIC PASS LICENSE // DRIVING WHILE SUSPENDED // CITATIONS ISSUED ON
+TRAFFIC STOPS
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/19/16 - THU at 03:32
+date reported: 05/19/16 - THU at 07:32
+general location:
+
+report #:
+
+161342
+
+WYLIE HALL - On Campus
+
+date occurred from: 05/12/16 - THU at 07:45
+date occurred to:
+
+05/19/16 - THU at 07:30
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 05/20/16 - FRI at 08:21
+date reported: 05/19/16 - THU at 16:08
+general location:
+
+report #:
+
+161345
+
+GODFREY GRAD&EXEC CTR. - On Campus
+
+date occurred from: 05/19/16 - THU at 15:30
+date occurred to:
+
+05/19/16 - THU at 16:15
+
+incident/offenses:
+
+FIRE ALARMS - ACTUAL, NOT ARSON
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/19/16 - THU at 17:52
+date reported: 05/19/16 - THU at 17:27
+general location:
+
+report #:
+
+161346
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 05/19/16 - THU at 15:30
+date occurred to:
+
+05/19/16 - THU at 15:31
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 05/20/16 - FRI at 08:37
+date reported: 05/19/16 - THU at 23:23
+general location:
+
+report #:
+
+161347
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 05/19/16 - THU at 23:20
+date occurred to:
+
+05/19/16 - THU at 23:23
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/20/16 - FRI at 17:19
+
+

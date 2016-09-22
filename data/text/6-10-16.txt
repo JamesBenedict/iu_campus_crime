@@ -1,0 +1,27 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+from 06/10/2016 00:00 to 06/10/2016 23:59
+date reported: 06/10/16 - FRI at 16:19
+general location:
+
+report #:
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 06/03/16 - FRI at 19:00
+date occurred to:
+
+06/08/16 - WED at 17:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 06/10/16 - FRI at 17:13
+
+161430
+
+

@@ -25,6 +25,9 @@ disposition: CLOSED CASE- ARREST
 modified date: 01/05/16 - TUE at 14:05
 date reported: 01/05/16 - TUE at 11:29
 
+cad event #:
+
+date reported: 01/05/16 - TUE at 13:01
 
 report #:
 

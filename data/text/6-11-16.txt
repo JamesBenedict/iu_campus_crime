@@ -1,0 +1,134 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+from 06/11/2016 00:00 to 06/11/2016 23:59
+date reported: 06/11/16 - SAT at 00:35
+general location:
+
+report #:
+
+161432
+
+ALL OTHER NON-UNIVERSITY – Morton @ 7th St.
+
+date occurred from: 06/11/16 - SAT at 00:30
+date occurred to:
+
+06/11/16 - SAT at 00:35
+
+incident/offenses:
+
+PUBLIC INTOXICATION // FIRE ALARMS - ACTUAL FIRE, NOT ARSON // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 06/11/16 - SAT at 04:30
+date reported: 06/11/16 - SAT at 02:02
+general location:
+
+report #:
+
+161433
+
+ALL OTHER NON-UNIVERSITY – 1219 E Atwater
+
+date occurred from: 06/11/16 - SAT at 01:50
+date occurred to:
+
+06/11/16 - SAT at 02:02
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // ASSAULT- SIMPLE, NOT AGGRAVATED // DISORDERLY CONDUCT //
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/11/16 - SAT at 04:35
+date reported: 06/11/16 - SAT at 02:52
+general location:
+
+report #:
+
+161434
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 06/11/16 - SAT at 00:00
+date occurred to:
+
+06/11/16 - SAT at 02:52
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // ASSAULT- SIMPLE, NOT AGGRAVATED // DISORDERLY CONDUCT //
+PUBLIC INTOXICATION
+disposition: CLOSED CASE- ARREST
+modified date: 06/13/16 - MON at 09:03
+date reported: 06/11/16 - SAT at 10:07
+general location:
+
+report #:
+
+161435
+
+IU GOLF DRIVING RANGE - On Campus
+
+date occurred from: 06/10/16 - FRI at 22:00
+date occurred to:
+
+06/11/16 - SAT at 09:30
+
+incident/offenses:
+
+BURGLARY - ATTEMPTED FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 06/12/16 - SUN at 11:30
+date reported: 06/11/16 - SAT at 12:02
+general location:
+
+report #:
+
+IMU PAY LOT #1 - On Campus
+
+date occurred from: 06/11/16 - SAT at 06:10
+date occurred to:
+
+06/11/16 - SAT at 06:15
+
+incident/offenses:
+
+THEFT-AUTOS
+
+disposition: OPEN CASE
+modified date: 06/13/16 - MON at 08:20
+
+161436
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+from 06/11/2016 00:00 to 06/11/2016 23:59
+date reported: 06/11/16 - SAT at 12:19
+general location:
+
+report #:
+
+161441
+
+IMU PAY LOT #1 - On Campus
+
+date occurred from: 06/11/16 - SAT at 05:56
+date occurred to:
+
+06/11/16 - SAT at 05:58
+
+incident/offenses:
+
+BURGLARY - ATTEMPTED FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 06/13/16 - MON at 12:29
+
+

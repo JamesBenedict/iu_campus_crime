@@ -1,0 +1,101 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/05/2016 00:00 to 09/05/2016 23:59
+date reported: 09/05/16 - MON at 01:21
+general location:
+
+report #:
+
+162025
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 09/05/16 - MON at 01:21
+date occurred to:
+
+09/05/16 - MON at 01:23
+
+incident/offenses:
+
+TRAFFIC - NON-MOVING - NO OPER, CHAUFF, OR PUBLIC PASS LICENSE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/05/16 - MON at 02:47
+date reported: 09/05/16 - MON at 01:43
+general location:
+
+report #:
+
+162026
+
+GODFREY GRAD&EXEC CTR. - On Campus
+
+date occurred from: 09/05/16 - MON at 01:43
+date occurred to:
+
+09/05/16 - MON at 03:28
+
+incident/offenses:
+
+ALL OTHER OFFENSES - TRESPASS & MALICIOUS TRESPASS // BURGLARY - UNLAWFUL
+ENTRY - NO FORCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/06/16 - TUE at 08:38
+date reported: 09/05/16 - MON at 03:06
+general location:
+
+report #:
+
+162027
+
+FOSTER MARTIN HALL - On Campus - in any student residential facility
+
+date occurred from: 09/05/16 - MON at 02:30
+date occurred to:
+
+09/05/16 - MON at 03:00
+
+incident/offenses:
+
+ASSAULT- SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/06/16 - TUE at 08:34
+date reported: 09/05/16 - MON at 15:17
+general location:
+
+report #:
+
+162028
+
+SEMBOWER RECREATIONAL FIELD - On Campus
+
+date occurred from: 09/05/16 - MON at 15:13
+date occurred to:
+
+09/05/16 - MON at 15:27
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/05/16 - MON at 16:07
+date reported: 09/05/16 - MON at 23:25
+location:
+
+cad event #:
+
+16-09-05-018358
+
+TULIP TREE APTS., 2451 E. 10TH STREET, 11TH FLOOR - SOUTH WING
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/05/16 - MON at 23:45
+
+

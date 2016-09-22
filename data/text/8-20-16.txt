@@ -1,0 +1,528 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime log
+From 08/20/2016 00:00 to 08/20/2016 23:59
+date reported: 08/20/16 - SAT at 00:08
+general location:
+
+report #:
+
+161808
+
+FEE LANE/NORTH OF 10TH ST - Public property
+
+date occurred from: 08/20/16 - SAT at 00:08
+date occurred to:
+
+08/20/16 - SAT at 00:26
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/20/16 - SAT at 05:21
+date reported: 08/20/16 - SAT at 00:10
+general location:
+
+report #:
+
+161809
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/20/16 - SAT at 00:00
+date occurred to:
+
+08/20/16 - SAT at 00:15
+
+incident/offenses:
+
+ASSAULT - SIMPLE, NOT AGGRAVATED // LIQUOR LAWS - ILLEGAL
+POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/20/16 - SAT at 03:27
+date reported: 08/20/16 - SAT at 00:31
+general location:
+
+report #:
+
+161810
+
+ALL OTHER NON-UNIVERSITY – 400 BLK E 12TH
+
+date occurred from: 08/20/16 - SAT at 23:45
+date occurred to:
+
+08/20/16 - SAT at 00:32
+
+incident/offenses:
+
+ASSAULT - SIMPLE, NOT AGGRAVATED // LIQUOR LAWS - ILLEGAL
+POSSESSION/CONSUMPTION
+disposition: OPEN CASE
+modified date: 08/20/16 - SAT at 03:33
+date reported: 08/20/16 - SAT at 00:47
+general location:
+
+report #:
+
+161811
+
+PHI DELTA THETA - Non-campus building or property
+
+date occurred from: 08/20/16 - SAT at 00:47
+date occurred to:
+
+08/20/16 - SAT at 00:48
+
+incident/offenses:
+
+NARCOTIC/DRUG LAWS - POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/22/16 - MON at 10:00
+date reported: 08/20/16 - SAT at 01:17
+
+report #:
+
+161814
+
+general location:ALL OTHER NON-UNIVERSITY - 12TH & INDIANA
+date occurred from: 08/20/16 - SAT at 01:17
+date occurred to:
+
+08/20/16 - SAT at 02:32
+
+incident/offenses:
+
+DISTURBANCES - OTHER // DRUNKENNESS - PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/20/16 - SAT at 04:50
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime log
+From 08/20/2016 00:00 to 08/20/2016 23:59
+
+date reported: 08/20/16 - SAT at 01:20
+general location:
+
+report #:
+
+161812
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 08/19/16 - FRI at 23:00
+date occurred to:
+
+08/20/16 - SAT at 01:24
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/16 - MON at 09:55
+date reported: 08/20/16 - SAT at 01:52
+general location:
+
+report #:
+
+161813
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/20/16 - SAT at 01:45
+date occurred to:
+
+08/20/16 - SAT at 01:55
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/20/16 - SAT at 05:56
+date reported: 08/20/16 - SAT at 01:54
+location:
+
+cad event #:
+
+16-08-20-016743
+
+BRISCOE QUAD, 1225 N. FEE LANE, SHOEMAKER - BUS STOP
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 08/20/16 - SAT at 02:03
+date reported: 08/20/16 - SAT at 02:28
+general location:
+
+report #:
+
+161815
+
+WOODLAWN AVENUE/NORTH OF - Public property
+
+date occurred from: 08/20/16 - SAT at 02:27
+date occurred to:
+
+08/20/16 - SAT at 02:28
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/20/16 - SAT at 05:13
+date reported: 08/20/16 - SAT at 04:00
+general location:
+
+report #:
+
+161816
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/20/16 - SAT at 02:00
+date occurred to:
+
+08/20/16 - SAT at 04:05
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/20/16 - SAT at 05:29
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime log
+From 08/20/2016 00:00 to 08/20/2016 23:59
+
+date reported: 08/20/16 - SAT at 04:01
+general location:
+
+report #:
+
+161817
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 08/20/16 - SAT at 04:01
+date occurred to:
+
+08/20/16 - SAT at 04:31
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/20/16 - SAT at 05:01
+date reported: 08/20/16 - SAT at 11:34
+general location:
+
+report #:
+
+161820
+
+HEPBURN APTS - On Campus - in any student residential facility
+
+date occurred from: 08/20/16 - SAT at 11:34
+date occurred to:
+
+08/20/16 - SAT at 11:52
+
+incident/offenses:
+
+TRAFFIC - ACCIDENTS - TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 08/22/16 - MON at 09:52
+date reported: 08/20/16 - SAT at 13:55
+location:
+
+cad event #:
+
+16-08-20-016779
+
+VON LEE LOT, 100 BLOCK N. INDIANA AVE
+
+incident: ASSIST OTHER AGENCY
+final incident: DOMESTIC DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 08/20/16 - SAT at 14:43
+date reported: 08/20/16 - SAT at 14:19
+general location:
+
+report #:
+
+161822
+
+TULIP TREE APTS. - On Campus - in any student residential facility
+
+date occurred from: 08/18/16 - THU at 00:00
+date occurred to:
+
+08/18/16 - THU at 11:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 08/20/16 - SAT at 20:43
+date reported: 08/20/16 - SAT at 14:47
+location:
+
+cad event #:
+
+16-08-20-016785
+
+WILLKIE NORTH, 150 N. ROSE, 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/20/16 - SAT at 15:06
+date reported: 08/20/16 - SAT at 15:27
+location:
+
+cad event #:
+
+16-08-20-016789
+
+ALL OTHER NON-UNIVERSITY, , TRAVELODGE 2615 E 3RD
+
+incident: DISTURBANCES - OTHER
+final incident: DISTURBANCES - OTHER
+disposition: NO CASE REPORT
+modified date: 08/20/16 - SAT at 15:49
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime log
+From 08/20/2016 00:00 to 08/20/2016 23:59
+
+date reported:
+
+08/20/16 - SAT at 16:09
+
+general location:
+
+report #:
+
+161823
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 08/20/16 - SAT at 15:00
+date occurred to:
+
+08/20/16 - SAT at 16:07
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/20/16 - SAT at 20:48
+date reported: 08/20/16 - SAT at 19:05
+location:
+
+cad event #:
+
+16-08-20-016804
+
+ALL OTHER NON-UNIVERSITY, , PEOPLES PARK
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 08/20/16 - SAT at 19:15
+date reported: 08/20/16 - SAT at 21:38
+location:
+
+cad event #:
+
+16-08-20-016812
+
+FOSTER JENKINSON HALL, 1000 N. FEE LANE, 1ST FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: NO CASE REPORT
+modified date: 08/20/16 - SAT at 21:52
+date reported: 08/20/16 - SAT at 21:47
+general location:
+
+report #:
+
+161826
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/20/16 - SAT at 21:47
+date occurred to:
+
+08/20/16 - SAT at 22:12
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/21/16 - SUN at 01:11
+date reported: 08/20/16 - SAT at 21:52
+general location:
+
+report #:
+
+161827
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/20/16 - SAT at 21:52
+date occurred to:
+
+08/20/16 - SAT at 22:14
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/21/16 - SUN at 01:16
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime log
+From 08/20/2016 00:00 to 08/20/2016 23:59
+date reported: 08/20/16 - SAT at 22:01
+location:
+
+cad event #:
+
+16-08-20-016819
+
+BRISCOE QUAD, 1225 N. FEE LANE, CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: NO CASE REPORT
+modified date: 08/20/16 - SAT at 22:20
+date reported: 08/20/16 - SAT at 22:33
+general location:
+
+report #:
+
+161831
+
+13TH STREET PARKING LOT - On Campus
+
+date occurred from: 08/20/16 - SAT at 22:33
+date occurred to:
+
+08/20/16 - SAT at 23:05
+
+incident/offenses:
+
+ALL OTHER OFFENSES - ALL OTHER OFFENSES // ALL OTHER OFFENSES - RESISTING LAW
+ENFORCEMENT // LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/21/16 - SUN at 02:27
+date reported: 08/20/16 - SAT at 22:46
+general location:
+
+report #:
+
+161829
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 08/20/16 - SAT at 22:40
+date occurred to:
+
+08/20/16 - SAT at 22:52
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/16 - MON at 09:22
+date reported: 08/20/16 - SAT at 22:54
+location:
+
+cad event #:
+
+16-08-20-016822
+
+MCNUTT QUAD, 1101 N. FEE LANE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: NO CASE REPORT
+modified date: 08/20/16 - SAT at 23:17
+date reported: 08/20/16 - SAT at 23:20
+general location:
+
+report #:
+
+161830
+
+ASHTON COMMON AREA - On Campus
+
+date occurred from: 08/20/16 - SAT at 22:00
+date occurred to:
+
+08/20/16 - SAT at 23:20
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 08/22/16 - MON at 09:21
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime log
+From 08/20/2016 00:00 to 08/20/2016 23:59
+date reported: 08/20/16 - SAT at 23:48
+general location:
+
+report #:
+
+161833
+
+MCNUTT QUAD BACK LOT - On Campus
+
+date occurred from: 08/20/16 - SAT at 23:40
+date occurred to:
+
+08/21/16 - SUN at 23:48
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // ALL OTHER OFFENSES - TRESPASS
+& MALICIOUS TRESPASS // LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION // NARCOTIC/DRUG
+LAWS - POSSESSION - MARIJUANA
+disposition: CLOSED CASE- ARREST
+modified date: 08/21/16 - SUN at 03:15
+
+

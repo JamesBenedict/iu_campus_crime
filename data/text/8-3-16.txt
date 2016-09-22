@@ -1,0 +1,74 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+From 08/03/2016 00:00 to 08/03/2016 23:59
+
+date reported: 08/03/16 - WED at 01:10
+general location:
+
+report #:
+
+161692
+
+SHOWALTER FOUNTAIN - On Campus
+
+date occurred from: 08/03/15 - MON at 12:00
+date occurred to:
+
+08/03/16 - WED at 01:43
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT- ALL OTHER // LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/03/16 - WED at 23:41
+date reported: 08/03/16 - WED at 01:40
+general location:
+
+report #:
+
+161693
+
+MUSICAL ARTS CENTER - On Campus
+
+date occurred from: 07/03/16 - SUN at 01:00
+date occurred to:
+
+08/03/16 - WED at 01:30
+
+incident/offenses:
+
+VANDALISM - MISCHIEF
+
+disposition: OPEN CASE
+modified date: 08/03/16 - WED at 03:53
+date reported: 08/03/16 - WED at 13:34
+location:
+
+cad event #:
+
+16-08-03-015619
+
+BRYAN HALL, 107 S. INDIANA AVE.
+
+incident: COURIER
+final incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+disposition: NO CASE REPORT
+modified date: 08/03/16 - WED at 13:48
+date reported: 08/03/16 - WED at 17:55
+location:
+
+cad event #:
+
+ALL OTHER NON-UNIVERSITY, 1009 N ILLINOIS
+
+incident: ASSAULT- SIMPLE, NOT AGGRAVATED
+final incident: DISTURBANCES - OTHER
+disposition: NO CASE REPORT
+modified date: 08/03/16 - WED at 18:25
+
+16-08-03-015634
+
+

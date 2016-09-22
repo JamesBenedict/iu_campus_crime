@@ -1,0 +1,27 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 06/30/2016 00:00 to 06/30/2016 23:59
+date reported: 06/30/16 - THU at 14:27
+general location:
+
+report #:
+
+161538
+
+STONEBELT - Non-campus building or property
+
+date occurred from: 06/30/16 - THU at 14:27
+date occurred to:
+
+06/30/16 - THU at 15:53
+
+incident/offenses:
+
+ASSAULT - ASSAULT- SIMPLE, NOT AGGRAVATED // DISTURBANCES - OTHER
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/01/16 - FRI at 10:16
+
+

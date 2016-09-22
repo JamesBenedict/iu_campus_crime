@@ -1,0 +1,206 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/26/2016 00:00 to 04/26/2016 23:59
+date reported: 04/26/16 - TUE at 00:30
+general location:
+
+report #:
+
+161156
+
+JORDAN HALL - On Campus
+
+date occurred from: 04/25/16 - MON at 23:00
+date occurred to:
+
+04/25/16 - MON at 23:00
+
+incident/offenses:
+
+FALSE IDENTIFICATION // FOUND PROPERTY
+
+disposition: OPEN CASE
+modified date: 04/26/16 - TUE at 02:40
+date reported: 04/26/16 - TUE at 06:23
+general location:
+
+report #:
+
+161158
+
+MEMORIAL HALL - On Campus
+
+date occurred from: 03/26/16 - SAT at 06:15
+date occurred to:
+
+04/26/16 - TUE at 06:15
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 04/27/16 - WED at 12:28
+date reported: 04/26/16 - TUE at 07:24
+general location:
+
+report #:
+
+161159
+
+Sigma Alpha Epsilon - Non-campus building or property
+
+date occurred from: 04/26/16 - TUE at 00:00
+date occurred to:
+
+04/26/16 - TUE at 07:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/28/16 - THU at 05:33
+date reported: 04/26/16 - TUE at 08:21
+general location:
+
+report #:
+
+161160
+
+report #:
+
+161161
+
+509 E 3RD - On Campus
+
+date occurred from: 04/25/16 - MON at 17:00
+date occurred to:
+
+04/26/16 - TUE at 08:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/28/16 - THU at 05:33
+date reported: 04/26/16 - TUE at 08:54
+general location:
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/02/15 - THU at 02:25
+date occurred to:
+
+04/02/16 - TUE at 02:35
+
+incident/offenses:
+
+PEEPING
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/26/16 - TUE at 10:10
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/26/2016 00:00 to 04/26/2016 23:59
+date reported: 04/26/16 - TUE at 09:44
+general location:
+
+report #:
+
+161162
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 04/22/16 - FRI at 15:27
+date occurred to:
+
+04/22/16 - FRI at 15:39
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 04/28/16 - THU at 05:34
+date reported: 04/26/16 - TUE at 12:09
+general location:
+
+report #:
+
+161163
+
+815 N. JORDAN AVENUE - Non-campus building or property
+
+date occurred from: 04/21/16 - THU at 18:00
+date occurred to:
+
+04/22/16 - FRI at 12:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/28/16 - THU at 05:34
+date reported: 04/26/16 - TUE at 15:33
+general location:
+
+report #:
+
+161164
+
+TULIP TREE APTS. - On Campus - in any student residential facility
+
+date occurred from: 11/23/15 - MON at 06:00
+date occurred to:
+
+12/01/15 - TUE at 06:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 04/27/16 - WED at 10:54
+date reported: 04/26/16 - TUE at 17:12
+location:
+
+cad event #:
+
+16-04-26-009512
+
+PHI KAPPA PSI, 1200 N. JORDAN
+
+incident: TRESPASS & MALICIOUS TRESPASS
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: VERBAL WARNING ISSUED
+modified date: 04/26/16 - TUE at 17:57
+date reported: 04/26/16 - TUE at 18:06
+general location:
+
+report #:
+
+FOSTER BACK LOT - On Campus
+
+date occurred from: 04/25/16 - MON at 20:00
+date occurred to:
+
+04/26/16 - TUE at 18:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/26/16 - TUE at 20:28
+
+161166
+
+

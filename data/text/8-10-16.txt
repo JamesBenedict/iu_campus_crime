@@ -1,0 +1,100 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/10/2016 00:00 to 08/10/2016 23:59
+date reported: 08/10/16 - WED at 00:09
+general location:
+
+report #:
+
+161723
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 08/09/16 - TUE at 21:00
+date occurred to:
+
+08/09/16 - TUE at 23:40
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 08/10/16 - WED at 21:25
+date reported: 08/10/16 - WED at 10:45
+general location:
+
+report #:
+
+161725
+
+3RD STREET/EAST OF JORDAN - Public property
+
+date occurred from: 02/12/15 - THU at 04:30
+date occurred to:
+
+08/10/16 - WED at 10:45
+
+incident/offenses:
+
+LARCENY-THEFT - RECEIVING/POSSESSING STOLEN PROPERTY
+
+disposition: OPEN CASE
+modified date: 08/10/16 - WED at 13:34
+date reported: 08/10/16 - WED at 11:41
+general location:
+
+report #:
+
+161726
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/05/16 - FRI at 13:52
+date occurred to:
+
+08/07/16 - SUN at 10:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 08/12/16 - FRI at 10:32
+date reported: 08/10/16 - WED at 16:07
+location:
+
+cad event #:
+
+16-08-10-016067
+
+WOODLAWN AVENUE/SOUTH OF, SOUTH OF 10TH WOODLAWN AVENUE, 3RD/WOODLAWN
+
+incident: DISTURBANCES - OTHER
+final incident: DISTURBANCES - OTHER
+disposition: NO CASE REPORT
+modified date: 08/10/16 - WED at 16:36
+date reported: 08/10/16 - WED at 23:52
+general location:
+
+report #:
+
+161728
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 08/10/16 - WED at 23:52
+date occurred to:
+
+08/11/16 - THU at 00:06
+
+incident/offenses:
+
+ALL OTHER OFFENSES - TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/11/16 - THU at 09:16
+
+

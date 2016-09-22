@@ -1,0 +1,67 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 06/04/2016 00:00 to 06/04/2016 23:59
+date reported: 06/04/16 - SAT at 02:48
+general location:
+
+report #:
+
+161406
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 06/04/16 - SAT at 02:45
+date occurred to:
+
+06/04/16 - SAT at 02:48
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/06/16 - MON at 07:41
+date reported: 06/04/16 - SAT at 03:38
+general location:
+
+report #:
+
+161407
+
+HILLEL FOUNDATION - Non-campus building or property
+
+date occurred from: 06/04/16 - SAT at 03:35
+date occurred to:
+
+06/04/16 - SAT at 03:35
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 06/04/16 - SAT at 04:54
+date reported: 06/04/16 - SAT at 17:39
+general location:
+
+report #:
+
+161409
+
+ATHLETIC/PURPLE LOT - On Campus
+
+date occurred from: 06/04/16 - SAT at 15:30
+date occurred to:
+
+06/04/16 - SAT at 17:39
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: OPEN CASE
+modified date: 06/05/16 - SUN at 03:58
+
+

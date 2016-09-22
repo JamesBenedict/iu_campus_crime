@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 06/08/2016 00:00 to 06/08/2016 23:59
+date reported: 06/08/16 - WED at 06:54
+general location:
+
+report #:
+
+161420
+
+SWAIN HALL (E & W) - On Campus
+
+date occurred from: 06/01/16 - WED at 07:00
+date occurred to:
+
+06/08/16 - WED at 07:00
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 06/09/16 - THU at 09:57
+date reported: 06/08/16 - WED at 12:21
+general location:
+
+report #:
+
+161421
+
+MYERS HALL - On Campus
+
+date occurred from: 06/08/16 - WED at 12:21
+date occurred to:
+
+06/08/16 - WED at 12:21
+
+incident/offenses:
+
+TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/09/16 - THU at 10:01
+
+

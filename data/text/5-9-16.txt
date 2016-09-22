@@ -1,0 +1,156 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/09/2016 00:00 to 05/09/2016 23:59
+date reported: 05/09/16 - MON at 01:13
+general location:
+
+report #:
+
+161282
+
+ALL OTHER PARKING AREAS - On Campus
+
+date occurred from: 05/08/16 - SUN at 21:00
+date occurred to:
+
+05/09/16 - MON at 01:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 05/09/16 - MON at 02:28
+date reported: 05/09/16 - MON at 04:40
+general location:
+
+report #:
+
+161284
+
+CAMPUS VIEW APTS. - On Campus - in any student residential facility
+
+date occurred from: 05/09/16 - MON at 04:40
+date occurred to:
+
+05/09/16 - MON at 04:40
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/09/16 - MON at 06:37
+date reported: 05/09/16 - MON at 06:34
+general location:
+
+report #:
+
+161285
+
+POPLARS PARKING GARAGE - On Campus
+
+date occurred from: 05/09/16 - MON at 06:34
+date occurred to:
+
+05/09/16 - MON at 07:01
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition:
+
+CLOSED CASE- NO ARREST
+
+modified date: 05/09/16 - MON at 08:37
+date reported: 05/09/16 - MON at 09:50
+general location:
+
+report #:
+
+161286
+
+ALL OTHER PARKING AREAS - On Campus
+
+date occurred from: 04/25/16 - MON at 00:00
+date occurred to:
+
+05/09/16 - MON at 09:50
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: OPEN CASE
+modified date: 05/10/16 - TUE at 08:34
+date reported: 05/09/16 - MON at 15:14
+general location:
+
+report #:
+
+161292
+
+USA CYPRESS - On Campus - in any student residential facility
+
+date occurred from: 05/09/16 - MON at 10:00
+date occurred to:
+
+05/09/16 - MON at 15:00
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/09/16 - MON at 17:55
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/09/2016 00:00 to 05/09/2016 23:59
+date reported: 05/09/16 - MON at 16:38
+general location:
+
+report #:
+
+161294
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 05/09/16 - MON at 09:50
+date occurred to:
+
+05/09/16 - MON at 02:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 05/09/16 - MON at 17:29
+date reported: 05/09/16 - MON at 17:58
+general location:
+
+report #:
+
+ART MUSEUM - On Campus
+
+date occurred from: 05/09/16 - MON at 15:00
+date occurred to:
+
+05/09/16 - MON at 16:15
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: OPEN CASE
+modified date: 05/09/16 - MON at 20:07
+
+161296
+
+

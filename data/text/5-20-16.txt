@@ -1,0 +1,40 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/20/2016 00:00 to 05/20/2016 23:59
+date reported: 05/20/16 - FRI at 11:09
+location:
+
+cad event #:
+
+16-05-20-011234
+
+REDBUD E 100-800, 2100, 2100 E LINGELBACH WAY
+
+incident: VANDALISM, MISCHIEF
+final incident: VANDALISM, MISCHIEF
+disposition: NO CASE REPORT
+modified date: 05/20/16 - FRI at 15:54
+date reported: 05/20/16 - FRI at 13:52
+general location:
+
+report #:
+
+RADIO AND TV - On Campus
+
+date occurred from: 02/25/16 - THU at 12:00
+date occurred to:
+
+03/15/16 - TUE at 12:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 05/20/16 - FRI at 15:47
+
+161350
+
+

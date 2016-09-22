@@ -1,0 +1,50 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 06/02/2016 00:00 to 06/02/2016 23:59
+date reported: 06/02/16 - THU at 07:20
+general location:
+
+report #:
+
+161399
+
+LINDLEY HALL - On Campus
+
+date occurred from: 05/26/16 - THU at 07:20
+date occurred to:
+
+06/02/16 - THU at 07:20
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE // DAMAGED PROPERTY
+
+disposition: OPEN CASE
+modified date: 06/03/16 - FRI at 09:46
+date reported: 06/02/16 - THU at 15:52
+general location:
+
+report #:
+
+date occurred from: 06/02/16 - THU at 10:15
+date occurred to:
+
+06/02/16 - THU at 11:23
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition:
+
+161400
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+OPEN CASE
+
+modified date: 06/02/16 - THU at 18:02
+
+

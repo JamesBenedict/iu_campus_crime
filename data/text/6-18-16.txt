@@ -1,0 +1,28 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 06/18/2016 00:00 to 06/18/2016 23:59
+
+date reported: 06/18/16 - SAT at 17:44
+general location:
+
+report #:
+
+161474
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 06/18/16 - SAT at 17:40
+date occurred to:
+
+06/18/16 - SAT at 17:44
+
+incident/offenses:
+
+DISTURBANCES - OTHER // CITIZEN ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 06/19/16 - SUN at 05:31
+
+

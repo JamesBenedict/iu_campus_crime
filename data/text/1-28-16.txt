@@ -1,0 +1,80 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/28/2016 00:00 to 01/28/2016 23:59
+date reported: 01/28/16 - THU at 00:19
+general location:
+
+report #:
+
+160254
+
+ALL OTHER OPEN AREAS - On Campus
+
+date occurred from: 01/28/16 - THU at 00:09
+date occurred to:
+
+01/28/16 - THU at 00:19
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: REFERRED
+modified date: 01/29/16 - FRI at 09:43
+date reported: 01/28/16 - THU at 03:46
+general location:
+
+report #:
+
+160255
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 01/28/16 - THU at 03:40
+date occurred to:
+
+01/28/16 - THU at 03:46
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/31/16 - SUN at 02:19
+date reported: 01/28/16 - THU at 10:42
+location:
+
+cad event #:
+
+16-01-28-002082
+
+GILMORE LOT, 200 S. INDIANA AVE
+
+incident: THEFT FROM MOTOR VEHICLE
+final incident: Administrative entries and notes.
+disposition: NO CASE REPORT
+modified date: 01/28/16 - THU at 13:59
+date reported: 01/28/16 - THU at 18:44
+general location:
+
+report #:
+
+160265
+
+ALPHA PHI - Non-campus building or property
+
+date occurred from: 01/24/16 - SUN at 15:00
+date occurred to:
+
+01/28/16 - THU at 18:44
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 01/28/16 - THU at 22:15
+
+

@@ -1,0 +1,285 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/27/2016 00:00 to 08/27/2016 23:59
+date reported: 08/27/16 - SAT at 00:36
+general location:
+
+report #:
+
+161898
+
+WALNUT GROVE/NORTH OF 10TH - Public property
+
+date occurred from: 08/27/16 - SAT at 00:36
+date occurred to:
+
+08/27/16 - SAT at 01:03
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT- ALL OTHER // LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/16 - SAT at 20:05
+date reported: 08/27/16 - SAT at 00:39
+general location:
+
+report #:
+
+161901
+
+COLLINS EDMONDSON - On Campus - in any student residential facility
+
+date occurred from: 08/27/16 - SAT at 00:39
+date occurred to:
+
+08/27/16 - SAT at 01:32
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/16 - SAT at 20:07
+date reported: 08/27/16 - SAT at 00:45
+general location:
+
+report #:
+
+161899
+
+7TH STREET/EAST OF JORDAN - On Campus
+
+date occurred from: 08/27/16 - SAT at 00:45
+date occurred to:
+
+08/27/16 - SAT at 01:10
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/16 - SAT at 01:47
+date reported: 08/27/16 - SAT at 00:46
+general location:
+
+report #:
+
+161900
+
+FOSTER COMMON AREA - On Campus
+
+date occurred from: 08/27/16 - SAT at 00:46
+date occurred to:
+
+08/27/16 - SAT at 00:50
+
+incident/offenses:
+
+NARCOTIC/DRUG LAWS - POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/16 - SAT at 03:01
+date reported: 08/27/16 - SAT at 01:06
+general location:
+
+report #:
+
+161902
+
+Spruce Hall - On Campus - in any student residential facility
+
+date occurred from: 08/27/16 - SAT at 01:06
+date occurred to:
+
+08/27/16 - SAT at 01:10
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/16 - SAT at 03:50
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/27/2016 00:00 to 08/27/2016 23:59
+date reported: 08/27/16 - SAT at 02:15
+general location:
+
+report #:
+
+161903
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/27/16 - SAT at 02:15
+date occurred to:
+
+08/27/16 - SAT at 02:49
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/16 - SAT at 23:26
+date reported: 08/27/16 - SAT at 03:00
+general location:
+
+report #:
+
+161904
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/27/16 - SAT at 00:00
+date occurred to:
+
+08/27/16 - SAT at 03:00
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/27/16 - SAT at 04:42
+date reported: 08/27/16 - SAT at 11:58
+general location:
+
+report #:
+
+161907
+
+ATHLETIC/BLUE LOT - On Campus
+
+date occurred from: 08/26/16 - FRI at 16:00
+date occurred to:
+
+08/27/16 - SAT at 09:30
+
+incident/offenses:
+
+MOTOR VEHICLE THEFT - THEFT-AUTOS
+
+disposition: OPEN CASE
+modified date: 08/27/16 - SAT at 15:27
+date reported: 08/27/16 - SAT at 16:11
+general location:
+
+report #:
+
+161913
+
+PHI MU - Non-campus building or property
+
+date occurred from: 08/27/16 - SAT at 07:35
+date occurred to:
+
+08/27/16 - SAT at 16:39
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/28/16 - SUN at 15:34
+date reported: 08/27/16 - SAT at 16:17
+general location:
+
+report #:
+
+161914
+
+SEMBOWER RECREATIONAL FIELD - On Campus
+
+date occurred from: 08/27/16 - SAT at 16:14
+date occurred to:
+
+08/27/16 - SAT at 16:17
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/16 - SAT at 17:40
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/27/2016 00:00 to 08/27/2016 23:59
+date reported: 08/27/16 - SAT at 16:48
+general location:
+
+report #:
+
+161915
+
+EIGENMANN PARKING LOT - On Campus
+
+date occurred from: 08/27/16 - SAT at 16:48
+date occurred to:
+
+08/27/16 - SAT at 17:06
+
+incident/offenses:
+
+TRAFFIC - ACCIDENTS - TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/28/16 - SUN at 15:43
+date reported: 08/27/16 - SAT at 17:45
+general location:
+
+report #:
+
+161916
+
+46 BYPASS/WEST OF GOLF CO - Public property
+
+date occurred from: 08/27/16 - SAT at 17:40
+date occurred to:
+
+08/27/16 - SAT at 22:23
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // OFFENSE AGAINST FAMILY/CHILD - OFFENSES
+AGAINST FAMILY/CHILD
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/28/16 - SUN at 02:56
+date reported: 08/27/16 - SAT at 23:01
+location:
+
+cad event #:
+
+16-08-27-017524
+
+TETER QUAD, 501 N. SUNRISE, RABB 5TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/27/16 - SAT at 23:16
+date reported: 08/27/16 - SAT at 23:11
+location:
+
+cad event #:
+
+16-08-27-017525
+
+FEE LANE/NORTH OF 10TH ST, NORTH OF 10TH ST FEE LANE
+
+incident: DISTURBANCES - OTHER
+final incident: VANDALISM, MISCHIEF
+disposition: FAILED TO LOCATE
+modified date: 08/27/16 - SAT at 23:20
+
+

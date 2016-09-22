@@ -1,0 +1,80 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/10/2016 00:00 to 01/10/2016 23:59
+date reported: 01/10/16 - SUN at 01:58
+location:
+
+cad event #:
+
+16-01-10-000469
+
+COLLINS CRAVENS, 541 N WOODLAWN
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/10/16 - SUN at 02:12
+date reported: 01/10/16 - SUN at 21:35
+general location:
+
+report #:
+
+160038
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/10/16 - SUN at 21:30
+date occurred to:
+
+01/10/16 - SUN at 21:35
+
+incident/offenses:
+
+SALE/MANUFACTURING SYNTHETIC NARCOTICS // POSSESSION - MARIJUANA // POSSESSION - SYNTHETIC
+NARCOTICS // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/11/16 - MON at 14:05
+date reported: 01/10/16 - SUN at 21:35
+location:
+
+cad event #:
+
+16-01-10-000521
+
+WRIGHT QUAD, 501 N. JORDAN, PARKS - MEET IN CIRCLE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: CASE REPORT FOLLOWS.
+modified date: 01/10/16 - SUN at 23:38
+date reported: 01/10/16 - SUN at 22:33
+location:
+
+cad event #:
+
+16-01-10-000524
+
+MCNUTT QUAD, 1101 N. FEE LANE, DEJOYA 300 MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/10/16 - SUN at 22:48
+date reported: 01/10/16 - SUN at 23:00
+location:
+
+cad event #:
+
+16-01-10-000525
+
+READ CENTER, 125 S. JORDAN, CURRY 2- MEET AT CENTER DESK
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/10/16 - SUN at 23:18
+
+

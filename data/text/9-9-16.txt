@@ -1,0 +1,289 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/09/2016 00:00 to 09/09/2016 23:59
+date reported: 09/09/16 - FRI at 00:22
+location:
+
+cad event #:
+
+16-09-09-018657
+
+WILLKIE NORTH, 150 N. ROSE, FLOOR 2
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/09/16 - FRI at 00:34
+date reported: 09/09/16 - FRI at 00:59
+general location:
+
+report #:
+
+162072
+
+POPLARS PARKING GARAGE - On Campus
+
+date occurred from: 09/09/16 - FRI at 00:59
+date occurred to:
+
+09/09/16 - FRI at 01:35
+
+incident/offenses:
+
+ALL OTHER OFFENSES - TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/09/16 - FRI at 04:04
+date reported: 09/09/16 - FRI at 02:29
+general location:
+
+report #:
+
+162073
+
+6TH & DUNN PARKING LOT - On Campus
+
+date occurred from: 09/09/16 - FRI at 02:20
+date occurred to:
+
+09/09/16 - FRI at 02:35
+
+incident/offenses:
+
+NARCOTIC/DRUG LAWS - SALE/MANUFACTURING MARIJUANA
+
+disposition: OPEN CASE
+modified date: 09/09/16 - FRI at 11:49
+date reported: 09/09/16 - FRI at 11:01
+general location:
+
+report #:
+
+162077
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 09/09/16 - FRI at 06:00
+date occurred to:
+
+09/09/16 - FRI at 10:20
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/09/16 - FRI at 15:13
+date reported: 09/09/16 - FRI at 11:13
+general location:
+
+report #:
+
+162076
+
+IUPD STATION - On Campus
+
+date occurred from: 09/09/16 - FRI at 11:13
+date occurred to:
+
+09/09/16 - FRI at 11:14
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/12/16 - MON at 17:02
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/09/2016 00:00 to 09/09/2016 23:59
+date reported: 09/09/16 - FRI at 13:14
+general location:
+
+report #:
+
+162080
+
+MUSICAL ARTS CENTER - On Campus
+
+date occurred from: 09/09/16 - FRI at 13:14
+date occurred to:
+
+09/09/16 - FRI at 14:30
+
+incident/offenses:
+
+COURT SERVICE - COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/09/16 - FRI at 15:16
+date reported: 09/09/16 - FRI at 13:50
+general location:
+
+report #:
+
+162078
+
+TULIP TREE APTS. - On Campus - in any student residential facility
+
+date occurred from: 09/09/16 - FRI at 13:50
+date occurred to:
+
+09/09/16 - FRI at 14:10
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/12/16 - MON at 07:15
+date reported: 09/09/16 - FRI at 13:55
+general location:
+
+report #:
+
+162079
+
+1203 E MATLOCK-(FORMER CHURCH) - On Campus
+
+date occurred from: 09/07/16 - WED at 09:00
+date occurred to:
+
+09/09/16 - FRI at 13:00
+
+incident/offenses:
+
+TRAFFIC - ACCIDENTS - TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/12/16 - MON at 08:39
+date reported: 09/09/16 - FRI at 15:09
+general location:
+
+report #:
+
+162081
+
+Global & International Studies - On Campus
+
+date occurred from: 08/01/16 - MON at 08:00
+date occurred to:
+
+09/09/16 - FRI at 11:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/12/16 - MON at 17:04
+date reported: 09/09/16 - FRI at 18:35
+general location:
+
+report #:
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 09/08/16 - THU at 21:15
+date occurred to:
+
+09/09/16 - FRI at 18:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 09/09/16 - FRI at 21:13
+
+162085
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/09/2016 00:00 to 09/09/2016 23:59
+date reported: 09/09/16 - FRI at 20:44
+location:
+
+cad event #:16-09-09-018740
+
+ALL OTHER NON-UNIVERSITY, , 10TH @ LINCOLN
+
+incident: CITIZEN ASSIST
+final incident: DISTURBANCES - OTHER
+disposition: NO CASE REPORT
+modified date: 09/09/16 - FRI at 20:49
+date reported: 09/09/16 - FRI at 21:13
+location:
+
+cad event #:
+
+16-09-09-018744
+
+WILLKIE NORTH, 150 N. ROSE, CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: NO CASE REPORT
+modified date: 09/09/16 - FRI at 22:06
+date reported: 09/09/16 - FRI at 21:18
+general location:
+
+report #:
+
+162087
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 09/09/16 - FRI at 18:00
+date occurred to:
+
+09/09/16 - FRI at 21:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/09/16 - FRI at 23:12
+date reported: 09/09/16 - FRI at 23:14
+location:
+
+cad event #:
+
+16-09-09-018757
+
+FOSTER COMMON AREA, 1000 N. FEE LANE, MEET AT NORTHSIDE ON FOSTER DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/09/16 - FRI at 23:37
+date reported: 09/09/16 - FRI at 23:54
+general location:
+
+report #:
+
+162089
+
+JORDAN AVENUE/SOUTH OF 10 - Public property
+
+date occurred from: 09/09/16 - FRI at 23:54
+date occurred to:
+
+09/10/16 - SAT at 00:12
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/16 - MON at 09:42
+
+

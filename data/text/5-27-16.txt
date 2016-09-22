@@ -1,0 +1,107 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/27/2016 00:00 to 05/27/2016 23:59
+date reported: 05/27/16 - FRI at 00:07
+general location:
+
+report #:
+
+161374
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 05/26/16 - THU at 23:30
+date occurred to:
+
+05/27/16 - FRI at 00:07
+
+incident/offenses:
+
+LIQUOR LAWS - ALL OTHER // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/27/16 - FRI at 04:55
+date reported: 05/27/16 - FRI at 01:02
+general location:
+
+report #:
+
+161373
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 05/27/16 - FRI at 00:45
+date occurred to:
+
+05/27/16 - FRI at 01:02
+
+incident/offenses:
+
+BURGLARY - ATTEMPTED FORCIBLE ENTRY // THEFT FROM BUILDINGS // FOUND PROPERTY
+
+disposition: OPEN CASE
+modified date: 05/27/16 - FRI at 05:13
+date reported: 05/27/16 - FRI at 01:12
+general location:
+
+report #:
+
+161372
+
+MCCALLA SCHOOL - On Campus
+
+date occurred from: 05/27/16 - FRI at 01:00
+date occurred to:
+
+05/27/16 - FRI at 01:05
+
+incident/offenses:
+
+BURGLARY - ATTEMPTED FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 05/31/16 - TUE at 08:18
+date reported: 05/27/16 - FRI at 09:16
+general location:
+
+report #:
+
+161375
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 05/05/16 - THU at 07:00
+date occurred to:
+
+05/18/16 - WED at 07:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 05/28/16 - SAT at 08:07
+date reported: 05/27/16 - FRI at 23:27
+general location:
+
+report #:
+
+161376
+
+3RD STREET/EAST OF JORDAN - Public property
+
+date occurred from: 05/28/16 - SAT at 23:25
+date occurred to:
+
+05/28/16 - SAT at 23:57
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/28/16 - SAT at 00:47
+
+

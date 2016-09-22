@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 07/13/2016 00:00 to 07/13/2016 23:59
+date reported: 07/13/16 - WED at 04:01
+general location:
+
+report #:
+
+161589
+
+5TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 07/13/16 - WED at 04:01
+date occurred to:
+
+07/13/16 - WED at 04:35
+
+incident/offenses:
+
+DRUNKENNESS - PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/13/16 - WED at 10:55
+date reported: 07/13/16 - WED at 16:21
+general location:
+
+POPLARS - On Campus
+
+date occurred from: 07/13/16 - WED at 16:21
+date occurred to:
+
+07/13/16 - WED at 16:22
+
+incident/offenses:
+
+FRAUD - FRAUD
+
+disposition: OPEN CASE
+modified date: 07/13/16 - WED at 16:40
+
+report #:
+
+161595
+
+

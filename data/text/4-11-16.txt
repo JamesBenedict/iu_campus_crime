@@ -1,0 +1,134 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/11/2016 00:00 to 04/11/2016 23:59
+date reported: 04/11/16 - MON at 00:35
+general location:
+
+report #:
+
+160935
+
+HENDERSON PARKING GARAGE - On Campus
+
+date occurred from: 04/11/16 - MON at 00:25
+date occurred to:
+
+04/11/16 - MON at 00:35
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/11/16 - MON at 03:27
+date reported: 04/11/16 - MON at 12:44
+general location:
+
+report #:
+
+160939
+
+ASHTON HERSHEY HALL - On Campus - in any student residential facility
+
+date occurred from: 04/07/16 - THU at 12:46
+date occurred to:
+
+04/11/16 - MON at 14:00
+
+incident/offenses:
+
+SALE/MANUFACTURING COCAINE, OPIUM, DERIVATIVES
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/13/16 - WED at 13:23
+date reported: 04/11/16 - MON at 16:25
+general location:
+
+report #:
+
+160940
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/11/16 - MON at 16:00
+date occurred to:
+
+04/11/16 - MON at 17:00
+
+incident/offenses:
+
+SALE/MANUFACTURING SYNTHETIC NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/15/16 - FRI at 09:15
+date reported: 04/11/16 - MON at 16:44
+general location:
+
+report #:
+
+160941
+
+CROSSTOWN SHOP CTR - Non-campus building or property
+
+date occurred from: 04/11/16 - MON at 11:00
+date occurred to:
+
+04/11/16 - MON at 16:54
+
+incident/offenses:
+
+POSS-DANGEROUS NON-NARCOTICS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/12/16 - TUE at 09:17
+date reported: 04/11/16 - MON at 19:24
+general location:
+
+report #:
+
+160943
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 04/11/16 - MON at 16:30
+date occurred to:
+
+04/11/16 - MON at 17:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/12/16 - TUE at 04:01
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/11/2016 00:00 to 04/11/2016 23:59
+
+date reported: 04/11/16 - MON at 23:52
+general location:
+
+report #:
+
+160945
+
+SIGMA ALPHA MU - Non-campus building or property
+
+date occurred from: 04/11/16 - MON at 23:30
+date occurred to:
+
+04/11/16 - MON at 23:52
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // FIRE ALARM - FALSE CALL
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/12/16 - TUE at 08:52
+
+

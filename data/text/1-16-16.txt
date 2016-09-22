@@ -1,0 +1,220 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/16/2016 00:00 to 01/16/2016 23:59
+date reported: 01/16/16 - SAT at 00:17
+general location:
+
+report #:
+
+160101
+
+EIGENMANN PARKING LOT - On Campus
+
+date occurred from: 01/16/16 - SAT at 00:10
+date occurred to:
+
+01/16/16 - SAT at 00:17
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/16/16 - SAT at 02:25
+date reported: 01/16/16 - SAT at 01:12
+general location:
+
+report #:
+
+160104
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 01/16/16 - SAT at 01:12
+date occurred to:
+
+01/16/16 - SAT at 02:36
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION - SYNTHETIC NARCOTICS // POSSESSION OF DRUG
+PARAPHERNALIA
+disposition: CLOSED CASE- ARREST
+modified date: 01/19/16 - TUE at 10:28
+date reported: 01/16/16 - SAT at 01:35
+location:
+
+cad event #:
+
+16-01-16-001030
+
+MCNUTT QUAD, 1101 N. FEE LANE, CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/16/16 - SAT at 02:32
+date reported: 01/16/16 - SAT at 01:52
+location:
+
+cad event #:
+
+16-01-16-001031
+
+MCNUTT QUAD, 1101 N. FEE LANE, DEJOYA 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/16/16 - SAT at 02:05
+date reported: 01/16/16 - SAT at 02:05
+general location:
+
+report #:
+
+160103
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 01/16/16 - SAT at 02:05
+date occurred to:
+
+01/16/16 - SAT at 02:29
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/16/16 - SAT at 05:04
+date reported: 01/16/16 - SAT at 02:18
+general location:
+
+report #:
+
+160105
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/15/16 - FRI at 23:30
+date occurred to:
+
+01/16/16 - SAT at 02:18
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: REFERRED
+modified date: 01/16/16 - SAT at 06:14
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/16/2016 00:00 to 01/16/2016 23:59
+
+date reported: 01/16/16 - SAT at 02:26
+general location:
+
+report #:
+
+160106
+
+FOSTER JENKINSON HALL - On Campus - in any student residential facility
+
+date occurred from: 01/16/16 - SAT at 02:26
+date occurred to:
+
+01/16/16 - SAT at 03:09
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/16/16 - SAT at 05:26
+date reported: 01/16/16 - SAT at 03:04
+general location:
+
+report #:
+
+160107
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/16/16 - SAT at 03:04
+date occurred to:
+
+01/16/16 - SAT at 03:47
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 01/16/16 - SAT at 12:51
+date reported: 01/16/16 - SAT at 03:51
+general location:
+
+report #:
+
+160108
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 01/16/16 - SAT at 03:51
+date occurred to:
+
+01/16/16 - SAT at 04:57
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/20/16 - WED at 09:25
+date reported: 01/16/16 - SAT at 23:31
+general location:
+
+report #:
+
+160113
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/16/16 - SAT at 23:33
+date occurred to:
+
+01/17/16 - SUN at 00:07
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/17/16 - SUN at 02:25
+date reported: 01/16/16 - SAT at 23:47
+general location:
+
+report #:
+
+160114
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 01/16/16 - SAT at 23:40
+date occurred to:
+
+01/16/16 - SAT at 23:47
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION - SYNTHETIC NARCOTICS // SUSPICIOUS PERSON OR
+VEHICLE
+disposition: CLOSED CASE- ARREST
+modified date: 01/19/16 - TUE at 10:59
+
+

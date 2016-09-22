@@ -1,0 +1,60 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 06/25/2016 00:00 to 06/25/2016 23:59
+date reported: 06/25/16 - SAT at 00:00
+location:
+
+cad event #:
+
+16-06-25-013213
+
+TETER QUAD, 501 N. SUNRISE, RAAB - MEET ON CIRCLE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 06/25/16 - SAT at 00:12
+date reported: 06/25/16 - SAT at 08:53
+general location:
+
+report #:
+
+161515
+
+12TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 06/25/16 - SAT at 08:30
+date occurred to:
+
+06/25/16 - SAT at 08:35
+
+incident/offenses:
+
+THEFT- ALL OTHER
+
+disposition: OPEN CASE
+modified date: 06/25/16 - SAT at 14:01
+date reported: 06/25/16 - SAT at 15:29
+general location:
+
+report #:
+
+161516
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 06/25/16 - SAT at 00:00
+date occurred to:
+
+06/25/16 - SAT at 15:31
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 06/25/16 - SAT at 17:49
+
+

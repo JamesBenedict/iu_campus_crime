@@ -1,0 +1,353 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/18/2016 00:00 to 08/18/2016 23:59
+date reported: 08/18/16 - THU at 01:02
+general location:
+
+report #:
+
+161772
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 08/18/16 - THU at 01:02
+date occurred to:
+
+08/18/16 - THU at 01:49
+
+incident/offenses:
+
+DRUNKENNESS - PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/18/16 - THU at 05:14
+date reported: 08/18/16 - THU at 01:45
+general location:
+
+report #:
+
+161773
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 08/18/16 - THU at 01:45
+date occurred to:
+
+08/18/16 - THU at 02:08
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/18/16 - THU at 04:37
+date reported: 08/18/16 - THU at 02:03
+location:
+
+cad event #:
+
+16-08-18-016520
+
+INDIANA AVENUE/SOUTH OF 1OTH STR, SOUTH OF 1OTH STR INDIANA AVENUE, SAMPLE
+
+incident: ASSAULT- SIMPLE, NOT AGGRAVATED
+final incident: ASSAULT- SIMPLE, NOT AGGRAVATED
+disposition: FAILED TO LOCATE
+modified date: 08/18/16 - THU at 02:20
+date reported: 08/18/16 - THU at 02:19
+location:
+
+cad event #:
+
+16-08-18-016521
+
+SUNRISE AVE/SOUTH OF 10TH, SOUTH OF 10TH SUNRISE AVE
+
+incident: VANDALISM, MISCHIEF
+final incident: SUSPICIOUS PERSON OR VEHICLE
+disposition: FAILED TO LOCATE
+modified date: 08/18/16 - THU at 04:11
+date reported: 08/18/16 - THU at 02:41
+general location:
+
+report #:
+
+161774
+
+FEE LANE/NORTH OF 10TH ST - Public property
+
+date occurred from: 08/18/16 - THU at 02:41
+date occurred to:
+
+08/18/16 - THU at 03:00
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/18/16 - THU at 11:44
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/18/2016 00:00 to 08/18/2016 23:59
+
+date reported: 08/18/16 - THU at 03:17
+general location:
+
+report #:
+
+161775
+
+JORDAN AVENUE/SOUTH OF 10 - Public property
+
+date occurred from: 08/18/16 - THU at 03:17
+date occurred to:
+
+08/18/16 - THU at 04:32
+
+incident/offenses:
+
+DRUNK DRIVING // LIQUOR LAWS - ILLEGAL
+POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/18/16 - THU at 08:01
+date reported: 08/18/16 - THU at 05:35
+general location:
+
+report #:
+
+161776
+
+SHOWALTER FOUNTAIN - On Campus
+
+date occurred from: 08/18/16 - THU at 05:35
+date occurred to:
+
+08/18/16 - THU at 06:17
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/18/16 - THU at 10:37
+date reported: 08/18/16 - THU at 05:51
+general location:
+
+report #:
+
+161777
+
+AUDITORIUM - On Campus
+
+date occurred from: 08/18/16 - THU at 05:51
+date occurred to:
+
+08/18/16 - THU at 06:27
+
+incident/offenses:
+
+VANDALISM - MISCHIEF
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/19/16 - FRI at 09:15
+date reported: 08/18/16 - THU at 06:31
+general location:
+
+report #:
+
+161778
+
+LAW SCHOOL - On Campus
+
+date occurred from: 08/18/16 - THU at 06:31
+date occurred to:
+
+08/18/16 - THU at 06:31
+
+incident/offenses:
+
+DRUNKENNESS - PUBLIC INTOXICATION // NARCOTIC/DRUG LAWS - POSSESSION COCAINE, OPIUM, DERIVATIVE
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/18/16 - THU at 09:48
+date reported: 08/18/16 - THU at 09:06
+general location:
+
+report #:
+
+161779
+
+RADIO AND TV - On Campus
+
+date occurred from: 08/17/16 - WED at 11:09
+date occurred to:
+
+08/17/16 - WED at 11:12
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 08/18/16 - THU at 09:35
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/18/2016 00:00 to 08/18/2016 23:59
+date reported: 08/18/16 - THU at 11:28
+location:
+
+cad event #:
+
+16-08-18-016559
+
+EIGENMANN HALL, 1900 E. 10TH STREET
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: NO CASE REPORT
+modified date: 08/18/16 - THU at 11:28
+date reported: 08/18/16 - THU at 13:49
+general location:
+
+report #:
+
+161781
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 08/09/16 - TUE at 06:00
+date occurred to:
+
+08/18/16 - THU at 14:17
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 08/19/16 - FRI at 09:28
+date reported: 08/18/16 - THU at 14:22
+general location:
+
+report #:
+
+161782
+
+IUPD STATION - On Campus
+
+date occurred from: 04/22/16 - FRI at 08:00
+date occurred to:
+
+08/18/16 - THU at 14:58
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 08/18/16 - THU at 16:35
+date reported: 08/18/16 - THU at 14:42
+location:
+
+cad event #:
+
+16-08-18-016575
+
+MCNUTT QUAD BACK LOT,
+
+incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 08/18/16 - THU at 15:16
+date reported: 08/18/16 - THU at 15:16
+general location:
+
+report #:
+
+161783
+
+STUDENT SERVICES - On Campus
+
+date occurred from: 08/18/16 - THU at 15:16
+date occurred to:
+
+08/18/16 - THU at 15:37
+
+incident/offenses:
+
+TRAFFIC - ACCIDENTS - TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/19/16 - FRI at 10:25
+date reported: 08/18/16 - THU at 20:10
+location:
+
+cad event #:
+
+16-08-18-016603
+
+OUTDOOR POOL, 1490 N. FEE LANE, MEET IN FRONT LOBBY
+
+incident: TRESPASS & MALICIOUS TRESPASS
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: NO CASE REPORT
+modified date: 08/18/16 - THU at 20:34
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/18/2016 00:00 to 08/18/2016 23:59
+
+date reported: 08/18/16 - THU at 21:16
+general location:
+
+report #:
+
+161784
+
+ALL OTHER NON-UNIVERSITY – 11TH @ WALNUT
+
+date occurred from: 08/18/16 - THU at 21:16
+date occurred to:
+
+08/18/16 - THU at 21:45
+
+incident/offenses:
+
+DRUNK DRIVING // NARCOTIC/DRUG LAWS - POSSESSION SYNTHETIC NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/16 - MON at 10:06
+date reported: 08/18/16 - THU at 23:21
+general location:
+
+report #:
+
+161788
+
+ARBORETUM-SOUTH OF 10TH & FEE LN - On Campus
+
+date occurred from: 08/18/16 - THU at 23:10
+date occurred to:
+
+08/18/16 - THU at 23:22
+
+incident/offenses:
+
+DRUNKENNESS - PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/16 - MON at 10:09
+
+

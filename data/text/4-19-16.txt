@@ -1,0 +1,127 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/19/2016 00:00 to 04/19/2016 23:59
+date reported: 04/19/16 - TUE at 07:55
+general location:
+
+report #:
+
+161070
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 04/19/16 - TUE at 08:00
+date occurred to:
+
+04/19/16 - TUE at 08:05
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // PERSONAL INJURY
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/20/16 - WED at 11:57
+date reported: 04/19/16 - TUE at 09:41
+general location:
+
+report #:
+
+161071
+
+IU GOLF COURSE - On Campus
+
+date occurred from: 04/16/16 - SAT at 22:00
+date occurred to:
+
+04/17/16 - SUN at 08:00
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 04/19/16 - TUE at 13:22
+date reported: 04/19/16 - TUE at 10:04
+general location:
+
+report #:
+
+161072
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/19/16 - TUE at 01:04
+date occurred to:
+
+04/19/16 - TUE at 07:34
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: OPEN CASE
+modified date: 04/20/16 - WED at 18:01
+date reported: 04/19/16 - TUE at 13:17
+general location:
+
+report #:
+
+161074
+
+BICKNELL APTS - On Campus - in any student residential facility
+
+date occurred from: 04/17/16 - SUN at 15:15
+date occurred to:
+
+04/17/16 - SUN at 18:15
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 04/19/16 - TUE at 15:06
+date reported: 04/19/16 - TUE at 17:03
+location:
+
+cad event #:
+
+16-04-19-008920
+
+ATHLETIC/WHITE LOT, 1500/1600 BLOCK N. DUNN STREET, NEAR BUS SHELTER 17TH & DUNN
+
+incident: VANDALISM, MISCHIEF
+final incident: CITIZEN ASSIST
+disposition: NO CASE REPORT
+modified date: 04/19/16 - TUE at 17:41
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/19/2016 00:00 to 04/19/2016 23:59
+
+date reported: 04/19/16 - TUE at 23:36
+general location:
+
+report #:
+
+161077
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/19/16 - TUE at 23:36
+date occurred to:
+
+04/20/16 - WED at 00:20
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/20/16 - WED at 12:23
+
+

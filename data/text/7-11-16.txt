@@ -1,0 +1,46 @@
+Indiana University Northwest
+
+Police Department
+Daily Crime Log Report
+From 07/11/2016 00:00 to 07/11/2016 23:59
+
+date reported: 07/11/16 - MON at 17:20
+general location:
+
+report #:
+
+160462
+
+OFF-CAMPUS - 35TH @ VAN BUREN
+
+date occurred from: 07/11/16 - MON at 17:20
+date occurred to:
+
+07/11/16 - MON at 17:48
+
+incident/offenses:
+
+Vehicle Stop // DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE - ARREST
+modified date: 07/12/16 - TUE at 08:00
+date reported: 07/11/16 - MON at 19:32
+
+report #:
+
+160463
+
+general location:OFF-CAMPUS - 3600 WASHINGTON
+date occurred from: 07/11/16 - MON at 19:32
+date occurred to:
+
+07/11/16 - MON at 20:08
+
+incident/offenses:
+
+Vehicle Stop // DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE - ARREST
+modified date: 07/12/16 - TUE at 08:00
+
+

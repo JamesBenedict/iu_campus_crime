@@ -1,0 +1,86 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/16/2016 00:00 to 09/16/2016 23:59
+date reported: 09/16/16 - FRI at 07:48
+location:
+
+cad event #:
+
+16-09-16-019341
+
+JUSTICE BUILDING, 301 N. COLLEGE AVE
+
+incident: COURIER
+final incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+disposition: NO CASE REPORT
+modified date: 09/16/16 - FRI at 08:11
+date reported: 09/16/16 - FRI at 12:03
+location:
+
+cad event #:
+
+16-09-16-019364
+
+ATWATER PARKING GARAGE, 925 E. ATWATER AVE, 2ND FLOOR
+
+incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 09/16/16 - FRI at 13:31
+date reported: 09/16/16 - FRI at 22:08
+location:
+
+cad event #:
+
+16-09-16-019414
+
+MCNUTT QUAD, 1101 N. FEE LANE, CRONE 200. RA WILL MEET IN CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/16/16 - FRI at 22:23
+date reported: 09/16/16 - FRI at 23:09
+general location:
+
+report #:
+
+162179
+
+FOREST QUAD WEST LOT - On Campus
+
+date occurred from: 09/16/16 - FRI at 23:09
+date occurred to:
+
+09/16/16 - FRI at 23:40
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/19/16 - MON at 10:19
+date reported: 09/16/16 - FRI at 23:21
+general location:
+
+report #:
+
+162177
+
+FEE LANE/NORTH OF 10TH ST - Public property
+
+date occurred from: 09/16/16 - FRI at 23:21
+date occurred to:
+
+09/16/16 - FRI at 23:39
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/17/16 - SAT at 05:47
+
+

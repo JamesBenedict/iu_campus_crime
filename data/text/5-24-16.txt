@@ -1,0 +1,28 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/24/2016 00:00 to 05/24/2016 23:59
+
+date reported: 05/24/16 - TUE at 21:12
+general location:
+
+report #:
+
+161364
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 05/23/16 - MON at 12:00
+date occurred to:
+
+05/24/16 - TUE at 21:30
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 05/25/16 - WED at 01:27
+
+

@@ -1,0 +1,110 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 06/06/2016 00:00 to 06/06/2016 23:59
+date reported: 06/06/16 - MON at 07:05
+general location:
+
+report #:
+
+161413
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 06/02/16 - THU at 08:30
+date occurred to:
+
+06/06/16 - MON at 07:05
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 06/07/16 - TUE at 10:28
+date reported: 06/06/16 - MON at 09:24
+general location:
+
+report #:
+
+161416
+
+RADIO AND TV - On Campus
+
+date occurred from: 06/01/16 - WED at 12:00
+date occurred to:
+
+06/06/16 - MON at 09:20
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 06/06/16 - MON at 13:35
+date reported: 06/06/16 - MON at 09:41
+general location:
+
+report #:
+
+161414
+
+WYLIE HALL - On Campus
+
+date occurred from: 06/05/16 - SUN at 20:45
+date occurred to:
+
+06/05/16 - SUN at 20:48
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 06/06/16 - MON at 16:21
+date reported: 06/06/16 - MON at 09:41
+general location:
+
+report #:
+
+161415
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 06/05/16 - SUN at 20:40
+date occurred to:
+
+06/05/16 - SUN at 00:00
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition:
+
+OPEN CASE
+
+modified date: 06/07/16 - TUE at 10:41
+date reported: 06/06/16 - MON at 11:33
+general location:
+
+report #:
+
+MCCALLA SCHOOL - On Campus
+
+date occurred from: 06/02/16 - THU at 16:30
+date occurred to:
+
+06/02/16 - THU at 22:30
+
+incident/offenses:
+
+THEFT- ALL OTHER
+
+disposition: OPEN CASE
+modified date: 06/07/16 - TUE at 09:34
+
+161417
+
+

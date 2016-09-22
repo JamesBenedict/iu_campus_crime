@@ -1,0 +1,154 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 02/24/2016 00:00 to 02/24/2016 23:59
+date reported: 02/24/16 - WED at 10:42
+general location:
+
+report #:
+
+160522
+
+STUDENT BUILDING - On Campus
+
+date occurred from: 02/22/16 - MON at 09:00
+date occurred to:
+
+02/23/16 - TUE at 15:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 02/29/16 - MON at 11:27
+date reported: 02/24/16 - WED at 12:34
+general location:
+
+report #:
+
+160527
+
+ASHTON STEMPEL HALL - On Campus - in any student residential facility
+
+date occurred from: 02/24/16 - WED at 12:30
+date occurred to:
+
+02/24/16 - WED at 12:34
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/25/16 - THU at 14:43
+date reported: 02/24/16 - WED at 13:29
+general location:
+
+report #:
+
+160525
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 02/23/16 - TUE at 18:35
+date occurred to:
+
+03/24/16 - THU at 15:30
+
+incident/offenses:
+
+SALE/MANUFACTURING SYNTHETIC NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/31/16 - THU at 15:01
+date reported: 02/24/16 - WED at 13:47
+general location:
+
+report #:
+
+160528
+
+BRISCOE QUAD BACK LOT - On Campus
+
+date occurred from: 02/24/16 - WED at 13:00
+date occurred to:
+
+02/24/16 - WED at 13:50
+
+incident/offenses:
+
+FALSE IDENTIFICATION // FOUND PROPERTY
+
+disposition: OPEN CASE
+modified date: 02/26/16 - FRI at 15:04
+date reported: 02/24/16 - WED at 14:18
+general location:
+
+report #:
+
+SRSC - On Campus
+
+date occurred from: 02/11/16 - THU at 19:45
+date occurred to:
+
+02/16/16 - TUE at 11:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 02/29/16 - MON at 11:51
+
+160530
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 02/24/2016 00:00 to 02/24/2016 23:59
+
+date reported: 02/24/16 - WED at 16:40
+general location:
+
+report #:
+
+160534
+
+4TH & DUNN PARKING LOT - On Campus
+
+date occurred from: 02/24/16 - WED at 14:20
+date occurred to:
+
+02/24/16 - WED at 16:20
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 02/25/16 - THU at 16:24
+date reported: 02/24/16 - WED at 18:37
+general location:
+
+report #:
+
+160536
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 02/24/16 - WED at 16:30
+date occurred to:
+
+02/24/16 - WED at 18:37
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 02/26/16 - FRI at 22:00
+
+

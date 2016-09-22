@@ -1,0 +1,158 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/14/2016 00:00 to 01/14/2016 23:59
+date reported: 01/14/16 - THU at 00:04
+location:
+
+cad event #:
+
+16-01-14-000791
+
+FOREST QUAD, 1725 E. 3RD STREET, A TOWER FLOOR 10
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/14/16 - THU at 00:21
+date reported: 01/14/16 - THU at 01:47
+general location:
+
+report #:
+
+160074
+
+4TH & DUNN PARKING LOT - On Campus
+
+date occurred from: 01/14/16 - THU at 01:30
+date occurred to:
+
+01/14/16 - THU at 01:47
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/14/16 - THU at 04:19
+date reported: 01/14/16 - THU at 08:31
+general location:
+
+report #:
+
+160075
+
+SPEECH & HEARING CLINIC - On Campus
+
+date occurred from: 01/12/16 - TUE at 12:30
+date occurred to:
+
+01/14/16 - THU at 08:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 01/14/16 - THU at 10:53
+date reported: 01/14/16 - THU at 12:01
+location:
+
+cad event #:
+
+16-01-14-000824
+
+17TH STREET/WEST OF JORDAN, , BLUE LOT GATE 2
+
+incident: Vehicle Stop
+final incident: DRIVING WHILE SUSPENDED
+disposition: ISSUED CITATION(s) ONLY
+modified date: 01/16/16 - SAT at 13:14
+date reported: 01/14/16 - THU at 19:50
+general location:
+
+report #:
+
+160084
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/14/16 - THU at 19:30
+date occurred to:
+
+01/14/16 - THU at 20:10
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/16/16 - SAT at 20:37
+date reported: 01/14/16 - THU at 21:34
+location:
+
+cad event #:
+
+16-01-14-000888
+
+TETER QUAD, 501 N. SUNRISE, WISSLER 5TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/14/16 - THU at 21:48
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/14/2016 00:00 to 01/14/2016 23:59
+date reported: 01/14/16 - THU at 22:03
+location:
+
+cad event #:
+
+16-01-14-000889
+
+MCNUTT QUAD, 1101 N. FEE LANE, CRONE 3
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/14/16 - THU at 22:22
+date reported: 01/14/16 - THU at 22:47
+general location:
+
+report #:
+
+160087
+
+READ CENTER COMMON AREA - On Campus
+
+date occurred from: 01/14/16 - THU at 22:47
+date occurred to:
+
+01/14/16 - THU at 22:47
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: REFERRED
+modified date: 01/19/16 - TUE at 10:57
+date reported: 01/14/16 - THU at 23:21
+location:
+
+cad event #:
+
+READ CENTER, 125 S. JORDAN, CURRY 5
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/14/16 - THU at 23:36
+
+16-01-14-000901
+
+

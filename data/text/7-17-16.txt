@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 07/17/2016 00:00 to 07/17/2016 23:59
+date reported: 07/17/16 - SUN at 14:08
+general location:
+
+report #:
+
+161609
+
+IUPD STATION - On Campus
+
+date occurred from: 08/31/16 - WED at 14:32
+date occurred to:
+
+07/17/16 - SUN at 14:27
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 07/17/16 - SUN at 16:02
+date reported: 07/17/16 - SUN at 20:32
+general location:
+
+report #:
+
+161610
+
+SRSC - On Campus
+
+date occurred from: 07/17/16 - SUN at 19:45
+date occurred to:
+
+07/17/16 - SUN at 20:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 07/18/16 - MON at 00:27
+
+

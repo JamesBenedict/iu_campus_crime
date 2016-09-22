@@ -1,0 +1,87 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 07/20/2016 00:00 to 07/20/2016 23:59
+date reported: 07/20/16 - WED at 13:05
+general location:
+
+report #:
+
+161625
+
+ALL OTHER CAMPUS BUILDING - Non-campus building or property
+
+date occurred from: 07/20/16 - WED at 13:05
+date occurred to:
+
+07/20/16 - WED at 13:28
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 07/21/16 - THU at 07:13
+date reported: 07/20/16 - WED at 16:47
+general location:
+
+report #:
+
+161626
+
+LAKE LEMON - IU PROPERTY - Non-reportable Location
+
+date occurred from: 07/19/16 - TUE at 13:00
+date occurred to:
+
+07/20/16 - WED at 16:00
+
+incident/offenses:
+
+BURGLARY - BURGLARY - FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 07/21/16 - THU at 11:56
+date reported: 07/20/16 - WED at 18:19
+general location:
+
+report #:
+
+161627
+
+HODGE HALL (BUSINESS BUILDING) - On Campus
+
+date occurred from: 07/20/16 - WED at 09:00
+date occurred to:
+
+07/20/16 - WED at 11:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 07/20/16 - WED at 19:57
+date reported: 07/20/16 - WED at 21:36
+general location:
+
+report #:
+
+161628
+
+CAMPUS VIEW APTS. - On Campus - in any student residential facility
+
+date occurred from: 07/20/16 - WED at 13:10
+date occurred to:
+
+07/20/16 - WED at 13:13
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 07/21/16 - THU at 08:20
+
+

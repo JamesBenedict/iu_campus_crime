@@ -1,0 +1,40 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/09/2016 00:00 to 08/09/2016 23:59
+date reported: 08/09/16 - TUE at 12:41
+location:
+
+cad event #:
+
+16-08-09-015979
+
+NELSON BUILDING, 801 N JORDAN AVE
+
+incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+final incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+disposition: NO CASE REPORT
+modified date: 08/09/16 - TUE at 13:24
+date reported: 08/09/16 - TUE at 23:15
+general location:
+
+report #:
+
+161722
+
+SHOWALTER FOUNTAIN - On Campus
+
+date occurred from: 08/09/16 - TUE at 23:10
+date occurred to:
+
+08/09/16 - TUE at 23:20
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // DISORDERLY CONDUCT
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/10/16 - WED at 01:33
+
+

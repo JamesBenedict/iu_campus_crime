@@ -1,0 +1,113 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/27/2016 00:00 to 01/27/2016 23:59
+date reported: 01/27/16 - WED at 02:21
+general location:
+
+report #:
+
+160239
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 01/27/16 - WED at 02:21
+date occurred to:
+
+01/27/16 - WED at 02:43
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/27/16 - WED at 04:47
+date reported: 01/27/16 - WED at 16:10
+general location:
+
+report #:
+
+160245
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/27/16 - WED at 16:05
+date occurred to:
+
+01/27/16 - WED at 16:10
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: REFERRED
+modified date: 01/28/16 - THU at 09:24
+date reported: 01/27/16 - WED at 17:02
+location:
+
+cad event #:
+
+16-01-27-002017
+
+MCNUTT QUAD, 1101 N. FEE LANE, BRYAN 375 CIRCLE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/27/16 - WED at 23:47
+date reported: 01/27/16 - WED at 19:55
+general location:
+
+report #:
+
+160247
+
+FOSTER MAGEE HALL - On Campus - in any student residential facility
+
+date occurred from: 01/27/16 - WED at 15:03
+date occurred to:
+
+01/27/16 - WED at 19:10
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 01/28/16 - THU at 17:54
+date reported: 01/27/16 - WED at 21:47
+general location:
+
+report #:
+
+160249
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 01/27/16 - WED at 21:48
+date occurred to:
+
+01/27/16 - WED at 22:25
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/28/16 - THU at 04:16
+date reported: 01/27/16 - WED at 22:26
+location:
+
+cad event #:
+
+16-01-27-002047
+
+SPRUCE HALL, 1801 E. JONES AVE, 4TH FLOOR SOUTH SIDE FLAGPOLE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/27/16 - WED at 23:39
+
+

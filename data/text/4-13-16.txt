@@ -1,0 +1,265 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/13/2016 00:00 to 04/13/2016 23:59
+date reported: 04/13/16 - WED at 00:27
+location:
+
+cad event #:
+
+16-04-13-008212
+
+FOSTER HARPER HALL, 1000 N. FEE LANE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/13/16 - WED at 03:41
+date reported: 04/13/16 - WED at 01:49
+general location:
+
+report #:
+
+160966
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/13/16 - WED at 01:49
+date occurred to:
+
+04/13/16 - WED at 01:49
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/13/16 - WED at 21:00
+date reported: 04/13/16 - WED at 02:07
+general location:
+
+report #:
+
+160967
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/13/16 - WED at 02:00
+date occurred to:
+
+04/13/16 - WED at 02:07
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // PUBLIC INTOXICATION // ASSIST OTHER AGENCY
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/13/16 - WED at 04:47
+date reported: 04/13/16 - WED at 04:57
+general location:
+
+report #:
+
+160968
+
+KIRKWOOD HALL - On Campus
+
+date occurred from: 04/13/16 - WED at 04:50
+date occurred to:
+
+04/13/16 - WED at 04:57
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // PUBLIC INTOXICATION // POSSESSION COCAINE,OPIUM,DERIVATIVE
+disposition: CLOSED CASE- ARREST
+modified date: 04/14/16 - THU at 08:29
+date reported: 04/13/16 - WED at 11:02
+general location:
+
+report #:
+
+160969
+
+HODGE HALL (BUSINESS BUILDING) - On Campus
+
+date occurred from: 04/12/16 - TUE at 09:30
+date occurred to:
+
+04/12/16 - TUE at 11:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/14/16 - THU at 05:34
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/13/2016 00:00 to 04/13/2016 23:59
+date reported: 04/13/16 - WED at 12:55
+general location:
+
+report #:
+
+161062
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/13/16 - WED at 12:55
+date occurred to:
+
+04/13/16 - WED at 12:55
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/18/16 - MON at 08:23
+date reported: 04/13/16 - WED at 13:48
+general location:
+
+report #:
+
+160972
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 04/13/16 - WED at 13:48
+date occurred to:
+
+04/13/16 - WED at 15:00
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/13/16 - WED at 16:37
+date reported: 04/13/16 - WED at 15:03
+general location:
+
+report #:
+
+160971
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/13/16 - WED at 11:50
+date occurred to:
+
+04/13/16 - WED at 12:00
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/14/16 - THU at 07:05
+date reported: 04/13/16 - WED at 15:32
+general location:
+
+report #:
+
+160973
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 04/13/16 - WED at 15:32
+date occurred to:
+
+04/13/16 - WED at 15:37
+
+incident/offenses:
+
+PUBLIC INTOXICATION // POSSESSION - COCAINE,OPIUM,DERIVATIVE // POSSESSION - SYNTHETIC
+NARCOTICS
+disposition: CLOSED CASE- ARREST
+modified date: 04/13/16 - WED at 21:29
+date reported: 04/13/16 - WED at 16:35
+general location:
+
+report #:
+
+160975
+
+ASHTON VOS HALL - On Campus - in any student residential facility
+
+date occurred from: 04/06/16 - WED at 18:00
+date occurred to:
+
+04/13/16 - WED at 16:30
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 04/13/16 - WED at 19:05
+date reported: 04/13/16 - WED at 19:53
+general location:
+
+report #:
+
+160977
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/13/16 - WED at 19:50
+date occurred to:
+
+04/13/16 - WED at 19:54
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION - SYNTHETIC NARCOTICS // POSSESSION OF DRUG
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/13/2016 00:00 to 04/13/2016 23:59
+PARAPHERNALIA
+disposition: CLOSED CASE- ARREST
+modified date: 04/13/16 - WED at 23:06
+
+date reported: 04/13/16 - WED at 21:23
+location:
+
+cad event #:
+
+16-04-13-008285
+
+SRSC, 1601 LAW LANE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/13/16 - WED at 22:40
+date reported: 04/13/16 - WED at 22:00
+general location:
+
+report #:
+
+160978
+
+DEVAULT ALUMNI - On Campus
+
+date occurred from: 04/13/16 - WED at 22:00
+date occurred to:
+
+04/13/16 - WED at 22:10
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/14/16 - THU at 00:33
+
+

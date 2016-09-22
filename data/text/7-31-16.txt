@@ -1,0 +1,82 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+from 07/31/2016 00:00 to 07/31/2016 23:59
+date reported: 07/31/16 - SUN at 11:43
+general location:
+
+report #:
+
+161676
+
+ALPHA XI DELTA - Non-campus building or property
+
+date occurred from: 07/31/16 - SUN at 11:44
+date occurred to:
+
+07/31/16 - SUN at 11:53
+
+incident/offenses:
+
+ASSAULT - AGGRAVATED INJURY- HANDS, FISTS, FEET, ETC // DISTURBANCES - DOMESTIC
+DISTURBANCES
+
+disposition: OPEN CASE
+modified date: 08/01/16 - MON at 11:45
+date reported: 07/31/16 - SUN at 14:07
+general location:
+
+report #:
+
+161677
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 07/31/16 - SUN at 12:00
+date occurred to:
+
+07/31/16 - SUN at 14:05
+
+incident/offenses:
+
+DRUNK DRIVING // TRAFFIC - NON-MOVING - DRIVING WHILE
+SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/01/16 - MON at 12:21
+date reported: 07/31/16 - SUN at 16:51
+location:
+
+cad event #:
+
+16-07-31-015394
+
+FOREST QUAD, 1725 E. 3RD, 9TH FLOOR - MEET AT B TOWER
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 07/31/16 - SUN at 17:10
+date reported: 07/31/16 - SUN at 17:36
+general location:
+
+report #:
+
+161679
+
+ALL OTHER NON-UNIVERSITY - 400 N MORTON
+
+date occurred from: 07/31/16 - SUN at 17:36
+date occurred to:
+
+07/31/16 - SUN at 18:05
+
+incident/offenses:
+
+DISTURBANCES - OTHER
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/02/16 - TUE at 03:32
+
+

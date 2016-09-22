@@ -1,0 +1,259 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/24/2016 00:00 to 01/24/2016 23:59
+date reported: 01/24/16 - SUN at 00:14
+general location:
+
+report #:
+
+160203
+
+INDIANA AVENUE/SOUTH OF 1OTH STR - Public property
+
+date occurred from: 01/24/16 - SUN at 00:10
+date occurred to:
+
+01/24/16 - SUN at 00:14
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // OTHER DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 01/25/16 - MON at 23:53
+date reported: 01/24/16 - SUN at 00:52
+general location:
+
+report #:
+
+160204
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/24/16 - SUN at 00:45
+date occurred to:
+
+01/24/16 - SUN at 00:52
+
+incident/offenses:
+
+HANDS, FISTS, FEET,ETC-AGGRAVATED INJURY // DISORDERLY CONDUCT // ILLEGAL
+POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/26/16 - TUE at 11:27
+date reported: 01/24/16 - SUN at 01:30
+location:
+
+cad event #:
+
+16-01-24-001701
+
+WRIGHT QUAD, 501 N. JORDAN, HOUSE 17
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/24/16 - SUN at 03:18
+date reported: 01/24/16 - SUN at 02:09
+general location:
+
+report #:
+
+160209
+
+WALNUT GROVE/NORTH OF 10TH - Public property
+
+date occurred from: 01/24/16 - SUN at 02:00
+date occurred to:
+
+01/24/16 - SUN at 02:10
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // ILLEGAL POSSESSION/CONSUMPTION // POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/26/16 - TUE at 11:34
+date reported: 01/24/16 - SUN at 02:12
+location:
+
+cad event #:
+
+16-01-24-001705
+
+10TH STREET/EAST OF JORDA, EAST OF JORDAN 10TH STREET, 10TH STREET PARKING LOT
+
+incident: DOMESTIC DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 01/26/16 - TUE at 15:47
+date reported: 01/24/16 - SUN at 02:24
+general location:
+
+report #:
+
+160206
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/24/16 - SUN at 02:24
+date occurred to:
+
+01/24/16 - SUN at 02:47
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/24/16 - SUN at 04:51
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/24/2016 00:00 to 01/24/2016 23:59
+
+date reported: 01/24/16 - SUN at 02:30
+general location:
+
+report #:
+
+160210
+
+FOREST QUAD COMMON AREA - On Campus
+
+date occurred from: 01/24/16 - SUN at 02:30
+date occurred to:
+
+01/24/16 - SUN at 04:18
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: OPEN CASE
+modified date: 01/26/16 - TUE at 11:43
+date reported: 01/24/16 - SUN at 03:08
+general location:
+
+report #:
+
+160207
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 01/24/16 - SUN at 03:08
+date occurred to:
+
+01/24/16 - SUN at 03:29
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/26/16 - TUE at 11:46
+date reported: 01/24/16 - SUN at 03:08
+location:
+
+cad event #:
+
+16-01-24-001710
+
+Phi Sigma Kappa, 702 E. 3RD STREET
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: DAMAGED PROPERTY
+disposition: CASE REPORT FOLLOWS.
+modified date: 01/24/16 - SUN at 03:41
+date reported: 01/24/16 - SUN at 12:00
+general location:
+
+report #:
+
+160211
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/24/16 - SUN at 07:50
+date occurred to:
+
+01/24/16 - SUN at 09:20
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 01/26/16 - TUE at 10:35
+date reported: 01/24/16 - SUN at 14:27
+general location:
+
+report #:
+
+JORDAN HALL - On Campus
+
+date occurred from: 01/24/16 - SUN at 12:45
+date occurred to:
+
+01/24/16 - SUN at 14:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 01/26/16 - TUE at 12:46
+
+160212
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/24/2016 00:00 to 01/24/2016 23:59
+date reported: 01/24/16 - SUN at 19:37
+location:
+
+cad event #:
+
+16-01-24-001744
+
+ASHTON STEMPEL HALL, 1794 E. 10TH STREET, BASEMENT FLOOR- MEET AT SUNRISE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/24/16 - SUN at 19:51
+date reported: 01/24/16 - SUN at 22:13
+location:
+
+cad event #:
+
+16-01-24-001748
+
+WILLKIE SOUTH, 150 S. ROSE, 118B
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/24/16 - SUN at 22:27
+date reported: 01/24/16 - SUN at 23:51
+location:
+
+cad event #:
+
+16-01-24-001757
+
+BRISCOE QUAD, 1225 N. FEE LANE, GUCKER-7 MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/25/16 - MON at 00:09
+
+

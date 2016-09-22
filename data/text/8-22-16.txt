@@ -1,0 +1,132 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/22/2016 00:00 to 08/22/2016 23:59
+date reported: 08/22/16 - MON at 08:31
+general location:
+
+report #:
+
+161842
+
+AMERICAN HISTORY REVIEW - On Campus
+
+date occurred from: 08/22/16 - MON at 07:50
+date occurred to:
+
+08/22/16 - MON at 08:05
+
+incident/offenses:
+
+BURGLARY - FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 08/23/16 - TUE at 08:00
+date reported: 08/22/16 - MON at 14:35
+location:
+
+cad event #:
+
+16-08-22-016933
+
+ALL OTHER OPEN AREAS, OUTSIDE STUDENT BUILDING
+
+incident: HARASSMENT/INTIMIDATION
+final incident: DISTURBANCE
+disposition: NO CASE REPORT
+modified date: 08/22/16 - MON at 14:52
+date reported: 08/22/16 - MON at 14:57
+location:
+
+cad event #:
+
+16-08-22-016934
+
+BALLANTINE HALL, 1020 E. KIRKWOOD
+
+incident: THEFT FROM BUILDINGS
+final incident: THEFT FROM BUILDINGS
+disposition: NO CASE REPORT
+modified date: 08/22/16 - MON at 17:08
+date reported: 08/22/16 - MON at 16:11
+location:
+
+cad event #:
+
+16-08-22-016938
+
+USA BEECH HALL, 1801 E. 7TH
+
+incident: ASSAULT- SIMPLE, NOT AGGRAVATED
+final incident: ASSAULT- SIMPLE, NOT AGGRAVATED
+disposition: NO CASE REPORT
+modified date: 08/22/16 - MON at 16:42
+date reported: 08/22/16 - MON at 17:26
+general location:
+
+report #:
+
+161847
+
+DELTA DELTA DELTA - Non-campus building or property
+
+date occurred from: 08/22/16 - MON at 08:00
+date occurred to:
+
+08/22/16 - MON at 17:34
+
+incident/offenses:
+
+FRAUD
+
+disposition: OPEN CASE
+modified date: 08/23/16 - TUE at 00:44
+date reported: 08/22/16 - MON at 19:46
+general location:
+
+report #:
+
+161848
+
+SRSC - On Campus
+
+date occurred from: 08/22/16 - MON at 19:00
+date occurred to:
+
+08/22/16 - MON at 19:05
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 08/23/16 - TUE at 02:58
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/22/2016 00:00 to 08/22/2016 23:59
+date reported: 08/22/16 - MON at 20:22
+general location:
+
+report #:
+
+161849
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 08/22/16 - MON at 19:30
+date occurred to:
+
+08/22/16 - MON at 20:15
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 08/23/16 - TUE at 08:29
+
+

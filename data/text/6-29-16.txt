@@ -1,0 +1,67 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 06/29/2016 00:00 to 06/29/2016 23:59
+date reported: 06/29/16 - WED at 10:56
+general location:
+
+report #:
+
+161528
+
+USA LINDEN HALL - On Campus - in any student residential facility
+
+date occurred from: 06/29/16 - WED at 00:01
+date occurred to:
+
+06/29/16 - WED at 01:00
+
+incident/offenses:
+
+LARCENY-THEFT – THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 06/30/16 - THU at 10:30
+date reported: 06/29/16 - WED at 11:59
+general location:
+
+report #:
+
+161529
+
+NEAL MARSHALL CENTER - On Campus
+
+date occurred from: 06/14/16 - TUE at 11:59
+date occurred to:
+
+06/14/16 - TUE at 12:12
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 06/29/16 - WED at 15:10
+date reported: 06/29/16 - WED at 13:03
+general location:
+
+report #:
+
+161530
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 06/28/16 - TUE at 15:00
+date occurred to:
+
+06/29/16 - WED at 12:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 06/30/16 - THU at 10:47
+
+

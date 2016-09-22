@@ -1,0 +1,179 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/10/2016 00:00 to 03/10/2016 23:59
+date reported: 03/10/16 - THU at 02:27
+general location:
+
+report #:
+
+160670
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/10/16 - THU at 02:30
+date occurred to:
+
+03/10/16 - THU at 02:35
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 17:30
+date reported: 03/10/16 - THU at 05:27
+general location:
+
+report #:
+
+160672
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/10/16 - THU at 05:15
+date occurred to:
+
+03/10/16 - THU at 05:33
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/16 - FRI at 17:32
+date reported: 03/10/16 - THU at 07:49
+general location:
+
+report #:
+
+160673
+
+WYLIE HALL - On Campus
+
+date occurred from: 02/10/16 - WED at 08:00
+date occurred to:
+
+03/10/16 - THU at 07:49
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 03/11/16 - FRI at 17:33
+date reported: 03/10/16 - THU at 11:23
+general location:
+
+report #:
+
+160677
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/10/16 - THU at 02:30
+date occurred to:
+
+03/10/16 - THU at 10:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/11/16 - FRI at 17:36
+date reported: 03/10/16 - THU at 14:41
+general location:
+
+report #:
+
+160679
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/09/16 - WED at 16:30
+date occurred to:
+
+03/09/16 - WED at 18:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/10/16 - THU at 18:45
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/10/2016 00:00 to 03/10/2016 23:59
+date reported: 03/10/16 - THU at 16:47
+general location:
+
+report #:
+
+160682
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 03/08/16 - TUE at 15:00
+date occurred to:
+
+03/10/16 - THU at 16:47
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 03/10/16 - THU at 19:16
+date reported: 03/10/16 - THU at 19:30
+location:
+
+cad event #:
+
+16-03-10-005795
+
+ASHTON VOS HALL, 1786 E. 10TH STREET, 1ST FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/10/16 - THU at 19:43
+date reported: 03/10/16 - THU at 20:36
+location:
+
+cad event #:
+
+16-03-10-005796
+
+DELTA UPSILON, 1200 E. 3RD STREET
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARM - FALSE CALL
+disposition: NO CASE REPORT
+modified date: 03/10/16 - THU at 20:45
+date reported: 03/10/16 - THU at 23:40
+general location:
+
+report #:
+
+160685
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 03/10/16 - THU at 22:45
+date occurred to:
+
+03/10/16 - THU at 23:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/11/16 - FRI at 17:42
+
+

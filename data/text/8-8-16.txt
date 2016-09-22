@@ -1,0 +1,87 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+From 08/08/2016 00:00 to 08/08/2016 23:59
+
+date reported: 08/08/16 - MON at 11:48
+location:
+
+cad event #:
+
+16-08-08-015907
+
+Spruce Hall, 1801 E. JONES AVE, MAIN ENTRANCE BY FLAG POLE
+
+incident: THEFT-BICYCLES
+final incident: THEFT-BICYCLES
+disposition: NO CASE REPORT
+modified date: 08/08/16 - MON at 12:19
+date reported: 08/08/16 - MON at 12:05
+general location:
+
+report #:
+
+161717
+
+CROSSTOWN SHOP CTR - Non-campus building or property
+
+date occurred from: 08/08/16 - MON at 12:05
+date occurred to:
+
+08/08/16 - MON at 12:10
+
+incident/offenses:
+
+ASSAULT - SIMPLE, NOT AGGRAVATED // DISTURBANCES - DOMESTIC DISTURBANCES
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/08/16 - MON at 17:27
+date reported: 08/08/16 - MON at 14:46
+location:
+
+cad event #:
+
+16-08-08-015913
+
+7TH STREET/WEST OF JORDAN, 400 7TH STREET
+
+incident: DISTURBANCES - OTHER
+final incident: DISTURBANCES - OTHER
+disposition: NO CASE REPORT
+modified date: 08/08/16 - MON at 14:52
+date reported: 08/08/16 - MON at 16:15
+location:
+
+cad event #:
+
+16-08-08-015918
+
+MAXWELL HALL, 750 E. KIRKWOOD
+
+incident: MISSING PERSON
+final incident: MISSING PERSON
+disposition: FAILED TO LOCATE
+modified date: 08/08/16 - MON at 21:38
+date reported: 08/08/16 - MON at 16:59
+general location:
+
+report #:
+
+161719
+
+FOSTER SHEA HALL - On Campus - in any student residential facility
+
+date occurred from: 08/06/16 - SAT at 12:00
+date occurred to:
+
+08/08/16 - MON at 17:00
+
+incident/offenses:
+
+BURGLARY - UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 08/09/16 - TUE at 04:47
+
+

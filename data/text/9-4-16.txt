@@ -1,0 +1,287 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/04/2016 00:00 to 09/04/2016 23:59
+date reported: 09/04/16 - SUN at 00:28
+general location:
+
+report #:
+
+162009
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/04/16 - SUN at 00:10
+date occurred to:
+
+09/04/16 - SUN at 00:30
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/04/16 - SUN at 04:37
+date reported: 09/04/16 - SUN at 00:50
+general location:
+
+report #:
+
+162010
+
+SEMBOWER RECREATIONAL FIELD - On Campus
+
+date occurred from: 09/04/16 - SUN at 00:50
+date occurred to:
+
+09/04/16 - SUN at 01:42
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // LIQUOR LAWS - ILLEGAL
+POSSESSION/CONSUMPTION // NARCOTIC/DRUG LAWS - POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/04/16 - SUN at 03:21
+date reported: 09/04/16 - SUN at 01:33
+general location:
+
+report #:
+
+162011
+
+ALL OTHER NON-UNIVERSITY – AMERICA’S BEST VALUE INN
+
+date occurred from: 09/04/16 - SUN at 01:33
+date occurred to:
+
+09/04/16 - SUN at 01:35
+
+incident/offenses:
+
+ALL OTHER OFFENSES - RESISTING LAW ENFORCEMENT
+
+disposition: OPEN CASE
+modified date: 09/04/16 - SUN at 04:25
+date reported: 09/04/16 - SUN at 01:55
+general location:
+
+report #:
+
+162014
+
+FOSTER MAGEE HALL - On Campus - in any student residential facility
+
+date occurred from: 09/04/16 - SUN at 01:55
+date occurred to:
+
+09/04/16 - SUN at 03:12
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/04/16 - SUN at 05:32
+date reported: 09/04/16 - SUN at 01:56
+general location:
+
+report #:
+
+162013
+
+Spruce Hall - On Campus - in any student residential facility
+
+date occurred from: 09/04/16 - SUN at 01:59
+date occurred to:
+
+09/04/16 - SUN at 02:37
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/04/16 - SUN at 03:59
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/04/2016 00:00 to 09/04/2016 23:59
+date reported: 09/04/16 - SUN at 02:02
+general location:
+
+report #:
+
+162012
+
+ASHTON COMMON AREA - On Campus
+
+date occurred from: 09/04/16 - SUN at 01:00
+date occurred to:
+
+09/04/16 - SUN at 02:02
+
+incident/offenses:
+
+DRUNKENNESS - PUBLIC INTOXICATION // LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/06/16 - TUE at 09:21
+date reported: 09/04/16 - SUN at 03:03
+general location:
+
+report #:
+
+162015
+
+DUNN MEADOW-SE OF 7TH & INDIANA AVE - On Campus
+
+date occurred from: 09/04/16 - SUN at 03:00
+date occurred to:
+
+09/04/16 - SUN at 03:13
+
+incident/offenses:
+
+DRUNKENNESS - PUBLIC INTOXICATION // LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/04/16 - SUN at 04:28
+date reported: 09/04/16 - SUN at 04:18
+general location:
+
+report #:
+
+162016
+
+VON LEE LOT - On Campus
+
+date occurred from: 09/04/16 - SUN at 04:18
+date occurred to:
+
+09/04/16 - SUN at 04:25
+
+incident/offenses:
+
+ALL OTHER OFFENSES - TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/04/16 - SUN at 05:23
+date reported: 09/04/16 - SUN at 19:45
+location:
+
+cad event #:
+
+16-09-04-018275
+
+FOREST QUAD, 1725 E. 3RD
+
+incident: THEFT FROM MOTOR VEHICLE
+final incident: THEFT FROM MOTOR VEHICLE
+disposition: NO CASE REPORT
+modified date: 09/04/16 - SUN at 19:58
+date reported: 09/04/16 - SUN at 21:18
+general location:
+
+report #:
+
+162019
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/04/16 - SUN at 21:18
+date occurred to:
+
+09/04/16 - SUN at 21:33
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 09/05/16 - MON at 01:46
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/04/2016 00:00 to 09/04/2016 23:59
+date reported: 09/04/16 - SUN at 21:58
+general location:
+
+report #:
+
+162020
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 09/04/16 - SUN at 21:58
+date occurred to:
+
+09/04/16 - SUN at 22:43
+
+incident/offenses:
+
+ASSAULT- SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 09/06/16 - TUE at 08:44
+date reported: 09/04/16 - SUN at 22:24
+general location:
+
+report #:
+
+162021
+
+VON LEE LOT - On Campus
+
+date occurred from: 09/04/16 - SUN at 22:22
+date occurred to:
+
+09/04/16 - SUN at 22:24
+
+incident/offenses:
+
+ALL OTHER OFFENSES - TRESPASS & MALICIOUS TRESPASS // DISORDERLY CONDUCT - DISORDERLY
+CONDUCT
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/05/16 - MON at 01:34
+date reported: 09/04/16 - SUN at 22:47
+location:
+
+cad event #:
+
+16-09-04-018289
+
+Spruce Hall, 1801 E. JONES AVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/04/16 - SUN at 23:25
+date reported: 09/04/16 - SUN at 23:16
+general location:
+
+report #:
+
+162024
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/04/16 - SUN at 22:15
+date occurred to:
+
+09/05/16 - MON at 23:15
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/06/16 - TUE at 09:10
+
+

@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+From 07/22/2016 00:00 to 07/22/2016 23:59
+date reported: 07/22/16 - FRI at 04:33
+general location:
+
+report #:
+
+161634
+
+KILROYS PARKING LOT (EAST) - On Campus
+
+date occurred from: 07/22/16 - FRI at 04:00
+date occurred to:
+
+07/22/16 - FRI at 04:20
+
+incident/offenses:
+
+ASSAULT -SIMPLE, NOT AGGRAVATED // ROBBERY - FIREARM
+
+disposition: OPEN CASE
+modified date: 07/25/16 - MON at 10:14
+date reported: 07/22/16 - FRI at 11:21
+general location:
+
+report #:
+
+161635
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 07/22/16 - FRI at 08:00
+date occurred to:
+
+07/22/16 - FRI at 11:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT-BICYCLES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/25/16 - MON at 10:13
+
+

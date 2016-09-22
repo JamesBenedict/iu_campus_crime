@@ -1,0 +1,87 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 07/16/2016 00:00 to 07/16/2016 23:59
+date reported: 07/16/16 - SAT at 05:42
+general location:
+
+report #:
+
+161605
+
+MCCALLA SCHOOL - On Campus
+
+date occurred from: 07/16/16 - SAT at 05:42
+date occurred to:
+
+07/16/16 - SAT at 06:31
+
+incident/offenses:
+
+BURGLARY - BURGLARY - FORCIBLE ENTRY // VANDALISM - VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 07/16/16 - SAT at 14:48
+date reported: 07/16/16 - SAT at 11:00
+general location:
+
+report #:
+
+161606
+
+46 BYPASS/WEST OF GOLF CO - Public property
+
+date occurred from: 07/06/16 - WED at 14:00
+date occurred to:
+
+07/06/16 - WED at 14:30
+
+incident/offenses:
+
+TRAFFIC - ACCIDENTS - TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 07/17/16 - SUN at 17:32
+date reported: 07/16/16 - SAT at 12:16
+general location:
+
+report #:
+
+161607
+
+LAKE LEMON - IU PROPERTY - Non-reportable Location
+
+date occurred from: 07/13/16 - WED at 17:00
+date occurred to:
+
+07/16/16 - SAT at 12:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT- ALL OTHER
+
+disposition: OPEN CASE
+modified date: 07/16/16 - SAT at 13:54
+date reported: 07/16/16 - SAT at 15:52
+general location:
+
+report #:
+
+161608
+
+MILO SAMPSON ROAD - Public property
+
+date occurred from: 07/16/16 - SAT at 15:50
+date occurred to:
+
+07/16/16 - SAT at 15:52
+
+incident/offenses:
+
+TRAFFIC - ACCIDENTS - TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 07/16/16 - SAT at 19:34
+
+

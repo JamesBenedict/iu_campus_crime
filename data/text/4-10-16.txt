@@ -1,0 +1,40 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/10/2016 00:00 to 04/10/2016 23:59
+date reported: 04/10/16 - SUN at 00:19
+general location:
+
+report #:
+
+160931
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 04/10/16 - SUN at 00:19
+date occurred to:
+
+04/10/16 - SUN at 00:19
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/10/16 - SUN at 03:18
+date reported: 04/10/16 - SUN at 22:36
+location:
+
+cad event #:
+
+16-04-10-008011
+
+ASHTON STEMPEL HALL, 1794 E. 10TH STREET, 2ND FLOOR MEET AT SERVICE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/10/16 - SUN at 22:54
+
+

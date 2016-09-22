@@ -1,0 +1,278 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/25/2016 00:00 to 08/25/2016 23:59
+date reported: 08/25/16 - THU at 03:24
+general location:
+
+report #:
+
+161875
+
+BRYAN HALL - On Campus
+
+date occurred from: 08/25/16 - THU at 03:24
+date occurred to:
+
+08/25/16 - THU at 03:24
+
+incident/offenses:
+
+DRUNKENNESS - PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/25/16 - THU at 06:12
+date reported: 08/25/16 - THU at 06:59
+general location:
+
+report #:
+
+161876
+
+WILLKIE COMMON AREA - On Campus
+
+date occurred from: 08/25/16 - THU at 06:50
+date occurred to:
+
+08/25/16 - THU at 07:00
+
+incident/offenses:
+
+NARCOTIC/DRUG LAWS - POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/25/16 - THU at 10:35
+date reported: 08/25/16 - THU at 10:08
+general location:
+
+report #:
+
+161877
+
+ALL OTHER CAMPUS BUILDING – E. WINSLOW
+
+date occurred from: 08/22/16 - MON at 17:00
+date occurred to:
+
+08/22/16 - MON at 23:00
+
+incident/offenses:
+
+OTHER ASSAULTS - STALKING
+
+disposition: REFERRED
+modified date: 08/26/16 - FRI at 11:10
+date reported: 08/25/16 - THU at 10:33
+general location:
+
+report #:
+
+161878
+
+FRANKLIN HALL - On Campus
+
+date occurred from: 08/25/16 - THU at 06:00
+date occurred to:
+
+08/25/16 - THU at 10:34
+
+incident/offenses:
+
+ALL OTHER OFFENSES - TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/25/16 - THU at 14:36
+date reported: 08/25/16 - THU at 11:12
+location:
+
+cad event #:
+
+16-08-25-017225
+
+NELSON BUILDING, 801 N JORDAN AVE, LOBBY
+
+incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+final incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+disposition: NO CASE REPORT
+modified date: 08/25/16 - THU at 11:34
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/25/2016 00:00 to 08/25/2016 23:59
+date reported: 08/25/16 - THU at 13:18
+location:
+
+cad event #:
+
+16-08-25-017250
+
+DELTA DELTA DELTA, 818 E. 3RD STREET
+
+incident: THEFT FROM BUILDINGS
+final incident: THEFT FROM BUILDINGS
+disposition: NO CASE REPORT
+modified date: 08/25/16 - THU at 13:59
+
+date reported: 08/25/16 - THU at 15:28
+general location:
+
+report #:
+
+161880
+
+HEPBURN COMMON AREA - On Campus
+
+date occurred from: 08/24/16 - WED at 17:30
+date occurred to:
+
+08/25/16 - THU at 11:30
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 08/26/16 - FRI at 11:06
+date reported: 08/25/16 - THU at 16:46
+location:
+
+cad event #:
+
+16-08-25-017263
+
+HODGE HALL (BUSINESS BUILDING), 1309 E. 10TH STREET
+
+incident: THEFT-BICYCLES
+final incident: CITIZEN ASSIST
+disposition: NO CASE REPORT
+modified date: 08/25/16 - THU at 17:08
+date reported: 08/25/16 - THU at 17:21
+general location:
+
+report #:
+
+161881
+
+HODGE HALL (BUSINESS BUILDING) - On Campus
+
+date occurred from: 08/24/16 - WED at 20:30
+date occurred to:
+
+08/25/16 - THU at 09:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition:
+
+OPEN CASE
+
+modified date: 08/26/16 - FRI at 09:48
+date reported: 08/25/16 - THU at 19:18
+general location:
+
+report #:
+
+161882
+
+HEALTH CENTER - On Campus
+
+date occurred from: 08/25/16 - THU at 19:15
+date occurred to:
+
+08/25/16 - THU at 19:25
+
+incident/offenses:
+
+NARCOTIC/DRUG LAWS - POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/26/16 - FRI at 11:13
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/25/2016 00:00 to 08/25/2016 23:59
+date reported:
+
+08/25/16 - THU at 21:18
+
+general location:
+
+report #:
+
+161883
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 08/25/16 - THU at 21:18
+date occurred to:
+
+08/25/16 - THU at 21:33
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 08/26/16 - FRI at 00:44
+
+date reported: 08/25/16 - THU at 21:43
+location:
+
+cad event #:
+
+16-08-25-017287
+
+TETER QUAD, 501 N. SUNRISE, B/W RABB AND ELKIN
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/25/16 - THU at 21:55
+date reported: 08/25/16 - THU at 22:33
+general location:
+
+report #:
+
+161884
+
+SEMBOWER RECREATIONAL FIELD - On Campus
+
+date occurred from: 08/25/16 - THU at 22:33
+date occurred to:
+
+08/25/16 - THU at 22:49
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+disposition: CLOSED CASE- ARREST
+modified date: 08/26/16 - FRI at 00:19
+date reported: 08/25/16 - THU at 22:34
+general location:
+
+report #:
+
+161885
+
+FEE LANE/NORTH OF 10TH ST - Public property
+
+date occurred from: 08/25/16 - THU at 22:34
+date occurred to:
+
+08/25/16 - THU at 22:43
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // DRUNKENNESS - PUBLIC INTOXICATION //
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+disposition: CLOSED CASE- ARREST
+modified date: 08/26/16 - FRI at 09:56
+
+

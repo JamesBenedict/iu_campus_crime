@@ -1,0 +1,48 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/15/2016 00:00 to 05/15/2016 23:59
+date reported: 05/15/16 - SUN at 02:19
+general location:
+
+report #:
+
+161323
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 05/15/16 - SUN at 02:20
+date occurred to:
+
+05/15/16 - SUN at 02:35
+
+incident/offenses:
+
+Vehicle Stop // RESISTING LAW ENFORCEMENT // ALL OTHER TRAFFIC RELATED INCIDENTS // ASSIST
+OTHER AGENCY
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/16/16 - MON at 20:23
+date reported: 05/15/16 - SUN at 18:25
+general location:
+
+report #:
+
+161324
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 05/15/16 - SUN at 18:15
+date occurred to:
+
+05/15/16 - SUN at 18:34
+
+incident/offenses:
+
+DISORDERLY CONDUCT // DOMESTIC DISTURBANCES // ASSIST OTHER AGENCY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/16/16 - MON at 10:39
+
+

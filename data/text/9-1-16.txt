@@ -1,0 +1,184 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/01/2016 00:00 to 09/01/2016 23:59
+date reported: 09/01/16 - THU at 01:35
+location:
+
+cad event #:
+
+16-09-01-017959
+
+ALL OTHER NON-UNIVERSITY, BROTHERS
+
+incident: DISTURBANCES - OTHER
+final incident: DISTURBANCES - OTHER
+disposition: NO CASE REPORT
+modified date: 09/01/16 - THU at 01:47
+date reported: 09/01/16 - THU at 02:24
+general location:
+
+report #:
+
+161970
+
+WRIGHT EDUCATION BLDG - On Campus
+
+date occurred from: 09/01/16 - THU at 02:24
+date occurred to:
+
+09/01/16 - THU at 02:44
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/01/16 - THU at 04:58
+date reported: 09/01/16 - THU at 03:02
+general location:
+
+report #:
+
+161971
+
+BRISCOE QUAD COMMON AREA - On Campus
+
+date occurred from: 09/01/16 - THU at 03:02
+date occurred to:
+
+09/01/16 - THU at 03:41
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/01/16 - THU at 05:31
+date reported: 09/01/16 - THU at 08:41
+general location:
+
+report #:
+
+161972
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 08/31/16 - WED at 00:09
+date occurred to:
+
+08/31/16 - WED at 00:13
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/01/16 - THU at 14:48
+date reported: 09/01/16 - THU at 10:35
+general location:
+
+report #:
+
+161975
+
+TRANSPORTATION GARAGE - On Campus
+
+date occurred from: 08/31/16 - WED at 18:00
+date occurred to:
+
+09/01/16 - THU at 06:58
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 09/01/16 - THU at 14:03
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/01/2016 00:00 to 09/01/2016 23:59
+date reported: 09/01/16 - THU at 15:12
+general location:
+
+report #:
+
+161979
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 08/25/16 - THU at 12:00
+date occurred to:
+
+08/31/16 - WED at 15:30
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/01/16 - THU at 17:38
+date reported: 09/01/16 - THU at 15:48
+general location:
+
+report #:
+
+161981
+
+KAPPA DELTA - Non-campus building or property
+
+date occurred from: 09/01/16 - THU at 15:48
+date occurred to:
+
+09/01/16 - THU at 16:06
+
+incident/offenses:
+
+TRAFFIC - ACCIDENTS - TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/01/16 - THU at 17:29
+date reported: 09/01/16 - THU at 21:46
+general location:
+
+report #:
+
+161983
+
+14TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 09/01/16 - THU at 21:40
+date occurred to:
+
+09/01/16 - THU at 21:46
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+disposition: CLOSED CASE- ARREST
+modified date: 09/02/16 - FRI at 00:15
+date reported: 09/01/16 - THU at 22:31
+general location:
+
+report #:
+
+161984
+
+SEMBOWER RECREATIONAL FIELD - On Campus
+
+date occurred from: 09/01/16 - THU at 22:28
+date occurred to:
+
+09/01/16 - THU at 22:31
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/02/16 - FRI at 00:38
+
+

@@ -1,0 +1,67 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+From 07/23/2016 00:00 to 07/23/2016 23:59
+date reported: 07/23/16 - SAT at 02:11
+general location:
+
+report #:
+
+161639
+
+ALL OTHER NON-UNIVERSITY – 3RD @ COLLEGE MALL
+
+date occurred from: 07/23/16 - SAT at 02:00
+date occurred to:
+
+07/23/16 - SAT at 02:10
+
+incident/offenses:
+
+ASSAULT - SIMPLE, NOT AGGRAVATED // VANDALISM - MISCHIEF
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/25/16 - MON at 10:16
+date reported: 07/23/16 - SAT at 18:42
+general location:
+
+report #:
+
+161642
+
+INDIANA AVENUE/NORTH OF 1OTH STR - Public property
+
+date occurred from: 07/23/16 - SAT at 18:40
+date occurred to:
+
+07/23/16 - SAT at 18:43
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/23/16 - SAT at 20:12
+date reported: 07/23/16 - SAT at 22:07
+general location:
+
+report #:
+
+161643
+
+SRSC PARKING LOT - On Campus
+
+date occurred from: 07/16/16 - SAT at 20:00
+date occurred to:
+
+07/23/16 - SAT at 21:00
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION // DISTURBANCES - DOMESTIC DISTURBANCES //
+VANDALISM - MISCHIEF
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/24/16 - SUN at 01:16
+
+

@@ -1,0 +1,68 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+from 08/01/2016 00:00 to 08/01/2016 23:59
+
+date reported: 08/01/16 - MON at 08:45
+general location:
+
+report #:
+
+161683
+
+PRESIDENTS HOUSE - On Campus
+
+date occurred from: 07/31/16 - SUN at 23:00
+date occurred to:
+
+08/01/16 - MON at 01:25
+
+incident/offenses:
+
+BURGLARY -FORCIBLE ENTRY // VANDALISM - MISCHIEF
+
+disposition: OPEN CASE
+modified date: 08/01/16 - MON at 17:41
+date reported: 08/01/16 - MON at 10:32
+general location:
+
+report #:
+
+161684
+
+ALL OTHER LOCATIONS OUT OF BLTGN – PLYMOUTH, MN.
+
+date occurred from: 07/31/16 - SUN at 14:22
+date occurred to:
+
+07/31/16 - SUN at 14:22
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 08/01/16 - MON at 12:15
+date reported: 08/01/16 - MON at 14:09
+general location:
+
+report #:
+
+161686
+
+CYBERINFRASTRUCTURE BUILDING - On Campus
+
+date occurred from: 07/10/16 - SUN at 14:09
+date occurred to:
+
+08/01/16 - MON at 14:10
+
+incident/offenses:
+
+COURT SERVICE - COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/01/16 - MON at 18:06
+
+

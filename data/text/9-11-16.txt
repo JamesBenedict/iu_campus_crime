@@ -1,0 +1,145 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/11/2016 00:00 to 09/11/2016 23:59
+date reported: 09/11/16 - SUN at 00:03
+general location:
+
+report #:
+
+162106
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/11/16 - SUN at 00:00
+date occurred to:
+
+09/11/16 - SUN at 00:03
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/16 - MON at 11:11
+date reported: 09/11/16 - SUN at 00:58
+general location:
+
+report #:
+
+162107
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/11/16 - SUN at 00:50
+date occurred to:
+
+09/11/16 - SUN at 01:02
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/11/16 - SUN at 04:38
+date reported: 09/11/16 - SUN at 01:02
+general location:
+
+report #:
+
+162108
+
+WRIGHT QUAD COMMON AREA - On Campus
+
+date occurred from: 09/11/16 - SUN at 01:02
+date occurred to:
+
+09/11/16 - SUN at 01:32
+
+incident/offenses:
+
+NARCOTIC/DRUG LAWS - POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/16 - MON at 16:34
+date reported: 09/11/16 - SUN at 01:14
+general location:
+
+report #:
+
+162110
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/11/16 - SUN at 01:14
+date occurred to:
+
+09/11/16 - SUN at 02:51
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/16 - MON at 11:24
+date reported: 09/11/16 - SUN at 13:11
+general location:
+
+report #:
+
+162113
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 09/11/16 - SUN at 13:11
+date occurred to:
+
+09/11/16 - SUN at 13:24
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT- ALL OTHER
+
+disposition: OPEN CASE
+modified date: 09/12/16 - MON at 11:48
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/11/2016 00:00 to 09/11/2016 23:59
+date reported: 09/11/16 - SUN at 14:24
+location:
+
+cad event #:
+
+16-09-11-018928
+
+13TH STREET/WEST OF JORDAN, WEST OF JORDAN 13TH STREET, NEAR FINE ARTS STUDIO BUILDING
+
+incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: VANDALISM, MISCHIEF
+disposition: NO CASE REPORT
+modified date: 09/11/16 - SUN at 14:45
+date reported: 09/11/16 - SUN at 22:15
+general location:
+
+report #:
+
+162117
+
+ATWATER AVENUE/WEST OF JORDAN - Public property
+
+date occurred from: 09/11/16 - SUN at 22:10
+date occurred to:
+
+09/11/16 - SUN at 22:15
+
+incident/offenses:
+
+ASSAULT- SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/16 - MON at 00:38
+
+

@@ -1,0 +1,166 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/21/2016 00:00 to 08/21/2016 23:59
+date reported: 08/21/16 - SUN at 00:22
+general location:
+
+report #:
+
+161832
+
+MCNUTT QUAD BACK LOT - On Campus
+
+date occurred from: 08/21/16 - SUN at 00:22
+date occurred to:
+
+08/21/16 - SUN at 00:49
+
+incident/offenses:
+
+ASSAULT - SIMPLE, NOT AGGRAVATED // DRUNKENNESS - PUBLIC INTOXICATION // LIQUOR
+LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/16 - MON at 09:20
+date reported: 08/21/16 - SUN at 00:50
+general location:
+
+report #:
+
+161834
+
+13TH STREET PARKING LOT - On Campus
+
+date occurred from: 08/21/16 - SUN at 00:50
+date occurred to:
+
+08/21/16 - SUN at 01:51
+
+incident/offenses:
+
+DISORDERLY CONDUCT - DISORDERLY CONDUCT // LIQUOR LAWS - ILLEGAL
+POSSESSION/CONSUMPTION
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/22/16 - MON at 09:18
+date reported: 08/21/16 - SUN at 01:34
+general location:
+
+report #:
+
+161835
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/21/16 - SUN at 01:34
+date occurred to:
+
+08/21/16 - SUN at 02:10
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+disposition: OPEN CASE
+modified date: 08/21/16 - SUN at 04:21
+date reported: 08/21/16 - SUN at 03:18
+general location:
+
+report #:
+
+161836
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 08/21/16 - SUN at 03:10
+date occurred to:
+
+08/21/16 - SUN at 03:18
+
+incident/offenses:
+
+ASSAULT -SIMPLE, NOT AGGRAVATED // DISORDERLY CONDUCT - DISORDERLY CONDUCT //
+DRUNKENNESS - PUBLIC INTOXICATION
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/21/16 - SUN at 04:42
+date reported: 08/21/16 - SUN at 10:40
+general location:
+
+report #:
+
+161839
+
+PHI MU - Non-campus building or property
+
+date occurred from: 08/20/16 - SAT at 10:00
+date occurred to:
+
+08/21/16 - SUN at 10:20
+
+incident/offenses:
+
+MOTOR VEHICLE THEFT - THEFT-AUTOS
+
+disposition: UNFOUNDED
+modified date: 08/21/16 - SUN at 14:07
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/21/2016 00:00 to 08/21/2016 23:59
+
+date reported: 08/21/16 - SUN at 12:07
+location:
+
+cad event #:
+
+16-08-21-016865
+
+Spruce Hall, 1801 E. JONES AVE, A407B
+
+incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+final incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+disposition: FAILED TO LOCATE
+modified date: 08/21/16 - SUN at 13:54
+date reported: 08/21/16 - SUN at 12:54
+location:
+
+cad event #:
+
+16-08-21-016867
+
+Spruce Hall, 1801 E. JONES AVE
+
+incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+final incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+disposition: NO CASE REPORT
+modified date: 08/21/16 - SUN at 13:40
+date reported: 08/21/16 - SUN at 23:26
+location:
+
+cad event #:
+
+16-08-21-016885
+
+TETER QUAD, 501 N. SUNRISE, ELKINS 1ST- MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: NO CASE REPORT
+modified date: 08/21/16 - SUN at 23:37
+date reported: 08/21/16 - SUN at 23:33
+location:
+
+cad event #:
+
+16-08-21-016887
+
+WRIGHT QUAD, 501 N. JORDAN, ROOM 8306 MEET AT CIRCLE DRIVE
+
+incident: NOISE COMPLAINT
+final incident: DISTURBANCES - OTHER
+disposition: NO CASE REPORT
+modified date: 08/21/16 - SUN at 23:41
+
+

@@ -1,0 +1,27 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/26/2016 00:00 to 05/26/2016 23:59
+date reported: 05/26/16 - THU at 10:34
+general location:
+
+report #:
+
+161370
+
+CAMPUS WAREHOUSE BLDG - On Campus
+
+date occurred from: 05/26/16 - THU at 09:10
+date occurred to:
+
+05/26/16 - THU at 09:30
+
+incident/offenses:
+
+HARASSMEN/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/26/16 - THU at 15:45
+
+

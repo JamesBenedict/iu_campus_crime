@@ -3,8 +3,6 @@ Indiana University, Bloomington
 Police Department
 Daily Crime Log
 from 01/01/2016 00:00 to 01/01/2016 23:59
-
-
 date reported: 01/01/16 - FRI at 01:45
 general location:
 
@@ -27,8 +25,6 @@ DRUG PARAPHERNALIA
 
 disposition: CLOSED CASE- ARREST
 modified date: 01/04/16 - MON at 11:27
-
-
 date reported: 01/01/16 - FRI at 15:37
 general location:
 

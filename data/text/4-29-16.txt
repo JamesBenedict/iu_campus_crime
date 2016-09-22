@@ -1,0 +1,148 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/29/2016 00:00 to 04/29/2016 23:59
+date reported: 04/29/16 - FRI at 00:07
+general location:
+
+report #:
+
+161186
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/29/16 - FRI at 00:00
+date occurred to:
+
+04/29/16 - FRI at 00:10
+
+incident/offenses:
+
+FALSE IDENTIFICATION // ILLEGAL POSSESSION/CONSUMPTION // POSSESSION - MARIJUANA //
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/29/16 - FRI at 05:32
+date reported: 04/29/16 - FRI at 14:48
+general location:
+
+report #:
+
+161190
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/29/16 - FRI at 01:19
+date occurred to:
+
+04/29/16 - FRI at 01:50
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/29/16 - FRI at 17:45
+date reported: 04/29/16 - FRI at 18:07
+general location:
+
+report #:
+
+161191
+
+MUSICAL ARTS CENTER - On Campus
+
+date occurred from: 04/29/16 - FRI at 17:00
+date occurred to:
+
+04/29/16 - FRI at 18:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/30/16 - SAT at 04:33
+date reported: 04/29/16 - FRI at 19:05
+location:
+
+cad event #:
+
+16-04-29-009794
+
+COLLINS CRAVENS, 541 N WOODLAWN
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/29/16 - FRI at 19:20
+date reported: 04/29/16 - FRI at 20:38
+general location:
+
+report #:
+
+161192
+
+SPEECH & HEARING CLINIC - On Campus
+
+date occurred from: 04/27/16 - WED at 23:15
+date occurred to:
+
+04/27/16 - WED at 23:45
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/30/16 - SAT at 04:35
+
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 04/29/2016 00:00 to 04/29/2016 23:59
+
+date reported: 04/29/16 - FRI at 23:01
+general location:
+
+report #:
+
+161194
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 04/26/16 - TUE at 17:00
+date occurred to:
+
+04/26/16 - TUE at 17:15
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/30/16 - SAT at 00:08
+date reported: 04/29/16 - FRI at 23:38
+general location:
+
+report #:
+
+161200
+
+WRIGHT EDUCATION BLDG - On Campus
+
+date occurred from: 04/25/16 - MON at 13:00
+date occurred to:
+
+04/25/16 - MON at 13:25
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/30/16 - SAT at 06:45
+
+

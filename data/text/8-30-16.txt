@@ -1,0 +1,133 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/30/2016 00:00 to 08/30/2016 23:59
+
+date reported: 08/30/16 - TUE at 07:15
+general location:
+
+report #:
+
+161951
+
+FRANKLIN HALL - On Campus
+
+date occurred from: 08/30/16 - TUE at 03:00
+date occurred to:
+
+08/30/16 - TUE at 07:15
+
+incident/offenses:
+
+ALL OTHER OFFENSES - TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/30/16 - TUE at 10:12
+date reported: 08/30/16 - TUE at 08:35
+location:
+
+cad event #:
+
+16-08-30-017764
+
+ALL OTHER NON-UNIVERSITY, , JUSTICE BUILDING
+
+incident: COURIER
+final incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+disposition: NO CASE REPORT
+modified date: 08/30/16 - TUE at 08:50
+date reported: 08/30/16 - TUE at 11:39
+general location:
+
+report #:
+
+161952
+
+WILLKIE COMMON AREA - On Campus
+
+date occurred from: 08/27/16 - SAT at 12:00
+date occurred to:
+
+08/30/16 - TUE at 11:30
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 08/31/16 - WED at 19:40
+date reported: 08/30/16 - TUE at 14:14
+general location:
+
+report #:
+
+161954
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/11/16 - THU at 13:45
+date occurred to:
+
+08/30/16 - TUE at 10:20
+
+incident/offenses:
+
+FRAUD
+
+disposition: OPEN CASE
+modified date: 08/31/16 - WED at 12:32
+date reported: 08/30/16 - TUE at 16:11
+location:
+
+cad event #:
+
+16-08-30-017797
+
+Global & International Studies, 355 N. JORDAN, SOUTH SIDE EXTERIOR OF BUILDING
+
+incident: VANDALISM, MISCHIEF
+final incident: ALL OTHER OFFENSES
+disposition: NO CASE REPORT
+modified date: 08/30/16 - TUE at 16:24
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/30/2016 00:00 to 08/30/2016 23:59
+date reported: 08/30/16 - TUE at 17:24
+general location:
+
+report #:
+
+161956
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/26/16 - FRI at 20:30
+date occurred to:
+
+08/30/16 - TUE at 18:00
+
+incident/offenses:
+
+NARCOTIC/DRUG LAWS - POSSESSION - DANGEROUS NON-NARCOTICS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/31/16 - WED at 19:38
+date reported: 08/30/16 - TUE at 17:54
+location:
+
+cad event #:
+
+16-08-30-017808
+
+ALPHA OMICRON PI, 1415 N. JORDAN, 1415 NORTH JORDAN - ON JORDAN 16 BLACK CHEVY CRUZE
+
+incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: CASE REPORT FOLLOWS.
+modified date: 08/30/16 - TUE at 18:13
+
+

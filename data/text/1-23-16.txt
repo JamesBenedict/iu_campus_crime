@@ -1,0 +1,281 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/23/2016 00:00 to 01/23/2016 23:59
+date reported: 01/23/16 - SAT at 00:15
+general location:
+
+report #:
+
+160193
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/23/16 - SAT at 00:15
+date occurred to:
+
+01/23/16 - SAT at 00:23
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/23/16 - SAT at 03:51
+date reported: 01/23/16 - SAT at 01:21
+general location:
+
+report #:
+
+160194
+
+8TH STREET/WEST OF JORDAN - On Campus
+
+date occurred from: 01/23/16 - SAT at 01:19
+date occurred to:
+
+01/23/16 - SAT at 01:21
+
+incident/offenses:
+
+PUBLIC INTOXICATION // FALSE IDENTIFICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/24/16 - SUN at 04:18
+date reported: 01/23/16 - SAT at 01:46
+location:
+
+cad event #:
+
+16-01-23-001609
+
+WRIGHT QUAD, 501 N. JORDAN, CAMPBELL SIDE NEAR BREEZEWAY AND FOOD COURT
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/23/16 - SAT at 01:54
+date reported: 01/23/16 - SAT at 02:04
+location:
+
+cad event #:
+
+16-01-23-001611
+
+WRIGHT QUAD, 501 N. JORDAN
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/23/16 - SAT at 02:27
+date reported: 01/23/16 - SAT at 02:42
+general location:
+
+report #:
+
+160195
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 01/23/16 - SAT at 02:35
+date occurred to:
+
+01/23/16 - SAT at 02:42
+
+incident/offenses:
+
+PUBLIC INTOXICATION // FALSE IDENTIFICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/26/16 - TUE at 10:58
+date reported: 01/23/16 - SAT at 03:07
+general location:
+
+report #:
+
+160253
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 01/23/16 - SAT at 03:00
+date occurred to:
+
+01/23/16 - SAT at 03:05
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 01/28/16 - THU at 01:12
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/23/2016 00:00 to 01/23/2016 23:59
+date reported: 01/23/16 - SAT at 03:26
+general location:
+
+report #:
+
+160196
+
+7TH STREET/EAST OF JORDAN - On Campus
+
+date occurred from: 01/23/16 - SAT at 03:25
+date occurred to:
+
+01/23/16 - SAT at 03:26
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/25/16 - MON at 17:04
+date reported: 01/23/16 - SAT at 11:59
+general location:
+
+report #:
+
+160197
+
+DELTA GAMMA - Non-campus building or property
+
+date occurred from: 01/22/16 - FRI at 10:00
+date occurred to:
+
+01/23/16 - SAT at 00:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 01/26/16 - TUE at 11:04
+date reported: 01/23/16 - SAT at 15:37
+general location:
+
+report #:
+
+160198
+
+PI BETA PHI - Non-campus building or property
+
+date occurred from: 01/23/16 - SAT at 08:47
+date occurred to:
+
+01/23/16 - SAT at 15:50
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 01/27/16 - WED at 08:49
+date reported: 01/23/16 - SAT at 16:15
+general location:
+
+report #:
+
+160199
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 01/23/16 - SAT at 16:00
+date occurred to:
+
+01/23/16 - SAT at 17:07
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // KIDNAP/ABDUCTION/CONFINEMENT // ALL OTHER-unless other code
+applies // OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // OTHER ASSAULTS - SIMPLE, NOT
+AGGRAVATED
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/28/16 - THU at 14:29
+date reported: 01/23/16 - SAT at 22:03
+location:
+
+cad event #:
+
+WILLKIE SOUTH, 150 S. ROSE, 1ST FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/23/16 - SAT at 22:21
+
+16-01-23-001673
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/23/2016 00:00 to 01/23/2016 23:59
+date reported: 01/23/16 - SAT at 23:39
+general location:
+
+report #:
+
+160202
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/23/16 - SAT at 23:39
+date occurred to:
+
+01/24/16 - SUN at 00:38
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // POSSESSION - MARIJUANA // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/26/16 - TUE at 11:17
+date reported: 01/23/16 - SAT at 23:53
+general location:
+
+report #:
+
+160201
+
+ALPHA XI DELTA - Non-campus building or property
+
+date occurred from: 01/23/16 - SAT at 23:53
+date occurred to:
+
+01/24/16 - SUN at 00:26
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/25/16 - MON at 11:18
+date reported: 01/23/16 - SAT at 23:55
+general location:
+
+report #:
+
+160200
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/23/16 - SAT at 23:55
+date occurred to:
+
+01/23/16 - SAT at 23:55
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 01/24/16 - SUN at 00:37
+
+

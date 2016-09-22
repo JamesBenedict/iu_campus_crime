@@ -1,0 +1,107 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/31/2016 00:00 to 05/31/2016 23:59
+date reported: 05/31/16 - TUE at 01:29
+general location:
+
+report #:
+
+161382
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 05/31/16 - TUE at 01:28
+date occurred to:
+
+05/31/16 - TUE at 01:29
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/31/16 - TUE at 08:22
+date reported: 05/31/16 - TUE at 08:11
+general location:
+
+report #:
+
+161383
+
+JORDAN HALL - On Campus
+
+date occurred from: 05/26/15 - TUE at 12:00
+date occurred to:
+
+05/31/16 - TUE at 08:00
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 06/01/16 - WED at 09:55
+date reported: 05/31/16 - TUE at 12:29
+general location:
+
+report #:
+
+161385
+
+VON LEE LOT - On Campus
+
+date occurred from: 05/27/16 - FRI at 00:00
+date occurred to:
+
+05/31/16 - TUE at 13:56
+
+incident/offenses:
+
+THEFT-OTHER VEHICLES
+
+disposition: OPEN CASE
+modified date: 05/31/16 - TUE at 18:09
+date reported: 05/31/16 - TUE at 14:55
+general location:
+
+report #:
+
+161386
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 05/27/16 - FRI at 00:00
+date occurred to:
+
+05/31/16 - TUE at 05:22
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 05/31/16 - TUE at 17:59
+date reported: 05/31/16 - TUE at 21:36
+general location:
+
+report #:
+
+161389
+
+11TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 05/31/16 - TUE at 21:36
+date occurred to:
+
+05/31/16 - TUE at 21:36
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 06/01/16 - WED at 02:28
+
+

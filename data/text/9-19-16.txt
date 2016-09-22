@@ -1,0 +1,100 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/19/2016 00:00 to 09/19/2016 23:59
+date reported: 09/19/16 - MON at 14:47
+location:
+
+cad event #:
+
+16-09-19-019618
+
+EVERMANN APTS., 2001 E. LINGELBACH LN
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: NO CASE REPORT
+modified date: 09/19/16 - MON at 14:56
+date reported: 09/19/16 - MON at 18:58
+general location:
+
+report #:
+
+162203
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 09/19/16 - MON at 13:30
+date occurred to:
+
+09/19/16 - MON at 14:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/19/16 - MON at 21:30
+date reported: 09/19/16 - MON at 19:27
+general location:
+
+report #:
+
+162204
+
+KAPPA DELTA - Non-campus building or property
+
+date occurred from: 09/19/16 - MON at 08:00
+date occurred to:
+
+09/19/16 - MON at 19:27
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/19/16 - MON at 23:48
+date reported: 09/19/16 - MON at 19:35
+general location:
+
+report #:
+
+162205
+
+BRISCOE - On Campus Residential
+
+date occurred from: 09/19/16 - MON at 19:35
+date occurred to:
+
+09/19/16 - MON at 19:46
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/20/16 - TUE at 12:09
+date reported: 09/19/16 - MON at 19:40
+general location:
+
+report #:
+
+162206
+
+WOODLAWN AVENUE/SOUTH OF - Public property
+
+date occurred from: 09/19/16 - MON at 10:40
+date occurred to:
+
+09/19/16 - MON at 10:40
+
+incident/offenses:
+
+TRAFFIC - ACCIDENTS - TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/20/16 - TUE at 09:21
+
+

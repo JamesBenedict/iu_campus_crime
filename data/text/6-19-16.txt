@@ -1,0 +1,48 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log Report
+
+From 06/19/2016 00:00 to 06/19/2016 23:59
+date reported: 06/19/16 - SUN at 02:43
+general location:
+
+report #:
+
+161475
+
+ALL OTHER NON-UNIVERSITY – 215 N WALNUT
+
+date occurred from: 06/19/16 - SUN at 02:44
+date occurred to:
+
+06/19/16 - SUN at 02:45
+
+incident/offenses:
+
+PUBLIC INTOXICATION // VANDALISM, MISCHIEF // ASSIST OTHER AGENCY
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/19/16 - SUN at 05:46
+date reported: 06/19/16 - SUN at 05:46
+general location:
+
+report #:
+
+161476
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 06/19/16 - SUN at 05:45
+date occurred to:
+
+06/19/16 - SUN at 05:46
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // TRAFFIC ACCIDENTS - PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/20/16 - MON at 09:07
+
+

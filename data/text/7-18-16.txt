@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 07/18/2016 00:00 to 07/18/2016 23:59
+date reported: 07/18/16 - MON at 14:22
+general location:
+
+report #:
+
+161613
+
+SERVICE BUILDING - On Campus
+
+date occurred from: 07/18/16 - MON at 14:13
+date occurred to:
+
+07/18/16 - MON at 14:18
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT- ALL OTHER
+
+disposition: OPEN CASE
+modified date: 07/19/16 - TUE at 10:45
+date reported: 07/18/16 - MON at 22:43
+general location:
+
+report #:
+
+161615
+
+UNION STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 07/18/16 - MON at 22:08
+date occurred to:
+
+07/18/16 - MON at 22:13
+
+incident/offenses:
+
+ASSAULT - ASSAULT- SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 07/19/16 - TUE at 10:52
+
+

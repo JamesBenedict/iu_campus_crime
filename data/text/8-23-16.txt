@@ -1,0 +1,97 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/23/2016 00:00 to 08/23/2016 23:59
+
+date reported: 08/23/16 - TUE at 10:58
+location:
+
+cad event #:
+
+16-08-23-017014
+
+NELSON BUILDING, 801 N JORDAN AVE
+
+incident: COURIER
+final incident: COURT SERVICE - WARRANT, SUMMONS, SUBPOENA, ETC
+disposition: NO CASE REPORT
+modified date: 08/23/16 - TUE at 11:04
+date reported: 08/23/16 - TUE at 16:22
+general location:
+
+report #:
+
+161857
+
+USA BEECH HALL - On Campus - in any student residential facility
+
+date occurred from: 08/21/16 - SUN at 22:00
+date occurred to:
+
+08/21/16 - SUN at 22:30
+
+incident/offenses:
+
+ASSAULT - SIMPLE, NOT AGGRAVATED // DOMESTIC DISTURBANCES
+
+disposition: OPEN CASE
+modified date: 08/24/16 - WED at 06:34
+date reported: 08/23/16 - TUE at 20:34
+location:
+
+cad event #:
+
+16-08-23-017060
+
+EIGENMANN HALL, 1900 E. 10TH STREET
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/23/16 - TUE at 20:51
+date reported: 08/23/16 - TUE at 22:02
+general location:
+
+report #:
+
+161858
+
+SEMBOWER RECREATIONAL FIELD - On Campus
+
+date occurred from: 08/23/16 - TUE at 22:02
+date occurred to:
+
+08/23/16 - TUE at 22:02
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/24/16 - WED at 01:06
+date reported: 08/23/16 - TUE at 23:11
+general location:
+
+report #:
+
+161859
+
+REDBUD E 100-800 - On Campus - in any student residential facility
+
+date occurred from: 08/17/16 - WED at 00:00
+date occurred to:
+
+08/22/16 - MON at 23:59
+
+incident/offenses:
+
+FRAUD
+
+disposition:
+
+OPEN CASE
+
+modified date: 08/24/16 - WED at 00:52
+
+

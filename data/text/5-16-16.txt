@@ -1,0 +1,48 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/16/2016 00:00 to 05/16/2016 23:59
+
+date reported: 05/16/16 - MON at 08:47
+general location:
+
+report #:
+
+161325
+
+COLLINS CRAVENS - On Campus - in any student residential facility
+
+date occurred from: 05/06/16 - FRI at 20:00
+date occurred to:
+
+05/14/16 - SAT at 15:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 05/16/16 - MON at 12:23
+date reported: 05/16/16 - MON at 13:10
+general location:
+
+report #:
+
+161327
+
+INDIANA AVENUE/NORTH OF 1OTH STR - Public property
+
+date occurred from: 05/16/16 - MON at 13:05
+date occurred to:
+
+05/16/16 - MON at 13:10
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/17/16 - TUE at 08:23
+
+

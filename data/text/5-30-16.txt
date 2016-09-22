@@ -1,0 +1,27 @@
+Indiana University, Bloomington
+
+Police Department
+Daily crime log report
+from 05/30/2016 00:00 to 05/30/2016 23:59
+date reported: 05/30/16 - MON at 12:30
+general location:
+
+report #:
+
+161380
+
+VON LEE LOT - On Campus
+
+date occurred from: 05/30/16 - MON at 12:30
+date occurred to:
+
+05/30/16 - MON at 13:00
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/31/16 - TUE at 11:53
+
+

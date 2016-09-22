@@ -1,0 +1,138 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/17/2016 00:00 to 08/17/2016 23:59
+date reported: 08/17/16 - WED at 00:16
+general location:
+
+report #:
+
+161762
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/17/16 - WED at 00:00
+date occurred to:
+
+08/17/16 - WED at 00:17
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+
+disposition: OPEN CASE
+modified date: 08/17/16 - WED at 23:47
+date reported: 08/17/16 - WED at 01:42
+general location:
+
+report #:
+
+161763
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 08/17/16 - WED at 01:18
+date occurred to:
+
+08/17/16 - WED at 01:20
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+disposition: CLOSED CASE- ARREST
+modified date: 08/17/16 - WED at 05:22
+date reported: 08/17/16 - WED at 02:30
+general location:
+
+report #:
+
+161764
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/17/16 - WED at 00:30
+date occurred to:
+
+08/17/16 - WED at 02:55
+
+incident/offenses:
+
+LIQUOR LAWS - ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/17/16 - WED at 05:34
+date reported: 08/17/16 - WED at 03:10
+general location:
+
+report #:
+
+161765
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 08/17/16 - WED at 02:00
+date occurred to:
+
+08/17/16 - WED at 03:16
+
+incident/offenses:
+
+DISORDERLY CONDUCT// DISTURBANCES -OTHER
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/17/16 - WED at 09:22
+date reported: 08/17/16 - WED at 09:01
+general location:
+
+report #:
+
+161766
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/17/16 - WED at 09:01
+date occurred to:
+
+08/17/16 - WED at 09:10
+
+incident/offenses:
+
+VANDALISM -MISCHIEF
+
+disposition: OPEN CASE
+modified date: 08/18/16 - THU at 10:10
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/17/2016 00:00 to 08/17/2016 23:59
+date reported: 08/17/16 - WED at 11:10
+location:
+
+cad event #:
+
+16-08-17-016477
+
+HENDERSON PARKING GARAGE, 310 S. FESS AVE
+
+incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: TRAFFIC ACCIDENTS -HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 08/17/16 - WED at 11:44
+date reported: 08/17/16 - WED at 22:13
+location:
+
+cad event #:
+
+16-08-17-016511
+
+BRISCOE QUAD, 1225 N. FEE LANE, GUCKER 8TH FLOOR - RM 803
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/17/16 - WED at 22:25
+
+

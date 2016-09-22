@@ -1,0 +1,272 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/07/2016 00:00 to 09/07/2016 23:59
+date reported: 09/07/16 - WED at 00:44
+general location:
+
+report #:
+
+162044
+
+ALL OTHER NON-UNIVERSITY – 100 BLK E. COTTAGE GROVE
+
+date occurred from: 09/07/16 - WED at 00:30
+date occurred to:
+
+09/07/16 - WED at 00:44
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // DISTURBANCES - DOMESTIC
+DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/08/16 - THU at 02:34
+date reported: 09/07/16 - WED at 03:31
+general location:
+
+report #:
+
+162045
+
+ALL OTHER NON-UNIVERSITY – WALNUT @ 14TH
+
+date occurred from: 09/07/16 - WED at 03:32
+date occurred to:
+
+09/07/16 - WED at 03:32
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/08/16 - THU at 09:25
+date reported: 09/07/16 - WED at 10:52
+general location:
+
+report #:
+
+162047
+
+COLLINS EDMONDSON - On Campus - in any student residential facility
+
+date occurred from: 09/06/16 - TUE at 19:30
+date occurred to:
+
+09/06/16 - TUE at 20:00
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: UNFOUNDED
+modified date: 09/07/16 - WED at 13:41
+date reported: 09/07/16 - WED at 17:21
+general location:
+
+report #:
+
+162050
+
+CAMPUS VIEW COMMON AREA - On Campus
+
+date occurred from: 08/22/16 - MON at 15:00
+date occurred to:
+
+09/05/16 - MON at 21:00
+
+incident/offenses:
+
+INDECENT EXPOSURE
+
+disposition: OPEN CASE
+modified date: 09/08/16 - THU at 09:53
+date reported: 09/07/16 - WED at 18:40
+general location:
+
+report #:
+
+162052
+
+WILLKIE SOUTH - On Campus - in any student residential facility
+
+date occurred from: 09/05/16 - MON at 18:40
+date occurred to:
+
+09/07/16 - WED at 19:29
+
+incident/offenses:
+
+ALL OTHER OFFENSES - HARASSMENT/INTIMIDATION
+
+disposition: UNFOUNDED
+modified date: 09/08/16 - THU at 12:08
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/07/2016 00:00 to 09/07/2016 23:59
+date reported: 09/07/16 - WED at 19:41
+general location:
+
+report #:
+
+162053
+
+DUNN MEADOW-SE OF 7TH & INDIANA AVE - On Campus
+
+date occurred from: 09/07/16 - WED at 19:41
+date occurred to:
+
+09/07/16 - WED at 20:16
+
+incident/offenses:
+
+ALL OTHER OFFENSES - TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/07/16 - WED at 22:17
+date reported: 09/07/16 - WED at 22:06
+general location:
+
+report #:
+
+162054
+
+CAMPUS VIEW COMMON AREA - On Campus
+
+date occurred from: 09/07/16 - WED at 22:00
+date occurred to:
+
+09/07/16 - WED at 22:06
+
+incident/offenses:
+
+NARCOTIC/DRUG LAWS - POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/08/16 - THU at 01:12
+date reported: 09/07/16 - WED at 22:11
+location:
+
+cad event #:
+
+16-09-07-018563
+
+FOSTER SHEA HALL, 1000 N. FEE LANE, 2ND FLOOR - MEET ON NORTH SIDE OF SHEA
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/07/16 - WED at 22:26
+date reported: 09/07/16 - WED at 22:22
+general location:
+
+report #:
+
+162056
+
+EIGENMANN HALL COMMON AREA - On Campus
+
+date occurred from: 09/07/16 - WED at 22:22
+date occurred to:
+
+09/07/16 - WED at 23:03
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 09/08/16 - THU at 01:04
+date reported: 09/07/16 - WED at 22:31
+general location:
+
+report #:
+
+162055
+
+WILLKIE CENTER - On Campus - in any student residential facility
+
+date occurred from: 09/07/16 - WED at 22:31
+date occurred to:
+
+09/07/16 - WED at 22:52
+
+incident/offenses:
+
+LARCENY-THEFT - THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/08/16 - THU at 01:07
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/07/2016 00:00 to 09/07/2016 23:59
+date reported: 09/07/16 - WED at 22:36
+general location:
+
+report #:
+
+162057
+
+FOSTER BACK LOT - On Campus
+
+date occurred from: 09/07/16 - WED at 22:36
+date occurred to:
+
+09/07/16 - WED at 23:30
+
+incident/offenses:
+
+ALL OTHER OFFENSES - RESISTING LAW ENFORCEMENT // NARCOTIC/DRUG LAWS - POSSESSION MARIJUANA
+disposition: OPEN CASE
+modified date: 09/08/16 - THU at 00:41
+date reported: 09/07/16 - WED at 23:22
+general location:
+
+report #:
+
+162058
+
+BRISCOE QUAD COMMON AREA - On Campus
+
+date occurred from: 09/07/16 - WED at 23:17
+date occurred to:
+
+09/07/16 - WED at 23:22
+
+incident/offenses:
+
+ALL OTHER OFFENSES - RESISTING LAW ENFORCEMENT // LIQUOR LAWS - ILLEGAL
+POSSESSION/CONSUMPTION
+disposition: CLOSED CASE- ARREST
+modified date: 09/08/16 - THU at 11:42
+date reported: 09/07/16 - WED at 23:34
+general location:
+
+report #:
+
+162059
+
+ALPHA PHI - Non-campus building or property
+
+date occurred from: 09/07/16 - WED at 20:00
+date occurred to:
+
+09/07/16 - WED at 23:45
+
+incident/offenses:
+
+FIRE ALARMS - ACTUAL FIRE, NOT ARSON
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/08/16 - THU at 11:36
+
+

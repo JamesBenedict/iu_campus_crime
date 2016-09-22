@@ -1,0 +1,139 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/20/2016 00:00 to 09/20/2016 23:59
+date reported: 09/20/16 - TUE at 00:37
+location:
+
+cad event #:
+
+16-09-20-019658
+
+TETER QUAD, 501 N. SUNRISE, CENTER BUILDING
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/20/16 - TUE at 00:51
+date reported: 09/20/16 - TUE at 02:59
+general location:
+
+report #:
+
+162208
+
+ALL OTHER NON-UNIVERSITY – 8th @ WALNUT
+
+date occurred from: 09/20/16 - TUE at 02:58
+date occurred to:
+
+09/20/16 - TUE at 04:19
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/20/16 - TUE at 09:44
+date reported: 09/20/16 - TUE at 04:01
+general location:
+
+report #:
+
+162209
+
+ALL OTHER NON-UNIVERSITY – 3 @ INDIANA
+rd
+
+date occurred from: 09/20/16 - TUE at 04:01
+date occurred to:
+
+09/20/16 - TUE at 04:38
+
+incident/offenses:
+
+ROBBERY - FIREARM
+
+disposition: REFERRED TO BPD
+modified date: 09/21/16 - WED at 11:02
+date reported: 09/20/16 - TUE at 13:50
+location:
+
+cad event #:
+
+16-09-20-019705
+
+MCCALLA SCHOOL, 525 E. 9TH STREET
+
+incident: DISTURBANCES - OTHER
+final incident: DISTURBANCES - OTHER
+disposition: VERBAL WARNING ISSUED
+modified date: 09/20/16 - TUE at 14:12
+date reported: 09/20/16 - TUE at 19:43
+general location:
+
+report #:
+
+162216
+
+FOREST QUAD EAST LOT - On Campus
+
+date occurred from: 09/20/16 - TUE at 19:43
+date occurred to:
+
+09/20/16 - TUE at 21:16
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/21/16 - WED at 10:29
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 09/20/2016 00:00 to 09/20/2016 23:59
+date reported: 09/20/16 - TUE at 21:28
+general location:
+
+report #:
+
+162217
+
+TULIP TREE COMMON AREA - On Campus
+
+date occurred from: 09/20/16 - TUE at 21:28
+date occurred to:
+
+09/20/16 - TUE at 22:09
+
+incident/offenses:
+
+ALL OTHER OFFENSES - POSSESSION OF DRUG PARAPHERNALIA // NARCOTIC/DRUG LAWS POSSESSION - MARIJUANA
+disposition: CLOSED CASE- ARREST
+modified date: 09/21/16 - WED at 00:40
+date reported: 09/20/16 - TUE at 23:37
+general location:
+
+report #:
+
+162218
+
+6TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 09/20/16 - TUE at 23:37
+date occurred to:
+
+09/20/16 - TUE at 23:43
+
+incident/offenses:
+
+DRUNKENNESS - PUBLIC INTOXICATION // VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/21/16 - WED at 05:26
+
+

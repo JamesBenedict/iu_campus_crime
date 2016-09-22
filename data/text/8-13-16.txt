@@ -1,0 +1,93 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+From 08/13/2016 00:00 to 08/13/2016 23:59
+date reported: 08/13/16 - SAT at 11:47
+location:
+
+cad event #:
+
+16-08-13-016216
+
+INDIANA MEMORIAL UNION, 900 E. 7TH
+
+incident: THEFT FROM BUILDINGS
+final incident: NON-CRIMINAL
+disposition: Cancelled Event
+modified date: 08/13/16 - SAT at 11:58
+date reported: 08/13/16 - SAT at 17:11
+general location:
+
+report #:
+
+161739
+
+SRSC - On Campus
+
+date occurred from: 08/13/16 - SAT at 17:11
+date occurred to:
+
+08/13/16 - SAT at 17:18
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // ALL OTHER OFFENSES - TRESPASS &
+MALICIOUS TRESPASS
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/15/16 - MON at 10:12
+date reported: 08/13/16 - SAT at 18:49
+location:
+
+cad event #:
+
+16-08-13-016233
+
+ALL OTHER NON-UNIVERSITY, , MARSH NORTH ALONG THE BYPASS
+
+incident: THEFT- MOTOR VEHICLE PARTS AND ACCESSORIES
+final incident: THEFT- MOTOR VEHICLE PARTS AND ACCESSORIES
+disposition: NO CASE REPORT
+modified date: 08/13/16 - SAT at 19:00
+date reported: 08/13/16 - SAT at 20:43
+general location:
+
+report #:
+
+161740
+
+ALL OTHER NON-UNIVERSITY - BACK LOT OF MOTHER BEARS
+
+date occurred from: 08/13/16 - SAT at 20:43
+date occurred to:
+
+08/13/16 - SAT at 21:10
+
+incident/offenses:
+
+DISTURBANCES - OTHER
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/13/16 - SAT at 21:42
+date reported: 08/13/16 - SAT at 21:33
+general location:
+
+report #:
+
+KIRKWOOD HALL - On Campus
+
+date occurred from: 08/13/16 - SAT at 21:30
+date occurred to:
+
+08/13/16 - SAT at 21:33
+
+incident/offenses:
+
+FIRES-NOT ARSON
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 08/15/16 - MON at 11:00
+
+161741
+
+

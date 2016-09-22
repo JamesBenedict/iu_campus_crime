@@ -1,0 +1,391 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/27/2015 00:00 to 09/27/2015 23:59
+date reported: 09/27/15 - SUN at 00:25
+general location:
+
+report #:
+
+152485
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 09/27/15 - SUN at 00:26
+date occurred to:
+
+09/27/15 - SUN at 00:52
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/27/15 - SUN at 02:48
+date reported: 09/27/15 - SUN at 00:59
+location:
+
+cad event #:
+
+15-09-27-022519
+
+ALL OTHER NON-UNIVERSITY, 425 N DUNN, 425 N DUNN
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 09/28/15 - MON at 11:10
+date reported: 09/27/15 - SUN at 01:01
+general location:
+
+report #:
+
+152486
+
+JORDAN AVENUE/SOUTH OF 10 - Public property
+
+date occurred from: 09/26/15 - SAT at 22:00
+date occurred to:
+
+09/27/15 - SUN at 01:00
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/28/15 - MON at 09:16
+date reported: 09/27/15 - SUN at 01:17
+location:
+
+cad event #:
+
+15-09-27-022522
+
+WRIGHT QUAD COMMON AREA, , CIRCLE DRIVE
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: FAILED TO LOCATE
+modified date: 09/27/15 - SUN at 01:21
+date reported: 09/27/15 - SUN at 01:20
+general location:
+
+report #:
+
+152487
+
+WOODLAWN AVENUE/SOUTH OF - Public property
+
+date occurred from: 09/27/15 - SUN at 01:20
+date occurred to:
+
+09/27/15 - SUN at 03:40
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/28/15 - MON at 09:46
+date reported: 09/27/15 - SUN at 01:27
+general location:
+
+report #:
+
+152488
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 09/27/15 - SUN at 01:45
+date occurred to:
+
+09/27/15 - SUN at 01:45
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/27/15 - SUN at 03:32
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/27/2015 00:00 to 09/27/2015 23:59
+date reported: 09/27/15 - SUN at 01:42
+general location:
+
+report #:
+
+152492
+
+815 N. JORDAN AVENUE - Non-campus building or property
+
+date occurred from: 09/27/15 - SUN at 00:21
+date occurred to:
+
+09/27/15 - SUN at 00:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 09/27/15 - SUN at 05:54
+date reported: 09/27/15 - SUN at 01:43
+general location:
+
+report #:
+
+152490
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/27/15 - SUN at 01:43
+date occurred to:
+
+09/27/15 - SUN at 02:10
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/27/15 - SUN at 03:16
+date reported: 09/27/15 - SUN at 01:51
+general location:
+
+report #:
+
+152489
+
+WRIGHT QUAD COMMON AREA - On Campus
+
+date occurred from: 09/27/15 - SUN at 01:51
+date occurred to:
+
+09/27/15 - SUN at 01:51
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/28/15 - MON at 09:12
+date reported: 09/27/15 - SUN at 02:06
+general location:
+
+report #:
+
+152491
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 09/27/15 - SUN at 02:07
+date occurred to:
+
+09/27/15 - SUN at 02:34
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // WELFARE CHECK
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/28/15 - MON at 09:10
+date reported: 09/27/15 - SUN at 02:48
+general location:
+
+report #:
+
+152493
+
+FOSTER JENKINSON HALL - On Campus - in any student residential facility
+
+date occurred from: 09/27/15 - SUN at 02:30
+date occurred to:
+
+09/27/15 - SUN at 02:48
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/27/15 - SUN at 06:40
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/27/2015 00:00 to 09/27/2015 23:59
+date reported: 09/27/15 - SUN at 03:25
+general location:
+
+report #:
+
+152494
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 09/27/15 - SUN at 00:00
+date occurred to:
+
+09/27/15 - SUN at 03:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 09/28/15 - MON at 09:01
+date reported: 09/27/15 - SUN at 04:19
+general location:
+
+report #:
+
+152495
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 09/27/15 - SUN at 04:19
+date occurred to:
+
+09/27/15 - SUN at 04:19
+
+incident/offenses:
+
+FIRE ALARMS - ACTUAL, NOT ARSON
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/27/15 - SUN at 04:52
+date reported: 09/27/15 - SUN at 07:11
+location:
+
+cad event #:
+
+15-09-27-022542
+
+IUPD STATION, 1469 E. 17TH STREET
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: NO CASE REPORT
+modified date: 09/27/15 - SUN at 07:24
+date reported: 09/27/15 - SUN at 15:00
+general location:
+
+report #:
+
+152496
+
+ALL OTHER ROADWAYS/INTERS - Public property
+
+date occurred from: 09/27/15 - SUN at 12:00
+date occurred to:
+
+09/27/15 - SUN at 12:30
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 09/27/15 - SUN at 17:42
+date reported: 09/27/15 - SUN at 17:05
+general location:
+
+report #:
+
+152498
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 09/24/15 - THU at 23:00
+date occurred to:
+
+09/24/15 - THU at 23:30
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 09/27/15 - SUN at 20:54
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/27/2015 00:00 to 09/27/2015 23:59
+date reported: 09/27/15 - SUN at 17:38
+general location:
+
+report #:
+
+152501
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 09/20/15 - SUN at 12:00
+date occurred to:
+
+09/27/15 - SUN at 17:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 09/27/15 - SUN at 20:35
+date reported: 09/27/15 - SUN at 21:09
+general location:
+
+report #:
+
+152504
+
+46 BYPASS/EAST OF GOLF CO - Public property
+
+date occurred from: 09/27/15 - SUN at 21:09
+date occurred to:
+
+09/27/15 - SUN at 21:10
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/28/15 - MON at 09:32
+date reported: 09/27/15 - SUN at 23:45
+location:
+
+cad event #:
+
+15-09-27-022587
+
+BRISCOE QUAD, 1225 N. FEE LANE, SHOEMAKER CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/27/15 - SUN at 23:56
+
+date reported: 09/27/15 - SUN at 23:55
+location:
+
+cad event #:
+
+MCNUTT QUAD, 1101 N. FEE LANE, CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/28/15 - MON at 00:08
+
+15-09-27-022589
+
+

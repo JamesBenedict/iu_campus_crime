@@ -1,0 +1,299 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/26/2015 00:00 to 09/26/2015 23:59
+date reported: 09/26/15 - SAT at 00:07
+location:
+
+cad event #:
+
+15-09-26-022413
+
+USA CEDAR HALL, 445 N. UNION, A106
+
+incident: PUBLIC INTOXICATION
+final incident: MEDICAL ASSIST // ILLEGAL CONSUMPTION
+disposition: NO CASE REPORT
+modified date: 09/26/15 - SAT at 00:35
+date reported: 09/26/15 - SAT at 00:08
+general location:
+
+report #:
+
+152473
+
+FOSTER COMMON AREA - On Campus
+
+date occurred from: 09/26/15 - SAT at 00:00
+date occurred to:
+
+09/26/15 - SAT at 00:08
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/26/15 - SAT at 05:42
+date reported: 09/26/15 - SAT at 00:20
+general location:
+
+report #:
+
+152475
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/25/15 - FRI at 23:55
+date occurred to:
+
+09/26/15 - SAT at 00:20
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/26/15 - SAT at 06:01
+date reported: 09/26/15 - SAT at 00:25
+location:
+
+cad event #:
+
+15-09-26-022416
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/26/15 - SAT at 00:38
+date reported: 09/26/15 - SAT at 01:03
+location:
+
+cad event #:
+
+15-09-26-022421
+
+MCNUTT QUAD, 1101 N. FEE LANE, DELGADO 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/26/15 - SAT at 01:14
+date reported: 09/26/15 - SAT at 01:35
+location:
+
+cad event #:
+
+FOSTER COMMON AREA, , GRESHAM
+
+incident: SECURITY CHECK
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 09/26/15 - SAT at 01:49
+
+15-09-26-022426
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/26/2015 00:00 to 09/26/2015 23:59
+date reported:
+
+09/26/15 - SAT at 02:04
+
+general location:
+
+report #:
+
+152476
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from: 09/26/15 - SAT at 02:03
+date occurred to:
+
+09/26/15 - SAT at 02:31
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/26/15 - SAT at 04:56
+date reported: 09/26/15 - SAT at 02:22
+general location:
+
+report #:
+
+152478
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/25/15 - FRI at 23:00
+date occurred to:
+
+09/26/15 - SAT at 02:21
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/28/15 - MON at 11:44
+date reported: 09/26/15 - SAT at 02:32
+location:
+
+cad event #:
+
+15-09-26-022433
+
+MCNUTT QUAD, 1101 N. FEE LANE, BORDNER 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/26/15 - SAT at 02:46
+date reported: 09/26/15 - SAT at 02:40
+general location:
+
+report #:
+
+152477
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/26/15 - SAT at 02:30
+date occurred to:
+
+09/26/15 - SAT at 02:43
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/26/15 - SAT at 04:10
+date reported: 09/26/15 - SAT at 21:09
+location:
+
+cad event #:
+
+15-09-26-022482
+
+FOREST QUAD, 1725 E. 3RD STREET, FOREST- B TOWER11TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/26/15 - SAT at 21:21
+date reported: 09/26/15 - SAT at 22:02
+location:
+
+cad event #:
+
+15-09-26-022485
+
+FOREST QUAD, 1725 E. 3RD STREET, FOREST A 7TH
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/26/15 - SAT at 22:15
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/26/2015 00:00 to 09/26/2015 23:59
+date reported: 09/26/15 - SAT at 22:41
+general location:
+
+report #:
+
+152482
+
+FEE LANE/NORTH OF 10TH ST - Public property
+
+date occurred from: 09/26/15 - SAT at 22:41
+date occurred to:
+
+09/27/15 - SUN at 22:45
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/28/15 - MON at 11:55
+date reported: 09/26/15 - SAT at 22:42
+general location:
+
+report #:
+
+152481
+
+CROSSTOWN SHOP CTR - Non-campus building or property
+
+date occurred from: 09/26/15 - SAT at 00:00
+date occurred to:
+
+09/26/15 - SAT at 00:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 09/27/15 - SUN at 01:10
+date reported: 09/26/15 - SAT at 23:32
+general location:
+
+report #:
+
+152484
+
+COLLINS EDMONDSON - On Campus - in any student residential facility
+
+date occurred from: 09/26/15 - SAT at 00:00
+date occurred to:
+
+09/26/15 - SAT at 00:00
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 09/28/15 - MON at 09:18
+date reported: 09/26/15 - SAT at 23:32
+location:
+
+cad event #:
+
+15-09-26-022505
+
+WRIGHT QUAD, 501 N. JORDAN, SOUTH END OF CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/26/15 - SAT at 23:42
+date reported: 09/26/15 - SAT at 23:48
+location:
+
+cad event #:
+
+15-09-26-022508
+
+FOREST QUAD, 1725 E. 3RD STREET, FOREST D4 - CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/27/15 - SUN at 00:01
+
+

@@ -1,0 +1,75 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/18/2015 00:00 to 07/18/2015 23:59
+
+date reported: 07/18/15 - SAT at 02:50
+general location:
+
+report #:
+
+ALL OTHER NON-UNIVERSITY – 4
+
+151750
+TH
+
+@ GRANT
+
+date occurred from: 07/18/15 - SAT at 02:50
+date occurred to:
+
+07/18/15 - SAT at 02:50
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/20/15 - MON at 08:31
+date reported: 07/18/15 - SAT at 04:20
+general location:
+
+report #:
+
+151751
+
+ALL OTHER NON-UNIVERSITY – 17
+
+TH
+
+@ LINCOLN
+
+date occurred from: 07/18/15 - SAT at 04:20
+date occurred to:
+
+07/18/15 - SAT at 04:20
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/18/15 - SAT at 05:56
+date reported: 07/18/15 - SAT at 18:01
+general location:
+
+report #:
+
+151754
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 07/17/15 - FRI at 13:00
+date occurred to:
+
+07/18/15 - SAT at 18:01
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 07/19/15 - SUN at 21:01
+
+

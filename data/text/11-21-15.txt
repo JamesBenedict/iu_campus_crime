@@ -1,0 +1,113 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/21/2015 00:00 to 11/21/2015 23:59
+date reported: 11/21/15 - SAT at 00:31
+location:
+
+cad event #:
+
+15-11-21-027781
+
+WRIGHT QUAD, 501 N. JORDAN, 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: CANCELLED EVENT
+modified date: 11/21/15 - SAT at 07:52
+date reported: 11/21/15 - SAT at 01:16
+general location:
+
+report #:
+
+153226
+
+ALL OTHER NON-UNIVERSITY – 20TH @ WASHINGTON
+
+date occurred from: 11/21/15 - SAT at 00:00
+date occurred to:
+
+11/21/15 - SAT at 00:00
+
+incident/offenses:
+
+ALL OTHER-unless other code applies // ILLEGAL POSSESSION/CONSUMPTION // POSSESSION OF DRUG
+PARAPHERNALIA
+disposition: CLOSED CASE- ARREST
+modified date: 11/23/15 - MON at 08:36
+date reported: 11/21/15 - SAT at 03:49
+general location:
+
+report #:
+
+153227
+
+ATWATER AVENUE/WEST OF JORDAN - Public property
+
+date occurred from: 11/21/15 - SAT at 03:49
+date occurred to:
+
+11/21/15 - SAT at 05:39
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/21/15 - SAT at 07:26
+date reported: 11/21/15 - SAT at 10:25
+location:
+
+cad event #:
+
+15-11-21-027802
+
+TETER QUAD, 501 N. SUNRISE, CIRCLE HERSHEY 223 STEMPLE 332
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/21/15 - SAT at 10:47
+date reported: 11/21/15 - SAT at 11:02
+general location:
+
+report #:
+
+153228
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 11/21/15 - SAT at 11:00
+date occurred to:
+
+11/21/15 - SAT at 11:25
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: REFERRED
+modified date: 11/21/15 - SAT at 12:01
+date reported: 11/21/15 - SAT at 21:24
+general location:
+
+report #:
+
+IUPD STATION - On Campus
+
+date occurred from: 11/21/15 - SAT at 17:20
+date occurred to:
+
+11/21/15 - SAT at 21:05
+
+incident/offenses:
+
+STALKING
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 11/23/15 - MON at 08:27
+
+153230
+
+

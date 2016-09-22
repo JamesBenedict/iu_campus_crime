@@ -1,0 +1,108 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/14/2015 00:00 to 08/14/2015 23:59
+date reported: 08/14/15 - FRI at 01:03
+general location:
+
+report #:
+
+151873
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/13/15 - THU at 23:30
+date occurred to:
+
+08/14/15 - FRI at 01:05
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/14/15 - FRI at 11:46
+date reported: 08/14/15 - FRI at 01:49
+general location:
+
+report #:
+
+151874
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 08/14/15 - FRI at 01:49
+date occurred to:
+
+08/14/15 - FRI at 03:03
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/14/15 - FRI at 07:53
+date reported: 08/14/15 - FRI at 01:51
+general location:
+
+report #:
+
+151875
+
+ALL OTHER NON-UNIVERSITY – KIRKWOOD @ WASHINGTON
+
+date occurred from: 08/14/15 - FRI at 01:49
+date occurred to:
+
+08/14/15 - FRI at 03:35
+
+incident/offenses:
+
+Vehicle Stop // DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/17/15 - MON at 09:06
+date reported: 08/14/15 - FRI at 02:30
+general location:
+
+report #:
+
+151876
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/14/15 - FRI at 00:01
+date occurred to:
+
+08/14/15 - FRI at 02:31
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/14/15 - FRI at 16:18
+
+date reported: 08/14/15 - FRI at 09:05
+general location:
+
+report #:
+
+151879
+
+ALL OTHER NON-UNIVERSITY - UNKNOWN
+
+date occurred from: 08/13/15 - THU at 15:55
+date occurred to:
+
+08/13/15 - THU at 16:00
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: REFERRED
+modified date: 08/17/15 - MON at 08:57
+
+

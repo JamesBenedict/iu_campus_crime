@@ -1,0 +1,225 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/27/2015 00:00 to 08/27/2015 23:59
+date reported: 08/27/15 - THU at 00:11
+general location:
+
+report #:
+
+152019
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 08/27/15 - THU at 00:11
+date occurred to:
+
+08/27/15 - THU at 01:29
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/15 - THU at 08:30
+date reported: 08/27/15 - THU at 03:01
+general location:
+
+report #:
+
+152020
+
+ALL OTHER NON-UNIVERSITY - 4TH @ GRANT
+
+date occurred from: 08/27/15 - THU at 03:01
+date occurred to:
+
+08/27/15 - THU at 04:25
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/15 - THU at 08:47
+date reported: 08/27/15 - THU at 12:06
+general location:
+
+report #:
+
+152022
+
+ALPHA DELTA PI - Non-campus building or property
+
+date occurred from: 08/24/15 - MON at 20:00
+date occurred to:
+
+08/26/15 - WED at 02:00
+
+incident/offenses:
+
+THEFT- MOTOR VEHICLE PARTS AND ACCESSORIES
+
+disposition: OPEN CASE
+modified date: 08/27/15 - THU at 13:24
+date reported: 08/27/15 - THU at 19:25
+general location:
+
+report #:
+
+152029
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/27/15 - THU at 19:18
+date occurred to:
+
+08/27/15 - THU at 19:25
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/27/15 - THU at 20:55
+date reported: 08/27/15 - THU at 21:59
+general location:
+
+report #:
+
+152030
+
+FOSTER BACK LOT - On Campus
+
+date occurred from: 08/27/15 - THU at 21:56
+date occurred to:
+
+08/27/15 - THU at 21:59
+
+incident/offenses:
+
+POSSESSION OF MARIJUANA // RESISTING LAW ENFORCEMENT
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/28/15 - FRI at 00:59
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/27/2015 00:00 to 08/27/2015 23:59
+date reported: 08/27/15 - THU at 22:43
+general location:
+
+report #:
+
+152031
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/27/15 - THU at 22:44
+date occurred to:
+
+08/27/15 - THU at 22:48
+
+incident/offenses:
+
+FIRE ALARMS - ACTUAL, ARSON- SIGNS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/28/15 - FRI at 06:46
+date reported: 08/27/15 - THU at 22:49
+general location:
+
+report #:
+
+152033
+
+WRIGHT EDUCATION BLDG - On Campus
+
+date occurred from: 08/27/15 - THU at 00:00
+date occurred to:
+
+08/27/15 - THU at 00:00
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/28/15 - FRI at 08:19
+date reported: 08/27/15 - THU at 22:53
+general location:
+
+report #:
+
+152032
+
+FOSTER COMMON AREA - On Campus
+
+date occurred from: 08/27/15 - THU at 18:00
+date occurred to:
+
+08/27/15 - THU at 22:57
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/28/15 - FRI at 08:20
+date reported: 08/27/15 - THU at 22:54
+general location:
+
+report #:
+
+152034
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 08/27/15 - THU at 22:30
+date occurred to:
+
+08/27/15 - THU at 22:54
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 08/28/15 - FRI at 08:55
+date reported: 08/27/15 - THU at 23:27
+location:
+
+cad event #:
+
+15-08-27-019365
+
+ASHTON JOHNSTON, 1770 E. 10TH STREET, 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/27/15 - THU at 23:41
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/27/2015 00:00 to 08/27/2015 23:59
+date reported: 08/27/15 - THU at 23:43
+location:
+
+cad event #:
+
+15-08-27-019367
+
+BRISCOE QUAD, 1225 N. FEE LANE, BEHIND SHOEMAKER
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/27/15 - THU at 23:54
+
+

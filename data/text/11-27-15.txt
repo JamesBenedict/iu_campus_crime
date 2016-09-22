@@ -1,0 +1,27 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Report
+from 11/27/2015 00:00 to 11/27/2015 23:59
+date reported: 11/27/15 - FRI at 20:01
+general location:
+
+report #:
+
+153247
+
+FEE LANE/NORTH OF 10TH ST - Public property
+
+date occurred from: 11/27/15 - FRI at 20:00
+date occurred to:
+
+11/27/15 - FRI at 20:01
+
+incident/offenses:
+
+DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/27/15 - FRI at 22:15
+
+

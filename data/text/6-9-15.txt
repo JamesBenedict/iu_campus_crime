@@ -1,0 +1,145 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 06/09/2015 00:00 to 06/09/2015 23:59
+
+date reported:
+
+06/09/15 - TUE at 07:52
+
+general location:
+
+report #:
+
+151549
+
+FRANKLIN HALL - On Campus
+
+date occurred from: 06/05/15 - FRI at 08:15
+date occurred to:
+
+06/06/15 - SAT at 13:00
+
+incident/offenses:
+
+FORCIBLE ENTRY // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 06/09/15 - TUE at 13:05
+date reported: 06/09/15 - TUE at 08:56
+general location:
+
+report #:
+
+151550
+
+VON LEE LOT - On Campus
+
+date occurred from: 06/05/15 - FRI at 15:30
+date occurred to:
+
+06/09/15 - TUE at 06:00
+
+incident/offenses:
+
+THEFT- MOTOR VEHICLE PARTS AND ACCESSORIES
+
+disposition: OPEN CASE
+modified date: 06/09/15 - TUE at 14:19
+date reported: 06/09/15 - TUE at 09:02
+general location:
+
+report #:
+
+151551
+
+VON LEE LOT - On Campus
+
+date occurred from: 06/05/15 - FRI at 15:30
+date occurred to:
+
+06/09/15 - TUE at 06:00
+
+incident/offenses:
+
+THEFT- MOTOR VEHICLE PARTS AND ACCESSORIES
+
+disposition: OPEN CASE
+modified date: 06/09/15 - TUE at 14:17
+date reported: 06/09/15 - TUE at 09:04
+general location:
+
+report #:
+
+151552
+
+VON LEE LOT - On Campus
+
+date occurred from: 06/05/15 - FRI at 15:30
+date occurred to:
+
+06/09/15 - TUE at 06:00
+
+incident/offenses:
+
+THEFT- MOTOR VEHICLE PARTS AND ACCESSORIES
+
+disposition: OPEN CASE
+modified date: 06/09/15 - TUE at 14:16
+date reported: 06/09/15 - TUE at 12:59
+location:
+
+cad event #:
+
+SRSC PARKING LOT,
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 06/09/15 - TUE at 13:11
+
+15-06-09-013630
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 06/09/2015 00:00 to 06/09/2015 23:59
+
+date reported: 06/09/15 - TUE at 19:33
+location:
+
+cad event #:
+
+15-06-09-013653
+
+ALL OTHER NON-UNIVERSITY, , 19TH AND WALNUT
+
+incident: SUSPICIOUS PERSON OR VEHICLE
+final incident: DOMESTIC DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 06/09/15 - TUE at 19:48
+
+date reported: 06/09/15 - TUE at 20:40
+general location:
+
+report #:
+
+FRANKLIN HALL - On Campus
+
+date occurred from: 06/09/15 - TUE at 08:56
+date occurred to:
+
+06/09/15 - TUE at 20:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 06/09/15 - TUE at 22:12
+
+151554
+
+

@@ -1,0 +1,46 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/27/2015 00:00 to 07/27/2015 23:59
+
+date reported: 07/27/15 - MON at 02:15
+
+report #:
+
+151798
+
+general location:ALL OTHER NON-UNIVERSITY - 3RD @ BYPASS
+date occurred from: 07/27/15 - MON at 02:15
+date occurred to:
+
+07/27/15 - MON at 04:21
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/27/15 - MON at 11:47
+date reported: 07/27/15 - MON at 13:47
+general location:
+
+report #:
+
+151800
+
+JORDAN AVENUE PARKING GAR - On Campus
+
+date occurred from: 07/26/15 - SUN at 08:00
+date occurred to:
+
+07/26/15 - SUN at 17:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 07/28/15 - TUE at 16:55
+
+

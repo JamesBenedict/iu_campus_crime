@@ -1,0 +1,304 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/30/2015 00:00 to 08/30/2015 23:59
+date reported: 08/30/15 - SUN at 00:31
+general location:
+
+report #:
+
+152073
+
+BRISCOE QUAD COMMON AREA - On Campus
+
+date occurred from: 08/30/15 - SUN at 00:31
+date occurred to:
+
+08/30/15 - SUN at 00:54
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/30/15 - SUN at 06:34
+date reported: 08/30/15 - SUN at 00:58
+general location:
+
+report #:
+
+152074
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/30/15 - SUN at 01:00
+date occurred to:
+
+08/30/15 - SUN at 01:13
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: REFERRED
+modified date: 08/30/15 - SUN at 03:09
+date reported: 08/30/15 - SUN at 01:35
+location:
+
+cad event #:
+
+15-08-30-019644
+
+SRSC, 1601 LAW LANE
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: FAILED TO LOCATE
+modified date: 08/30/15 - SUN at 01:42
+date reported: 08/30/15 - SUN at 01:40
+general location:
+
+report #:
+
+152081
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/30/15 - SUN at 01:38
+date occurred to:
+
+08/30/15 - SUN at 01:40
+
+incident/offenses:
+
+HANDS, FISTS, FEET,ETC-AGGRAVATED INJURY // DISORDERLY CONDUCT // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/31/15 - MON at 08:25
+date reported: 08/30/15 - SUN at 01:47
+location:
+
+cad event #:
+
+15-08-30-019648
+
+FOREST QUAD, 1725 E. 3RD STREET, B TOWER 4TH FLOOR
+
+incident: OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+final incident: MEDICAL ASSIST
+disposition: NO CASE REPORT
+modified date: 08/30/15 - SUN at 02:02
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/30/2015 00:00 to 08/30/2015 23:59
+date reported: 08/30/15 - SUN at 01:50
+general location:
+
+report #:
+
+152076
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/30/15 - SUN at 00:00
+date occurred to:
+
+08/30/15 - SUN at 02:05
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/30/15 - SUN at 06:23
+date reported: 08/30/15 - SUN at 02:03
+general location:
+
+report #:
+
+152077
+
+46 BYPASS/EAST OF GOLF CO - Public property
+
+date occurred from: 08/30/15 - SUN at 02:03
+date occurred to:
+
+08/30/15 - SUN at 03:05
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/30/15 - SUN at 05:58
+date reported: 08/30/15 - SUN at 02:15
+general location:
+
+report #:
+
+152078
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/30/15 - SUN at 01:30
+date occurred to:
+
+08/30/15 - SUN at 02:15
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: REFERRED
+modified date: 08/30/15 - SUN at 06:19
+date reported: 08/30/15 - SUN at 02:29
+location:
+
+cad event #:
+
+15-08-30-019652
+
+10TH STREET/EAST OF JORDA, EAST OF JORDAN 10TH STREET, 10TH UNION, VILLAGE PANTRY
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: UNFOUNDED
+modified date: 08/30/15 - SUN at 02:35
+date reported: 08/30/15 - SUN at 02:33
+general location:
+
+report #:
+
+152079
+
+SUNRISE AVE/SOUTH OF 10TH - Public property
+
+date occurred from: 08/30/15 - SUN at 02:30
+date occurred to:
+
+08/30/15 - SUN at 02:45
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: REFERRED
+modified date: 08/30/15 - SUN at 04:54
+date reported: 08/30/15 - SUN at 03:18
+location:
+
+cad event #:
+
+FOSTER COMMON AREA, , JENKINSON
+
+incident: CITIZEN ASSIST
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 08/30/15 - SUN at 03:28
+
+15-08-30-019659
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/30/2015 00:00 to 08/30/2015 23:59
+date reported: 08/30/15 - SUN at 03:24
+general location:
+
+report #:
+
+152080
+
+ALL OTHER NON-UNIVERSITY – LINCOLN @ 6TH
+
+date occurred from: 08/30/15 - SUN at 03:24
+date occurred to:
+
+08/30/15 - SUN at 04:32
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/30/15 - SUN at 06:21
+date reported: 08/30/15 - SUN at 04:45
+location:
+
+cad event #:
+
+15-08-30-019665
+
+WRIGHT QUAD, 501 N. JORDAN, N BREEZEWAY ON CAMPBELL - UNIT 16
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/30/15 - SUN at 05:03
+date reported: 08/30/15 - SUN at 15:58
+general location:
+
+report #:
+
+152084
+
+HILLCREST COMMON AREA - On Campus
+
+date occurred from: 08/30/15 - SUN at 13:00
+date occurred to:
+
+08/30/15 - SUN at 15:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: UNFOUNDED
+modified date: 08/31/15 - MON at 08:20
+date reported: 08/30/15 - SUN at 16:22
+general location:
+
+report #:
+
+152086
+
+PHI KAPPA SIGMA - Non-campus building or property
+
+date occurred from: 08/30/15 - SUN at 11:00
+date occurred to:
+
+08/30/15 - SUN at 12:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 08/30/15 - SUN at 22:29
+date reported: 08/30/15 - SUN at 22:25
+general location:
+
+report #:
+
+152088
+
+LAW SCHOOL - On Campus
+
+date occurred from: 08/25/15 - TUE at 21:15
+date occurred to:
+
+08/30/15 - SUN at 22:05
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 08/31/15 - MON at 08:17
+
+

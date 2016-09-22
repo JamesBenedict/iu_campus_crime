@@ -1,0 +1,95 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/11/2015 00:00 to 10/11/2015 23:59
+date reported: 10/11/15 - SUN at 01:25
+general location:
+
+report #:
+
+152669
+
+DUNN MEADOW-SE OF 7TH & INDIANA AVE - On Campus
+
+date occurred from: 10/11/15 - SUN at 01:20
+date occurred to:
+
+10/11/15 - SUN at 01:31
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // DISORDERLY CONDUCT // THEFT FROM BUILDINGS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 10/11/15 - SUN at 05:24
+date reported: 10/11/15 - SUN at 02:13
+location:
+
+cad event #:
+
+15-10-11-023915
+
+FOSTER MARTIN HALL, 1000 N. FEE LANE, 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/11/15 - SUN at 02:22
+date reported: 10/11/15 - SUN at 03:02
+general location:
+
+report #:
+
+152670
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 10/11/15 - SUN at 03:02
+date occurred to:
+
+10/11/15 - SUN at 04:54
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/12/15 - MON at 08:58
+date reported: 10/11/15 - SUN at 11:21
+general location:
+
+report #:
+
+152671
+
+SRSC - On Campus
+
+date occurred from: 10/11/15 - SUN at 10:00
+date occurred to:
+
+10/11/15 - SUN at 11:15
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 10/12/15 - MON at 08:42
+date reported:
+location:
+
+10/11/15 - SUN at 23:00
+
+cad event #:
+
+USA PINE HALL, 405 N. UNION, 4TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/11/15 - SUN at 23:10
+
+15-10-11-023959
+
+

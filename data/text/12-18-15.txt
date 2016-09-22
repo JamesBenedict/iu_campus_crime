@@ -1,0 +1,185 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/18/2015 00:00 to 12/18/2015 23:59
+date reported: 12/18/15 - FRI at 00:14
+location:
+
+cad event #:
+
+15-12-18-029635
+
+EIGENMANN HALL, 1900 E. 10TH STREET
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/18/15 - FRI at 00:25
+date reported: 12/18/15 - FRI at 00:33
+location:
+
+cad event #:
+
+15-12-18-029636
+
+COLLINS LLC ANNEX, 801 E. 9TH STREET, FRONT OF COLLINS BY 9TH & WOODLAWN
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/18/15 - FRI at 00:43
+date reported: 12/18/15 - FRI at 01:17
+general location:
+
+report #:
+
+153446
+
+LAW SCHOOL - On Campus
+
+date occurred from: 12/17/15 - THU at 00:00
+date occurred to:
+
+12/18/15 - FRI at 01:17
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 12/18/15 - FRI at 08:25
+date reported: 12/18/15 - FRI at 02:10
+general location:
+
+report #:
+
+153447
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 12/18/15 - FRI at 02:10
+date occurred to:
+
+12/18/15 - FRI at 02:49
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: REFERRED
+modified date: 12/21/15 - MON at 10:51
+date reported: 12/18/15 - FRI at 09:39
+general location:
+
+report #:
+
+153449
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 11/21/15 - SAT at 08:00
+date occurred to:
+
+11/24/15 - TUE at 08:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 12/21/15 - MON at 10:08
+date reported: 12/18/15 - FRI at 13:00
+general location:
+
+report #:
+
+153451
+
+CARMICHAEL BUILDING - On Campus
+
+date occurred from: 12/18/15 - FRI at 13:00
+date occurred to:
+
+12/18/15 - FRI at 13:34
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // SHOPLIFTING
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 12/21/15 - MON at 09:47
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/18/2015 00:00 to 12/18/2015 23:59
+date reported: 12/18/15 - FRI at 15:37
+general location:
+
+report #:
+
+153452
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 12/15/15 - TUE at 00:00
+date occurred to:
+
+12/15/15 - TUE at 12:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 12/18/15 - FRI at 19:19
+date reported: 12/18/15 - FRI at 18:19
+location:
+
+cad event #:
+
+15-12-18-029706
+
+TETER QUAD, 501 N. SUNRISE, RABB 5
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/18/15 - FRI at 18:38
+date reported: 12/18/15 - FRI at 20:23
+location:
+
+cad event #:
+
+15-12-18-029710
+
+BRISCOE QUAD, 1225 N. FEE LANE, 11TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/18/15 - FRI at 20:42
+date reported: 12/18/15 - FRI at 21:01
+general location:
+
+report #:
+
+153454
+
+406 NORTH FESS - On Campus - in any student residential facility
+
+date occurred from: 12/18/15 - FRI at 21:00
+date occurred to:
+
+12/18/15 - FRI at 21:08
+
+incident/offenses:
+
+ILLEGAL FIREWORKS // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 12/21/15 - MON at 14:44
+
+

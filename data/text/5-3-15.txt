@@ -1,0 +1,40 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/03/2015 00:00 to 05/03/2015 23:59
+date reported: 05/03/15 - SUN at 01:57
+location:
+
+cad event #:
+
+15-05-03-011155
+
+BRISCOE QUAD BACK LOT,
+
+incident: OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+final incident: OTHER DISTURBANCES
+disposition: UNFOUNDED
+modified date: 05/03/15 - SUN at 02:03
+date reported: 05/03/15 - SUN at 02:38
+general location:
+
+report #:
+
+151341
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 05/03/15 - SUN at 02:37
+date occurred to:
+
+05/03/15 - SUN at 03:55
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/04/15 - MON at 08:57
+
+

@@ -1,0 +1,198 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/17/2015 00:00 to 12/17/2015 23:59
+date reported: 12/17/15 - THU at 00:02
+general location:
+
+report #:
+
+153432
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 12/16/15 - WED at 22:00
+date occurred to:
+
+12/17/15 - THU at 00:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 12/17/15 - THU at 10:14
+date reported: 12/17/15 - THU at 10:53
+
+report #:
+
+153434
+
+general location:ALL OTHER NON-UNIVERSITY ADVERTISMENT ONLINE
+date occurred from: 12/17/15 - THU at 10:53
+date occurred to:
+
+12/17/15 - THU at 11:19
+
+incident/offenses:
+
+PROSTITUTION AND COMMERICALIZED VICE
+
+disposition: OPEN CASE
+modified date: 12/18/15 - FRI at 09:50
+date reported: 12/17/15 - THU at 12:46
+general location:
+
+report #:
+
+153435
+
+SYCAMORE HALL - On Campus
+
+date occurred from: 12/04/15 - FRI at 08:00
+date occurred to:
+
+12/09/15 - WED at 16:00
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 12/18/15 - FRI at 09:00
+date reported: 12/17/15 - THU at 13:17
+general location:
+
+report #:
+
+153437
+
+GOODBODY HALL - On Campus
+
+date occurred from: 12/03/15 - THU at 13:17
+date occurred to:
+
+12/17/15 - THU at 13:37
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 12/18/15 - FRI at 09:03
+date reported: 12/17/15 - THU at 13:32
+general location:
+
+report #:
+
+153439
+
+OPTOMETRY CLINIC-E. 3rd St. - On Campus
+
+date occurred from: 12/16/15 - WED at 19:30
+date occurred to:
+
+12/17/15 - THU at 08:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 12/17/15 - THU at 15:03
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/17/2015 00:00 to 12/17/2015 23:59
+
+date reported: 12/17/15 - THU at 13:37
+general location:
+
+report #:
+
+153438
+
+RADIO AND TV - On Campus
+
+date occurred from: 12/16/15 - WED at 18:45
+date occurred to:
+
+12/17/15 - THU at 08:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 12/18/15 - FRI at 10:07
+date reported: 12/17/15 - THU at 14:19
+general location:
+
+report #:
+
+153441
+
+STONEBELT - Non-campus building or property
+
+date occurred from: 12/13/15 - SUN at 09:25
+date occurred to:
+
+12/13/15 - SUN at 09:25
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 12/19/15 - SAT at 21:34
+date reported: 12/17/15 - THU at 16:57
+location:
+
+cad event #:
+
+15-12-17-029588
+
+WILLKIE NORTH, 150 N. ROSE, 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/17/15 - THU at 17:08
+date reported: 12/17/15 - THU at 17:06
+location:
+
+cad event #:
+
+15-12-17-029590
+
+COLLINS EDMONDSON, 541 N WOODLAWN, 4TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/17/15 - THU at 17:19
+date reported: 12/17/15 - THU at 18:34
+general location:
+
+report #:
+
+153443
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 12/17/15 - THU at 18:30
+date occurred to:
+
+12/17/15 - THU at 18:39
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 12/21/15 - MON at 14:37
+
+

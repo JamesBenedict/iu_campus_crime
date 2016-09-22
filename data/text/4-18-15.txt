@@ -1,0 +1,162 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/18/2015 00:00 to 04/18/2015 23:59
+date reported: 04/18/15 - SAT at 00:01
+location:
+
+cad event #:
+
+15-04-18-009523
+
+TENTH STREET LOT, 1600 BLOCK E. 10TH, TRAIN TRACKS BY 10TH STREET LOT
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 04/18/15 - SAT at 00:11
+date reported: 04/18/15 - SAT at 00:26
+general location:
+
+report #:
+
+151127
+
+MCNUTT QUAD BACK LOT - On Campus
+
+date occurred from: 04/18/15 - SAT at 00:26
+date occurred to:
+
+04/18/15 - SAT at 00:35
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/18/15 - SAT at 02:47
+date reported: 04/18/15 - SAT at 03:34
+general location:
+
+report #:
+
+151128
+
+LAW LANE/WEST OF JORDAN AVE - Public property
+
+date occurred from: 04/18/15 - SAT at 03:33
+date occurred to:
+
+04/18/15 - SAT at 04:41
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/20/15 - MON at 09:13
+date reported: 04/18/15 - SAT at 13:47
+general location:
+
+report #:
+
+151132
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 04/18/15 - SAT at 13:30
+date occurred to:
+
+04/18/15 - SAT at 13:45
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 04/18/15 - SAT at 14:29
+date reported: 04/18/15 - SAT at 14:25
+general location:
+
+report #:
+
+151135
+
+ALPHA TAU OMEGA - Non-campus building or property
+
+date occurred from: 04/18/15 - SAT at 02:00
+date occurred to:
+
+04/18/15 - SAT at 08:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/18/15 - SAT at 18:41
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/18/2015 00:00 to 04/18/2015 23:59
+date reported: 04/18/15 - SAT at 15:58
+location:
+
+cad event #:
+
+15-04-18-009590
+
+MCNUTT QUAD, 1101 N. FEE LANE
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: FAILED TO LOCATE
+modified date: 04/18/15 - SAT at 16:12
+date reported: 04/18/15 - SAT at 19:10
+location:
+
+cad event #:
+
+15-04-18-009604
+
+MCNUTT QUAD, 1101 N. FEE LANE
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: NO CASE REPORT
+modified date: 04/18/15 - SAT at 19:58
+date reported: 04/18/15 - SAT at 20:03
+general location:
+date occurred from:
+date occurred to:
+incident/offenses:
+
+report #:
+
+151136
+
+SRSC PARKING LOT - On Campus
+04/18/15 - SAT at 18:00
+04/18/15 - SAT at 20:03
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/18/15 - SAT at 23:22
+date reported: 04/18/15 - SAT at 23:54
+location:
+
+cad event #:
+
+READ CENTER, 125 S. JORDAN, CURRY 5
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/19/15 - SUN at 00:01
+
+15-04-18-009633
+
+

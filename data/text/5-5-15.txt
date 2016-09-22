@@ -1,0 +1,100 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/05/2015 00:00 to 05/05/2015 23:59
+date reported: 05/05/15 - TUE at 02:02
+general location:
+
+report #:
+
+151354
+
+INTERNATIONAL STUDIES - On Campus
+
+date occurred from: 05/05/15 - TUE at 01:57
+date occurred to:
+
+05/05/15 - TUE at 01:57
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 05/06/15 - WED at 09:15
+date reported: 05/05/15 - TUE at 02:51
+
+cad event #:
+
+date reported: 05/05/15 - TUE at 13:41
+
+report #:
+
+general location:
+
+15-05-05-011288
+
+151357
+
+7TH STREET/EAST OF JORDAN - On Campus
+
+date occurred from: 05/05/15 - TUE at 00:00
+date occurred to:
+
+05/05/15 - TUE at 13:48
+
+incident/offenses:
+
+HANDS, FISTS, FEET,ETC-AGGRAVATED INJURY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/06/15 - WED at 09:09
+date reported: 05/05/15 - TUE at 15:49
+location:
+
+cad event #:
+
+15-05-05-011323
+
+TETER QUAD, 501 N. SUNRISE, WISSLER A322
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: NO CASE REPORT
+modified date: 05/05/15 - TUE at 17:21
+date reported: 05/05/15 - TUE at 16:42
+location:
+
+cad event #:
+
+15-05-05-011328
+
+ALL OTHER NON-UNIVERSITY, 314 E BROWNSTONE , TERRA TRACE
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: FAILED TO LOCATE
+modified date: 05/05/15 - TUE at 16:49
+date reported: 05/05/15 - TUE at 19:38
+general location:
+
+report #:
+
+151362
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 05/04/15 - MON at 00:00
+date occurred to:
+
+05/05/15 - TUE at 19:40
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 05/06/15 - WED at 09:35
+
+

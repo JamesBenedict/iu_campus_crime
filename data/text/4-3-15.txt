@@ -1,0 +1,200 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/03/2015 00:00 to 04/03/2015 23:59
+date reported: 04/03/15 - FRI at 01:38
+general location:
+
+report #:
+
+150968
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 04/02/15 - THU at 23:00
+date occurred to:
+
+04/03/15 - FRI at 01:40
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: REFERRED
+modified date: 04/03/15 - FRI at 12:03
+date reported: 04/03/15 - FRI at 01:56
+general location:
+
+report #:
+
+150969
+
+ALL OTHER NON-UNIVERSITY - 4TH & MADISON
+
+date occurred from: 04/03/15 - FRI at 01:56
+date occurred to:
+
+04/03/15 - FRI at 03:33
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/03/15 - FRI at 08:16
+date reported: 04/03/15 - FRI at 02:28
+general location:
+
+report #:
+
+150970
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/03/15 - FRI at 02:20
+date occurred to:
+
+04/03/15 - FRI at 02:28
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 04/03/15 - FRI at 08:57
+date reported: 04/03/15 - FRI at 02:57
+general location:
+
+report #:
+
+150971
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 04/03/15 - FRI at 02:53
+date occurred to:
+
+04/03/15 - FRI at 02:57
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/03/15 - FRI at 03:56
+date reported: 04/03/15 - FRI at 03:32
+general location:
+
+report #:
+
+150972
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 04/03/15 - FRI at 03:33
+date occurred to:
+
+04/03/15 - FRI at 03:36
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/03/15 - FRI at 16:48
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/03/2015 00:00 to 04/03/2015 23:59
+
+date reported: 04/03/15 - FRI at 03:47
+general location:
+
+report #:
+
+150973
+
+FOSTER MAGEE HALL - On Campus - in any student residential facility
+
+date occurred from: 04/03/15 - FRI at 03:00
+date occurred to:
+
+04/03/15 - FRI at 03:52
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/03/15 - FRI at 12:46
+date reported: 04/03/15 - FRI at 09:20
+general location:
+
+report #:
+
+150974
+
+ALL OTHER NON-UNIVERSITY – 500 BLK N PARK
+
+date occurred from: 11/27/14 - THU at 08:00
+date occurred to:
+
+04/01/15 - WED at 22:30
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/03/15 - FRI at 16:08
+date reported: 04/03/15 - FRI at 09:52
+location:
+
+cad event #:
+
+15-04-03-007982
+
+cad event #:
+
+15-04-03-008059
+
+WILLKIE COMMON AREA,
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: NO CASE REPORT
+modified date: 04/06/15 - MON at 09:12
+date reported: 04/03/15 - FRI at 18:14
+location:
+
+ROSE AVE. RESIDENCE HALL, 1801 E. JONES AVE, 4TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/03/15 - FRI at 18:30
+date reported: 04/03/15 - FRI at 20:59
+general location:
+
+report #:
+
+150980
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/03/15 - FRI at 20:30
+date occurred to:
+
+04/03/15 - FRI at 20:59
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/03/15 - FRI at 22:21
+
+

@@ -1,0 +1,80 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 06/13/2015 00:00 to 06/13/2015 23:59
+date reported: 06/13/15 - SAT at 00:12
+location:
+
+cad event #:
+
+15-06-13-013884
+
+DUNN STREET/SOUTH OF 10TH, SOUTH OF 10TH DUNN STREET, DUNN, 4TH
+
+incident: CITIZEN ASSIST
+final incident: DISORDERLY CONDUCT
+disposition: NO CASE REPORT
+modified date: 06/13/15 - SAT at 00:29
+date reported: 06/13/15 - SAT at 02:29
+general location:
+
+report #:
+
+151577
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 06/13/15 - SAT at 02:28
+date occurred to:
+
+06/13/15 - SAT at 03:56
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/13/15 - SAT at 06:01
+date reported: 06/13/15 - SAT at 06:20
+general location:
+
+report #:
+
+151578
+
+EVERMANN/REDBUD PARKING LOT - On Campus
+
+date occurred from: 06/13/15 - SAT at 06:15
+date occurred to:
+
+06/13/15 - SAT at 06:20
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 06/13/15 - SAT at 06:54
+date reported: 06/13/15 - SAT at 20:47
+general location:
+
+report #:
+
+151581
+
+CAMPUS VIEW APTS. - On Campus - in any student residential facility
+
+date occurred from: 06/11/15 - THU at 16:00
+date occurred to:
+
+06/13/15 - SAT at 20:48
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 06/13/15 - SAT at 21:45
+
+

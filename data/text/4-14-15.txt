@@ -1,0 +1,141 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/14/2015 00:00 to 04/14/2015 23:59
+
+date reported: 04/14/15 - TUE at 04:21
+location:
+
+cad event #:
+
+15-04-14-009079
+
+MCNUTT QUAD, 1101 N. FEE LANE, BOCOBO 1ST FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/14/15 - TUE at 04:31
+date reported: 04/14/15 - TUE at 14:07
+general location:
+
+report #:
+
+151072
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/14/15 - TUE at 03:00
+date occurred to:
+
+04/14/15 - TUE at 08:20
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/14/15 - TUE at 15:06
+date reported: 04/14/15 - TUE at 14:50
+location:
+
+cad event #:
+
+15-04-14-009125
+
+MCNUTT QUAD, 1101 N. FEE LANE
+
+incident: THEFT FROM BUILDINGS
+final incident: LOST PROPERTY
+disposition: CASE REPORT FOLLOWS.
+modified date: 04/14/15 - TUE at 15:25
+date reported: 04/14/15 - TUE at 15:02
+general location:
+
+report #:
+
+151074
+
+919 EAST 13TH - On Campus
+
+date occurred from: 04/03/15 - FRI at 15:00
+date occurred to:
+
+04/13/15 - MON at 23:00
+
+incident/offenses:
+
+FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 04/14/15 - TUE at 22:04
+date reported: 04/14/15 - TUE at 16:20
+general location:
+
+report #:
+
+151076
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 04/09/15 - THU at 17:00
+date occurred to:
+
+04/09/15 - THU at 21:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 04/15/15 - WED at 08:58
+date reported: 04/14/15 - TUE at 16:42
+general location:
+
+report #:
+
+RADIO AND TV - On Campus
+
+date occurred from: 04/14/15 - TUE at 14:00
+date occurred to:
+
+04/14/15 - TUE at 16:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: UNFOUNDED
+modified date: 04/14/15 - TUE at 19:10
+
+151077
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/14/2015 00:00 to 04/14/2015 23:59
+
+date reported: 04/14/15 - TUE at 21:15
+general location:
+
+report #:
+
+151078
+
+CAMPUS VIEW APTS. - On Campus - in any student residential facility
+
+date occurred from: 04/14/15 - TUE at 21:00
+date occurred to:
+
+04/14/15 - TUE at 21:15
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 04/14/15 - TUE at 22:38
+
+

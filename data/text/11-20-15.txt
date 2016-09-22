@@ -1,0 +1,146 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/20/2015 00:00 to 11/20/2015 23:59
+date reported: 11/20/15 - FRI at 00:43
+location:
+
+cad event #:
+
+15-11-20-027697
+
+FOREST QUAD, 1725 E. 3RD STREET, BTOWER 7TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/20/15 - FRI at 00:58
+date reported: 11/20/15 - FRI at 00:57
+general location:
+
+report #:
+
+153219
+
+ASHTON HERSHEY HALL - On Campus - in any student residential facility
+
+date occurred from: 11/20/15 - FRI at 00:57
+date occurred to:
+
+11/20/15 - FRI at 01:32
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/20/15 - FRI at 04:54
+date reported: 11/20/15 - FRI at 02:04
+location:
+
+cad event #:
+
+15-11-20-027701
+
+INDIANA MEMORIAL UNION, 900 E. 7TH STREET, SOUTH SIDE
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 11/20/15 - FRI at 02:15
+date reported: 11/20/15 - FRI at 12:52
+general location:
+
+report #:
+
+153221
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 11/20/15 - FRI at 12:15
+date occurred to:
+
+11/20/15 - FRI at 13:05
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 11/20/15 - FRI at 14:46
+date reported: 11/20/15 - FRI at 14:15
+general location:
+
+report #:
+
+153222
+
+SEMBOWER FIELD - On Campus
+
+date occurred from: 11/11/15 - WED at 15:00
+date occurred to:
+
+11/19/15 - THU at 19:00
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 11/21/15 - SAT at 06:46
+date reported: 11/20/15 - FRI at 19:32
+location:
+
+cad event #:
+
+15-11-20-027760
+
+CAMPUS VIEW APTS., 800 N. UNION, MEET IN LOBBY
+
+incident: THEFT-ALL OTHER
+final incident: THEFT-ALL OTHER
+disposition: NO CASE REPORT
+modified date: 11/20/15 - FRI at 19:48
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/20/2015 00:00 to 11/20/2015 23:59
+date reported: 11/20/15 - FRI at 21:15
+general location:
+
+report #:
+
+153225
+rd
+
+ALL OTHER NON-UNIVERSITY – 3 @ WASHINGTON
+
+date occurred from: 11/20/15 - FRI at 21:14
+date occurred to:
+
+11/20/15 - FRI at 21:15
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/23/15 - MON at 08:33
+date reported: 11/20/15 - FRI at 21:41
+location:
+
+cad event #:
+
+15-11-20-027770
+
+FOSTER HARPER HALL, 1000 N. FEE LANE, MEET AT FRONT OF BUILDING
+
+incident: VANDALISM, MISCHIEF
+final incident: VANDALISM, MISCHIEF
+disposition: NO CASE REPORT
+modified date: 11/20/15 - FRI at 21:54
+
+

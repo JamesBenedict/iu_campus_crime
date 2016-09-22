@@ -1,0 +1,152 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/20/2015 00:00 to 04/20/2015 23:59
+date reported: 04/20/15 - MON at 00:01
+location:
+
+cad event #:
+
+15-04-20-009714
+
+ROSE AVE. RESIDENCE HALL, 1801 E. JONES AVE, 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/20/15 - MON at 02:17
+date reported: 04/20/15 - MON at 02:06
+location:
+
+cad event #:
+
+15-04-20-009719
+
+FOSTER COMMON AREA, , ON FEE
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: FAILED TO LOCATE
+modified date: 04/20/15 - MON at 02:19
+date reported: 04/20/15 - MON at 14:09
+location:
+
+cad event #:
+
+15-04-20-009756
+
+WELLS LIBRARY, 1320 E. 10TH STREET
+
+incident: ALL TYPES OF FRAUD
+final incident: ALL TYPES OF FRAUD
+disposition: NO CASE REPORT
+modified date: 04/20/15 - MON at 14:28
+date reported: 04/20/15 - MON at 17:01
+general location:
+
+report #:
+
+151153
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/20/15 - MON at 16:45
+date occurred to:
+
+04/20/15 - MON at 17:11
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: OPEN CASE
+modified date: 04/21/15 - TUE at 13:32
+date reported: 04/20/15 - MON at 17:22
+general location:
+
+report #:
+
+151151
+
+ATHLETIC/WHITE LOT - On Campus
+
+date occurred from: 04/20/15 - MON at 08:00
+date occurred to:
+
+04/20/15 - MON at 17:20
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/21/15 - TUE at 13:24
+date reported: 04/20/15 - MON at 17:47
+general location:
+
+report #:
+
+151152
+
+BALLANTINE HALL PARKING GARAGE - On Campus
+
+date occurred from: 04/20/15 - MON at 07:00
+date occurred to:
+
+04/20/15 - MON at 18:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/21/15 - TUE at 13:26
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/20/2015 00:00 to 04/20/2015 23:59
+date reported: 04/20/15 - MON at 20:50
+location:
+
+cad event #:
+
+15-04-20-009789
+
+cad event #:
+
+15-04-20-009795
+
+cad event #:
+
+15-04-20-009798
+
+BRISCOE QUAD BACK LOT,
+
+incident: DOMESTIC DISTURBANCES
+final incident: DOMESTIC DISTURBANCES
+disposition: UNFOUNDED
+modified date: 04/21/15 - TUE at 14:32
+date reported: 04/20/15 - MON at 22:25
+location:
+
+USA BEECH HALL, 1801 E. 7TH
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/20/15 - MON at 22:38
+
+date reported: 04/20/15 - MON at 22:58
+location:
+
+ROSE AVE. RESIDENCE HALL, 1801 E. JONES AVE, NORTH SIDE 4TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/20/15 - MON at 23:24
+
+

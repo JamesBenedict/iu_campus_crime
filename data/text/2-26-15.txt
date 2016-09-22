@@ -1,0 +1,126 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/26/2015 00:00 to 02/26/2015 23:59
+date reported: 02/26/15 - THU at 11:09
+general location:
+
+report #:
+
+150604
+
+CYBERINFRASTRUCTURE BUILDING - On Campus
+
+date occurred from: 02/26/15 - THU at 11:09
+date occurred to:
+
+02/26/15 - THU at 11:09
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 02/26/15 - THU at 12:31
+date reported: 02/26/15 - THU at 14:50
+location:
+
+cad event #:
+
+15-02-26-004881
+
+INDIANA MEMORIAL UNION, 900 E. 7TH STREET, CIRCLE
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 02/26/15 - THU at 15:06
+date reported: 02/26/15 - THU at 19:11
+general location:
+
+report #:
+
+150610
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 02/21/15 - SAT at 15:30
+date occurred to:
+
+02/26/15 - THU at 17:00
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 02/26/15 - THU at 22:03
+date reported: 02/26/15 - THU at 19:12
+general location:
+
+report #:
+
+150611
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 02/26/15 - THU at 19:00
+date occurred to:
+
+02/26/15 - THU at 19:12
+
+incident/offenses:
+
+FIRE ALARMS - ACTUAL, NOT ARSON // ASSIST OTHER AGENCY
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 02/26/15 - THU at 23:07
+date reported: 02/26/15 - THU at 22:50
+general location:
+
+report #:
+
+SRSC - On Campus
+
+date occurred from: 02/26/15 - THU at 00:00
+date occurred to:
+
+02/26/15 - THU at 22:40
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 02/27/15 - FRI at 06:13
+
+150612
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/26/2015 00:00 to 02/26/2015 23:59
+date reported: 02/26/15 - THU at 23:20
+general location:
+
+report #:
+
+SRSC - On Campus
+
+date occurred from: 02/26/15 - THU at 00:00
+date occurred to:
+
+02/26/15 - THU at 22:40
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 02/27/15 - FRI at 06:13
+
+150613
+
+

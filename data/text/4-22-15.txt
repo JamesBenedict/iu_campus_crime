@@ -1,0 +1,144 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/22/2015 00:00 to 04/22/2015 23:59
+date reported: 04/22/15 - WED at 00:11
+general location:
+
+report #:
+
+151165
+
+4TH & DUNN PARKING LOT - On Campus
+
+date occurred from: 04/21/15 - TUE at 21:30
+date occurred to:
+
+04/22/15 - WED at 00:10
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/23/15 - THU at 09:56
+date reported: 04/22/15 - WED at 00:25
+location:
+
+cad event #:
+
+15-04-22-009924
+
+ROSE AVE. RESIDENCE HALL, 1801 E. JONES AVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/22/15 - WED at 00:45
+date reported: 04/22/15 - WED at 00:25
+location:
+
+cad event #:
+
+15-04-22-009923
+
+ALL OTHER NON-UNIVERSITY, , DUNNKIRK
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: NO CASE REPORT
+modified date: 04/22/15 - WED at 00:35
+date reported: 04/22/15 - WED at 00:50
+general location:
+
+report #:
+
+151166
+
+TULIP TREE COMMON AREA - On Campus
+
+date occurred from: 04/22/15 - WED at 00:48
+date occurred to:
+
+04/22/15 - WED at 00:51
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/23/15 - THU at 10:03
+date reported: 04/22/15 - WED at 03:05
+general location:
+
+report #:
+
+151167
+
+ROSE AVE. RESIDENCE HALL - On Campus - in any student residential facility
+
+date occurred from: 04/22/15 - WED at 03:00
+date occurred to:
+
+04/22/15 - WED at 03:12
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/22/15 - WED at 09:13
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/22/2015 00:00 to 04/22/2015 23:59
+
+date reported:
+
+04/22/15 - WED at 11:47
+
+general location:
+
+report #:
+
+151169
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/01/15 - THU at 00:02
+date occurred to:
+
+04/22/15 - WED at 12:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 04/22/15 - WED at 13:56
+
+date reported: 04/22/15 - WED at 18:16
+general location:
+
+report #:
+
+151174
+
+ALL OTHER NON-UNIVERSITY - 3RD ST AND PETE ELLIS
+
+date occurred from: 04/22/15 - WED at 18:13
+date occurred to:
+
+04/22/15 - WED at 18:16
+
+incident/offenses:
+
+DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/23/15 - THU at 08:02
+
+

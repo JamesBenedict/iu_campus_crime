@@ -1,0 +1,144 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/21/2015 00:00 to 03/21/2015 23:59
+date reported: 03/21/15 - SAT at 00:57
+general location:
+
+report #:
+
+150836
+
+46 BYPASS/WEST OF GOLF CO - Public property
+
+date occurred from: 03/21/15 - SAT at 00:50
+date occurred to:
+
+03/21/15 - SAT at 00:57
+
+incident/offenses:
+
+DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/21/15 - SAT at 04:28
+date reported: 03/21/15 - SAT at 01:45
+general location:
+
+report #:
+
+150837
+
+RAWLES HALL - On Campus
+
+date occurred from: 03/20/15 - FRI at 22:00
+date occurred to:
+
+03/21/15 - SAT at 01:45
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/21/15 - SAT at 04:30
+date reported: 03/21/15 - SAT at 02:41
+general location:
+
+report #:
+
+150838
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 03/21/15 - SAT at 02:40
+date occurred to:
+
+03/21/15 - SAT at 02:41
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/21/15 - SAT at 05:38
+date reported: 03/21/15 - SAT at 02:48
+location:
+
+cad event #:
+
+15-03-21-006788
+
+INDIANA AVENUE/SOUTH OF 1OTH STR, SOUTH OF 1OTH STR INDIANA AVENUE, 3RD & INDIANA
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 03/21/15 - SAT at 02:59
+date reported: 03/21/15 - SAT at 13:29
+general location:
+
+report #:
+
+150839
+
+IMU PAY LOT #2 - On Campus
+
+date occurred from: 03/21/15 - SAT at 09:32
+date occurred to:
+
+03/21/15 - SAT at 09:35
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/23/15 - MON at 08:34
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/21/2015 00:00 to 03/21/2015 23:59
+date reported: 03/21/15 - SAT at 19:03
+general location:
+
+report #:
+
+150840
+
+USA BIRCH HALL - On Campus - in any student residential facility
+
+date occurred from: 03/20/15 - FRI at 23:00
+date occurred to:
+
+03/20/15 - FRI at 23:59
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: UNFOUNDED
+modified date: 03/23/15 - MON at 08:26
+date reported: 03/21/15 - SAT at 19:36
+
+report #:
+
+150841
+
+general location:ALL OTHER NON-UNIVERSITY - CLIFTON AND ATWATER
+date occurred from: 03/21/15 - SAT at 19:25
+date occurred to:
+
+03/21/15 - SAT at 19:36
+
+incident/offenses:
+
+PUBLIC INTOXICATION // POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/21/15 - SAT at 21:16
+
+

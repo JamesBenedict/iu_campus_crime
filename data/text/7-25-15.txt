@@ -1,0 +1,67 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/25/2015 00:00 to 07/25/2015 23:59
+date reported: 07/25/15 - SAT at 01:51
+general location:
+
+report #:
+
+151789
+
+CARMICHAEL BUILDING - On Campus
+
+date occurred from: 07/25/15 - SAT at 00:00
+date occurred to:
+
+07/25/15 - SAT at 01:51
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 07/25/15 - SAT at 16:41
+date reported: 07/25/15 - SAT at 02:21
+general location:
+
+report #:
+
+151790
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 07/25/15 - SAT at 02:20
+date occurred to:
+
+07/25/15 - SAT at 03:53
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/27/15 - MON at 08:49
+date reported: 07/25/15 - SAT at 03:33
+general location:
+
+report #:
+
+151791
+
+DELTA UPSILON - Non-campus building or property
+
+date occurred from: 07/25/15 - SAT at 03:33
+date occurred to:
+
+07/25/15 - SAT at 03:34
+
+incident/offenses:
+
+BURGLARY FORCIBLE ENTRY // THEFT FROM BUILDINGS // VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/27/15 - MON at 09:25
+
+

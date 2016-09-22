@@ -1,0 +1,60 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/17/2015 00:00 to 07/17/2015 23:59
+date reported: 07/17/15 - FRI at 00:19
+general location:
+
+report #:
+
+151743
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 07/17/15 - FRI at 00:18
+date occurred to:
+
+07/17/15 - FRI at 00:19
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/17/15 - FRI at 08:35
+date reported: 07/17/15 - FRI at 05:15
+general location:
+
+report #:
+
+151745
+
+SWAIN HALL (E & W) - On Campus
+
+date occurred from: 07/17/15 - FRI at 05:16
+date occurred to:
+
+07/17/15 - FRI at 05:52
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/20/15 - MON at 08:35
+date reported: 07/17/15 - FRI at 19:11
+location:
+
+cad event #:
+
+SIGMA DELTA TAU, 1410 N. JORDAN AVE
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARM - FALSE CALL
+disposition: NO CASE REPORT
+modified date: 07/17/15 - FRI at 19:39
+
+15-07-17-016262
+
+

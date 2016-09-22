@@ -1,0 +1,59 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Jan 10, 2015 to Jan 10, 2015.
+
+date reported: 01/10/15 - SAT at 01:30
+
+location : 3
+
+RD
+
+@ COLLEGE
+
+event #: 15-01-10-000474
+
+date and time occurred from - occurred to: 01/10/15 - SAT at 00:00 - 01/10/15 - SAT at 00:00
+incident : DRIVING UNDER THE INFLUENCE
+report #: 150027
+disposition: : CLOSED BY ARREST.
+date reported: 01/10/15 - SAT at 03:10
+location : ATWATER @ JORDAN
+event #: 15-01-10-000482
+date and time occurred from - occurred to: 01/10/15 - SAT at 03:10 - 01/10/15 - SAT at 05:44
+incident : DRIVING UNDER THE INFLUENCE
+report #:150028
+disposition: : CLOSED BY ARREST.
+date reported: 01/10/15 - SAT at 12:10
+date and time occurred from - occurred to:
+incident : VANDALISM
+disposition: : INACTIVE.
+date reported: 01/10/15 - SAT at 22:15
+
+location : FOSTER HARPER HALL
+
+event #: 15-01-10-000502
+
+01/09/15 - FRI at 20:00 - 01/10/15 - SAT at 11:30
+report #: 150029
+
+location : FOSTER MAGEE HALL
+
+event #: 15-01-10-000521
+
+date and time occurred from - occurred to: 01/10/15 - SAT at 22:10 - 01/10/15 - SAT at 22:15
+incident : POSSESSION – MARIJUANA/ PARAPHERNALIA
+report #: 150033
+disposition: : CLOSED BY ARREST.
+4 incidents listed.
+
+print date and time
+
+1/12/2015 11:23:08AM
+
+at page no.
+
+1
+
+

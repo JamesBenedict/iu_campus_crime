@@ -1,0 +1,86 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/07/2015 00:00 to 10/07/2015 23:59
+date reported: 10/07/15 - WED at 00:16
+location:
+
+cad event #:
+
+15-10-07-023491
+
+WILLKIE NORTH, 150 N. ROSE, 1ST FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/07/15 - WED at 00:25
+date reported: 10/07/15 - WED at 15:19
+general location:
+
+report #:
+
+152631
+
+ATHLETIC/WHITE LOT - On Campus
+
+date occurred from: 10/05/15 - MON at 20:40
+date occurred to:
+
+10/07/15 - WED at 14:30
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: OPEN CASE
+modified date: 10/07/15 - WED at 22:22
+date reported: 10/07/15 - WED at 15:25
+general location:
+
+report #:
+
+152633
+
+NELSON BUILDING - On Campus
+
+date occurred from: 10/07/15 - WED at 15:00
+date occurred to:
+
+10/17/15 - SAT at 15:25
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 10/07/15 - WED at 17:07
+date reported: 10/07/15 - WED at 19:43
+location:
+
+cad event #:
+
+15-10-07-023582
+
+JORDAN HALL, 1001 E. 3RD STREET, WEST SIDE OF ATRIUM
+
+incident: THEFT-BICYCLES
+final incident: THEFT-BICYCLES
+disposition: CANCELLED EVENT
+modified date: 10/07/15 - WED at 19:45
+date reported: 10/07/15 - WED at 21:16
+location:
+
+cad event #:
+
+15-10-07-023589
+
+USA HICKORY HALL, 1820 E. 10TH, HICKORY 1ST FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/07/15 - WED at 21:32
+
+

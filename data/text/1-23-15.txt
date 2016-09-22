@@ -1,0 +1,216 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Jan 23, 2015 to Jan 23, 2015.
+
+date reported: 01/23/15 - FRI at 00:01
+date and time occurred from - occurred to:
+incident : VANDALISM
+disposition: : INACTIVE
+date reported: 01/23/15 - FRI at 00:13
+
+location : MCNUTT QUAD BACK LOT
+
+event #: 15-01-23-001647
+
+01/22/15 - THU at 23:00 - 01/23/15 - FRI at 00:24
+report #: 150173
+
+location : MCNUTT QUAD
+
+event #: 15-01-23-001652
+
+date and time occurred from - occurred to:
+incident : ILLEGAL POSSESSION/CONSUMPTION
+disposition: : NO CASE REPORT
+
+report #:
+
+date reported: 01/23/15 - FRI at 01:15
+
+event #: 15-01-23-001658
+
+location : MCNUTT QUAD
+
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : FAILED TO LOCATE
+date reported: 01/23/15 - FRI at 01:17
+
+report #:
+
+location : MCNUTT QUAD
+
+event #: 15-01-23-001659
+
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : FAILED TO LOCATE
+date reported: 01/23/15 - FRI at 04:30
+
+report #:
+
+location : 14
+
+TH
+
+@ WALNUT
+
+event #: 15-01-23-001673
+
+date and time occurred from - occurred to: 01/23/15 - FRI at 04:30 - 01/23/15 - FRI at 06:20
+incident : DRIVING UNDER THE INFLUENCE
+disposition: : CLOSED BY ARREST.
+
+report #: 150177
+
+date reported: 01/23/15 - FRI at 11:13
+
+event #: 15-01-23-001700
+
+date and time occurred from - occurred to:
+incident : TRESPASS
+disposition: : INACTIVE
+date reported: 01/23/15 - FRI at 15:22
+date and time occurred from - occurred to:
+incident : THEFT - ALL OTHER
+disposition: : INACTIVE
+date reported: 01/23/15 - FRI at 16:12
+date and time occurred from - occurred to:
+incident : VANDALISM
+disposition: : INACTIVE.
+date reported: 01/23/15 - FRI at 17:53
+
+location : JORDAN HALL
+
+01/22/15 - THU at 11:00 - 01/22/15 - THU at 12:00
+report #: 150180
+
+location : JORDAN HALL
+
+event #: 15-01-23-001727
+
+01/22/15 - THU at 21:30 - 01/22/15 - THU at 23:00
+report #: 150183
+
+location : GODFREY GRAD&EXEC CTR.
+
+01/23/15 - FRI at 14:00 - 01/23/15 - FRI at 16:00
+report #: 150184
+
+location : WRIGHT QUAD
+
+event #: 15-01-23-001745
+
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : FAILED TO LOCATE
+date reported: 01/23/15 - FRI at 18:46
+date and time occurred from - occurred to:
+incident : THEFT - FROM BUILDINGS
+disposition: : INACTIVE.
+
+event #: 15-01-23-001735
+
+report #:
+
+location : SPEA
+
+event #: 15-01-23-001749
+
+01/23/15 - FRI at 14:00 - 01/23/15 - FRI at 16:00
+report #: 150187
+
+print date and time
+
+1/26/2015 10:31:12AM
+
+at page no.
+
+1
+
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Jan 23, 2015 to Jan 23, 2015.
+
+date reported: 01/23/15 - FRI at 18:46
+
+location : TULIP TREE PARKING LOT
+
+event #: 15-01-23-001750
+
+date and time occurred from - occurred to: 01/21/15 - WED at 08:00 - 01/23/15 - FRI at 18:47
+incident : ACCIDENTS - HIT & RUN, PROPERTY DAMAGE ONLY
+report #: 150188
+disposition: : INACTIVE.
+date reported: 01/23/15 - FRI at 21:12
+
+location : EIGENMANN HALL
+
+event #: 15-01-23-001757
+
+date and time occurred from - occurred to: 01/23/15 - FRI at 21:10 - 01/23/15 - FRI at 21:13
+incident : POSSESSION – MARIJUANA/ PARAPHERNALIA/ RESISTING LAW ENFORCEMENT
+disposition: : CLOSED CASE- ARREST
+
+report #: 150189
+
+date reported: 01/23/15 - FRI at 22:41
+
+event #: 15-01-23-001765
+
+location : ROSE AVE RESIDENCE HALL
+
+date and time occurred from - occurred to: 01/23/15 - FRI at 22:43 - 01/23/15 - FRI at 22:46
+incident : POSSESSION – MARIJUANA/ PARAPHERNALIA
+disposition: : CLOSED NO ARREST.
+
+report #: 150190
+
+date reported: 01/23/15 - FRI at 23:01
+
+event #: 15-01-23-001770
+
+location : ASHTON COMMON AREA
+
+date and time occurred from - occurred to: 01/23/15 - FRI at 23:02 - 01/23/15 - FRI at 23:27
+incident : POSSESSION – MARIJUANA/ PARAPHERNALIA
+disposition: : CLOSED BY ARREST.
+
+report #: 150191
+
+date reported: 01/23/15 - FRI at 23:18
+
+event #: 15-01-23-001773
+
+location : COLLINS SMITH
+
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : FAILED TO LOCATE
+date reported: 01/23/15 - FRI at 23:54
+
+report #:
+
+location : FOSTER HARPER HALL
+
+event #: 15-01-23-001775
+
+date and time occurred from - occurred to: 01/23/15 - FRI at 23:55 - 01/24/15 - SAT at 02:30
+incident : ILLEGAL POSSESSION/CONSUMPTION
+report #: 150192
+disposition: : CLOSED NO ARREST.
+16 incidents listed.
+
+print date and time
+
+1/26/2015 10:31:12AM
+
+at page no.
+
+1
+
+

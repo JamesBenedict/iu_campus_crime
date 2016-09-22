@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/08/2015 00:00 to 08/08/2015 23:59
+date reported: 08/08/15 - SAT at 00:32
+general location:
+
+report #:
+
+151855
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 08/08/15 - SAT at 00:32
+date occurred to:
+
+08/08/15 - SAT at 01:14
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/08/15 - SAT at 04:55
+date reported: 08/08/15 - SAT at 01:02
+general location:
+
+report #:
+
+151856
+
+ALL OTHER NON-UNIVERSITY - 7TH @ LINCOLN
+
+date occurred from: 08/08/15 - SAT at 01:00
+date occurred to:
+
+08/08/15 - SAT at 01:02
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/10/15 - MON at 08:17
+
+

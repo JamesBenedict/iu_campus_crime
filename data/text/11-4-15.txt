@@ -1,0 +1,109 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/04/2015 00:00 to 11/04/2015 23:59
+date reported: 11/04/15 - WED at 17:10
+general location:
+
+report #:
+
+152996
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 11/04/15 - WED at 03:00
+date occurred to:
+
+11/04/15 - WED at 15:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 11/05/15 - THU at 08:38
+date reported: 11/04/15 - WED at 19:37
+general location:
+
+report #:
+
+152999
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/04/15 - WED at 19:20
+date occurred to:
+
+11/04/15 - WED at 19:37
+
+incident/offenses:
+
+THEFT-ALL OTHER // POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/05/15 - THU at 08:28
+date reported: 11/04/15 - WED at 19:43
+general location:
+
+report #:
+
+152997
+ND
+
+ALL OTHER NON-UNIVERSITY - 2
+
+@ WALNUT
+
+date occurred from: 11/04/15 - WED at 19:30
+date occurred to:
+
+11/04/15 - WED at 19:43
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 11/04/15 - WED at 22:32
+date reported: 11/04/15 - WED at 22:25
+location:
+
+cad event #:
+
+15-11-04-026217
+
+COLLINS CRAVENS, 541 N WOODLAWN, 1ST FL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/04/15 - WED at 22:40
+date reported: 11/04/15 - WED at 22:42
+location:
+
+cad event #:
+
+15-11-04-026220
+
+BRISCOE QUAD, 1225 N. FEE LANE, FL 2
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/04/15 - WED at 22:52
+date reported: 11/04/15 - WED at 23:42
+location:
+
+cad event #:
+
+FOREST QUAD, 1725 E. 3RD STREET, B3
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/05/15 - THU at 00:01
+
+15-11-04-026225
+
+

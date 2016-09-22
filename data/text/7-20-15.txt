@@ -1,0 +1,87 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/20/2015 00:00 to 07/20/2015 23:59
+date reported: 07/20/15 - MON at 02:20
+general location:
+
+report #:
+
+151764
+
+ALL OTHER NON-UNIVERSITY – KIRKWOOD @ WALNUT
+
+date occurred from: 07/20/15 - MON at 02:20
+date occurred to:
+
+07/20/15 - MON at 04:19
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/20/15 - MON at 10:51
+date reported: 07/20/15 - MON at 05:00
+general location:
+
+report #:
+
+151765
+
+6TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 07/20/15 - MON at 04:55
+date occurred to:
+
+07/20/15 - MON at 05:05
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/20/15 - MON at 06:12
+date reported: 07/20/15 - MON at 09:36
+general location:
+
+report #:
+
+151767
+
+MUSIC ADDITION&MERRILL HALL - On Campus
+
+date occurred from: 07/20/15 - MON at 09:39
+date occurred to:
+
+07/20/15 - MON at 09:39
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/21/15 - TUE at 16:08
+date reported: 07/20/15 - MON at 11:37
+general location:
+
+report #:
+
+151769
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 07/18/15 - SAT at 06:30
+date occurred to:
+
+07/20/15 - MON at 13:01
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/21/15 - TUE at 15:59
+
+

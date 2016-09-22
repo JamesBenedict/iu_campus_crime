@@ -1,0 +1,537 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/14/2015 00:00 to 11/14/2015 23:59
+date reported: 11/14/15 - SAT at 00:22
+location:
+
+cad event #:
+
+15-11-14-027128
+
+WILLKIE NORTH, 150 N. ROSE, 1ST FL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/14/15 - SAT at 00:37
+date reported: 11/14/15 - SAT at 00:44
+location:
+
+cad event #:
+
+15-11-14-027130
+
+ALL OTHER NON-UNIVERSITY, , BPD
+
+incident: Officer investigating a case further.
+final incident: HARASSMENT/INTIMIDATION
+disposition: CASE REPORT FOLLOWS.
+modified date: 11/14/15 - SAT at 01:31
+date reported: 11/14/15 - SAT at 01:56
+location:
+
+cad event #:
+
+15-11-14-027136
+
+ALL OTHER NON-UNIVERSITY, , 309 N WALNUT ST
+
+incident: Vehicle Stop
+final incident: DRIVING UNDER THE INFLUENCE
+disposition: CASE REPORT FOLLOWS.
+modified date: 11/14/15 - SAT at 04:06
+date reported: 11/14/15 - SAT at 02:08
+general location:
+
+report #:
+
+153146
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/14/15 - SAT at 02:05
+date occurred to:
+
+11/14/15 - SAT at 05:47
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/16/15 - MON at 11:47
+date reported: 11/14/15 - SAT at 02:13
+location:
+
+cad event #:
+
+15-11-14-027139
+
+FOSTER HARPER HALL, 1000 N. FEE LANE, 4TH FL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/14/15 - SAT at 02:32
+date reported: 11/14/15 - SAT at 02:32
+general location:
+
+report #:
+
+153143
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/14/15 - SAT at 01:50
+date occurred to:
+
+11/14/15 - SAT at 02:32
+
+incident/offenses:
+
+OTHER DISTURBANCES // WELFARE CHECK
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/16/15 - MON at 11:15
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/14/2015 00:00 to 11/14/2015 23:59
+date reported: 11/14/15 - SAT at 02:52
+general location:
+
+report #:
+
+153142
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from: 11/14/15 - SAT at 02:52
+date occurred to:
+
+11/14/15 - SAT at 02:59
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/16/15 - MON at 11:10
+date reported: 11/14/15 - SAT at 03:06
+general location:
+
+report #:
+
+153144
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/14/15 - SAT at 03:00
+date occurred to:
+
+11/14/15 - SAT at 03:21
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/14/15 - SAT at 05:41
+date reported: 11/14/15 - SAT at 13:37
+general location:
+
+report #:
+
+153149
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 11/14/15 - SAT at 13:37
+date occurred to:
+
+11/14/15 - SAT at 13:37
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/14/15 - SAT at 22:47
+date reported: 11/14/15 - SAT at 13:50
+general location:
+
+report #:
+
+153148
+
+DUNN STREET/NORTH OF 10TH - Public property
+
+date occurred from: 11/14/15 - SAT at 13:30
+date occurred to:
+
+11/14/15 - SAT at 13:49
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/14/15 - SAT at 21:40
+date reported: 11/14/15 - SAT at 14:07
+general location:
+
+report #:
+
+153150
+
+ATHLETIC/YELLOW LOT - On Campus
+
+date occurred from: 11/14/15 - SAT at 14:07
+date occurred to:
+
+11/14/15 - SAT at 14:07
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/16/15 - MON at 12:03
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/14/2015 00:00 to 11/14/2015 23:59
+date reported: 11/14/15 - SAT at 14:54
+general location:
+
+report #:
+
+153151
+
+ATHLETIC/RED LOT - On Campus
+
+date occurred from: 11/14/15 - SAT at 14:50
+date occurred to:
+
+11/14/15 - SAT at 14:54
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 11/14/15 - SAT at 19:59
+date reported: 11/14/15 - SAT at 15:15
+general location:
+
+report #:
+
+153153
+
+ATHLETIC/RED LOT - On Campus
+
+date occurred from: 11/14/15 - SAT at 15:15
+date occurred to:
+
+11/14/15 - SAT at 15:46
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/14/15 - SAT at 21:49
+date reported: 11/14/15 - SAT at 15:31
+general location:
+
+report #:
+
+153152
+
+JORDAN AVENUE/NORTH OF 10 - Public property
+
+date occurred from: 11/14/15 - SAT at 15:25
+date occurred to:
+
+11/14/15 - SAT at 15:31
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION // POSSESSION COCAINE,OPIUM,DERIVATIVE // INDECENT EXPOSURE
+disposition: CLOSED CASE- ARREST
+modified date: 11/14/15 - SAT at 16:54
+date reported: 11/14/15 - SAT at 15:36
+general location:
+
+report #:
+
+153155
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 11/14/15 - SAT at 12:00
+date occurred to:
+
+11/14/15 - SAT at 15:36
+
+incident/offenses:
+
+PUBLIC INTOXICATION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/15/15 - SUN at 23:04
+date reported: 11/14/15 - SAT at 15:53
+location:
+
+cad event #:
+
+15-11-14-027187
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, SECT 109 MENS RESTROOM
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 11/14/15 - SAT at 16:36
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/14/2015 00:00 to 11/14/2015 23:59
+date reported:
+location:
+
+11/14/15 - SAT at 15:54
+
+cad event #:
+
+15-11-14-027188
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, SECT 27, ROW 43
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 11/14/15 - SAT at 16:01
+date reported: 11/14/15 - SAT at 16:29
+location:
+
+cad event #:
+
+15-11-14-027193
+
+FOSTER MAGEE HALL, 1000 N. FEE LANE
+
+incident: ILLEGAL POSSESSION/CONSUMPTION
+final incident: ILLEGAL POSSESSION/CONSUMPTION
+disposition: FAILED TO LOCATE
+modified date: 11/14/15 - SAT at 16:44
+date reported: 11/14/15 - SAT at 16:34
+location:
+
+cad event #:
+
+15-11-14-027194
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, WESTSIDE ENTRANCE 6
+
+incident: DISORDERLY CONDUCT
+final incident: DISORDERLY CONDUCT
+disposition: NO CASE REPORT
+modified date: 11/14/15 - SAT at 16:44
+date reported: 11/14/15 - SAT at 16:44
+general location:
+
+report #:
+
+153156
+
+ZETA BETA TAU - Non-campus building or property
+
+date occurred from: 11/13/15 - FRI at 22:00
+date occurred to:
+
+11/14/15 - SAT at 08:00
+
+incident/offenses:
+
+THEFT-ALL OTHER // THEFT-AUTOS
+
+disposition: OPEN CASE
+modified date: 11/16/15 - MON at 12:43
+date reported: 11/14/15 - SAT at 16:59
+location:
+
+cad event #:
+
+15-11-14-027197
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, W4 GATE
+
+incident: DISORDERLY CONDUCT
+final incident: DISORDERLY CONDUCT
+disposition: FAILED TO LOCATE
+modified date: 11/14/15 - SAT at 17:01
+date reported: 11/14/15 - SAT at 18:17
+general location:
+
+report #:
+
+153157
+
+INDIANA AVENUE/NORTH OF 1OTH STR - Public property
+
+date occurred from: 11/14/15 - SAT at 18:16
+date occurred to:
+
+11/14/15 - SAT at 18:17
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // PERSONAL INJURY
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/16/15 - MON at 14:06
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/14/2015 00:00 to 11/14/2015 23:59
+date reported: 11/14/15 - SAT at 19:45
+location:
+
+cad event #:
+
+15-11-14-027215
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, GATE E - EASTSIDE 6
+
+incident: DISORDERLY CONDUCT
+final incident: DISORDERLY CONDUCT
+disposition: NO CASE REPORT
+modified date: 11/14/15 - SAT at 19:49
+date reported: 11/14/15 - SAT at 20:02
+location:
+
+cad event #:
+
+15-11-14-027216
+
+ASSEMBLY HALL, 1001 E. 17TH, ENTRY 104
+
+incident: THEFT-ALL OTHER
+final incident: THEFT-ALL OTHER
+disposition: NO CASE REPORT
+modified date: 11/14/15 - SAT at 20:43
+date reported: 11/14/15 - SAT at 20:08
+general location:
+
+report #:
+
+153159
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/14/15 - SAT at 11:00
+date occurred to:
+
+11/14/15 - SAT at 20:13
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/14/15 - SAT at 21:01
+date reported: 11/14/15 - SAT at 20:47
+general location:
+
+report #:
+
+153160
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 11/14/15 - SAT at 20:30
+date occurred to:
+
+11/14/15 - SAT at 21:04
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 11/14/15 - SAT at 22:02
+date reported: 11/14/15 - SAT at 21:32
+general location:
+
+report #:
+
+153161
+
+CHEMISTRY BLDG. - On Campus
+
+date occurred from: 11/14/15 - SAT at 21:00
+date occurred to:
+
+11/14/15 - SAT at 20:38
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/16/15 - MON at 15:20
+date reported: 11/14/15 - SAT at 22:47
+location:
+
+cad event #:
+
+15-11-14-027223
+
+FOREST QUAD, 1725 E. 3RD STREET, B TOWER 8TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/14/15 - SAT at 22:56
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/14/2015 00:00 to 11/14/2015 23:59
+date reported:
+
+11/14/15 - SAT at 23:26
+
+general location:
+
+report #:
+
+153162
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/14/15 - SAT at 23:15
+date occurred to:
+
+11/14/15 - SAT at 23:25
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/15/15 - SUN at 01:41
+
+

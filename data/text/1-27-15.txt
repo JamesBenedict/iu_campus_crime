@@ -1,0 +1,86 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 01/27/2015 00:00 to 01/27/2015 23:59
+date reported: 01/27/15 - TUE at 00:24
+location:
+
+cad event #:
+
+15-01-27-002030
+
+MCNUTT QUAD, 1101 N. FEE LANE, BOCOBO GROUND
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/27/15 - TUE at 00:35
+date reported: 01/27/15 - TUE at 17:32
+general location:
+
+10
+
+TH
+
+report #:
+
+150225
+
+ST BUS STOP WELLS LIBRARY
+
+date occurred from: 01/25/15 - SUN at 16:45
+date occurred to:
+
+01/25/15 - SUN at 16:55
+
+incident/offenses:
+
+THEFT ALL OTHER
+
+disposition:
+
+INACTIVE
+
+modified date: 01/27/15 - TUE at 18:28
+
+date reported: 01/27/15 - TUE at 21:37
+location:
+
+cad event #:
+
+15-01-27-002119
+
+WRIGHT QUAD, 501 N. JORDAN, STOCKWELL 3-100
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/27/15 - TUE at 21:52
+date reported: 01/27/15 - TUE at 21:43
+general location:
+
+report #:
+
+150228
+
+SHELTER BETWEEN TULIP TREE AND CAMPUS VIEW
+
+date occurred from: 01/27/15 - TUE at 21:40
+date occurred to:
+
+01/27/15 - TUE at 21:43
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // SUSPICIOUS PERSON OR VEHICLE
+
+disposition:
+
+CLOSED NO ARREST
+
+modified date: 01/27/15 - TUE at 23:16
+
+4 incident(s) listed
+
+

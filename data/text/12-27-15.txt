@@ -1,0 +1,27 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/27/2015 00:00 to 12/27/2015 23:59
+date reported: 12/27/15 - SUN at 00:22
+general location:
+
+report #:
+
+153472
+
+ALL OTHER NON-UNIVERSITY - 305 NORTH JEFFERSON STREET
+
+date occurred from: 12/22/15 - TUE at 12:00
+date occurred to:
+
+12/27/15 - SUN at 00:00
+
+incident/offenses:
+
+FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 12/27/15 - SUN at 05:33
+
+

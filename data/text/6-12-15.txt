@@ -1,0 +1,79 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 06/12/2015 00:00 to 06/12/2015 23:59
+
+date reported: 06/12/15 - FRI at 03:41
+general location:
+
+report #:
+
+151573
+
+INDIANA AVENUE/NORTH OF 1OTH STR - 10TH @ INDIANA
+
+date occurred from: 06/12/15 - FRI at 03:40
+date occurred to:
+
+06/12/15 - FRI at 05:14
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // POSSESSION - COCAINE,OPIUM,DERIVATIVE // POSSESSION MARIJUANA // POSS-DANGEROUS NON-NARCOTICS // DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/12/15 - FRI at 07:49
+date reported: 06/12/15 - FRI at 07:56
+general location:
+
+report #:
+
+151574
+
+INNOVATION CENTER - On Campus
+
+date occurred from: 06/11/15 - THU at 07:45
+date occurred to:
+
+06/11/15 - THU at 19:45
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 06/15/15 - MON at 10:08
+date reported: 06/12/15 - FRI at 12:42
+location:
+
+cad event #:
+
+15-06-12-013850
+
+TETER QUAD, 501 N. SUNRISE, SYSTEM #0244 ZONE 007 RABB SMOKE/PULL
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 06/12/15 - FRI at 12:52
+date reported: 06/12/15 - FRI at 14:36
+
+report #:
+
+151576
+
+general location:ALL OTHER NON-UNIVERSITY - BARNES AND NOBLE PARKING LOT
+date occurred from: 06/11/15 - THU at 08:00
+date occurred to:
+
+06/11/15 - THU at 17:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 06/15/15 - MON at 10:03
+
+

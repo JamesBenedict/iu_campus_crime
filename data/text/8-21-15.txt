@@ -1,0 +1,186 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime log
+from 08/21/2015 00:00 to 08/21/2015 23:59
+date reported: 08/21/15 - FRI at 00:29
+location:
+
+cad event #:
+
+15-08-21-018646
+
+FOREST QUAD, 1725 E. 3RD STREET, B TOWER 10TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/21/15 - FRI at 00:46
+date reported: 08/21/15 - FRI at 01:41
+general location:
+
+report #:
+
+151937
+
+7TH STREET/EAST OF JORDAN - On Campus
+
+date occurred from: 08/21/15 - FRI at 01:40
+date occurred to:
+
+08/21/15 - FRI at 01:41
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/21/15 - FRI at 04:45
+date reported: 08/21/15 - FRI at 02:53
+general location:
+
+report #:
+
+151938
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 08/21/15 - FRI at 02:38
+date occurred to:
+
+02/23/15 - MON at 03:17
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/21/15 - FRI at 04:43
+date reported: 08/21/15 - FRI at 03:22
+general location:
+
+report #:
+
+151939
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 08/21/15 - FRI at 03:22
+date occurred to:
+
+08/21/15 - FRI at 04:29
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/21/15 - FRI at 08:25
+date reported: 08/21/15 - FRI at 09:57
+location:
+
+cad event #:
+
+RADIO AND TV, 1229 E. 7TH STREET
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: NO CASE REPORT
+modified date: 08/21/15 - FRI at 10:25
+
+15-08-21-018671
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime log
+from 08/21/2015 00:00 to 08/21/2015 23:59
+
+date reported: 08/21/15 - FRI at 11:54
+general location:
+
+report #:
+
+151943
+
+ATHLETIC/WHITE LOT - On Campus
+
+date occurred from: 08/20/15 - THU at 23:00
+date occurred to:
+
+08/21/15 - FRI at 00:30
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 08/24/15 - MON at 08:53
+date reported: 08/21/15 - FRI at 14:07
+location:
+
+cad event #:
+
+15-08-21-018698
+
+FEE LANE PARKING GARAGE, 709 N. FEE LANE
+
+incident: THEFT-AUTOS
+final incident: THEFT-AUTOS
+disposition: CANCELLED EVENT
+modified date: 08/21/15 - FRI at 14:18
+date reported: 08/21/15 - FRI at 15:19
+location:
+
+cad event #:
+
+15-08-21-018708
+
+FOSTER MARTIN HALL, 1000 N. FEE LANE, 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/21/15 - FRI at 15:27
+date reported: 08/21/15 - FRI at 21:42
+general location:
+
+report #:
+
+151947
+
+FOSTER MARTIN HALL - On Campus - in any student residential facility
+
+date occurred from: 08/21/15 - FRI at 20:00
+date occurred to:
+
+08/21/15 - FRI at 21:42
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/15 - SAT at 14:35
+date reported: 08/21/15 - FRI at 23:13
+general location:
+
+report #:
+
+151948
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/21/15 - FRI at 22:00
+date occurred to:
+
+08/21/15 - FRI at 23:56
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/15 - SAT at 06:24
+
+

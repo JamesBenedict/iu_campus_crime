@@ -1,0 +1,194 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/06/2015 00:00 to 09/06/2015 23:59
+date reported: 09/06/15 - SUN at 01:30
+general location:
+
+report #:
+
+152187
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 09/06/15 - SUN at 01:30
+date occurred to:
+
+09/06/15 - SUN at 04:30
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/08/15 - TUE at 09:13
+date reported: 09/06/15 - SUN at 02:10
+location:
+
+cad event #:
+
+15-09-06-020442
+
+3RD STREET/WEST OF JORDAN, , 3RD INDIANA
+
+incident: DOMESTIC DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 09/06/15 - SUN at 02:35
+date reported: 09/06/15 - SUN at 02:17
+general location:
+
+report #:
+
+152188
+
+FOSTER BACK LOT - On Campus
+
+date occurred from: 09/06/15 - SUN at 02:15
+date occurred to:
+
+09/06/15 - SUN at 02:17
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/06/15 - SUN at 06:28
+date reported: 09/06/15 - SUN at 03:13
+general location:
+
+report #:
+
+152189
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/06/15 - SUN at 03:13
+date occurred to:
+
+09/06/15 - SUN at 03:13
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/06/15 - SUN at 06:30
+date reported: 09/06/15 - SUN at 04:30
+general location:
+
+report #:
+
+152190
+
+FESS AVENUE/SOUTH OF 10TH - Public property
+
+date occurred from: 09/06/15 - SUN at 04:30
+date occurred to:
+
+09/06/15 - SUN at 04:33
+
+incident/offenses:
+
+ROBBERY- FIREARM
+
+disposition: REFERRED
+modified date: 09/08/15 - TUE at 09:24
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/06/2015 00:00 to 09/06/2015 23:59
+date reported:
+location:
+
+09/06/15 - SUN at 05:48
+
+cad event #:
+
+15-09-06-020456
+
+IUPD STATION, 1469 E. 17TH STREET
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: NO CASE REPORT
+modified date: 09/06/15 - SUN at 05:54
+date reported: 09/06/15 - SUN at 10:02
+general location:
+
+report #:
+
+152191
+
+ATHLETIC/PURPLE LOT - On Campus
+
+date occurred from: 09/05/15 - SAT at 12:00
+date occurred to:
+
+09/06/15 - SUN at 10:00
+
+incident/offenses:
+
+THEFT- MOTOR VEHICLE PARTS AND ACCESSORIES
+
+disposition: OPEN CASE
+modified date: 09/08/15 - TUE at 09:09
+date reported: 09/06/15 - SUN at 21:33
+general location:
+
+report #:
+
+152195
+
+TULIP TREE COMMON AREA - On Campus
+
+date occurred from: 09/06/15 - SUN at 21:15
+date occurred to:
+
+09/06/15 - SUN at 21:33
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/06/15 - SUN at 22:54
+date reported: 09/06/15 - SUN at 23:07
+general location:
+
+report #:
+
+152196
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from: 09/06/15 - SUN at 22:30
+date occurred to:
+
+09/06/15 - SUN at 23:07
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/07/15 - MON at 01:29
+date reported: 09/06/15 - SUN at 23:30
+location:
+
+cad event #:
+
+15-09-06-020503
+
+FOREST QUAD, 1725 E. 3RD STREET, B TOWER 11TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/06/15 - SUN at 23:47
+
+

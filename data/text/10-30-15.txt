@@ -1,0 +1,364 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 10/30/2015 00:00 to 10/30/2015 23:59
+date reported: 10/30/15 - FRI at 01:14
+general location:
+
+report #:
+
+152919
+
+FOSTER SHEA HALL - On Campus - in any student residential facility
+
+date occurred from: 10/30/15 - FRI at 01:14
+date occurred to:
+
+10/30/15 - FRI at 01:36
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/30/15 - FRI at 05:47
+date reported: 10/30/15 - FRI at 01:19
+general location:
+
+report #:
+
+152921
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 10/30/15 - FRI at 01:19
+date occurred to:
+
+10/30/15 - FRI at 01:21
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/30/15 - FRI at 05:14
+date reported: 10/30/15 - FRI at 01:20
+general location:
+
+report #:
+
+152920
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 10/30/15 - FRI at 01:20
+date occurred to:
+
+10/30/15 - FRI at 01:57
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/30/15 - FRI at 06:40
+date reported: 10/30/15 - FRI at 01:31
+general location:
+
+report #:
+
+152923
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 10/30/15 - FRI at 01:31
+date occurred to:
+
+10/30/15 - FRI at 02:01
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/30/15 - FRI at 09:02
+date reported: 10/30/15 - FRI at 01:53
+general location:
+
+report #:
+
+152922
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 10/30/15 - FRI at 01:53
+date occurred to:
+
+10/30/15 - FRI at 02:22
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/30/15 - FRI at 06:49
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 10/30/2015 00:00 to 10/30/2015 23:59
+date reported: 10/30/15 - FRI at 01:56
+general location:
+
+report #:
+
+152924
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 10/30/15 - FRI at 01:00
+date occurred to:
+
+10/30/15 - FRI at 01:56
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 11/02/15 - MON at 03:55
+date reported: 10/30/15 - FRI at 02:26
+general location:
+
+report #:
+
+152925
+
+SHOWALTER FOUNTAIN - On Campus
+
+date occurred from: 10/30/15 - FRI at 02:26
+date occurred to:
+
+10/30/15 - FRI at 02:31
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/30/15 - FRI at 05:38
+date reported: 10/30/15 - FRI at 02:31
+general location:
+
+report #:
+
+152926
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 10/30/15 - FRI at 02:30
+date occurred to:
+
+10/30/15 - FRI at 03:41
+
+incident/offenses:
+
+HANDS, FISTS, FEET,ETC-AGGRAVATED INJURY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 10/30/15 - FRI at 10:19
+date reported: 10/30/15 - FRI at 03:22
+general location:
+
+report #:
+
+152927
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 10/30/15 - FRI at 03:21
+date occurred to:
+
+10/30/15 - FRI at 04:56
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/30/15 - FRI at 09:07
+date reported: 10/30/15 - FRI at 10:40
+location:
+
+cad event #:
+
+15-10-30-025707
+
+WRIGHT QUAD, 501 N. JORDAN, 15 BREEZEWAY ON CAMPBELL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/30/15 - FRI at 10:52
+date reported: 10/30/15 - FRI at 12:11
+location:
+
+cad event #:
+
+15-10-30-025714
+
+JORDAN AVENUE PARKING GAR, 105 N. JORDAN AVE
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: CASE REPORT FOLLOWS.
+modified date: 10/30/15 - FRI at 13:01
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 10/30/2015 00:00 to 10/30/2015 23:59
+date reported: 10/30/15 - FRI at 13:48
+location:
+
+cad event #:
+
+15-10-30-025727
+
+POPLARS PARKING GARAGE, 400 BLOCK E. 6TH STREET & DUNN ST
+
+incident: POSSESSION OF DRUG PARAPHERNALIA
+final incident: POSSESSION OF DRUG PARAPHERNALIA
+disposition: NO CASE REPORT
+modified date: 10/30/15 - FRI at 14:02
+date reported: 10/30/15 - FRI at 17:30
+general location:
+
+report #:
+
+152934
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 10/30/15 - FRI at 17:10
+date occurred to:
+
+10/30/15 - FRI at 19:00
+
+incident/offenses:
+
+SALE/MANUFACTURING MARIJUANA
+
+disposition: OPEN CASE
+modified date: 11/02/15 - MON at 13:19
+date reported: 10/30/15 - FRI at 20:58
+general location:
+
+report #:
+
+152936
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 10/30/15 - FRI at 19:32
+date occurred to:
+
+10/30/15 - FRI at 20:45
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 11/02/15 - MON at 16:32
+date reported: 10/30/15 - FRI at 21:02
+general location:
+
+report #:
+
+152937
+
+SIGMA ALPHA MU - Non-campus building or property
+
+date occurred from: 10/30/15 - FRI at 20:30
+date occurred to:
+
+10/30/15 - FRI at 21:06
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // OTHER DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/02/15 - MON at 13:32
+date reported: 10/30/15 - FRI at 22:44
+location:
+
+cad event #:
+
+15-10-30-025783
+
+FEE LANE PARKING GARAGE, 709 N. FEE LANE, FLOOR 2
+
+incident: VANDALISM, MISCHIEF
+final incident: DAMAGED PROPERTY
+disposition: NO CASE REPORT
+modified date: 10/30/15 - FRI at 23:42
+date reported: 10/30/15 - FRI at 23:14
+location:
+
+cad event #:
+
+WRIGHT QUAD, 501 N. JORDAN, HOUSE 16 000
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/30/15 - FRI at 23:24
+
+15-10-30-025787
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 10/30/2015 00:00 to 10/30/2015 23:59
+date reported: 10/30/15 - FRI at 23:20
+general location:
+
+report #:
+
+152938
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 10/30/15 - FRI at 23:20
+date occurred to:
+
+10/30/15 - FRI at 23:20
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // ILLEGAL POSSESSION/CONSUMPTION // POSSESSION - MARIJUANA //
+SUSPICIOUS PERSON OR VEHICLE
+
+disposition:
+modified date: 10/31/15 - SAT at 01:42
+date reported: 10/30/15 - FRI at 23:27
+location:
+
+cad event #:
+
+15-10-30-025790
+
+MCNUTT QUAD, 1101 N. FEE LANE, DELGADO 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/30/15 - FRI at 23:40
+
+

@@ -1,0 +1,153 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/01/2015 00:00 to 04/01/2015 23:59
+date reported: 04/01/15 - WED at 00:29
+general location:
+
+report #:
+
+150949
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 04/01/15 - WED at 00:00
+date occurred to:
+
+04/01/15 - WED at 00:29
+
+incident/offenses:
+
+INDECENT EXPOSURE
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/02/15 - THU at 11:46
+date reported: 04/01/15 - WED at 00:39
+general location:
+
+report #:
+
+150945
+
+ERNIE PYLE HALL - On Campus
+
+date occurred from: 04/01/15 - WED at 00:39
+date occurred to:
+
+04/01/15 - WED at 00:39
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/01/15 - WED at 01:49
+date reported: 04/01/15 - WED at 16:14
+general location:
+
+report #:
+
+150951
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 04/01/15 - WED at 16:00
+date occurred to:
+
+04/01/15 - WED at 16:14
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // DISORDERLY CONDUCT
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/02/15 - THU at 10:37
+date reported: 04/01/15 - WED at 19:54
+general location:
+
+report #:
+
+150952
+
+FOSTER COMMON AREA - On Campus
+
+date occurred from: 04/01/15 - WED at 19:30
+date occurred to:
+
+04/01/15 - WED at 19:45
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/01/15 - WED at 22:50
+date reported: 04/01/15 - WED at 20:52
+general location:
+
+report #:
+
+150953
+
+ASHTON WEATHERLY - On Campus - in any student residential facility
+
+date occurred from: 04/01/15 - WED at 20:50
+date occurred to:
+
+04/01/15 - WED at 21:03
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/02/15 - THU at 10:47
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/01/2015 00:00 to 04/01/2015 23:59
+date reported: 04/01/15 - WED at 21:45
+general location:
+
+report #:
+
+150954
+
+ALL OTHER NON-UNIVERSITY - 8TH AND MORTON
+
+date occurred from: 04/01/15 - WED at 21:43
+date occurred to:
+
+04/01/15 - WED at 21:45
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/01/15 - WED at 23:22
+date reported: 04/01/15 - WED at 23:46
+general location:
+
+report #:
+
+150955
+
+CYBERINFRASTRUCTURE BUILDING - On Campus
+
+date occurred from: 03/31/15 - TUE at 16:45
+date occurred to:
+
+04/01/15 - WED at 00:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/02/15 - THU at 10:51
+
+

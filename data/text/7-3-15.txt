@@ -1,0 +1,33 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/03/2015 00:00 to 07/03/2015 23:59
+date reported: 07/03/15 - FRI at 03:14
+location:
+
+cad event #:
+
+15-07-03-015193
+
+WELLS LIBRARY, 1320 E. 10TH STREET
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: FAILED TO LOCATE
+modified date: 07/03/15 - FRI at 04:29
+date reported: 07/03/15 - FRI at 20:19
+location:
+
+cad event #:
+
+15-07-03-015228
+
+ALL OTHER NON-UNIVERSITY, 369 E VARSITY LANE , VARSITY VILLAS
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: FAILED TO LOCATE
+modified date: 07/03/15 - FRI at 20:23
+
+

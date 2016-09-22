@@ -23,7 +23,7 @@ def date_generator():
 	# generates dates for a given range, needs above function
 	# when program goes live, the end date will be programed to update to today
 	generated_dates = []
-	for result in date_generator_range(date(2016, 1, 1), date(2016, 9, 21), timedelta(days=1)):
+	for result in date_generator_range(date(2013, 1, 1), date(2016, 9, 21), timedelta(days=1)):
 		# formatting
 		result = result.strftime('%m-%e-%y').lstrip('0')
 		result= result.replace(' ', '')
@@ -75,7 +75,7 @@ def pdf_2_txt():
 	for day in new_dates:
 		day = day.strip()
 		os.system("pdftotext '%s' '%s'" % ('data/pdf/'+day+'.pdf', 'data/text/'+day+'.txt'))
-# pdf_2_txt()
+pdf_2_txt()
 
 def pdf_del():
 	# deletes all pdfs, only keep text for record purposes
@@ -140,8 +140,6 @@ def crime_list():
 
 	return crime_list
 
-for crime in crime_list():
-		print(crime)
 
 
 #Everything below is me throwing code at the wall 

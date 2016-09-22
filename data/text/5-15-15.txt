@@ -1,0 +1,41 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/15/2015 00:00 to 05/15/2015 23:59
+
+date reported: 05/15/15 - FRI at 10:40
+location:
+
+cad event #:
+
+15-05-15-012151
+
+Phi Sigma Kappa, 702 E. 3RD STREET
+
+incident: THEFT-ALL OTHER
+final incident: THEFT-ALL OTHER
+disposition: UNFOUNDED
+modified date: 05/15/15 - FRI at 11:28
+date reported: 05/15/15 - FRI at 15:48
+general location:
+
+report #:
+
+151450
+
+POPLARS PARKING GARAGE - On Campus
+
+date occurred from: 05/15/15 - FRI at 15:45
+date occurred to:
+
+05/15/15 - FRI at 15:48
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/15/15 - FRI at 21:26
+
+

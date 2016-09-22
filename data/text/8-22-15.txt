@@ -1,0 +1,522 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/22/2015 00:00 to 08/22/2015 23:59
+date reported: 08/22/15 - SAT at 00:56
+location:
+
+cad event #:
+
+15-08-22-018755
+
+MCNUTT QUAD COMMON AREA, , CIRCLE DRIVE BOCOBO
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 08/22/15 - SAT at 01:50
+date reported: 08/22/15 - SAT at 01:07
+general location:
+
+report #:
+
+151951
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/22/15 - SAT at 01:00
+date occurred to:
+
+08/22/15 - SAT at 01:31
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/24/15 - MON at 09:29
+date reported: 08/22/15 - SAT at 01:17
+general location:
+
+report #:
+
+151950
+
+BRISCOE QUAD COMMON AREA - On Campus
+
+date occurred from: 08/22/15 - SAT at 01:15
+date occurred to:
+
+08/22/15 - SAT at 01:20
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: UNFOUNDED
+modified date: 08/24/15 - MON at 09:27
+date reported: 08/22/15 - SAT at 01:20
+general location:
+
+report #:
+
+151956
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/21/15 - FRI at 23:30
+date occurred to:
+
+08/22/15 - SAT at 01:18
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/24/15 - MON at 09:25
+date reported: 08/22/15 - SAT at 01:26
+general location:
+
+report #:
+
+151954
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 08/21/15 - FRI at 23:30
+date occurred to:
+
+08/22/15 - SAT at 01:26
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/24/15 - MON at 09:37
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/22/2015 00:00 to 08/22/2015 23:59
+date reported: 08/22/15 - SAT at 01:31
+general location:
+
+report #:
+
+151953
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/22/15 - SAT at 01:15
+date occurred to:
+
+08/22/15 - SAT at 01:38
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/15 - SAT at 04:43
+date reported: 08/22/15 - SAT at 01:39
+general location:
+
+report #:
+
+151952
+
+PHI MU - Non-campus building or property
+
+date occurred from: 08/22/15 - SAT at 00:00
+date occurred to:
+
+08/22/15 - SAT at 01:39
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/24/15 - MON at 09:33
+date reported: 08/22/15 - SAT at 01:44
+location:
+
+cad event #:
+
+15-08-22-018768
+
+MCNUTT QUAD, 1101 N. FEE LANE, BRYAN 3RD FLOOR
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: VERBAL WARNING ISSUED
+modified date: 08/22/15 - SAT at 02:57
+date reported: 08/22/15 - SAT at 02:10
+general location:
+
+report #:
+
+151955
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/22/15 - SAT at 02:10
+date occurred to:
+
+08/22/15 - SAT at 02:31
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/24/15 - MON at 09:39
+date reported: 08/22/15 - SAT at 02:59
+location:
+
+cad event #:
+
+15-08-22-018777
+
+ALL OTHER NON-UNIVERSITY, , KIRKWOOD & DUNN
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 08/22/15 - SAT at 03:01
+date reported: 08/22/15 - SAT at 03:03
+location:
+
+cad event #:
+
+ALL OTHER NON-UNIVERSITY, , KIRKWOOD, Z&C
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 08/22/15 - SAT at 03:15
+
+15-08-22-018778
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/22/2015 00:00 to 08/22/2015 23:59
+date reported: 08/22/15 - SAT at 03:09
+location:
+
+cad event #:
+
+15-08-22-018779
+
+DUNN STREET/SOUTH OF 10TH, SOUTH OF 10TH DUNN STREET, 4TH DUNN
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 08/22/15 - SAT at 03:24
+date reported: 08/22/15 - SAT at 03:49
+general location:
+
+report #:
+
+151958
+
+JORDAN AVENUE/NORTH OF 10 - Public property
+
+date occurred from: 08/22/15 - SAT at 03:49
+date occurred to:
+
+08/22/15 - SAT at 06:10
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/24/15 - MON at 08:17
+date reported: 08/22/15 - SAT at 15:37
+location:
+
+cad event #:
+
+15-08-22-018805
+
+READ CENTER, 125 S. JORDAN, CURRY CIRCLE DRIVE OFF JORDAN
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/22/15 - SAT at 15:56
+date reported: 08/22/15 - SAT at 15:44
+general location:
+
+report #:
+
+151959
+
+TETER QUAD COMMON AREA - On Campus
+
+date occurred from: 08/18/15 - TUE at 08:00
+date occurred to:
+
+08/21/15 - FRI at 21:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 08/22/15 - SAT at 20:01
+date reported: 08/22/15 - SAT at 16:08
+general location:
+
+report #:
+
+151961
+
+JORDAN AVENUE/NORTH OF 10 - Public property
+
+date occurred from: 08/22/15 - SAT at 14:00
+date occurred to:
+
+08/22/15 - SAT at 16:08
+
+incident/offenses:
+
+THEFT-ALL OTHER // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/15 - SAT at 20:08
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/22/2015 00:00 to 08/22/2015 23:59
+date reported: 08/22/15 - SAT at 16:11
+general location:
+
+report #:
+
+151960
+
+BRISCOE QUAD BACK LOT - On Campus
+
+date occurred from: 08/22/15 - SAT at 16:09
+date occurred to:
+
+08/22/15 - SAT at 16:11
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/15 - SAT at 19:28
+date reported: 08/22/15 - SAT at 19:06
+general location:
+
+report #:
+
+151963
+
+ATHLETIC/YELLOW LOT - On Campus
+
+date occurred from: 08/22/15 - SAT at 19:00
+date occurred to:
+
+08/22/15 - SAT at 19:06
+
+incident/offenses:
+
+PUBLIC INTOXICATION // THEFT-ALL OTHER // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/15 - SAT at 22:11
+date reported: 08/22/15 - SAT at 19:10
+general location:
+
+report #:
+
+151964
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 08/22/15 - SAT at 18:30
+date occurred to:
+
+08/22/15 - SAT at 18:30
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 08/22/15 - SAT at 22:35
+date reported: 08/22/15 - SAT at 19:19
+location:
+
+cad event #:
+
+15-08-22-018821
+
+FOSTER JENKINSON HALL, 1000 N. FEE LANE, MEET CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/22/15 - SAT at 19:43
+date reported: 08/22/15 - SAT at 20:09
+general location:
+
+report #:
+
+151966
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 08/22/15 - SAT at 19:50
+date occurred to:
+
+08/22/15 - SAT at 20:09
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/15 - SAT at 21:36
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/22/2015 00:00 to 08/22/2015 23:59
+date reported: 08/22/15 - SAT at 20:38
+general location:
+
+report #:
+
+151965
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/22/15 - SAT at 20:30
+date occurred to:
+
+08/22/15 - SAT at 20:43
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/15 - SAT at 22:47
+date reported: 08/22/15 - SAT at 20:56
+general location:
+
+report #:
+
+151967
+
+HODGE HALL (BUSINESS BUILDING) - On Campus
+
+date occurred from: 08/22/15 - SAT at 17:00
+date occurred to:
+
+08/22/15 - SAT at 20:45
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 08/22/15 - SAT at 22:23
+date reported: 08/22/15 - SAT at 21:46
+general location:
+
+report #:
+
+151969
+
+11TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 08/22/15 - SAT at 21:40
+date occurred to:
+
+08/22/15 - SAT at 21:46
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/22/15 - SAT at 23:34
+date reported: 08/22/15 - SAT at 21:53
+general location:
+
+report #:
+
+151968
+
+13TH STREET PARKING LOT - On Campus
+
+date occurred from: 08/22/15 - SAT at 21:53
+date occurred to:
+
+08/22/15 - SAT at 22:12
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/23/15 - SUN at 09:08
+date reported: 08/22/15 - SAT at 21:57
+location:
+
+cad event #:
+
+13TH STREET PARKING LOT,
+
+incident: ILLEGAL POSSESSION/CONSUMPTION
+final incident: ILLEGAL POSSESSION/CONSUMPTION
+disposition: NO CASE REPORT
+modified date: 08/22/15 - SAT at 22:19
+
+15-08-22-018830
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/22/2015 00:00 to 08/22/2015 23:59
+
+date reported: 08/22/15 - SAT at 23:41
+general location:
+
+report #:
+
+151972
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 08/22/15 - SAT at 23:40
+date occurred to:
+
+08/22/15 - SAT at 23:41
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/23/15 - SUN at 05:06
+
+

@@ -1,0 +1,67 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/30/2015 00:00 to 07/30/2015 23:59
+date reported: 07/30/15 - THU at 03:58
+general location:
+
+report #:
+
+151812
+
+ALL OTHER NON-UNIVERSITY - 2ND @ JORDAN
+
+date occurred from: 07/30/15 - THU at 03:57
+date occurred to:
+
+07/30/15 - THU at 05:01
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/30/15 - THU at 08:29
+date reported: 07/30/15 - THU at 10:24
+general location:
+
+report #:
+
+151813
+
+EVANS SCHOLARS - Non-campus building or property
+
+date occurred from: 07/24/15 - FRI at 18:00
+date occurred to:
+
+07/30/15 - THU at 08:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 07/30/15 - THU at 16:59
+date reported: 07/30/15 - THU at 12:35
+general location:
+
+report #:
+
+ERNIE PYLE HALL - On Campus
+
+date occurred from: 07/30/15 - THU at 09:00
+date occurred to:
+
+07/30/15 - THU at 12:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 07/30/15 - THU at 17:03
+
+151814
+
+

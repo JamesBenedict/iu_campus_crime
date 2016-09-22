@@ -1,0 +1,198 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/20/2015 00:00 to 09/20/2015 23:59
+date reported: 09/20/15 - SUN at 00:05
+location:
+
+cad event #:
+
+15-09-20-021851
+
+3RD STREET/WEST OF JORDAN, , 1000 BLOCK
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: FAILED TO LOCATE
+modified date: 09/20/15 - SUN at 00:13
+date reported: 09/20/15 - SUN at 00:46
+location:
+
+cad event #:
+
+15-09-20-021858
+
+DELTA TAU DELTA, 1431 N. JORDAN AVE, PULL STATION
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 09/20/15 - SUN at 01:18
+date reported: 09/20/15 - SUN at 01:27
+general location:
+
+report #:
+
+152383
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 09/19/15 - SAT at 22:00
+date occurred to:
+
+09/20/15 - SUN at 01:25
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/20/15 - SUN at 06:19
+date reported: 09/20/15 - SUN at 01:32
+general location:
+
+report #:
+
+152384
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/20/15 - SUN at 00:00
+date occurred to:
+
+09/20/15 - SUN at 01:32
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/20/15 - SUN at 04:40
+date reported: 09/20/15 - SUN at 02:03
+location:
+
+cad event #:
+
+15-09-20-021867
+
+FOREST QUAD, 1725 E. 3RD STREET, A TOWER 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/20/15 - SUN at 02:13
+date reported: 09/20/15 - SUN at 02:06
+general location:
+
+report #:
+
+152385
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 09/20/15 - SUN at 02:06
+date occurred to:
+
+09/20/15 - SUN at 03:24
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/21/15 - MON at 09:06
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/20/2015 00:00 to 09/20/2015 23:59
+date reported: 09/20/15 - SUN at 05:28
+location:
+
+cad event #:
+
+15-09-20-021877
+
+ALL OTHER PARKING AREAS, , WELLS LIBRARY/GLOBAL STUDIES
+
+incident: THEFT FROM MOTOR VEHICLE
+final incident: THEFT FROM MOTOR VEHICLE
+disposition: FAILED TO LOCATE
+modified date: 09/20/15 - SUN at 05:45
+date reported: 09/20/15 - SUN at 19:27
+general location:
+
+report #:
+
+152390
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/20/15 - SUN at 19:27
+date occurred to:
+
+09/20/15 - SUN at 19:36
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/21/15 - MON at 00:05
+date reported: 09/20/15 - SUN at 19:30
+general location:
+
+report #:
+
+152388
+
+JORDAN AVENUE/NORTH OF 10 - Public property
+
+date occurred from: 09/20/15 - SUN at 14:00
+date occurred to:
+
+09/20/15 - SUN at 18:40
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/20/15 - SUN at 21:19
+date reported: 09/20/15 - SUN at 20:10
+general location:
+
+report #:
+
+152389
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/20/15 - SUN at 20:10
+date occurred to:
+
+09/20/15 - SUN at 20:12
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/20/15 - SUN at 21:32
+date reported: 09/20/15 - SUN at 21:25
+location:
+
+cad event #:
+
+15-09-20-021905
+
+TETER QUAD COMMON AREA, , TETER COURTYARD UNDER TREE NEAR SUNRISE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/20/15 - SUN at 21:34
+
+

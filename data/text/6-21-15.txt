@@ -1,0 +1,28 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 06/21/2015 00:00 to 06/21/2015 23:59
+
+date reported: 06/21/15 - SUN at 00:21
+general location:
+
+report #:
+
+151616
+
+BICKNELL APTS - On Campus - in any student residential facility
+
+date occurred from: 06/20/15 - SAT at 23:50
+date occurred to:
+
+06/20/15 - SAT at 23:55
+
+incident/offenses:
+
+PEEPING
+
+disposition: OPEN CASE
+modified date: 06/22/15 - MON at 09:21
+
+

@@ -1,0 +1,353 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/25/2015 00:00 to 09/25/2015 23:59
+date reported: 09/25/15 - FRI at 00:02
+location:
+
+cad event #:
+
+15-09-25-022295
+
+WILLKIE NORTH, 150 N. ROSE, 1ST FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/25/15 - FRI at 00:59
+date reported: 09/25/15 - FRI at 01:31
+general location:
+
+report #:
+
+152456
+
+1412 NORTH JORDAN - Non-campus building or property
+
+date occurred from: 09/25/15 - FRI at 01:30
+date occurred to:
+
+09/25/15 - FRI at 01:31
+
+incident/offenses:
+
+VANDALISM, MISCHIEF // FIRE ALARM - FALSE CALL
+
+disposition: OPEN CASE
+modified date: 09/25/15 - FRI at 06:55
+date reported: 09/25/15 - FRI at 01:56
+general location:
+
+report #:
+
+152457
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/25/15 - FRI at 01:56
+date occurred to:
+
+09/25/15 - FRI at 01:56
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/25/15 - FRI at 07:45
+date reported: 09/25/15 - FRI at 02:22
+general location:
+
+report #:
+
+152458
+
+COTTAGE GROVE/WEST OF JORAN - Public property
+
+date occurred from: 09/25/15 - FRI at 02:21
+date occurred to:
+
+09/25/15 - FRI at 02:22
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/25/15 - FRI at 08:16
+date reported: 09/25/15 - FRI at 02:33
+location:
+
+cad event #:
+
+15-09-25-022310
+
+10TH STREET/WEST OF JORDAN, WEST OF JORDAN 10TH STREET, WOODLAWN FIELD
+
+incident: THEFT-ALL OTHER
+final incident: THEFT-ALL OTHER
+disposition: FAILED TO LOCATE
+modified date: 09/25/15 - FRI at 02:49
+date reported: 09/25/15 - FRI at 09:29
+general location:
+
+report #:
+
+152459
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/24/15 - THU at 19:30
+date occurred to:
+
+09/24/15 - THU at 23:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 09/25/15 - FRI at 15:21
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/25/2015 00:00 to 09/25/2015 23:59
+date reported: 09/25/15 - FRI at 09:57
+location:
+
+cad event #:
+
+15-09-25-022328
+
+TETER QUAD, 501 N. SUNRISE, GROUNDS CREW
+
+incident: MISSING PERSON(NOT 29 OR 303B)
+final incident: MISSING PERSON
+disposition: NO CASE REPORT
+modified date: 09/25/15 - FRI at 14:10
+date reported: 09/25/15 - FRI at 10:54
+general location:
+
+report #:
+
+152506
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/22/15 - TUE at 16:30
+date occurred to:
+
+09/22/15 - TUE at 18:00
+
+incident/offenses:
+
+RAPE
+
+disposition: OPEN CASE
+modified date: 09/28/15 - MON at 16:47
+date reported: 09/25/15 - FRI at 13:45
+general location:
+
+report #:
+
+152461
+
+IUPD STATION - On Campus
+
+date occurred from: 07/15/14 - TUE at 12:00
+date occurred to:
+
+09/19/15 - SAT at 12:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 09/28/15 - MON at 10:42
+date reported: 09/25/15 - FRI at 16:30
+general location:
+
+report #:
+
+152464
+
+INDIANA AVENUE/NORTH OF 1OTH STR - Public property
+
+date occurred from: 09/25/15 - FRI at 16:30
+date occurred to:
+
+09/25/15 - FRI at 16:45
+
+incident/offenses:
+
+Vehicle Stop // POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/25/15 - FRI at 19:10
+date reported: 09/25/15 - FRI at 16:57
+general location:
+
+report #:
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 09/25/15 - FRI at 06:45
+date occurred to:
+
+09/25/15 - FRI at 15:45
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/28/15 - MON at 10:12
+
+152465
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/25/2015 00:00 to 09/25/2015 23:59
+date reported:
+
+09/25/15 - FRI at 17:01
+
+general location:
+
+report #:
+
+152466
+
+CAMPUS VIEW APTS. - On Campus - in any student residential facility
+
+date occurred from: 09/25/15 - FRI at 17:00
+date occurred to:
+
+09/25/15 - FRI at 17:05
+
+incident/offenses:
+
+FIRE ALARMS - ACTUAL, NOT ARSON
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/28/15 - MON at 10:19
+date reported: 09/25/15 - FRI at 17:21
+general location:
+
+report #:
+
+152467
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 07/01/11 - FRI at 12:00
+date occurred to:
+
+09/25/15 - FRI at 17:25
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // DOMESTIC DISTURBANCES
+
+disposition: OPEN CASE
+modified date: 09/28/15 - MON at 10:28
+date reported: 09/25/15 - FRI at 17:36
+general location:
+
+report #:
+
+152471
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/22/15 - TUE at 16:30
+date occurred to:
+
+09/24/15 - THU at 21:41
+
+incident/offenses:
+
+AGGRAVATED ASSAULT- HANDS // FORCIBLE FONDLING
+
+disposition: OPEN CASE
+modified date: 09/28/15 - MON at 15:27
+date reported: 09/25/15 - FRI at 18:47
+general location:
+
+report #:
+
+152469
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 09/25/15 - FRI at 12:00
+date occurred to:
+
+09/25/15 - FRI at 17:10
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/25/15 - FRI at 22:17
+date reported: 09/25/15 - FRI at 19:46
+general location:
+
+report #:
+
+152472
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from: 09/25/15 - FRI at 19:46
+date occurred to:
+
+09/25/15 - FRI at 20:45
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/28/15 - MON at 11:16
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/25/2015 00:00 to 09/25/2015 23:59
+date reported: 09/25/15 - FRI at 22:17
+location:
+
+cad event #:
+
+15-09-25-022398
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 8TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/25/15 - FRI at 22:28
+date reported: 09/25/15 - FRI at 23:21
+location:
+
+cad event #:
+
+15-09-25-022407
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 12TH FLOOR- CENTER DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/25/15 - FRI at 23:32
+
+

@@ -1,0 +1,98 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/08/2015 00:00 to 11/08/2015 23:59
+date reported: 11/08/15 - SUN at 01:38
+general location:
+
+report #:
+
+153055
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 11/08/15 - SUN at 01:35
+date occurred to:
+
+11/08/15 - SUN at 01:41
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/09/15 - MON at 06:13
+date reported: 11/08/15 - SUN at 03:49
+
+report #:
+
+153056
+
+general location:ALL OTHER NON-UNIVERSITY - 1ST @ COLLEGE
+date occurred from: 11/08/15 - SUN at 03:49
+date occurred to:
+
+11/08/15 - SUN at 05:15
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/09/15 - MON at 08:16
+date reported: 11/08/15 - SUN at 16:46
+location:
+
+cad event #:
+
+15-11-08-026604
+
+IUPD STATION, 1469 E. 17TH STREET
+
+incident: ALL TYPES OF FRAUD
+final incident: ALL TYPES OF FRAUD
+disposition: NO CASE REPORT
+modified date: 11/08/15 - SUN at 16:55
+date reported: 11/08/15 - SUN at 17:06
+general location:
+
+report #:
+
+153058
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 11/08/15 - SUN at 16:50
+date occurred to:
+
+11/08/15 - SUN at 17:06
+
+incident/offenses:
+
+OTHER DISTURBANCES
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 11/08/15 - SUN at 20:58
+date reported: 11/08/15 - SUN at 21:26
+general location:
+
+report #:
+
+153060
+
+COLLINS CRAVENS - On Campus - in any student residential facility
+
+date occurred from: 11/08/15 - SUN at 21:26
+date occurred to:
+
+11/08/15 - SUN at 21:38
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/08/15 - SUN at 22:49
+
+

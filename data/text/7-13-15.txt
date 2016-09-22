@@ -1,0 +1,93 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/13/2015 00:00 to 07/13/2015 23:59
+date reported: 07/13/15 - MON at 10:14
+location:
+
+cad event #:
+
+15-07-13-015870
+
+ALL OTHER NON-UNIVERSITY, 2809 S. CHERRY STREET
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: FAILED TO LOCATE
+modified date: 07/13/15 - MON at 10:45
+date reported: 07/13/15 - MON at 10:47
+location:
+
+cad event #:
+
+15-07-13-015875
+
+ALL OTHER NON-UNIVERSITY, 238 N. SMITH ROAD
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: FAILED TO LOCATE
+modified date: 07/13/15 - MON at 11:00
+date reported: 07/13/15 - MON at 11:05
+general location:
+
+report #:
+
+151722
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 07/12/15 - SUN at 05:00
+date occurred to:
+
+07/12/15 - SUN at 11:00
+
+incident/offenses:
+
+MISSING PERSON(NOT 29 OR 303B)
+
+disposition: OPEN CASE
+modified date: 07/14/15 - TUE at 16:52
+date reported: 07/13/15 - MON at 16:23
+general location:
+
+report #:
+
+151724
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 07/10/15 - FRI at 13:00
+date occurred to:
+
+07/10/15 - FRI at 17:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 07/13/15 - MON at 17:38
+date reported: 07/13/15 - MON at 19:19
+general location:
+
+report #:
+
+151725
+
+FOREST QUAD EAST LOT - On Campus
+
+date occurred from: 07/11/15 - SAT at 22:00
+date occurred to:
+
+07/13/15 - MON at 19:30
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 07/13/15 - MON at 21:57
+
+

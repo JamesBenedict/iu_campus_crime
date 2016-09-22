@@ -1,0 +1,285 @@
+Indiana University, Bloomington
+
+Police Department
+
+Daily Crime Log Report
+from 01/31/2015 00:00 to 01/31/2015 23:59
+date reported: 01/31/15 - SAT at 00:21
+location:
+
+cad event #:
+
+15-01-31-002431
+
+WILLKIE SOUTH, 150 S. ROSE, 5TH
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/31/15 - SAT at 00:28
+date reported: 01/31/15 - SAT at 00:44
+general location:
+
+report #:
+
+150276
+
+ALL OTHER NON-UNIVERSITY- 200 BLK N WALNUT
+
+date occurred from: 01/31/15 - SAT at 00:00
+date occurred to:
+
+01/31/15 - SAT at 00:44
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/02/15 - MON at 16:25
+date reported: 01/31/15 - SAT at 01:31
+location:
+
+cad event #:
+
+15-01-31-002443
+
+FOREST QUAD, 1725 E. 3RD STREET
+
+incident: ILLEGAL POSSESSION/CONSUMPTION
+final incident: ILLEGAL POSSESSION/CONSUMPTION
+disposition: CANCELLED EVENT
+modified date: 01/31/15 - SAT at 01:41
+date reported: 01/31/15 - SAT at 04:06
+general location:
+
+report #:
+
+150277
+
+ALL OTHER NON-UNIVERSITY - WALNUT N OF BYPASS
+
+date occurred from: 01/31/15 - SAT at 04:06
+date occurred to:
+
+01/31/15 - SAT at 05:51
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/02/15 - MON at 11:55
+date reported: 01/31/15 - SAT at 04:11
+general location:
+
+report #:
+
+150278
+
+ROSE AVE RESIDENCE HALL - On Campus - in any student residential facility
+
+date occurred from: 01/01/15 - THU at 00:00
+date occurred to:
+
+01/31/15 - SAT at 04:22
+
+incident/offenses:
+
+SALE/MANUFACTURING MARIJUANA
+
+disposition: OPEN CASE
+modified date: 01/31/15 - SAT at 22:54
+
+Indiana University, Bloomington
+
+Police Department
+
+Daily Crime Log Report
+from 01/31/2015 00:00 to 01/31/2015 23:59
+
+date reported: 01/31/15 - SAT at 05:04
+general location:
+
+report #:
+
+150279
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 01/31/15 - SAT at 05:00
+date occurred to:
+
+01/31/15 - SAT at 05:06
+
+incident/offenses:
+
+DISORDERLY CONDUCT // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/01/15 - SUN at 06:14
+
+date reported: 01/31/15 - SAT at 11:55
+general location:
+
+report #:
+
+150280
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 01/31/15 - SAT at 10:00
+date occurred to:
+
+01/31/15 - SAT at 11:30
+
+incident/offenses:
+
+FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 02/02/15 - MON at 15:54
+
+date reported: 01/31/15 - SAT at 15:47
+general location:
+
+report #:
+
+150283
+
+ALPHA OMICRON PI - Non-campus building or property
+
+date occurred from: 01/30/15 - FRI at 20:00
+date occurred to:
+
+01/31/15 - SAT at 09:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition:
+
+OPEN CASE
+
+modified date: 01/31/15 - SAT at 20:29
+
+date reported: 01/31/15 - SAT at 16:34
+general location:
+
+report #:
+
+150284
+
+ASSEMBLY HALL - On Campus
+
+date occurred from: 01/31/15 - SAT at 16:33
+date occurred to:
+
+01/31/15 - SAT at 16:34
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/01/15 - SUN at 06:56
+
+date reported: 01/31/15 - SAT at 17:38
+location:
+
+cad event #:
+
+BRISCOE QUAD, 1225 N. FEE LANE, GUCKER - 410
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 01/31/15 - SAT at 17:56
+
+15-01-31-002500
+
+Indiana University, Bloomington
+
+Police Department
+
+Daily Crime Log Report
+from 01/31/2015 00:00 to 01/31/2015 23:59
+
+date reported: 01/31/15 - SAT at 19:56
+general location:
+
+report #:
+
+150285
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 01/31/15 - SAT at 19:55
+date occurred to:
+
+01/31/15 - SAT at 19:56
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION - SYNTHETIC NARCOTICS // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 01/31/15 - SAT at 22:37
+date reported: 01/31/15 - SAT at 22:16
+general location:
+
+report #:
+
+150287
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 01/31/15 - SAT at 22:17
+date occurred to:
+
+01/31/15 - SAT at 23:08
+
+incident/offenses:
+
+FALSE IDENTIFICATION // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/01/15 - SUN at 00:50
+date reported: 01/31/15 - SAT at 23:10
+general location:
+
+report #:
+
+150288
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 01/31/15 - SAT at 23:05
+date occurred to:
+
+01/31/15 - SAT at 23:22
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/01/15 - SUN at 07:36
+
+date reported: 01/31/15 - SAT at 23:21
+location:
+
+cad event #:
+
+15-01-31-002523
+
+FOSTER HARPER HALL, 1000 N. FEE LANE, ROOM 311
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: FAILED TO LOCATE
+modified date: 01/31/15 - SAT at 23:40
+
+

@@ -1,0 +1,166 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/21/2015 00:00 to 10/21/2015 23:59
+date reported: 10/21/15 - WED at 02:40
+general location:
+
+report #:
+
+152800
+
+ALL OTHER NON-UNIVERSITY - KIRKWOOD @ LINCOLN
+
+date occurred from: 10/21/15 - WED at 02:40
+date occurred to:
+
+10/21/15 - WED at 03:59
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/22/15 - THU at 08:13
+date reported: 10/21/15 - WED at 03:07
+general location:
+
+report #:
+
+152801
+
+ALL OTHER NON-UNIVERSITY - KIRKWOOD @ DUNN
+
+date occurred from: 10/21/15 - WED at 03:05
+date occurred to:
+
+10/21/15 - WED at 03:07
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 10/21/15 - WED at 23:22
+date reported: 10/21/15 - WED at 04:11
+general location:
+
+report #:
+
+152802
+
+WILLKIE SOUTH - On Campus - in any student residential facility
+
+date occurred from: 10/21/15 - WED at 02:00
+date occurred to:
+
+10/21/15 - WED at 04:11
+
+incident/offenses:
+
+EXTORTION
+
+disposition: OPEN CASE
+modified date: 10/21/15 - WED at 14:57
+date reported: 10/21/15 - WED at 11:08
+location:
+
+cad event #:
+
+15-10-21-024840
+
+HPER -SCHOOL OF PUBLIC HEALTH, 1025 E. 7TH STREET, MEMBER SERVICE DESK
+
+incident: THEFT FROM BUILDINGS
+final incident: THEFT FROM BUILDINGS
+disposition: Cancelled Event
+modified date: 10/21/15 - WED at 11:19
+date reported: 10/21/15 - WED at 15:50
+general location:
+
+report #:
+
+152809
+
+HILLCREST APARTMENTS - On Campus - in any student residential facility
+
+date occurred from: 10/21/15 - WED at 12:00
+date occurred to:
+
+10/21/15 - WED at 15:56
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 10/22/15 - THU at 09:46
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/21/2015 00:00 to 10/21/2015 23:59
+date reported: 10/21/15 - WED at 18:19
+general location:
+
+report #:
+
+152811
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 10/21/15 - WED at 18:10
+date occurred to:
+
+10/21/15 - WED at 18:19
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 10/22/15 - THU at 09:53
+date reported: 10/21/15 - WED at 18:42
+general location:
+
+report #:
+
+152812
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 10/21/15 - WED at 18:10
+date occurred to:
+
+10/21/15 - WED at 18:42
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 10/21/15 - WED at 19:24
+date reported: 10/21/15 - WED at 22:01
+general location:
+
+report #:
+
+152815
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 10/21/15 - WED at 22:03
+date occurred to:
+
+10/21/15 - WED at 22:05
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 10/22/15 - THU at 01:56
+
+

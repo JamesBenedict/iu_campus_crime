@@ -1,0 +1,130 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/12/2015 00:00 to 04/12/2015 23:59
+date reported: 04/12/15 - SUN at 00:15
+location:
+
+cad event #:
+
+15-04-12-008908
+
+FEE LANE/NORTH OF 10TH ST, NORTH OF 10TH ST FEE LANE, FEE AND LAW
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 04/12/15 - SUN at 00:33
+date reported: 04/12/15 - SUN at 00:32
+general location:
+
+report #:
+
+151052
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 04/12/15 - SUN at 00:32
+date occurred to:
+
+04/12/15 - SUN at 01:56
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/13/15 - MON at 08:11
+date reported: 04/12/15 - SUN at 01:58
+general location:
+
+report #:
+
+151054
+
+ALL OTHER NON-UNIVERSITY – 17
+
+TH
+
+@ WALNUT
+
+date occurred from: 04/12/15 - SUN at 01:58
+date occurred to:
+
+04/12/15 - SUN at 04:05
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/13/15 - MON at 11:22
+date reported: 04/12/15 - SUN at 02:57
+location:
+
+cad event #:
+
+15-04-12-008921
+
+TETER QUAD, 501 N. SUNRISE, WISSLER, 2ND FL
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 04/12/15 - SUN at 03:45
+date reported: 04/12/15 - SUN at 03:04
+general location:
+
+report #:
+
+151055
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 04/12/15 - SUN at 03:04
+date occurred to:
+
+04/12/15 - SUN at 03:04
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // DISORDERLY CONDUCT // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/12/15 - SUN at 04:30
+date reported: 04/12/15 - SUN at 15:48
+location:
+
+cad event #:
+
+15-04-12-008950
+
+CAMPUS VIEW APTS., 800 N. UNION, #529 ZONE 001 GEN BLDG
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 04/12/15 - SUN at 16:00
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/12/2015 00:00 to 04/12/2015 23:59
+
+date reported: 04/12/15 - SUN at 23:36
+location:
+
+cad event #:
+
+READ CENTER, 125 S. JORDAN, BECK 5
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/12/15 - SUN at 23:49
+
+15-04-12-008983
+
+

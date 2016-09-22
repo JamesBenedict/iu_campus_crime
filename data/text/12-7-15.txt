@@ -1,0 +1,125 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/07/2015 00:00 to 12/07/2015 23:59
+date reported: 12/07/15 - MON at 10:51
+location:
+
+cad event #:
+
+15-12-07-028730
+
+INDIANA MEMORIAL UNION, 900 E. 7TH STREET, SUGAR & SPICE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: UNFOUNDED
+modified date: 12/08/15 - TUE at 08:17
+date reported: 12/07/15 - MON at 11:53
+general location:
+
+report #:
+
+153330
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 12/07/15 - MON at 11:00
+date occurred to:
+
+12/07/15 - MON at 11:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 12/08/15 - TUE at 08:46
+date reported: 12/07/15 - MON at 12:19
+general location:
+
+report #:
+
+153332
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 11/30/15 - MON at 18:56
+date occurred to:
+
+12/05/15 - SAT at 10:04
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 12/07/15 - MON at 13:37
+date reported: 12/07/15 - MON at 16:30
+general location:
+
+report #:
+
+153336
+
+UNION STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 12/07/15 - MON at 00:00
+date occurred to:
+
+12/07/15 - MON at 00:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 12/07/15 - MON at 22:39
+date reported: 12/07/15 - MON at 16:44
+location:
+
+cad event #:
+
+15-12-07-028752
+
+MCNUTT QUAD COMMON AREA, , BORDNER - MEET AT CIRCLE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/07/15 - MON at 16:59
+date reported: 12/07/15 - MON at 19:52
+location:
+
+cad event #:
+
+15-12-07-028767
+
+FOREST QUAD, 1725 E. 3RD STREET, MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/07/15 - MON at 20:07
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/07/2015 00:00 to 12/07/2015 23:59
+date reported: 12/07/15 - MON at 23:19
+location:
+
+cad event #:
+
+15-12-07-028782
+
+FOREST QUAD, 1725 E. 3RD STREET, B3 MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/07/15 - MON at 23:40
+
+

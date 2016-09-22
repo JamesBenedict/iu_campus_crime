@@ -1,0 +1,238 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/16/2015 00:00 to 04/16/2015 23:59
+date reported: 04/16/15 - THU at 03:12
+general location:
+
+report #:
+
+151096
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 04/15/15 - WED at 23:30
+date occurred to:
+
+04/16/15 - THU at 03:10
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // ILLEGAL POSSESSION/CONSUMPTION // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/15 - THU at 08:21
+date reported: 04/16/15 - THU at 12:11
+general location:
+
+report #:
+
+151100
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 04/16/15 - THU at 12:00
+date occurred to:
+
+04/16/15 - THU at 12:12
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 04/16/15 - THU at 14:48
+date reported: 04/16/15 - THU at 13:50
+location:
+
+cad event #:
+
+15-04-16-009308
+
+BRISCOE QUAD, 1225 N. FEE LANE
+
+incident: ALL TYPES OF FRAUD
+final incident: ALL TYPES OF FRAUD
+disposition: NO CASE REPORT
+modified date: 04/16/15 - THU at 14:27
+date reported: 04/16/15 - THU at 13:58
+general location:
+
+report #:
+
+151101
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 04/15/15 - WED at 08:00
+date occurred to:
+
+04/15/15 - WED at 17:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition:
+
+CASE OPEN
+
+modified date: 04/16/15 - THU at 15:05
+date reported: 04/16/15 - THU at 16:48
+general location:
+
+report #:
+
+USA COMMON AREA - On Campus
+
+date occurred from: 04/16/15 - THU at 00:00
+date occurred to:
+
+04/16/15 - THU at 16:49
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition:
+
+CASE OPEN
+
+modified date: 04/16/15 - THU at 17:06
+
+151104
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/16/2015 00:00 to 04/16/2015 23:59
+date reported: 04/16/15 - THU at 17:43
+general location:
+
+report #:
+
+151105
+
+ATHLETIC/BLUE LOT - On Campus
+
+date occurred from: 04/15/15 - WED at 21:00
+date occurred to:
+
+04/16/15 - THU at 17:30
+
+incident/offenses:
+
+THEFT-AUTOS
+
+disposition: OPEN CASE
+modified date: 04/16/15 - THU at 19:50
+date reported: 04/16/15 - THU at 18:08
+general location:
+
+report #:
+
+151106
+
+SRSC - On Campus
+
+date occurred from: 04/16/15 - THU at 17:00
+date occurred to:
+
+04/16/15 - THU at 18:10
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 04/16/15 - THU at 22:34
+date reported: 04/16/15 - THU at 18:11
+location:
+
+cad event #:
+
+15-04-16-009339
+
+MCNUTT QUAD, 1101 N. FEE LANE
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: FAILED TO LOCATE
+modified date: 04/16/15 - THU at 18:21
+date reported: 04/16/15 - THU at 20:21
+general location:
+
+report #:
+
+151108
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 03/15/15 - SUN at 12:00
+date occurred to:
+
+04/15/15 - WED at 12:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 04/16/15 - THU at 22:46
+date reported: 04/16/15 - THU at 21:03
+location:
+
+cad event #:
+
+15-04-16-009358
+
+MCNUTT QUAD, 1101 N. FEE LANE, DELGADO
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: FAILED TO LOCATE
+modified date: 04/16/15 - THU at 21:15
+date reported: 04/16/15 - THU at 21:17
+location:
+
+cad event #:
+
+15-04-16-009360
+
+309-311 NORTH PARK STREET (DUPLEX), 309-311 NORTH PARK STREET (DUPLEX)
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/16/15 - THU at 21:35
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/16/2015 00:00 to 04/16/2015 23:59
+date reported: 04/16/15 - THU at 21:40
+general location:
+
+report #:
+
+151109
+
+BRISCOE QUAD BACK LOT - On Campus
+
+date occurred from: 04/15/15 - WED at 21:00
+date occurred to:
+
+04/16/15 - THU at 21:35
+
+incident/offenses:
+
+THEFT-AUTOS // DAMAGED PROPERTY
+
+disposition: OPEN CASE
+modified date: 04/17/15 - FRI at 14:23
+
+

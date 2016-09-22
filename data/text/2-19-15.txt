@@ -1,0 +1,120 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/19/2015 00:00 to 02/19/2015 23:59
+date reported: 02/19/15 - THU at 03:26
+general location:
+
+report #:
+
+150522
+
+ALL OTHER NON-UNIVERSITY - 9TH AND FAIRVIEW
+
+date occurred from: 02/19/15 - THU at 03:20
+date occurred to:
+
+02/19/15 - THU at 03:26
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/19/15 - THU at 08:39
+date reported: 02/19/15 - THU at 16:56
+location:
+
+cad event #:
+
+15-02-19-004245
+
+FOREST QUAD, 1725 E. 3RD STREET
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/19/15 - THU at 17:14
+date reported: 02/19/15 - THU at 17:49
+location:
+
+cad event #:
+
+15-02-19-004248
+
+HPER -SCHOOL OF PUBLIC HEALTH, 1025 E. 7TH STREET
+
+incident: THEFT FROM BUILDINGS
+final incident: THEFT FROM BUILDINGS
+disposition: UNFOUNDED
+modified date: 02/20/15 - FRI at 09:16
+date reported: 02/19/15 - THU at 21:39
+location:
+
+cad event #:
+
+15-02-19-004265
+
+WILLKIE NORTH, 150 N. ROSE, 6TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/19/15 - THU at 21:50
+date reported: 02/19/15 - THU at 22:28
+location:
+
+cad event #:
+
+15-02-19-004271
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 4TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/19/15 - THU at 22:45
+
+date reported: 02/19/15 - THU at 23:29
+general location:
+
+report #:
+
+150529
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 02/20/15 - FRI at 23:20
+date occurred to:
+
+02/20/15 - FRI at 23:33
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION - SYNTHETIC NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/20/15 - FRI at 06:54
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/19/2015 00:00 to 02/19/2015 23:59
+
+date reported: 02/19/15 - THU at 23:31
+location:
+
+cad event #:
+
+COLLINS SMITH, 541 N WOODLAWN, GROUND
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/19/15 - THU at 23:41
+
+15-02-19-004281
+
+

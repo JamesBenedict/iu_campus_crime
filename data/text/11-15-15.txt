@@ -1,0 +1,166 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/15/2015 00:00 to 11/15/2015 23:59
+date reported: 11/15/15 - SUN at 00:04
+general location:
+
+report #:
+
+153163
+
+ASHTON VOS HALL - On Campus - in any student residential facility
+
+date occurred from: 11/15/15 - SUN at 00:00
+date occurred to:
+
+11/15/15 - SUN at 00:04
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/15/15 - SUN at 06:40
+date reported: 11/15/15 - SUN at 00:46
+general location:
+
+report #:
+
+153164
+
+FEE LANE/NORTH OF 10TH ST - Public property
+
+date occurred from: 11/15/15 - SUN at 00:46
+date occurred to:
+
+11/15/15 - SUN at 01:27
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/16/15 - MON at 15:35
+date reported: 11/15/15 - SUN at 01:26
+general location:
+
+report #:
+
+153167
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/15/15 - SUN at 01:19
+date occurred to:
+
+11/15/15 - SUN at 01:26
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/16/15 - MON at 14:33
+date reported: 11/15/15 - SUN at 02:34
+general location:
+
+report #:
+
+153165
+
+ATWATER AVENUE/WEST OF JORDAN - Public property
+
+date occurred from: 11/15/15 - SUN at 02:30
+date occurred to:
+
+11/15/15 - SUN at 02:34
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/16/15 - MON at 15:40
+date reported: 11/15/15 - SUN at 03:05
+general location:
+
+report #:
+
+153166
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 11/15/15 - SUN at 03:04
+date occurred to:
+
+11/15/15 - SUN at 04:24
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/16/15 - MON at 09:48
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/15/2015 00:00 to 11/15/2015 23:59
+date reported: 11/15/15 - SUN at 14:31
+general location:
+
+report #:
+
+153169
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/15/15 - SUN at 00:58
+date occurred to:
+
+11/15/15 - SUN at 01:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 11/15/15 - SUN at 23:22
+date reported: 11/15/15 - SUN at 17:48
+location:
+
+cad event #:
+
+15-11-15-027294
+
+GAMMA PHI BETA, 1305 N. JORDAN AVE
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 11/15/15 - SUN at 17:57
+date reported: 11/15/15 - SUN at 19:03
+general location:
+
+report #:
+
+153171
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/15/15 - SUN at 18:45
+date occurred to:
+
+11/15/15 - SUN at 19:03
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // POSSESSION - MARIJUANA // POSS-DANGEROUS NON-NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/16/15 - MON at 10:05
+
+

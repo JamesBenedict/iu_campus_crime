@@ -1,0 +1,93 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/18/2015 00:00 to 11/18/2015 23:59
+date reported: 11/18/15 - WED at 00:58
+general location:
+
+report #:
+
+153197
+
+ALL OTHER NON-UNIVERSITY - KINSER AND BROOK DALE
+
+date occurred from: 11/18/15 - WED at 00:58
+date occurred to:
+
+11/18/15 - WED at 02:11
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/18/15 - WED at 08:44
+date reported: 11/18/15 - WED at 16:25
+location:
+
+cad event #:
+
+15-11-18-027537
+
+FOSTER HARPER HALL, 1000 N. FEE LANE, BETWEEN HARPER AND GRESHAM
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: NO CASE REPORT
+modified date: 11/18/15 - WED at 16:50
+date reported: 11/18/15 - WED at 16:37
+general location:
+
+report #:
+
+153200
+
+ERNIE PYLE HALL - On Campus
+
+date occurred from: 11/06/15 - FRI at 03:24
+date occurred to:
+
+11/18/15 - WED at 16:37
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 11/19/15 - THU at 08:39
+date reported: 11/18/15 - WED at 16:55
+general location:
+
+report #:
+
+153201
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 11/13/15 - FRI at 19:40
+date occurred to:
+
+11/13/15 - FRI at 00:00
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/19/15 - THU at 11:52
+date reported: 11/18/15 - WED at 22:20
+location:
+
+cad event #:
+
+MCNUTT QUAD, 1101 N. FEE LANE, DEJOYA 1
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/18/15 - WED at 22:30
+
+15-11-18-027566
+
+

@@ -1,0 +1,152 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/15/2015 00:00 to 09/15/2015 23:59
+date reported: 09/15/15 - TUE at 00:15
+general location:
+
+report #:
+
+152309
+
+ASHTON HERSHEY HALL - On Campus - in any student residential facility
+
+date occurred from: 09/15/15 - TUE at 00:10
+date occurred to:
+
+09/15/15 - TUE at 00:25
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/15/15 - TUE at 01:44
+date reported: 09/15/15 - TUE at 00:16
+location:
+
+cad event #:
+
+15-09-15-021308
+
+MCNUTT QUAD, 1101 N. FEE LANE, DELGADO 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/15/15 - TUE at 00:29
+date reported: 09/15/15 - TUE at 00:43
+general location:
+
+report #:
+
+152308
+
+DUNN MEADOW-SE OF 7TH & INDIANA AVE - On Campus
+
+date occurred from: 09/14/15 - MON at 23:30
+date occurred to:
+
+09/15/15 - TUE at 23:31
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 09/16/15 - WED at 07:41
+date reported: 09/15/15 - TUE at 12:32
+general location:
+
+report #:
+
+152318
+
+INFORMATICS - On Campus
+
+date occurred from: 09/15/15 - TUE at 12:32
+date occurred to:
+
+09/15/15 - TUE at 13:51
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 09/16/15 - WED at 11:13
+date reported: 09/15/15 - TUE at 13:04
+general location:
+
+report #:
+
+152317
+
+ATWATER PARKING GARAGE - On Campus
+
+date occurred from: 09/15/15 - TUE at 11:15
+date occurred to:
+
+09/15/15 - TUE at 12:30
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/17/15 - THU at 16:54
+date reported: 09/15/15 - TUE at 15:54
+location:
+
+cad event #:
+
+15-09-15-021372
+
+TULIP TREE APTS., 2451 E. 10TH STREET, GENERAL ALARM
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 09/15/15 - TUE at 16:07
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/15/2015 00:00 to 09/15/2015 23:59
+date reported: 09/15/15 - TUE at 17:52
+general location:
+
+report #:
+
+152323
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 09/13/15 - SUN at 21:27
+date occurred to:
+
+09/13/15 - SUN at 21:27
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 09/16/15 - WED at 13:41
+date reported: 09/15/15 - TUE at 23:54
+location:
+
+cad event #:
+
+SPRUCE HALL, 1801 E. JONES AVE, 6TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/16/15 - WED at 00:09
+
+15-09-15-021406
+
+

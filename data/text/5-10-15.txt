@@ -1,0 +1,180 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/10/2015 00:00 to 05/10/2015 23:59
+date reported: 05/10/15 - SUN at 02:42
+general location:
+
+report #:
+
+151415
+th
+
+ALL OTHER NON-UNIVERSITY – 19 @ WALNUT
+
+date occurred from: 05/10/15 - SUN at 02:42
+date occurred to:
+
+05/10/15 - SUN at 04:30
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/11/15 - MON at 11:17
+date reported: 05/10/15 - SUN at 02:48
+general location:
+
+report #:
+
+151414
+
+SHOWALTER FOUNTAIN - On Campus
+
+date occurred from: 05/10/15 - SUN at 02:45
+date occurred to:
+
+05/10/15 - SUN at 02:48
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 05/11/15 - MON at 06:59
+date reported: 05/10/15 - SUN at 04:03
+general location:
+
+report #:
+
+151416
+
+SHOWALTER FOUNTAIN - On Campus
+
+date occurred from: 05/10/15 - SUN at 04:00
+date occurred to:
+
+05/10/15 - SUN at 05:20
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/11/15 - MON at 06:57
+date reported: 05/10/15 - SUN at 16:19
+general location:
+
+report #:
+
+151418
+
+TULIP TREE PARKING LOT - On Campus
+
+date occurred from: 05/10/15 - SUN at 16:15
+date occurred to:
+
+05/10/15 - SUN at 16:23
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 05/10/15 - SUN at 17:51
+date reported: 05/10/15 - SUN at 17:15
+location:
+
+cad event #:
+
+TULIP TREE PARKING LOT,
+
+incident: TRESPASS & MALICIOUS TRESPASS
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: NO CASE REPORT
+modified date: 05/10/15 - SUN at 19:45
+
+15-05-10-011791
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/10/2015 00:00 to 05/10/2015 23:59
+date reported: 05/10/15 - SUN at 19:38
+general location:
+
+report #:
+
+151419
+
+EVANS SCHOLARS - Non-campus building or property
+
+date occurred from: 05/10/15 - SUN at 19:30
+date occurred to:
+
+05/10/15 - SUN at 19:38
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 05/10/15 - SUN at 22:52
+date reported: 05/10/15 - SUN at 19:43
+location:
+
+cad event #:
+
+15-05-10-011799
+
+PHI DELTA THETA, 1215 N. JORDAN AVE
+
+incident: TRESPASS & MALICIOUS TRESPASS
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: FAILED TO LOCATE
+modified date: 05/10/15 - SUN at 19:49
+date reported: 05/10/15 - SUN at 20:48
+general location:
+
+report #:
+
+151420
+
+MCNUTT QUAD BACK LOT - On Campus
+
+date occurred from: 05/10/15 - SUN at 20:35
+date occurred to:
+
+05/10/15 - SUN at 20:48
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/10/15 - SUN at 23:20
+date reported: 05/10/15 - SUN at 21:47
+general location:
+
+report #:
+
+151421
+
+1412 NORTH JORDAN - Non-campus building or property
+
+date occurred from: 05/10/15 - SUN at 21:45
+date occurred to:
+
+05/10/15 - SUN at 21:47
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 05/10/15 - SUN at 23:30
+
+

@@ -1,0 +1,179 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/29/2015 00:00 to 03/29/2015 23:59
+date reported: 03/29/15 - SUN at 00:07
+general location:
+
+report #:
+
+150921
+
+POPLARS - On Campus
+
+date occurred from: 03/29/15 - SUN at 00:07
+date occurred to:
+
+03/29/15 - SUN at 00:26
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/29/15 - SUN at 20:53
+date reported: 03/29/15 - SUN at 01:32
+general location:
+
+report #:
+
+150923
+
+INDIANA AVENUE/SOUTH OF 1OTH STR - Public property
+
+date occurred from: 03/29/15 - SUN at 01:28
+date occurred to:
+
+03/29/15 - SUN at 01:32
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/30/15 - MON at 09:01
+date reported: 03/29/15 - SUN at 02:06
+general location:
+
+report #:
+
+150922
+
+DUNN STREET/NORTH OF 10TH - Public property
+
+date occurred from: 03/29/15 - SUN at 01:40
+date occurred to:
+
+03/29/15 - SUN at 02:06
+
+incident/offenses:
+
+OTHER ASSAULTS – AGGRAVATED, HANDS, FISTS , FEET
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/30/15 - MON at 11:34
+date reported: 03/29/15 - SUN at 02:35
+general location:
+
+report #:
+
+150924
+
+TETER QUAD COMMON AREA - On Campus
+
+date occurred from: 03/29/15 - SUN at 02:30
+date occurred to:
+
+03/29/15 - SUN at 02:35
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/29/15 - SUN at 20:49
+date reported: 03/29/15 - SUN at 12:21
+general location:
+
+report #:
+
+150925
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 03/26/15 - THU at 17:00
+date occurred to:
+
+03/26/15 - THU at 18:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/29/15 - SUN at 14:08
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/29/2015 00:00 to 03/29/2015 23:59
+date reported: 03/29/15 - SUN at 13:54
+location:
+
+cad event #:
+
+15-03-29-007545
+
+7TH STREET/WEST OF JORDAN, WEST OF JORDAN 7TH STREET, 7TH & WOODLAWN ENTR TO IMU
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 03/29/15 - SUN at 14:09
+date reported: 03/29/15 - SUN at 19:40
+general location:
+
+report #:
+
+150926
+
+INDIANA AVENUE/SOUTH OF 1OTH STR - Public property
+
+date occurred from: 03/29/15 - SUN at 19:38
+date occurred to:
+
+03/29/15 - SUN at 19:40
+
+incident/offenses:
+
+FALSE IDENTIFICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/30/15 - MON at 11:51
+date reported: 03/29/15 - SUN at 20:10
+location:
+
+cad event #:
+
+15-03-29-007566
+
+ALL OTHER NON-UNIVERSITY, , 3RD AND LINCOLN
+
+incident: CITIZEN ASSIST
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 03/29/15 - SUN at 20:31
+date reported: 03/29/15 - SUN at 22:19
+general location:
+
+report #:
+
+RADIO AND TV - On Campus
+
+date occurred from: 03/29/15 - SUN at 21:55
+date occurred to:
+
+03/29/15 - SUN at 22:15
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 03/30/15 - MON at 16:02
+
+150927
+
+

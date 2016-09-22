@@ -1,0 +1,167 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/21/2015 00:00 to 02/21/2015 23:59
+date reported: 02/21/15 - SAT at 00:17
+location:
+
+cad event #:
+
+15-02-21-004411
+
+WRIGHT QUAD, 501 N. JORDAN, RUETER
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/21/15 - SAT at 00:28
+date reported: 02/21/15 - SAT at 02:09
+general location:
+
+report #:
+
+150545
+
+CHEMISTRY BLDG. - On Campus
+
+date occurred from: 02/21/15 - SAT at 01:30
+date occurred to:
+
+02/21/15 - SAT at 02:10
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/23/15 - MON at 11:16
+date reported: 02/21/15 - SAT at 02:49
+general location:
+
+report #:
+
+150546
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 02/21/15 - SAT at 00:00
+date occurred to:
+
+02/21/15 - SAT at 02:10
+
+incident/offenses:
+
+DISORDERLY CONDUCT // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/21/15 - SAT at 08:25
+date reported: 02/21/15 - SAT at 04:14
+location:
+
+cad event #:
+
+15-02-21-004434
+
+WRIGHT QUAD, 501 N. JORDAN, LOWE 311
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: CANCELLED EVENT
+modified date: 02/21/15 - SAT at 04:17
+date reported: 02/21/15 - SAT at 09:57
+general location:
+
+report #:
+
+150548
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 02/21/15 - SAT at 09:50
+date occurred to:
+
+02/21/15 - SAT at 10:29
+
+incident/offenses:
+
+FIRE ALARMS - ACTUAL, NOT ARSON
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 02/23/15 - MON at 11:18
+date reported: 02/21/15 - SAT at 16:50
+location:
+
+cad event #:
+
+EIGENMANN HALL, 1900 E. 10TH STREET
+
+incident: ALL TYPES OF FRAUD
+final incident: ALL TYPES OF FRAUD
+disposition: NO CASE REPORT
+modified date: 02/21/15 - SAT at 17:03
+
+15-02-21-004459
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/21/2015 00:00 to 02/21/2015 23:59
+date reported:
+location:
+
+02/21/15 - SAT at 18:07
+
+cad event #:
+
+15-02-21-004466
+
+MULTIDISCIPLINARY SCIENCE 2, 702 N WALNUT GROVE
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARM - FALSE CALL
+disposition: NO CASE REPORT
+modified date: 02/21/15 - SAT at 18:49
+date reported: 02/21/15 - SAT at 19:37
+general location:
+
+report #:
+
+150551
+
+3rd & UNION APT. COMMON AREA - On Campus
+
+date occurred from: 02/21/15 - SAT at 19:34
+date occurred to:
+
+02/21/15 - SAT at 19:37
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/22/15 - SUN at 02:35
+date reported: 02/21/15 - SAT at 23:12
+general location:
+
+report #:
+
+150554
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/21/15 - SAT at 23:12
+date occurred to:
+
+02/21/15 - SAT at 23:59
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/22/15 - SUN at 03:51
+
+

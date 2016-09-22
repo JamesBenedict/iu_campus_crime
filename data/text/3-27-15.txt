@@ -1,0 +1,212 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/27/2015 00:00 to 03/27/2015 23:59
+date reported: 03/27/15 - FRI at 00:02
+location:
+
+cad event #:
+
+15-03-27-007269
+
+ROSE AVE RESIDENCE HALL, 1801 E. JONES AVE, 3RD FLOOR
+
+incident: SALE/MANUFACTURING COCAINE, OPIUM, DERIVATIVES
+final incident: SALE/MANUFACTURING COCAINE, OPIUM, DERIVATIVES
+disposition: FAILED TO LOCATE
+modified date: 03/27/15 - FRI at 00:16
+date reported: 03/27/15 - FRI at 00:30
+general location:
+
+report #:
+
+150894
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 03/27/15 - FRI at 00:00
+date occurred to:
+
+03/27/15 - FRI at 00:30
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/27/15 - FRI at 02:56
+date reported: 03/27/15 - FRI at 02:22
+general location:
+
+report #:
+
+150895
+
+BRISCOE QUAD COMMON AREA - On Campus
+
+date occurred from: 03/27/15 - FRI at 02:12
+date occurred to:
+
+03/27/15 - FRI at 02:12
+
+incident/offenses:
+
+FRAUD
+
+disposition: OPEN CASE
+modified date: 03/30/15 - MON at 13:24
+date reported: 03/27/15 - FRI at 02:35
+general location:
+
+report #:
+
+150896
+
+ALL OTHER NON-UNIVERSITY - 4TH AND WASHINGTON
+
+date occurred from: 03/27/15 - FRI at 02:35
+date occurred to:
+
+03/27/15 - FRI at 04:50
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/30/15 - MON at 00:08
+date reported: 03/27/15 - FRI at 08:29
+general location:
+
+report #:
+
+150897
+
+MAXWELL HALL - On Campus
+
+date occurred from: 03/26/15 - THU at 18:00
+date occurred to:
+
+03/27/15 - FRI at 08:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 03/30/15 - MON at 13:24
+date reported: 03/27/15 - FRI at 11:25
+general location:
+
+report #:
+
+JORDAN HALL - On Campus
+
+date occurred from: 03/26/15 - THU at 08:00
+date occurred to:
+
+03/27/15 - FRI at 08:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 03/30/15 - MON at 13:26
+
+150898
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/27/2015 00:00 to 03/27/2015 23:59
+date reported: 03/27/15 - FRI at 13:18
+general location:
+
+report #:
+
+150900
+
+LINGLEBACH LANE/EAST OF JORDAN - Public property
+
+date occurred from: 03/26/15 - THU at 20:00
+date occurred to:
+
+03/27/15 - FRI at 08:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 03/30/15 - MON at 13:26
+date reported: 03/27/15 - FRI at 17:16
+location:
+
+cad event #:
+
+15-03-27-007347
+
+FEE LANE PARKING GARAGE, 709 N. FEE LANE, 4TH LEVEL
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 03/27/15 - FRI at 17:31
+date reported: 03/27/15 - FRI at 17:57
+general location:
+
+report #:
+
+150903
+
+BRISCOE QUAD COMMON AREA - On Campus
+
+date occurred from: 03/27/15 - FRI at 13:00
+date occurred to:
+
+03/27/15 - FRI at 17:57
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/30/15 - MON at 13:27
+date reported: 03/27/15 - FRI at 22:08
+general location:
+
+report #:
+
+150905
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/27/15 - FRI at 22:09
+date occurred to:
+
+03/28/15 - SAT at 00:07
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/30/15 - MON at 08:11
+date reported: 03/27/15 - FRI at 22:18
+location:
+
+cad event #:
+
+15-03-27-007379
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 6TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/27/15 - FRI at 22:35
+
+

@@ -1,0 +1,164 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/02/2015 00:00 to 05/02/2015 23:59
+date reported: 05/02/15 - SAT at 00:24
+general location:
+
+report #:
+
+151332
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 05/02/15 - SAT at 00:14
+date occurred to:
+
+05/02/15 - SAT at 00:24
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/02/15 - SAT at 04:43
+date reported: 05/02/15 - SAT at 03:53
+general location:
+
+report #:
+
+151333
+
+ATWATER AVENUE/EAST OF JORDAN - Public property
+
+date occurred from: 05/02/15 - SAT at 03:53
+date occurred to:
+
+05/02/15 - SAT at 05:28
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/04/15 - MON at 09:42
+date reported: 05/02/15 - SAT at 13:14
+general location:
+
+report #:
+
+151334
+
+FOREST QUAD COMMON AREA - On Campus
+
+date occurred from: 04/10/15 - FRI at 12:00
+date occurred to:
+
+04/12/15 - SUN at 12:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 05/04/15 - MON at 20:55
+date reported: 05/02/15 - SAT at 16:51
+general location:
+
+report #:
+
+151335
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 05/02/15 - SAT at 07:30
+date occurred to:
+
+05/02/15 - SAT at 14:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 05/02/15 - SAT at 19:23
+date reported: 05/02/15 - SAT at 17:30
+general location:
+
+report #:
+
+151336
+
+6TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 05/02/15 - SAT at 11:40
+date occurred to:
+
+05/02/15 - SAT at 04:30
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 05/04/15 - MON at 11:17
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/02/2015 00:00 to 05/02/2015 23:59
+date reported: 05/02/15 - SAT at 19:16
+general location:
+
+report #:
+
+151337
+
+Phi Sigma Kappa - Non-campus building or property
+
+date occurred from: 05/01/15 - FRI at 22:05
+date occurred to:
+
+05/02/15 - SAT at 11:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 05/02/15 - SAT at 21:39
+date reported: 05/02/15 - SAT at 20:46
+
+report #:
+
+151338
+
+general location:
+date occurred from: 05/02/15 - SAT at 16:52
+date occurred to:
+
+05/02/15 - SAT at 17:00
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 05/02/15 - SAT at 21:11
+date reported: 05/02/15 - SAT at 23:16
+location:
+
+cad event #:
+
+15-05-02-011136
+
+FOSTER MAGEE HALL, 1000 N. FEE LANE, MEET IN FOSTER DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 05/02/15 - SAT at 23:29
+
+

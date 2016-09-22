@@ -1,0 +1,364 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/12/2015 00:00 to 09/12/2015 23:59
+date reported: 09/12/15 - SAT at 00:27
+location:
+
+cad event #:
+
+15-09-12-021033
+
+FOREST QUAD, 1725 E. 3RD STREET, B-2
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/12/15 - SAT at 00:42
+date reported: 09/12/15 - SAT at 00:30
+general location:
+
+report #:
+
+152276
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 09/12/15 - SAT at 00:29
+date occurred to:
+
+09/12/15 - SAT at 02:16
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/14/15 - MON at 08:33
+date reported: 09/12/15 - SAT at 00:47
+general location:
+
+report #:
+
+152277
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/11/15 - FRI at 22:00
+date occurred to:
+
+09/12/15 - SAT at 00:47
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/15 - SAT at 02:19
+date reported: 09/12/15 - SAT at 01:00
+general location:
+
+report #:
+
+152280
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/12/15 - SAT at 00:55
+date occurred to:
+
+09/12/15 - SAT at 01:00
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 09/14/15 - MON at 11:40
+date reported: 09/12/15 - SAT at 01:17
+general location:
+
+report #:
+
+152278
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 09/12/15 - SAT at 01:15
+date occurred to:
+
+09/12/15 - SAT at 01:20
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/13/15 - SUN at 08:07
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/12/2015 00:00 to 09/12/2015 23:59
+date reported: 09/12/15 - SAT at 02:44
+general location:
+
+report #:
+
+152279
+
+JORDAN AVENUE PARKING GAR - On Campus
+
+date occurred from: 09/12/15 - SAT at 02:45
+date occurred to:
+
+09/12/15 - SAT at 03:02
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/15 - SAT at 05:15
+date reported: 09/12/15 - SAT at 02:51
+location:
+
+cad event #:
+
+15-09-12-021053
+
+ALL OTHER NON-UNIVERSITY, , KIRKWOOD LINCOLN
+
+incident: OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+final incident: OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+disposition: NO CASE REPORT
+modified date: 09/12/15 - SAT at 03:08
+date reported: 09/12/15 - SAT at 03:15
+general location:
+
+report #:
+
+152281
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 09/12/15 - SAT at 03:10
+date occurred to:
+
+09/12/15 - SAT at 03:15
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/14/15 - MON at 08:51
+date reported: 09/12/15 - SAT at 18:33
+general location:
+
+report #:
+
+152282
+
+ATHLETIC/YELLOW LOT - On Campus
+
+date occurred from: 09/12/15 - SAT at 18:30
+date occurred to:
+
+09/12/15 - SAT at 19:26
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/15 - SAT at 22:44
+date reported: 09/12/15 - SAT at 18:55
+general location:
+
+report #:
+
+152286
+
+13TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 09/12/15 - SAT at 12:00
+date occurred to:
+
+09/12/15 - SAT at 18:55
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/15 - SAT at 22:36
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/12/2015 00:00 to 09/12/2015 23:59
+date reported: 09/12/15 - SAT at 19:05
+location:
+
+cad event #:
+
+15-09-12-021100
+
+ATHLETIC/RED LOT, 600 BLOCK E. 17TH STREET, 4 TENTS FROM GATE - SIGMA NU & SIG ALPHA MU
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 09/12/15 - SAT at 19:55
+date reported: 09/12/15 - SAT at 20:04
+general location:
+
+report #:
+
+152283
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 09/12/15 - SAT at 16:00
+date occurred to:
+
+09/12/15 - SAT at 20:04
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/15 - SAT at 21:25
+date reported: 09/12/15 - SAT at 20:04
+location:
+
+cad event #:
+
+15-09-12-021106
+
+INFORMATICS EAST, 919 E. 10TH STREET
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 09/12/15 - SAT at 20:26
+date reported: 09/12/15 - SAT at 20:25
+general location:
+
+report #:
+
+152289
+
+DUNN STREET/NORTH OF 10TH - Public property
+
+date occurred from: 09/12/15 - SAT at 20:10
+date occurred to:
+
+09/12/15 - SAT at 20:25
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/14/15 - MON at 11:07
+date reported: 09/12/15 - SAT at 20:27
+general location:
+
+report #:
+
+152285
+
+AMERICAN INDIAN RESEARCH - On Campus
+
+date occurred from: 09/12/15 - SAT at 00:00
+date occurred to:
+
+09/12/15 - SAT at 20:27
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 09/13/15 - SUN at 17:35
+date reported: 09/12/15 - SAT at 20:44
+location:
+
+cad event #:
+
+17TH STREET/WEST OF JORDAN, , 17TH FESS
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 09/12/15 - SAT at 20:45
+
+15-09-12-021115
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/12/2015 00:00 to 09/12/2015 23:59
+
+date reported: 09/12/15 - SAT at 20:46
+location:
+
+cad event #:
+
+15-09-12-021116
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, SECTION 106
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 09/12/15 - SAT at 21:11
+date reported: 09/12/15 - SAT at 21:50
+general location:
+
+report #:
+
+152288
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 09/12/14 - FRI at 21:45
+date occurred to:
+
+09/12/15 - SAT at 21:50
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/13/15 - SUN at 14:33
+date reported: 09/12/15 - SAT at 22:28
+general location:
+
+report #:
+
+152290
+
+46 BYPASS/EAST OF GOLF CO - Public property
+
+date occurred from: 09/12/15 - SAT at 22:20
+date occurred to:
+
+09/12/15 - SAT at 22:28
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/15 - SAT at 23:36
+
+

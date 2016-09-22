@@ -1,0 +1,179 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/19/2015 00:00 to 11/19/2015 23:59
+date reported: 11/19/15 - THU at 00:35
+general location:
+
+report #:
+
+153205
+
+TULIP TREE COMMON AREA - On Campus
+
+date occurred from: 11/19/15 - THU at 00:00
+date occurred to:
+
+11/19/15 - THU at 00:39
+
+incident/offenses:
+
+OTHER DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/19/15 - THU at 04:45
+date reported: 11/19/15 - THU at 01:27
+general location:
+
+report #:
+
+153206
+
+TULIP TREE APTS. - On Campus - in any student residential facility
+
+date occurred from: 11/19/15 - THU at 01:15
+date occurred to:
+
+11/19/15 - THU at 01:33
+
+incident/offenses:
+
+DISORDERLY CONDUCT // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/19/15 - THU at 05:11
+date reported: 11/19/15 - THU at 04:11
+general location:
+
+report #:
+
+153204
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/19/15 - THU at 00:07
+date occurred to:
+
+11/19/15 - THU at 00:45
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/19/15 - THU at 04:42
+date reported: 11/19/15 - THU at 09:27
+general location:
+
+report #:
+
+153208
+
+LATINO CULTURAL CENTER - On Campus
+
+date occurred from: 11/16/15 - MON at 21:00
+date occurred to:
+
+11/18/15 - WED at 17:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 11/19/15 - THU at 11:00
+date reported: 11/19/15 - THU at 11:52
+general location:
+
+report #:
+
+153210
+
+GOODBODY HALL - On Campus
+
+date occurred from: 11/05/15 - THU at 12:00
+date occurred to:
+
+11/19/15 - THU at 11:54
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 11/19/15 - THU at 13:24
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/19/2015 00:00 to 11/19/2015 23:59
+date reported: 11/19/15 - THU at 13:36
+location:
+
+cad event #:
+
+15-11-19-027629
+
+ASHTON HERSHEY HALL, 1798 E. 10TH STREET, 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/19/15 - THU at 13:51
+date reported: 11/19/15 - THU at 14:12
+general location:
+
+report #:
+
+153213
+
+NEAL MARSHALL CENTER - On Campus
+
+date occurred from: 11/07/15 - SAT at 13:00
+date occurred to:
+
+11/10/15 - TUE at 14:00
+
+incident/offenses:
+
+BURGLARY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 11/19/15 - THU at 21:25
+date reported: 11/19/15 - THU at 14:24
+location:
+
+cad event #:
+
+15-11-19-027634
+
+CAMPUS VIEW APTS., 800 N. UNION, 4521
+
+incident: DOMESTIC DISTURBANCES
+final incident: NOISE/LOUD PARTY
+disposition: NO CASE REPORT
+modified date: 11/19/15 - THU at 14:40
+date reported: 11/19/15 - THU at 20:43
+general location:
+
+report #:
+
+153218
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/19/15 - THU at 20:43
+date occurred to:
+
+11/19/15 - THU at 20:43
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/19/15 - THU at 22:44
+
+

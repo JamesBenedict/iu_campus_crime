@@ -1,0 +1,129 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/09/2015 00:00 to 11/09/2015 23:59
+
+date reported: 11/09/15 - MON at 09:14
+general location:
+
+report #:
+
+153062
+
+BRYAN HALL - On Campus
+
+date occurred from: 11/09/15 - MON at 07:00
+date occurred to:
+
+11/09/15 - MON at 09:41
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // SUSPICIOUS PERSON OR VEHICLE
+
+disposition: OPEN CASE
+modified date: 11/10/15 - TUE at 12:01
+date reported: 11/09/15 - MON at 13:06
+general location:
+
+report #:
+
+153065
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 11/09/15 - MON at 12:45
+date occurred to:
+
+11/09/15 - MON at 13:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 11/10/15 - TUE at 09:03
+date reported: 11/09/15 - MON at 13:33
+general location:
+
+report #:
+
+153066
+
+READ CENTER COMMON AREA - On Campus
+
+date occurred from: 11/09/15 - MON at 13:00
+date occurred to:
+
+11/09/15 - MON at 13:57
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 11/09/15 - MON at 14:42
+date reported: 11/09/15 - MON at 13:58
+general location:
+
+report #:
+
+153067
+
+ATHLETIC/WHITE LOT - On Campus
+
+date occurred from: 11/08/15 - SUN at 12:15
+date occurred to:
+
+11/09/15 - MON at 14:10
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 11/09/15 - MON at 14:36
+date reported: 11/09/15 - MON at 20:20
+location:
+
+cad event #:
+
+15-11-09-026702
+
+ASSEMBLY HALL, 1001 E. 17TH, SECTION F NEAR NORTH LOBBY
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 11/09/15 - MON at 21:34
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/09/2015 00:00 to 11/09/2015 23:59
+
+date reported: 11/09/15 - MON at 20:58
+general location:
+
+report #:
+
+153077
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from: 11/09/15 - MON at 20:58
+date occurred to:
+
+11/09/15 - MON at 21:36
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // POSSESSION - MARIJUANA // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: REFERRED
+modified date: 11/09/15 - MON at 23:48
+
+

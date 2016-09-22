@@ -1,0 +1,37 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Dec 21, 2014 to Dec 21, 2014.
+
+date reported: 12/21/14 - SUN at 01:25
+
+location : 17TH STREET/WEST OF JORDAN
+
+event #: 14-12-21-029902
+
+date and time occurred from - occurred to: 12/21/14 - SUN at 01:24 - 12/21/14 - SUN at 01:25
+incident :DRIVING UNDER THE INFLUENCE/ POSSESSION MARIJUANA/ PARAPHERNALIA
+report #: 143617
+disposition: : CLOSED BY ARREST.
+date reported: 12/21/14 - SUN at 19:58
+
+location : PHI GAMMA DELTA
+
+event #: 14-12-21-029932
+
+date and time occurred from - occurred to: 12/21/14 - SUN at 19:50 - 12/21/14 - SUN at 19:58
+incident : POSSESSION OF DRUG PARAPHERNALIA
+report #: 143618
+disposition: : CLOSED NO ARREST.
+2 incidents listed.
+
+print date and time
+
+12/22/2014 4:26:01PM
+
+at page no.
+
+1
+
+

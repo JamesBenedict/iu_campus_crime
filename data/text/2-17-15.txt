@@ -1,0 +1,113 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/17/2015 00:00 to 02/17/2015 23:59
+date reported: 02/17/15 - TUE at 15:55
+general location:
+
+report #:
+
+150503
+
+IIDC- INST. DISABILITY - On Campus
+
+date occurred from: 02/17/15 - TUE at 10:00
+date occurred to:
+
+02/17/15 - TUE at 10:30
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 02/18/15 - WED at 10:06
+date reported: 02/17/15 - TUE at 00:15
+general location:
+
+report #:
+
+150495
+
+ASHTON MOFFAT HALL - On Campus - in any student residential facility
+
+date occurred from: 02/17/15 - TUE at 00:10
+date occurred to:
+
+02/17/15 - TUE at 00:15
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/17/15 - TUE at 05:41
+date reported: 02/17/15 - TUE at 00:30
+location:
+
+cad event #:
+
+15-02-17-003978
+
+MCNUTT QUAD COMMON AREA, , N SIDE COURTYARD - MEET AT CIRCLE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/17/15 - TUE at 00:42
+date reported: 02/17/15 - TUE at 08:13
+general location:
+
+report #:
+
+150496
+
+LAW LANE/EAST OF JORDAN AVE - Public property
+
+date occurred from: 02/17/15 - TUE at 07:55
+date occurred to:
+
+02/17/15 - TUE at 07:55
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 02/17/15 - TUE at 11:34
+date reported: 02/17/15 - TUE at 14:36
+general location:
+
+report #:
+
+150501
+
+OFF CAMPUS LOCATION
+
+date occurred from: 02/14/15 - SAT at 15:00
+date occurred to:
+
+02/17/15 - TUE at 14:36
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 02/17/15 - TUE at 19:06
+date reported: 02/17/15 - TUE at 23:38
+location:
+
+cad event #:
+
+WRIGHT QUAD, 501 N. JORDAN, STOCKWELL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/17/15 - TUE at 23:54
+
+15-02-17-004077
+
+

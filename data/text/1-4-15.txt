@@ -1,0 +1,51 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Jan 04, 2015 to Jan 04, 2015.
+
+date reported: 01/04/15 - SUN at 02:56
+
+location : E KIRKWOOD
+
+event #: 15-01-04-000119
+
+date and time occurred from - occurred to:
+incident : DISTURBANCES
+disposition: : NO CASE REPORT
+date reported: 01/04/15 - SUN at 03:08
+
+report #:
+
+location : KIRKWOOD @ DUNN
+
+event #: 15-01-04-000120
+
+date and time occurred from - occurred to: 01/04/15 - SUN at 03:08 - 01/04/15 - SUN at 03:08
+incident : ASSAULT - SIMPLE, NOT AGGRAVATED
+report #: 150003
+disposition: : CLOSED BY ARREST.
+date reported: 01/04/15 - SUN at 20:19
+date and time occurred from - occurred to:
+incident : VANDALISM
+disposition: : INACTIVE.
+3 incidents listed.
+
+location : TENTH STREET LOT
+
+event #: 15-01-04-000137
+
+12/29/14 - MON at 12:00 - 01/04/15 - SUN at 20:19
+report #: 150004
+
+print date and time
+
+1/7/2015
+
+12:04:25PM
+
+at page no.
+
+1
+
+

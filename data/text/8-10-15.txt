@@ -1,0 +1,49 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/10/2015 00:00 to 08/10/2015 23:59
+
+date reported: 08/10/15 - MON at 11:14
+general location:
+
+report #:
+
+151858
+
+GEOLOGY BUILDING - On Campus
+
+date occurred from: 08/02/15 - SUN at 10:00
+date occurred to:
+
+08/07/15 - FRI at 10:00
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 08/10/15 - MON at 11:39
+
+date reported: 08/10/15 - MON at 11:17
+general location:
+
+report #:
+
+151859
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 07/27/15 - MON at 10:00
+date occurred to:
+
+08/06/15 - THU at 10:00
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 08/10/15 - MON at 11:37
+
+

@@ -1,0 +1,160 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/17/2015 00:00 to 11/17/2015 23:59
+
+date reported: 11/17/15 - TUE at 15:52
+general location:
+
+report #:
+
+153186
+
+IUPD STATION - On Campus
+
+date occurred from: 11/17/15 - TUE at 15:50
+date occurred to:
+
+11/17/15 - TUE at 15:52
+
+incident/offenses:
+
+BOMB THREAT
+
+disposition: OPEN CASE
+modified date: 11/19/15 - THU at 10:02
+date reported: 11/17/15 - TUE at 19:04
+general location:
+
+report #:
+
+153190
+
+ALL OTHER NON-UNIVERSITY - 10TH AND BARRINGTON PLACE
+
+date occurred from: 11/17/15 - TUE at 19:00
+date occurred to:
+
+11/17/15 - TUE at 19:04
+
+incident/offenses:
+
+HIT & RUN, PERSONAL INJURY
+
+disposition: OPEN CASE
+modified date: 11/19/15 - THU at 11:58
+date reported: 11/17/15 - TUE at 19:38
+general location:
+
+report #:
+
+153193
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 11/17/15 - TUE at 19:13
+date occurred to:
+
+11/17/15 - TUE at 19:42
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 11/19/15 - THU at 11:56
+date reported: 11/17/15 - TUE at 20:03
+location:
+
+cad event #:
+
+15-11-17-027460
+
+ALL OTHER NON-UNIVERSITY, , KIRKWOOD AND DUNN
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 11/17/15 - TUE at 20:18
+date reported: 11/17/15 - TUE at 20:45
+general location:
+
+report #:
+
+153191
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/17/15 - TUE at 20:30
+date occurred to:
+
+11/17/15 - TUE at 20:46
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/18/15 - WED at 10:34
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/17/2015 00:00 to 11/17/2015 23:59
+date reported: 11/17/15 - TUE at 21:01
+location:
+
+cad event #:
+
+15-11-17-027465
+
+FOREST QUAD, 1725 E. 3RD STREET, B TOWER 8TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/17/15 - TUE at 21:18
+date reported: 11/17/15 - TUE at 21:59
+general location:
+
+report #:
+
+153194
+
+6TH & DUNN PARKING LOT - On Campus
+
+date occurred from: 11/17/15 - TUE at 21:55
+date occurred to:
+
+11/17/15 - TUE at 22:02
+
+incident/offenses:
+
+PUBLIC INTOXICATION // VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/17/15 - TUE at 23:43
+date reported: 11/17/15 - TUE at 22:40
+general location:
+
+report #:
+
+153196
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/17/15 - TUE at 20:15
+date occurred to:
+
+11/17/15 - TUE at 21:47
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 11/18/15 - WED at 10:10
+
+

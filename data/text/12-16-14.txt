@@ -1,0 +1,92 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Dec 16, 2014 to Dec 16, 2014.
+
+date reported: 12/16/14 - TUE at 02:57
+date and time occurred from - occurred to:
+incident : VANDALISM
+disposition: : INACTIVE.
+date reported: 12/16/14 - TUE at 13:06
+date and time occurred from - occurred to:
+incident : THEFT - FROM BUILDINGS
+disposition: : UFIOUNDED.
+date reported: 12/16/14 - TUE at 16:02
+date and time occurred from - occurred to:
+incident : THEFT - FROM BUILDINGS
+disposition: : ACTIVE.
+date reported: 12/16/14 - TUE at 17:01
+
+location : KIRKWOOD OBSERVATORY
+
+event #: 14-12-16-029463
+
+12/16/14 - TUE at 00:00 - 12/16/14 - TUE at 02:57
+report #: 143573
+
+location : SRSC
+
+event #: 14-12-16-029499
+
+12/16/14 - TUE at 12:50 - 12/16/14 - TUE at 12:55
+report #: 143576
+
+location : MEMORIAL STADIUM
+
+event #: 14-12-16-029513
+
+12/16/14 - TUE at 15:40 - 12/16/14 - TUE at 15:50
+report #: 143578
+
+location : CAMPUS
+
+event #: 14-12-16-029516
+
+date and time occurred from - occurred to: 01/01/00 - MON at 00:00 - 01/01/00 - MON at 00:00
+incident : SALE/MANUFACTURING SYNTHETIC NARCOTICS
+report #: 143579
+disposition: ACTIVE.
+date reported: 12/16/14 - TUE at 18:06
+date and time occurred from - occurred to:
+incident : THEFT - FROM BUILDINGS
+disposition: : ACTIVE.
+date reported: 12/16/14 - TUE at 22:59
+
+location : USA BEECH HALL
+
+report #: 143580
+
+location : FOREST QUAD
+
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : FAILED TO LOCATE
+date reported: 12/16/14 - TUE at 23:56
+
+event #: 14-12-16-029520
+
+12/09/14 - TUE at 00:00 - 12/16/14 - TUE at 00:00
+
+event #: 14-12-16-029540
+report #:
+
+location : WILLKIE NORTH
+
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : FAILED TO LOCATE
+7 incidents listed.
+
+event #: 14-12-16-029548
+report #:
+
+print date and time
+
+12/17/2014 12:18:11PM
+
+at page no.
+
+1
+
+

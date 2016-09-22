@@ -1,0 +1,94 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/04/2015 00:00 to 07/04/2015 23:59
+date reported: 07/04/15 - SAT at 01:04
+location:
+
+cad event #:
+
+15-07-04-015251
+
+ALL OTHER NON-UNIVERSITY, , ALLEY BEHIND RHINO'S
+
+incident: SUSPICIOUS PERSON OR VEHICLE
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 07/04/15 - SAT at 07:29
+date reported: 07/04/15 - SAT at 01:04
+general location:
+
+report #:
+
+151670
+
+ERNIE PYLE HALL - On Campus
+
+date occurred from: 07/04/15 - SAT at 01:05
+date occurred to:
+
+07/04/15 - SAT at 01:33
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: REFERRED
+modified date: 07/06/15 - MON at 14:56
+date reported: 07/04/15 - SAT at 02:19
+general location:
+
+report #:
+
+151671
+
+ALL OTHER NON-UNIVERSITY - 4TH & GRANT
+
+date occurred from: 07/04/15 - SAT at 02:19
+date occurred to:
+
+07/04/15 - SAT at 03:31
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // FALSE IDENTIFICATION // NO OPER, CHAUFF, OR PUBLIC PASS
+LICENSE
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/06/15 - MON at 08:25
+date reported: 07/04/15 - SAT at 03:09
+location:
+
+cad event #:
+
+15-07-04-015258
+
+ALL OTHER NON-UNIVERSITY, , KIRKWOOD & GRANT NEAR CHIPOTLE
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 07/04/15 - SAT at 07:28
+date reported: 07/04/15 - SAT at 17:00
+general location:
+
+report #:
+
+151673
+
+ALL OTHER NON-UNIVERSITY - KOK
+
+date occurred from: 07/04/15 - SAT at 16:30
+date occurred to:
+
+07/04/15 - SAT at 17:00
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 07/06/15 - MON at 14:55
+
+

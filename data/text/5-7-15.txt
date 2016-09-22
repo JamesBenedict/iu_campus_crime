@@ -1,0 +1,200 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/07/2015 00:00 to 05/07/2015 23:59
+date reported: 05/07/15 - THU at 02:27
+general location:
+
+report #:
+
+151378
+
+SHOWALTER FOUNTAIN - On Campus
+
+date occurred from: 05/07/15 - THU at 02:27
+date occurred to:
+
+05/07/15 - THU at 02:27
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/07/15 - THU at 08:24
+date reported: 05/07/15 - THU at 03:36
+general location:
+
+report #:
+
+151379
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 05/07/15 - THU at 03:36
+date occurred to:
+
+05/07/15 - THU at 05:01
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/07/15 - THU at 12:02
+date reported: 05/07/15 - THU at 10:02
+general location:
+
+report #:
+
+151382
+
+CAMPUS VIEW PARKING LOT - On Campus
+
+date occurred from: 05/06/15 - WED at 12:00
+date occurred to:
+
+05/07/15 - THU at 10:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 05/07/15 - THU at 13:57
+date reported: 05/07/15 - THU at 10:50
+general location:
+
+report #:
+
+151383
+
+ALL OTHER CAMPUS BUILDING - Non-campus building or property
+
+date occurred from: 01/01/15 - THU at 00:00
+date occurred to:
+
+03/13/15 - FRI at 00:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 05/07/15 - THU at 13:59
+date reported: 05/07/15 - THU at 12:14
+general location:
+
+report #:
+
+151385
+
+ALL OTHER NON-UNIVERSITY - BROWNSTONE DRIVE
+
+date occurred from: 05/07/15 - THU at 12:00
+date occurred to:
+
+05/07/15 - THU at 12:17
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 05/07/15 - THU at 14:01
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/07/2015 00:00 to 05/07/2015 23:59
+date reported: 05/07/15 - THU at 13:35
+general location:
+
+report #:
+
+151387
+
+JUSTICE BUILDING - Non-reportable Location
+
+date occurred from: 05/07/15 - FRI at 14:00
+date occurred to:
+
+05/07/15 - FRI at 17:00
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 05/08/15 - FRI at 08:30
+date reported: 05/07/15 - THU at 15:05
+location:
+
+cad event #:
+
+15-05-07-011511
+
+USA COMMON AREA, , NEAR COURTYARD BY HICKORY HALL
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 05/07/15 - THU at 15:22
+date reported: 05/07/15 - THU at 15:27
+general location:
+
+report #:
+
+151389
+
+HODGE HALL (BUSINESS BUILDING) - On Campus
+
+date occurred from: 05/01/15 - FRI at 12:00
+date occurred to:
+
+05/07/15 - THU at 15:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 05/07/15 - THU at 21:45
+
+date reported: 05/07/15 - THU at 20:14
+location:
+
+cad event #:
+
+15-05-07-011541
+
+MCNUTT QUAD, 1101 N. FEE LANE, BRYAN 200
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 05/07/15 - THU at 20:24
+date reported: 05/07/15 - THU at 22:38
+general location:
+
+report #:
+
+151393
+
+SIGMA NU - Non-campus building or property
+
+date occurred from: 05/07/15 - THU at 22:37
+date occurred to:
+
+05/07/15 - THU at 22:38
+
+incident/offenses:
+
+FIRE ALARMS - ACTUAL, NOT ARSON
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 05/07/15 - THU at 23:32
+
+

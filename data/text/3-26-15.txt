@@ -1,0 +1,240 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/26/2015 00:00 to 03/26/2015 23:59
+date reported: 03/26/15 - THU at 00:24
+general location:
+
+report #:
+
+150876
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 03/26/15 - THU at 00:24
+date occurred to:
+
+03/26/15 - THU at 00:24
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/26/15 - THU at 09:22
+date reported: 03/26/15 - THU at 00:33
+general location:
+
+report #:
+
+150877
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/26/15 - THU at 00:00
+date occurred to:
+
+03/26/15 - THU at 00:40
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/26/15 - THU at 01:44
+date reported: 03/26/15 - THU at 01:42
+general location:
+
+report #:
+
+150878
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 03/26/15 - THU at 01:42
+date occurred to:
+
+03/26/15 - THU at 03:10
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/26/15 - THU at 08:23
+date reported: 03/26/15 - THU at 03:13
+general location:
+
+report #:
+
+150879
+
+ALL OTHER NON-UNIVERSITY - KIRKWOOD WALNUT
+
+date occurred from: 03/26/15 - THU at 03:13
+date occurred to:
+
+03/26/15 - THU at 04:27
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/26/15 - THU at 08:37
+date reported: 03/26/15 - THU at 16:44
+general location:
+
+report #:
+
+150884
+
+REDBUD N 900-1600 - On Campus - in any student residential facility
+
+date occurred from: 03/26/15 - THU at 03:00
+date occurred to:
+
+03/26/15 - THU at 16:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 03/26/15 - THU at 21:35
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/26/2015 00:00 to 03/26/2015 23:59
+date reported: 03/26/15 - THU at 18:27
+general location:
+
+report #:
+
+150885
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/26/15 - THU at 16:10
+date occurred to:
+
+03/26/15 - THU at 22:00
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/27/15 - FRI at 09:37
+date reported: 03/26/15 - THU at 19:07
+general location:
+
+report #:
+
+150887
+
+POPLARS PARKING GARAGE - On Campus
+
+date occurred from: 03/26/15 - THU at 19:00
+date occurred to:
+
+03/26/15 - THU at 19:07
+
+incident/offenses:
+
+TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/26/15 - THU at 21:14
+date reported: 03/26/15 - THU at 20:13
+general location:
+
+report #:
+
+150888
+
+WILLKIE COMMON AREA - On Campus
+
+date occurred from: 03/26/15 - THU at 20:13
+date occurred to:
+
+03/26/15 - THU at 20:25
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: REFERRED
+modified date: 03/26/15 - THU at 21:15
+date reported: 03/26/15 - THU at 21:30
+general location:
+
+report #:
+
+150890
+
+BUSINESS BUILDING - On Campus
+
+date occurred from: 03/26/15 - THU at 17:25
+date occurred to:
+
+03/26/15 - THU at 17:27
+
+incident/offenses:
+
+INTIMIDATION// ASSAULT-SIMPLE
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/26/15 - THU at 23:06
+date reported: 03/26/15 - THU at 21:34
+general location:
+
+report #:
+
+150889
+
+FOREST QUAD COMMON AREA - On Campus
+
+date occurred from: 03/26/15 - THU at 21:35
+date occurred to:
+
+03/26/15 - THU at 21:54
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/26/15 - THU at 22:54
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/26/2015 00:00 to 03/26/2015 23:59
+
+date reported: 03/26/15 - THU at 23:58
+general location:
+
+report #:
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 03/11/15 - WED at 12:00
+date occurred to:
+
+03/24/15 - TUE at 19:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 03/27/15 - FRI at 02:02
+
+150891
+
+

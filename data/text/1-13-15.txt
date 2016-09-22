@@ -1,0 +1,84 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Jan 13, 2015 to Jan 13, 2015.
+
+date reported: 01/13/15 - TUE at 02:59
+
+location : KIRKWOOD @ DUNN
+
+event #: 15-01-13-000681
+
+date and time occurred from - occurred to:
+incident : DISTURBANCES
+disposition: : NO CASE REPORT
+date reported: 01/13/15 - TUE at 09:01
+date and time occurred from - occurred to:
+incident : VANDALISM
+disposition: : INACTIVE
+date reported: 01/13/15 - TUE at 17:29
+
+report #:
+
+location : EIGENMANN HALL
+
+event #: 15-01-13-000692
+
+01/12/15 - MON at 17:00 - 01/13/15 - TUE at 08:00
+report #: 150051
+
+location : 1300 BLK N WASHINGTON
+
+event #: 15-01-13-000730
+
+date and time occurred from - occurred to: 12/29/14 - MON at 08:00 - 01/02/15 - FRI at 14:00
+incident : BURGLARY - UNLAWFUL ENTRY - NO FORCE
+report #: 150056
+disposition: : ACTIVE.
+date reported: 01/13/15 - TUE at 20:18
+
+location : FOREST QUAD
+
+event #: 15-01-13-000749
+
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : FAILED TO LOCATE
+date reported: 01/13/15 - TUE at 21:24
+date and time occurred from - occurred to:
+incident : TRESPASS
+disposition: : CLOSED BY ARREST
+date reported: 01/13/15 - TUE at 22:09
+
+report #:
+
+location : SRSC
+
+event #: 15-01-13-000761
+
+01/13/15 - TUE at 21:25 - 01/13/15 - TUE at 21:39
+report #: 150057
+
+location : FOREST QUAD
+
+event #: 15-01-13-000766
+
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : FAILED TO LOCATE
+6 incidents listed.
+
+report #:
+
+print date and time
+
+1/14/2015
+
+7:28:53AM
+
+at page no.
+
+1
+
+

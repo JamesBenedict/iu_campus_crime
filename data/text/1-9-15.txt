@@ -1,0 +1,82 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Jan 09, 2015 to Jan 09, 2015.
+
+date reported: 01/09/15 - FRI at 01:43
+
+location : 3
+
+RD
+
+@ WASHINGTON
+
+event #: 15-01-09-000407
+
+date and time occurred from - occurred to: 01/09/15 - FRI at 01:43 - 01/09/15 - FRI at 03:31
+incident : DRIVING UNDER THE INFLUENCE/ DRIVING WHILE SUSPENDED/ WARRANT
+disposition: : CLOSED BY ARREST.
+date reported: 01/09/15 - FRI at 02:20
+date and time occurred from - occurred to:
+incident : PUBLIC INTOXICATION
+disposition: : CLOSED BY ARREST
+date reported: 01/09/15 - FRI at 07:32
+
+location : 4
+
+TH
+
+@ WASHINGTON
+
+event #: 15-01-09-000408
+
+01/09/15 - FRI at 02:15 - 01/09/15 - FRI at 02:20
+report #: 150024
+
+location : LEWIS BUILDING
+
+event #: 15-01-09-000414
+
+date and time occurred from - occurred to: 01/09/15 - FRI at 07:30 - 01/09/15 - FRI at 07:33
+incident : LLEGAL POSSESSION/CONSUMPTION
+disposition: : CLOSED BY ARREST.
+date reported: 01/09/15 - FRI at 17:24
+date and time occurred from - occurred to:
+
+report #: 150023
+
+location : ATWATER AVENUE/WEST OF
+JORDAN
+
+report #: 150025
+
+event #: 15-01-09-000440
+
+incident : ACCIDENTS - HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: :NO CASE REPORT
+
+report #:
+
+date reported: 01/09/15 - FRI at 21:36
+
+event #: 15-01-09-000454
+
+location : 3RD STREET/EAST OF JORDAN
+
+date and time occurred from - occurred to: 01/09/15 - FRI at 21:30 - 01/09/15 - FRI at 21:37
+incident : POSSESSION OF DRUG PARAPHERNALIA/ ACCIDENT- PROPERTY DAMAGE
+disposition: : CLOSED BY ARREST.
+5 incidents listed.
+
+print date and time
+
+report #: 150026
+
+1/12/2015 11:22:31AM
+
+at page no.
+
+1
+
+

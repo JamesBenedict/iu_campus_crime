@@ -1,0 +1,126 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Report
+from 12/08/2015 00:00 to 12/08/2015 23:59
+date reported: 12/08/15 - TUE at 08:19
+general location:
+
+report #:
+
+153340
+
+BALLANTINE HALL PARKING GARAGE - On Campus
+
+date occurred from: 12/06/15 - SUN at 14:00
+date occurred to:
+
+12/06/15 - SUN at 16:00
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: UNFOUNDED
+modified date: 12/09/15 - WED at 08:13
+date reported: 12/08/15 - TUE at 11:21
+general location:
+
+report #:
+
+153342
+
+DUNN MEADOW-SE OF 7TH & INDIANA AVE - On Campus
+
+date occurred from: 12/08/15 - TUE at 11:20
+date occurred to:
+
+12/08/15 - TUE at 11:57
+
+incident/offenses:
+
+OTHER DISTURBANCES
+
+disposition: OPEN CASE
+modified date: 12/09/15 - WED at 08:51
+date reported: 12/08/15 - TUE at 11:40
+general location:
+
+report #:
+
+153343
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 12/08/15 - TUE at 11:15
+date occurred to:
+
+12/08/15 - TUE at 11:15
+
+incident/offenses:
+
+FORGERY/COUNTERFEITING
+
+disposition: OPEN CASE
+modified date: 12/08/15 - TUE at 14:41
+date reported: 12/08/15 - TUE at 12:14
+location:
+
+cad event #:
+
+15-12-08-028818
+
+FORREST AVE./SOUTH OF 10T, SOUTH OF 10T FORREST AVE., WOODBURN HALL BY CLOCK
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 12/08/15 - TUE at 14:10
+date reported: 12/08/15 - TUE at 14:23
+general location:
+
+report #:
+
+153346
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 11/05/15 - THU at 16:00
+date occurred to:
+
+11/20/15 - FRI at 17:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 12/09/15 - WED at 14:20
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Report
+from 12/08/2015 00:00 to 12/08/2015 23:59
+date reported: 12/08/15 - TUE at 21:18
+general location:
+
+report #:
+
+153351
+
+ALL OTHER OPEN AREAS - On Campus
+
+date occurred from: 12/08/15 - TUE at 21:18
+date occurred to:
+
+12/08/15 - TUE at 21:18
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 12/09/15 - WED at 06:33
+
+

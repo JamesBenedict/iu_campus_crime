@@ -1,0 +1,315 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/28/2015 00:00 to 02/28/2015 23:59
+date reported: 02/28/15 - SAT at 00:19
+general location:
+
+report #:
+
+150637
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 02/28/15 - SAT at 00:10
+date occurred to:
+
+02/28/15 - SAT at 00:19
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 12:08
+date reported: 02/28/15 - SAT at 00:52
+general location:
+
+report #:
+
+150645
+
+ATWATER AVENUE/WEST OF JORDAN - Public property
+
+date occurred from: 02/28/15 - SAT at 00:52
+date occurred to:
+
+02/28/15 - SAT at 00:52
+
+incident/offenses:
+
+NO OPER, CHAUFF, OR PUBLIC PASS LICENSE
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/28/15 - SAT at 08:55
+date reported:
+location:
+
+02/28/15 - SAT at 00:57
+
+cad event #:
+
+15-02-28-005072
+
+ALL OTHER NON-UNIVERSITY, , KILROY'S
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 02/28/15 - SAT at 01:05
+date reported: 02/28/15 - SAT at 01:08
+general location:
+
+report #:
+
+150639
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/28/15 - SAT at 01:09
+date occurred to:
+
+02/28/15 - SAT at 01:12
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 12:06
+date reported: 02/28/15 - SAT at 01:26
+general location:
+
+report #:
+
+150638
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 02/28/15 - SAT at 01:30
+date occurred to:
+
+01/22/15 - THU at 00:00
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 12:06
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/28/2015 00:00 to 02/28/2015 23:59
+date reported: 02/28/15 - SAT at 01:46
+general location:
+
+report #:
+
+150640
+
+ALL OTHER NON-UNIVERSITY - 7TH AND WASHINGTON
+
+date occurred from: 02/28/15 - SAT at 00:30
+date occurred to:
+
+02/28/15 - SAT at 01:46
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 12:08
+date reported: 02/28/15 - SAT at 02:08
+general location:
+
+report #:
+
+150644
+
+ALL OTHER NON-UNIVERSITY - KIRKWOOD
+
+date occurred from: 02/28/15 - SAT at 02:00
+date occurred to:
+
+02/28/15 - SAT at 02:08
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 03/02/15 - MON at 10:07
+date reported: 02/28/15 - SAT at 02:30
+general location:
+
+report #:
+
+150642
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 02/28/15 - SAT at 02:31
+date occurred to:
+
+02/28/15 - SAT at 04:33
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/28/15 - SAT at 05:54
+date reported: 02/28/15 - SAT at 03:12
+general location:
+
+report #:
+
+150641
+
+ALL OTHER NON-UNIVERSITY - 4TH AND LINCOLN
+
+date occurred from: 02/28/15 - SAT at 03:11
+date occurred to:
+
+02/28/15 - SAT at 03:12
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA // DRIVING UNDER THE INFLUENCE // FALSE
+IDENTIFICATION // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 10:32
+date reported: 02/28/15 - SAT at 03:57
+location:
+
+cad event #:
+
+TETER QUAD, 501 N. SUNRISE, BOISE 1
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/28/15 - SAT at 04:06
+
+15-02-28-005085
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/28/2015 00:00 to 02/28/2015 23:59
+date reported: 02/28/15 - SAT at 04:27
+general location:
+
+report #:
+
+150643
+
+ALL OTHER NON-UNIVERSITY - 2ND AND COLLEGE MALL
+
+date occurred from: 02/28/15 - SAT at 04:27
+date occurred to:
+
+02/28/15 - SAT at 00:00
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 09:07
+date reported: 02/28/15 - SAT at 13:49
+general location:
+
+report #:
+
+150646
+
+LAW LANE/WEST OF JORDAN AVE - Public property
+
+date occurred from: 02/28/15 - SAT at 13:49
+date occurred to:
+
+02/28/15 - SAT at 13:49
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 03/02/15 - MON at 10:23
+date reported: 02/28/15 - SAT at 17:01
+general location:
+
+report #:
+
+150647
+
+MELLENCAMP SPORT BLDG - On Campus
+
+date occurred from: 02/27/15 - FRI at 23:00
+date occurred to:
+
+02/27/15 - FRI at 23:10
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 02/28/15 - SAT at 18:49
+date reported: 02/28/15 - SAT at 21:52
+general location:
+
+report #:
+
+150648
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/28/15 - SAT at 21:15
+date occurred to:
+
+02/28/15 - SAT at 21:52
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSS-DANGEROUS NON-NARCOTICS // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/01/15 - SUN at 00:47
+date reported: 02/28/15 - SAT at 22:30
+location:
+
+cad event #:
+
+15-02-28-005140
+
+ART MUSEUM, 1133 E. 7TH STREET
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARM - FALSE CALL
+disposition: NO CASE REPORT
+modified date: 02/28/15 - SAT at 22:45
+date reported: 02/28/15 - SAT at 23:18
+location:
+
+cad event #:
+
+15-02-28-005146
+
+FOREST QUAD, 1725 E. 3RD STREET, A TOWER 6TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/28/15 - SAT at 23:31
+
+

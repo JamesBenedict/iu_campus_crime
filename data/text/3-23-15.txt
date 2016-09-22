@@ -1,0 +1,94 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/23/2015 00:00 to 03/23/2015 23:59
+
+date reported: 03/23/15 - MON at 09:07
+general location:
+
+report #:
+
+150849
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 03/21/15 - SAT at 18:00
+date occurred to:
+
+03/23/15 - MON at 09:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 03/24/15 - TUE at 11:33
+date reported: 03/23/15 - MON at 17:08
+general location:
+
+report #:
+
+150851
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/23/15 - MON at 08:00
+date occurred to:
+
+03/23/15 - MON at 18:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 03/23/15 - MON at 21:20
+date reported: 03/23/15 - MON at 23:04
+general location:
+
+report #:
+
+150852
+
+BUSINESS BUILDING - On Campus
+
+date occurred from: 03/23/15 - MON at 06:30
+date occurred to:
+
+03/23/15 - MON at 17:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 03/24/15 - TUE at 07:43
+date reported: 03/23/15 - MON at 23:08
+location:
+
+cad event #:
+
+15-03-23-006946
+
+TETER QUAD, 501 N. SUNRISE, RABB 402
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/23/15 - MON at 23:26
+date reported: 03/23/15 - MON at 23:57
+location:
+
+cad event #:
+
+15-03-23-006949
+
+ROSE AVE RESIDENCE HALL, 1801 E. JONES AVE, 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/24/15 - TUE at 00:14
+
+

@@ -1,0 +1,144 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/14/2015 00:00 to 10/14/2015 23:59
+date reported: 10/14/15 - WED at 00:06
+general location:
+
+report #:
+
+152696
+
+ASHTON MOFFAT HALL - On Campus - in any student residential facility
+
+date occurred from: 10/14/15 - WED at 00:00
+date occurred to:
+
+10/14/15 - WED at 00:11
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/14/15 - WED at 03:40
+date reported: 10/14/15 - WED at 09:52
+general location:
+
+report #:
+
+152699
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 10/13/15 - TUE at 15:45
+date occurred to:
+
+10/13/15 - TUE at 16:15
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 10/15/15 - THU at 08:33
+date reported: 10/14/15 - WED at 13:03
+general location:
+
+report #:
+
+152702
+
+CHI OMEGA - Non-campus building or property
+
+date occurred from: 10/06/15 - TUE at 09:00
+date occurred to:
+
+10/07/15 - WED at 13:03
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 10/15/15 - THU at 08:32
+date reported: 10/14/15 - WED at 13:06
+general location:
+
+report #:
+
+152704
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 10/14/15 - WED at 13:00
+date occurred to:
+
+10/14/15 - WED at 13:06
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition:
+
+OPEN CASE
+
+modified date: 10/15/15 - THU at 08:06
+date reported: 10/14/15 - WED at 16:04
+location:
+
+cad event #:
+
+15-10-14-024191
+
+ASHTON VOS HALL, 1786 E. 10TH STREET, 1ST FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/14/15 - WED at 16:16
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/14/2015 00:00 to 10/14/2015 23:59
+date reported:
+location:
+
+10/14/15 - WED at 20:03
+
+cad event #:
+
+15-10-14-024206
+
+MCNUTT QUAD, 1101 N. FEE LANE, DELGADO 200
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/14/15 - WED at 20:23
+date reported: 10/14/15 - WED at 22:38
+general location:
+
+report #:
+
+152706
+
+RAWLES HALL - On Campus
+
+date occurred from: 10/14/15 - WED at 00:00
+date occurred to:
+
+10/14/15 - WED at 22:38
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // POSSESSION - COCAINE,OPIUM,DERIVATIVE
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/15/15 - THU at 03:58
+
+

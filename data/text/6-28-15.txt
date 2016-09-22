@@ -1,0 +1,107 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 06/28/2015 00:00 to 06/28/2015 23:59
+date reported: 06/28/15 - SUN at 03:14
+general location:
+
+report #:
+
+151649
+
+ALL OTHER NON-UNIVERSITY - 4TH @ WALNUT
+
+date occurred from: 06/28/15 - SUN at 03:14
+date occurred to:
+
+06/28/15 - SUN at 04:57
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/29/15 - MON at 09:05
+date reported: 06/28/15 - SUN at 14:55
+general location:
+
+report #:
+
+151650
+
+GEOLOGICAL SURVEY CORE - On Campus
+
+date occurred from: 06/26/15 - FRI at 15:00
+date occurred to:
+
+06/28/15 - SUN at 14:55
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 06/28/15 - SUN at 22:22
+date reported: 06/28/15 - SUN at 19:03
+general location:
+
+report #:
+
+151652
+
+13TH STREET PARKING LOT - On Campus
+
+date occurred from: 06/27/15 - SAT at 22:00
+date occurred to:
+
+06/28/15 - SUN at 19:05
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 06/29/15 - MON at 14:18
+date reported: 06/28/15 - SUN at 19:07
+general location:
+
+report #:
+
+151653
+
+ASHTON COMMON AREA - On Campus
+
+date occurred from: 06/28/15 - SUN at 19:05
+date occurred to:
+
+06/28/15 - SUN at 19:12
+
+incident/offenses:
+
+FIRE ALARMS - ACTUAL, NOT ARSON
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 06/29/15 - MON at 09:48
+date reported: 06/28/15 - SUN at 20:03
+general location:
+
+report #:
+
+151654
+
+13TH STREET PARKING LOT - On Campus
+
+date occurred from: 06/27/15 - SAT at 20:00
+date occurred to:
+
+06/28/15 - SUN at 20:03
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: OPEN CASE
+modified date: 06/29/15 - MON at 09:54
+
+

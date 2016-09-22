@@ -1,0 +1,486 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Report
+from 10/03/2015 00:00 to 10/03/2015 23:59
+date reported: 10/03/15 - SAT at 00:09
+general location:
+
+report #:
+
+152557
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 10/03/15 - SAT at 00:13
+date occurred to:
+
+10/03/15 - SAT at 00:36
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 10/05/15 - MON at 08:40
+date reported: 10/03/15 - SAT at 00:13
+general location:
+
+report #:
+
+152560
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 10/03/15 - SAT at 00:16
+date occurred to:
+
+10/03/15 - SAT at 00:45
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/05/15 - MON at 09:28
+date reported: 10/03/15 - SAT at 00:16
+general location:
+
+report #:
+
+152559
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 10/03/15 - SAT at 00:16
+date occurred to:
+
+10/03/15 - SAT at 01:00
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/05/15 - MON at 09:46
+date reported: 10/03/15 - SAT at 00:46
+location:
+
+cad event #:
+
+15-10-03-023111
+
+MCNUTT QUAD, 1101 N. FEE LANE, DELGADO 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/03/15 - SAT at 02:32
+date reported: 10/03/15 - SAT at 00:55
+general location:
+
+report #:
+
+152561
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 10/03/15 - SAT at 00:55
+date occurred to:
+
+10/03/15 - SAT at 01:16
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/03/15 - SAT at 04:56
+date reported: 10/03/15 - SAT at 00:59
+location:
+
+cad event #:
+
+15-10-03-023114
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 10TH FLOOR
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 10/03/15 - SAT at 01:22
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Report
+from 10/03/2015 00:00 to 10/03/2015 23:59
+date reported:
+
+10/03/15 - SAT at 01:49
+
+general location:
+
+report #:
+
+152562
+TH
+
+ALL OTHER NON-UNIVERSITY – 9
+
+@ COLLEGE
+
+date occurred from: 10/03/15 - SAT at 01:49
+date occurred to:
+
+10/03/15 - SAT at 03:08
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/05/15 - MON at 08:43
+date reported: 10/03/15 - SAT at 02:19
+location:
+
+cad event #:
+
+15-10-03-023122
+
+SPRUCE HALL, 1801 E. JONES AVE, GROUND FLOOR HALLWAY
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 10/03/15 - SAT at 02:37
+date reported: 10/03/15 - SAT at 02:58
+
+report #:
+
+152564
+
+general location:ALL OTHER NON-UNIVERSITY - WALNUT @ 3RD
+date occurred from: 10/03/15 - SAT at 02:56
+date occurred to:
+
+10/03/15 - SAT at 02:58
+
+incident/offenses:
+
+HABITUAL TRAFFIC VIOLATOR
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/03/15 - SAT at 05:33
+date reported: 10/03/15 - SAT at 03:25
+general location:
+
+report #:
+
+152563
+
+17TH STREET/EAST OF JORDAN - Public property
+
+date occurred from: 10/03/15 - SAT at 03:00
+date occurred to:
+
+10/03/15 - SAT at 03:25
+
+incident/offenses:
+
+THEFT-ALL OTHER // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 10/03/15 - SAT at 04:09
+date reported: 10/03/15 - SAT at 08:59
+general location:
+
+report #:
+
+152565
+
+JORDAN AVENUE/NORTH OF 10 - Public property
+
+date occurred from: 10/03/15 - SAT at 00:00
+date occurred to:
+
+10/03/15 - SAT at 09:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 10/04/15 - SUN at 04:08
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Report
+from 10/03/2015 00:00 to 10/03/2015 23:59
+date reported: 10/03/15 - SAT at 14:31
+general location:
+
+report #:
+
+152567
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 10/03/15 - SAT at 14:31
+date occurred to:
+
+10/03/15 - SAT at 15:00
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/03/15 - SAT at 21:20
+date reported: 10/03/15 - SAT at 15:03
+general location:
+
+report #:
+
+152568
+
+DEVAULT ALUMNI - On Campus
+
+date occurred from: 10/03/15 - SAT at 11:30
+date occurred to:
+
+10/03/15 - SAT at 15:04
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/05/15 - MON at 09:35
+date reported: 10/03/15 - SAT at 15:30
+general location:
+
+report #:
+
+152594
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 10/03/15 - SAT at 15:25
+date occurred to:
+
+10/03/15 - SAT at 15:26
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/04/15 - SUN at 10:40
+date reported: 10/03/15 - SAT at 15:50
+general location:
+
+report #:
+
+152570
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 10/03/15 - SAT at 15:40
+date occurred to:
+
+10/03/15 - SAT at 15:51
+
+incident/offenses:
+
+OTHER DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 10/03/15 - SAT at 22:24
+date reported: 10/03/15 - SAT at 15:54
+general location:
+
+report #:
+
+152574
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 10/03/15 - SAT at 15:54
+date occurred to:
+
+10/03/15 - SAT at 15:54
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/03/15 - SAT at 21:35
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Report
+from 10/03/2015 00:00 to 10/03/2015 23:59
+date reported: 10/03/15 - SAT at 16:05
+general location:
+
+report #:
+
+152569
+
+ALL OTHER OPEN AREAS - On Campus
+
+date occurred from: 10/03/15 - SAT at 16:00
+date occurred to:
+
+10/03/16 - MON at 16:15
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/05/15 - MON at 09:37
+date reported: 10/03/15 - SAT at 16:09
+location:
+
+cad event #:
+
+15-10-03-023173
+
+GAMMA PHI BETA, 1305 N. JORDAN AVE, NORTH MAIN FLOOR SMOKE, NORTH SECOND FLOOR
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 10/03/15 - SAT at 16:21
+date reported: 10/03/15 - SAT at 16:21
+general location:
+
+report #:
+
+152573
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 10/03/15 - SAT at 16:21
+date occurred to:
+
+10/03/15 - SAT at 16:21
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/03/15 - SAT at 22:52
+date reported: 10/03/15 - SAT at 16:26
+location:
+
+cad event #:
+
+15-10-03-023178
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, SECTION 109 RESTROOM
+
+incident: MEDICAL ASSIST
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 10/03/15 - SAT at 18:00
+date reported: 10/03/15 - SAT at 17:19
+location:
+
+cad event #:
+
+15-10-03-023185
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, SECTION 26
+
+incident: ALL OTHER LIQUOR LAWS
+final incident: ALL OTHER LIQUOR LAWS
+disposition: NO CASE REPORT
+modified date: 10/03/15 - SAT at 17:42
+date reported: 10/03/15 - SAT at 17:39
+location:
+
+cad event #:
+
+DELTA TAU DELTA, 1431 N. JORDAN AVE
+
+incident: THEFT-AUTOS
+final incident: CITIZEN ASSIST
+disposition: UNFOUNDED
+modified date: 10/03/15 - SAT at 18:02
+
+15-10-03-023186
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Report
+from 10/03/2015 00:00 to 10/03/2015 23:59
+date reported: 10/03/15 - SAT at 18:10
+general location:
+
+report #:
+
+152575
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 10/03/15 - SAT at 18:10
+date occurred to:
+
+10/03/15 - SAT at 18:34
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/03/15 - SAT at 21:44
+date reported: 10/03/15 - SAT at 20:19
+general location:
+
+report #:
+
+152576
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 10/03/15 - SAT at 20:00
+date occurred to:
+
+10/03/15 - SAT at 20:19
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/05/15 - MON at 09:24
+date reported: 10/03/15 - SAT at 22:32
+general location:
+
+report #:
+
+152582
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 10/03/15 - SAT at 22:32
+date occurred to:
+
+10/03/15 - SAT at 23:32
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/04/15 - SUN at 03:30
+
+

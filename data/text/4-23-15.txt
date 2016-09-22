@@ -1,0 +1,403 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/23/2015 00:00 to 04/23/2015 23:59
+date reported: 04/23/15 - THU at 18:59
+general location:
+
+report #:
+
+151191
+
+3RD STREET/EAST OF JORDAN - Public property
+
+date occurred from: 04/23/15 - THU
+date occurred to:
+
+04/23/15 - THU
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/24/15 - FRI at 09:36
+date reported: 04/23/15 - THU at 01:24
+general location:
+
+report #:
+
+151177
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 04/23/15 - THU at 01:20
+date occurred to:
+
+04/23/15 - THU at 01:28
+
+incident/offenses:
+
+VANDALISM, MISCHIEF // FIRE ALARM - FALSE CALL
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/24/15 - FRI at 09:54
+date reported: 04/23/15 - THU at 01:29
+general location:
+
+report #:
+
+151178
+
+509 E 3RD - On Campus
+
+date occurred from: 04/23/15 - THU at 01:29
+date occurred to:
+
+04/23/15 - THU at 03:17
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/23/15 - THU at 08:22
+date reported: 04/23/15 - THU at 03:03
+general location:
+
+report #:
+
+151179
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 04/23/15 - THU at 02:45
+date occurred to:
+
+04/23/15 - THU at 03:00
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/23/15 - THU at 08:32
+date reported: 04/23/15 - THU at 09:13
+general location:
+
+report #:
+
+151181
+
+KIRKWOOD HALL - On Campus
+
+date occurred from: 04/21/15 - TUE at 17:00
+date occurred to:
+
+04/22/15 - WED at 07:15
+
+incident/offenses:
+
+BURGLARY - NO FORCE // THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/24/15 - FRI at 09:03
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/23/2015 00:00 to 04/23/2015 23:59
+date reported: 04/23/15 - THU at 11:22
+general location:
+
+report #:
+
+151182
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/10/15 - FRI at 12:00
+date occurred to:
+
+04/14/15 - TUE at 23:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 04/24/15 - FRI at 09:05
+date reported: 04/23/15 - THU at 14:18
+location:
+
+cad event #:
+
+15-04-23-010074
+
+SRSC, 1601 LAW LANE, MEN'S LOCKER ROOM
+
+incident: THEFT FROM BUILDINGS
+final incident: THEFT FROM BUILDINGS
+disposition: UNFOUNDED
+modified date: 04/23/15 - THU at 15:29
+date reported: 04/23/15 - THU at 14:26
+location:
+
+cad event #:
+
+15-04-23-010076
+
+BRISCOE QUAD, 1225 N. FEE LANE, GUCKER 11TH FL HIGH SIDE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/23/15 - THU at 14:44
+date reported: 04/23/15 - THU at 15:33
+general location:
+
+report #:
+
+151186
+
+RANGE ROAD/NORTH OF 10TH - Public property
+
+date occurred from: 04/23/15 - THU at 15:30
+date occurred to:
+
+04/23/15 - THU at 15:33
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/24/15 - FRI at 09:11
+date reported: 04/23/15 - THU at 15:48
+general location:
+
+report #:
+
+151187
+
+CHEMISTRY BLDG. - On Campus
+
+date occurred from: 05/01/14 - THU at 08:00
+date occurred to:
+
+04/23/15 - THU at 15:48
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 04/23/15 - THU at 20:10
+date reported: 04/23/15 - THU at 16:30
+general location:
+
+report #:
+
+151189
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/10/15 - TUE at 12:00
+date occurred to:
+
+04/23/15 - THU at 15:30
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 04/23/15 - THU at 20:34
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/23/2015 00:00 to 04/23/2015 23:59
+date reported: 04/23/15 - THU at 18:33
+general location:
+
+report #:
+
+151192
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 04/23/15 - THU at 13:00
+date occurred to:
+
+04/23/15 - THU at 18:33
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/23/15 - THU at 20:59
+date reported: 04/23/15 - THU at 18:54
+general location:
+
+report #:
+
+151190
+
+ALL OTHER NON-UNIVERSITY – KIRKWOOD @ DUNN
+
+date occurred from: 04/23/15 - THU at 18:48
+date occurred to:
+
+04/23/15 - THU at 18:54
+
+incident/offenses:
+
+THEFT FROM BUILDINGS // FOUND PROPERTY
+
+disposition: OPEN CASE
+modified date: 04/23/15 - THU at 21:13
+date reported: 04/23/15 - THU at 18:59
+location:
+
+cad event #:
+
+15-04-23-010106
+
+3RD STREET/EAST OF JORDAN,
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 04/23/15 - THU at 19:25
+date reported: 04/23/15 - THU at 19:33
+general location:
+
+report #:
+
+151193
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 04/23/15 - THU at 00:00
+date occurred to:
+
+04/23/15 - THU at 00:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 04/24/15 - FRI at 09:33
+date reported: 04/23/15 - THU at 20:03
+general location:
+
+report #:
+
+151195
+
+EIGENMANN HALL COMMON AREA - On Campus
+
+date occurred from: 04/23/15 - THU at 14:00
+date occurred to:
+
+04/23/14 - WED at 20:30
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/23/15 - THU at 21:54
+date reported: 04/23/15 - THU at 20:26
+general location:
+
+report #:
+
+ASHTON HERSHEY HALL - On Campus - in any student residential facility
+
+date occurred from: 04/23/15 - THU at 20:30
+date occurred to:
+
+04/23/15 - THU at 20:30
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition:
+
+151196
+
+CASE CLOSED - ARREST
+
+modified date: 04/23/15 - THU at 23:05
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/23/2015 00:00 to 04/23/2015 23:59
+date reported: 04/23/15 - THU at 20:26
+location:
+
+cad event #:
+
+15-04-23-010117
+
+ASHTON HERSHEY HALL, 1798 E. 10TH STREET, ROOM 42
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: CASE REPORT FOLLOWS.
+modified date: 04/23/15 - THU at 21:12
+date reported: 04/23/15 - THU at 22:03
+general location:
+
+report #:
+
+151198
+
+INDIANA AVENUE/SOUTH OF 1OTH STR - Public property
+
+date occurred from: 04/23/15 - THU at 22:01
+date occurred to:
+
+04/23/15 - THU at 22:03
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/24/15 - FRI at 09:52
+date reported: 04/23/15 - THU at 22:44
+general location:
+
+report #:
+
+151199
+
+ALL OTHER NON-UNIVERSITY - 6TH AND GRANT
+
+date occurred from: 04/23/15 - THU at 22:40
+date occurred to:
+
+04/23/15 - THU at 22:44
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition:
+
+CASE CLOSED - ARREST
+
+modified date: 04/24/15 - FRI at 02:16
+
+

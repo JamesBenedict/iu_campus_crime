@@ -1,0 +1,140 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/25/2015 00:00 to 08/25/2015 23:59
+date reported: 08/25/15 - TUE at 00:25
+location:
+
+cad event #:
+
+15-08-25-019035
+
+ASHTON JOHNSTON, 1770 E. 10TH STREET, 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/25/15 - TUE at 00:38
+date reported: 08/25/15 - TUE at 02:58
+general location:
+
+report #:
+
+151998
+
+TENNIS PAVILION - On Campus
+
+date occurred from: 08/25/15 - TUE at 00:00
+date occurred to:
+
+08/25/15 - TUE at 02:58
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 08/26/15 - WED at 12:19
+date reported: 08/25/15 - TUE at 08:18
+general location:
+
+report #:
+
+152000
+
+REDBUD N 900-1600 - On Campus - in any student residential facility
+
+date occurred from: 08/24/15 - MON at 20:52
+date occurred to:
+
+08/24/15 - MON at 20:53
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 08/25/15 - TUE at 10:16
+date reported: 08/25/15 - TUE at 15:16
+general location:
+
+report #:
+
+152002
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 08/25/15 - TUE at 08:00
+date occurred to:
+
+08/25/15 - TUE at 15:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 08/26/15 - WED at 08:49
+date reported: 08/25/15 - TUE at 16:05
+general location:
+
+report #:
+
+152004
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 08/25/15 - TUE at 16:00
+date occurred to:
+
+08/25/15 - TUE at 16:13
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/25/15 - TUE at 20:50
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/25/2015 00:00 to 08/25/2015 23:59
+
+date reported: 08/25/15 - TUE at 19:52
+location:
+
+cad event #:
+
+15-08-25-019111
+
+READ CENTER, 125 S. JORDAN, CURRY 5
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/25/15 - TUE at 20:10
+date reported: 08/25/15 - TUE at 21:31
+general location:
+
+report #:
+
+152006
+
+JONES AVENUE/EAST OF JORDAN - Public property
+
+date occurred from: 08/25/15 - TUE at 21:30
+date occurred to:
+
+08/25/15 - TUE at 21:31
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/25/15 - TUE at 22:47
+
+

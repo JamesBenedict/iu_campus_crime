@@ -1,0 +1,145 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/16/2015 00:00 to 05/16/2015 23:59
+date reported: 05/16/15 - SAT at 00:07
+general location:
+
+report #:
+
+ALL OTHER NON-UNIVERSITY - 8
+
+151452
+TH
+
+@ WALNUT
+
+date occurred from: 05/16/15 - SAT at 00:06
+date occurred to:
+
+05/16/15 - SAT at 02:06
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/18/15 - MON at 08:08
+date reported: 05/16/15 - SAT at 02:38
+location:
+
+cad event #:
+
+15-05-16-012206
+
+ALL OTHER NON-UNIVERSITY BETWEEN GRANT AND LINCOLN
+
+incident: OTHER DISTURBANCES
+final incident:OTHER DISTURBANCES
+disposition: FAILED TO LOCATE
+modified date: 05/18/15 - MON at 08:52
+date reported: 05/16/15 - SAT at 03:19
+
+report #:
+
+151455
+
+general location:ALL OTHER NON-UNIVERSITY - KILROYS SPORTS, WALNUT ST
+date occurred from: 05/16/15 - SAT at 03:15
+date occurred to:
+
+05/16/15 - SAT at 03:19
+
+incident/offenses:
+
+DISORDERLY CONDUCT // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/16/15 - SAT at 23:47
+date reported: 05/16/15 - SAT at 03:24
+general location:
+
+report #:
+
+151454
+
+REDBUD E 100-800 - On Campus - in any student residential facility
+
+date occurred from: 05/16/15 - SAT at 03:30
+date occurred to:
+
+05/16/15 - SAT at 03:30
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/16/15 - SAT at 05:38
+date reported: 05/16/15 - SAT at 13:46
+general location:
+
+report #:
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 05/16/15 - SAT at 10:50
+date occurred to:
+
+05/16/15 - SAT at 13:30
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 05/18/15 - MON at 08:37
+
+151457
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/16/2015 00:00 to 05/16/2015 23:59
+date reported: 05/16/15 - SAT at 17:49
+general location:
+
+report #:
+
+151459
+
+5TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 05/16/15 - SAT at 17:45
+date occurred to:
+
+05/16/15 - SAT at 08:15
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 05/16/15 - SAT at 22:34
+date reported: 05/16/15 - SAT at 18:48
+general location:
+
+report #: 151460
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 05/16/15 - SAT at 10:00
+date occurred to:
+
+05/16/15 - SAT at 18:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 05/17/15 - SUN at 21:25
+
+

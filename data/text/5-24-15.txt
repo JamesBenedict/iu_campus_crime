@@ -1,0 +1,61 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/24/2015 00:00 to 05/24/2015 23:59
+date reported: 05/24/15 - SUN at 03:23
+general location:
+
+report #:
+
+151490
+
+6TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 05/24/15 - SUN at 03:21
+date occurred to:
+
+05/24/15 - SUN at 03:23
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // DRIVING UNDER THE INFLUENCE // PROPERTY
+DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/26/15 - TUE at 11:09
+date reported: 05/24/15 - SUN at 18:11
+location:
+
+cad event #:
+
+15-05-24-012728
+
+TULIP TREE APTS., 2451 E. 10TH STREET
+
+incident: DOMESTIC DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 05/24/15 - SUN at 18:30
+date reported: 05/24/15 - SUN at 21:56
+general location:
+
+report #:
+
+151491
+
+ALL OTHER NON-UNIVERSITY - SMITH AND DUNN
+
+date occurred from: 05/24/15 - SUN at 21:54
+date occurred to:
+
+05/24/15 - SUN at 21:56
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/26/15 - TUE at 08:47
+
+

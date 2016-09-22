@@ -1,0 +1,132 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/19/2015 00:00 to 04/19/2015 23:59
+date reported: 04/19/15 - SUN at 00:27
+general location:
+
+report #:
+
+151138
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 04/19/15 - SUN at 00:28
+date occurred to:
+
+04/19/15 - SUN at 01:03
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/20/15 - MON at 09:50
+date reported: 04/19/15 - SUN at 01:11
+general location:
+
+report #:
+
+151139
+
+ATWATER AVENUE/WEST OF JORDAN - Public property
+
+date occurred from: 04/19/15 - SUN at 00:00
+date occurred to:
+
+04/19/15 - SUN at 00:00
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/20/15 - MON at 09:07
+date reported: 04/19/15 - SUN at 02:05
+general location:
+
+report #:
+
+151142
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 04/19/15 - SUN at 02:04
+date occurred to:
+
+04/19/15 - SUN at 02:05
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/19/15 - SUN at 06:58
+date reported: 04/19/15 - SUN at 02:12
+general location:
+
+report #:
+
+151140
+
+JORDAN AVENUE/SOUTH OF 10 - Public property
+
+date occurred from: 04/19/15 - SUN at 00:00
+date occurred to:
+
+04/19/15 - SUN at 02:11
+
+incident/offenses:
+
+FALSE IDENTIFICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/20/15 - MON at 09:05
+date reported: 04/19/15 - SUN at 02:37
+
+report #:
+
+151141
+
+general location:ALL OTHER NON-UNIVERSITY - 1ST WASHINGTON
+date occurred from: 04/19/15 - SUN at 02:37
+date occurred to:
+
+04/19/15 - SUN at 04:09
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST //
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/20/15 - MON at 08:42
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/19/2015 00:00 to 04/19/2015 23:59
+date reported: 04/19/15 - SUN at 20:28
+general location:
+
+report #:
+
+151145
+
+ATHLETIC/YELLOW LOT - On Campus
+
+date occurred from: 04/19/15 - SUN at 20:26
+date occurred to:
+
+04/19/15 - SUN at 20:28
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/20/15 - MON at 08:48
+
+

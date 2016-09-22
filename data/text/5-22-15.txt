@@ -1,0 +1,67 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/22/2015 00:00 to 05/22/2015 23:59
+date reported: 05/22/15 - FRI at 02:36
+general location:
+
+report #:
+
+151484
+
+DUNN STREET/NORTH OF 10TH - Public property
+
+date occurred from: 05/22/15 - FRI at 02:36
+date occurred to:
+
+05/22/15 - FRI at 03:56
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/22/15 - FRI at 08:19
+date reported: 05/22/15 - FRI at 19:36
+general location:
+
+report #:
+
+151485
+
+TULIP TREE APTS. - On Campus - in any student residential facility
+
+date occurred from: 05/22/15 - FRI at 19:00
+date occurred to:
+
+05/22/15 - FRI at 19:36
+
+incident/offenses:
+
+DOMESTIC DISTURBANCES
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 05/22/15 - FRI at 22:59
+date reported: 05/22/15 - FRI at 23:54
+general location:
+
+report #:
+
+151486
+
+ALL OTHER NON-UNIVERSITY - 15TH & GRANT
+
+date occurred from: 05/22/15 - FRI at 23:54
+date occurred to:
+
+05/23/15 - SAT at 01:05
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/26/15 - TUE at 08:05
+
+

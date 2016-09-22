@@ -1,0 +1,53 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 06/03/2015 00:00 to 06/03/2015 23:59
+date reported: 06/03/15 - WED at 02:51
+location:
+
+cad event #:
+
+15-06-03-013236
+
+ALL OTHER NON-UNIVERSITY, , 4TH COLLEGE
+
+incident: Vehicle Stop
+final incident: DRIVING WHILE SUSPENDED
+disposition: ISSUED CITATION
+modified date: 06/03/15 - WED at 03:15
+date reported: 06/03/15 - WED at 03:15
+location:
+
+cad event #:
+
+15-06-03-013237
+
+ALL OTHER NON-UNIVERSITY, , KIRKWOOD DUNN
+
+incident: OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 06/03/15 - WED at 03:35
+date reported: 06/03/15 - WED at 08:54
+general location:
+
+report #:
+
+151526
+
+SPRUCE HALL - On Campus - in any student residential facility
+
+date occurred from: 06/03/15 - WED at 00:00
+date occurred to:
+
+06/03/15 - WED at 08:57
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 06/03/15 - WED at 14:05
+
+

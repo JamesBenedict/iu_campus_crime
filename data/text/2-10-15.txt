@@ -1,0 +1,255 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/10/2015 00:00 to 02/10/2015 23:59
+date reported: 02/10/15 - TUE at 03:45
+general location:
+
+report #:
+
+150397
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 02/09/15 - MON at 22:30
+date occurred to:
+
+02/10/15 - TUE at 02:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 02/11/15 - WED at 08:58
+
+date reported: 02/10/15 - TUE at 04:20
+location:
+
+cad event #:
+
+15-02-10-003345
+
+LAW SCHOOL, 211 S. INDIANA AVE
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: NO CASE REPORT
+modified date: 02/10/15 - TUE at 04:51
+date reported: 02/10/15 - TUE at 11:56
+general location:
+
+report #:
+
+150399
+
+CYCLOTRON (ISAT) - On Campus
+
+date occurred from: 01/20/15 - TUE at 18:00
+date occurred to:
+
+02/09/15 - MON at 18:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 02/10/15 - TUE at 14:48
+
+date reported: 02/10/15 - TUE at 12:46
+general location:
+
+report #:
+
+150400
+
+JACOBS EAST STUDIO BUILDING - On Campus
+
+date occurred from: 09/14/03 - SUN at 22:22
+date occurred to:
+
+02/09/15 - MON at 23:29
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 02/11/15 - WED at 09:02
+
+date reported: 02/10/15 - TUE at 13:30
+general location:
+
+report #:
+
+150402
+
+ALL OTHER NON-UNIVERSITY - MIAMI, FL
+
+date occurred from: 02/06/15 - FRI at 00:45
+date occurred to:
+
+02/06/15 - FRI at 01:30
+
+incident/offenses:
+
+POCKET-PICKING
+
+disposition: OPEN CASE
+modified date: 02/11/15 - WED at 10:07
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/10/2015 00:00 to 02/10/2015 23:59
+date reported: 02/10/15 - TUE at 13:31
+general location:
+
+report #:
+
+150403
+
+ALL OTHER NON-UNIVERSITY – YANCY LN
+
+date occurred from: 01/30/15 - FRI at 12:00
+date occurred to:
+
+02/09/15 - MON at 12:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 02/10/15 - TUE at 14:41
+
+date reported: 02/10/15 - TUE at 15:02
+general location:
+
+report #:
+
+150405
+
+BANTA APTS. - On Campus - in any student residential facility
+
+date occurred from: 02/10/15 - TUE at 14:30
+date occurred to:
+
+02/10/15 - TUE at 15:00
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // DOMESTIC
+DISTURBANCES // VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/10/15 - TUE at 22:40
+
+date reported: 02/10/15 - TUE at 15:36
+general location:
+
+report #:
+
+150407
+
+LAW SCHOOL - On Campus
+
+date occurred from: 02/10/15 - TUE at 10:15
+date occurred to:
+
+02/10/15 - TUE at 15:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: UNFOUNDED
+modified date: 02/11/15 - WED at 10:01
+
+date reported: 02/10/15 - TUE at 17:47
+general location:
+
+report #:
+
+150409
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 02/10/15 - TUE at 17:45
+date occurred to:
+
+02/10/15 - TUE at 17:47
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/10/15 - TUE at 21:08
+
+date reported: 02/10/15 - TUE at 18:41
+general location:
+
+report #:
+
+150410
+
+ALL OTHER NON-UNIVERSITY – 2600 BLK N WALNUT
+
+date occurred from: 02/10/15 - TUE at 18:00
+date occurred to:
+
+02/10/15 - TUE at 20:30
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSS-DANGEROUS NON-NARCOTICS // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/11/15 - WED at 09:59
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/10/2015 00:00 to 02/10/2015 23:59
+
+date reported: 02/10/15 - TUE at 21:05
+location:
+
+cad event #:
+
+15-02-10-003410
+
+FOSTER SHEA HALL, 1000 N. FEE LANE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/10/15 - TUE at 21:15
+date reported: 02/10/15 - TUE at 23:26
+general location:
+
+report #:
+
+150415
+
+OWEN HALL - On Campus
+
+date occurred from: 02/10/15 - TUE at 21:00
+date occurred to:
+
+02/11/15 - WED at 01:00
+
+incident/offenses:
+
+MISSING PERSON(NOT 29 OR 303B)
+
+disposition: OPEN CASE
+modified date: 02/11/15 - WED at 09:49
+
+

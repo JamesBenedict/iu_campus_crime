@@ -1,0 +1,199 @@
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/01/2015 00:00 to 03/01/2015 23:59
+date reported: 03/01/15 - SUN at 00:16
+location:
+
+cad event #:
+
+15-03-01-005155
+
+MCNUTT QUAD, 1101 N. FEE LANE, BOCOBO GROUND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/01/15 - SUN at 00:25
+date reported: 03/01/15 - SUN at 00:41
+general location:
+
+report #:
+
+150651
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 03/01/15 - SUN at 00:40
+date occurred to:
+
+03/01/15 - SUN at 00:41
+
+incident/offenses:
+
+PUBLIC INTOXICATION // TRAFFIC HAZARD
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/01/15 - SUN at 05:33
+date reported: 03/01/15 - SUN at 00:52
+general location:
+
+report #:
+
+150650
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 03/01/15 - SUN at 00:52
+date occurred to:
+
+03/01/15 - SUN at 01:08
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/01/15 - SUN at 02:14
+date reported: 03/01/15 - SUN at 01:18
+general location:
+
+report #:
+
+150652
+
+7TH STREET/EAST OF JORDAN - On Campus
+
+date occurred from: 03/01/15 - SUN at 01:00
+date occurred to:
+
+03/01/15 - SUN at 01:18
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 09:53
+date reported: 03/01/15 - SUN at 02:25
+general location:
+
+report #:
+
+150654
+
+LEWIS BUILDING - On Campus
+
+date occurred from: 03/01/15 - SUN at 02:20
+date occurred to:
+
+03/01/15 - SUN at 03:10
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/01/15 - SUN at 05:59
+
+Indiana University, Bloomington
+
+Police Department
+daily crime log report
+from 03/01/2015 00:00 to 03/01/2015 23:59
+date reported: 03/01/15 - SUN at 02:46
+location:
+
+cad event #:
+
+15-03-01-005172
+
+10TH STREET/EAST OF JORDA, EAST OF JORDAN 10TH STREET
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: FAILED TO LOCATE
+modified date: 03/01/15 - SUN at 02:49
+date reported: 03/01/15 - SUN at 03:14
+general location:
+
+report #:
+
+150655
+
+FOSTER JENKINSON HALL - On Campus - in any student residential facility
+
+date occurred from: 03/01/15 - SUN at 03:14
+date occurred to:
+
+03/01/15 - SUN at 03:14
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 07:50
+date reported: 03/01/15 - SUN at 03:58
+general location:
+
+report #:
+
+150656
+
+ALL OTHER NON-UNIVERSITY - 12TH GRANT
+
+date occurred from: 03/01/15 - SUN at 03:50
+date occurred to:
+
+03/01/15 - SUN at 03:58
+
+incident/offenses:
+
+DISORDERLY CONDUCT // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 07:54
+date reported: 03/01/15 - SUN at 08:49
+general location:
+
+report #:
+
+150659
+
+FOSTER COMMON AREA - On Campus
+
+date occurred from: 03/01/15 - SUN at 08:40
+date occurred to:
+
+03/01/15 - SUN at 08:45
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION // THEFT-OTHER VEHICLES
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/02/15 - MON at 09:37
+date reported: 03/01/15 - SUN at 15:30
+general location:
+
+report #:
+
+150661
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/28/15 - SAT at 22:00
+date occurred to:
+
+03/01/15 - SUN at 10:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 03/01/15 - SUN at 19:04
+
+

@@ -1,0 +1,128 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/03/2015 00:00 to 03/03/2015 23:59
+date reported: 03/03/15 - TUE at 02:29
+
+report #:
+
+150675
+
+general location:ALL OTHER NON-UNIVERSITY 11TH ROGERS
+date occurred from: 03/03/15 - TUE at 02:25
+date occurred to:
+
+03/03/15 - TUE at 02:29
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/03/15 - TUE at 08:17
+date reported: 03/03/15 - TUE at 11:41
+general location:
+
+report #:
+
+150677
+
+ALPHA CHI OMEGA - Non-campus building or property
+
+date occurred from: 11/05/14 - WED at 16:50
+date occurred to:
+
+03/03/15 - TUE at 20:00
+
+incident/offenses:
+
+SALE/MANUFACTURING DANGEROUS NON-NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/04/15 - WED at 09:21
+date reported: 03/03/15 - TUE at 13:47
+general location:
+
+report #:
+
+150680
+
+BRYAN HALL - On Campus
+
+date occurred from: 01/31/15 - SAT at 08:00
+date occurred to:
+
+03/03/15 - TUE at 13:58
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 03/03/15 - TUE at 14:47
+date reported: 03/03/15 - TUE at 15:33
+location:
+
+cad event #:
+
+15-03-03-005365
+
+BALLANTINE HALL, 1020 E. KIRKWOOD
+
+incident: THEFT FROM BUILDINGS
+final incident: THEFT FROM BUILDINGS
+disposition: CANCELLED EVENT
+modified date: 03/03/15 - TUE at 15:54
+date reported: 03/03/15 - TUE at 21:38
+general location:
+
+report #:
+
+150689
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 03/03/15 - TUE at 21:38
+date occurred to:
+
+03/03/15 - TUE at 21:58
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/04/15 - WED at 09:05
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/03/2015 00:00 to 03/03/2015 23:59
+
+date reported:
+
+03/03/15 - TUE at 15:26
+
+general location:
+
+report #:
+
+150682
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 03/03/15 - TUE at 15:00
+date occurred to:
+
+04/16/15 - THU at 22:00
+
+incident/offenses:
+
+SALE/MANUFACTURING COCAINE, OPIUM, DERIVATIVES
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/23/15 - THU at 16:18
+
+

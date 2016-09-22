@@ -1,0 +1,332 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/11/2015 00:00 to 09/11/2015 23:59
+date reported: 09/11/15 - FRI at 00:31
+general location:
+
+report #:
+
+152251
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 09/11/15 - FRI at 00:25
+date occurred to:
+
+09/11/15 - FRI at 00:34
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/11/15 - FRI at 02:47
+date reported: 09/11/15 - FRI at 01:25
+general location:
+
+report #:
+
+152252
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/11/15 - FRI at 01:25
+date occurred to:
+
+09/11/15 - FRI at 01:32
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/11/15 - FRI at 02:57
+date reported: 09/11/15 - FRI at 02:41
+general location:
+
+report #:
+
+152253
+
+USA COMMON AREA - On Campus
+
+date occurred from: 09/10/15 - THU at 23:30
+date occurred to:
+
+09/11/15 - FRI at 02:41
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/11/15 - FRI at 05:51
+date reported: 09/11/15 - FRI at 14:18
+general location:
+
+report #:
+
+152258
+
+Global & International Studies - On Campus
+
+date occurred from: 09/05/15 - SAT at 17:00
+date occurred to:
+
+09/11/15 - FRI at 08:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/14/15 - MON at 11:50
+date reported: 09/11/15 - FRI at 14:59
+general location:
+
+report #:
+
+152261
+
+Phi Sigma Kappa - Non-campus building or property
+
+date occurred from: 09/11/15 - FRI at 00:00
+date occurred to:
+
+09/11/15 - FRI at 12:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/11/15 - FRI at 18:28
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/11/2015 00:00 to 09/11/2015 23:59
+date reported: 09/11/15 - FRI at 15:03
+general location:
+
+report #:
+
+152262
+
+KAPPA SIGMA - Non-campus building or property
+
+date occurred from: 09/11/15 - FRI at 04:18
+date occurred to:
+
+09/11/15 - FRI at 04:21
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 09/11/15 - FRI at 19:28
+date reported: 09/11/15 - FRI at 16:12
+general location:
+
+report #:
+
+152271
+
+MCNUTT QUAD BACK LOT - On Campus
+
+date occurred from: 09/11/15 - FRI at 16:15
+date occurred to:
+
+09/11/15 - FRI at 16:16
+
+incident/offenses:
+
+INDECENT EXPOSURE
+
+disposition: UNFOUNDED
+modified date: 09/11/15 - FRI at 23:42
+date reported: 09/11/15 - FRI at 16:33
+general location:
+
+report #:
+
+152265
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 09/11/15 - FRI at 07:50
+date occurred to:
+
+09/11/15 - FRI at 09:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 09/11/15 - FRI at 19:35
+date reported: 09/11/15 - FRI at 17:30
+general location:
+
+report #:
+
+152266
+
+CAMPUS VIEW COMMON AREA - On Campus
+
+date occurred from: 09/11/15 - FRI at 04:00
+date occurred to:
+
+09/11/15 - FRI at 15:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/14/15 - MON at 11:48
+date reported: 09/11/15 - FRI at 18:34
+general location:
+
+report #:
+
+IUPD STATION - On Campus
+
+date occurred from: 07/15/15 - WED at 12:00
+date occurred to:
+
+09/10/15 - THU at 18:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 09/13/15 - SUN at 19:53
+
+152267
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/11/2015 00:00 to 09/11/2015 23:59
+
+date reported: 09/11/15 - FRI at 19:04
+general location:
+
+report #:
+
+152270
+
+PI BETA PHI - Non-campus building or property
+
+date occurred from: 09/11/15 - FRI at 00:00
+date occurred to:
+
+09/11/15 - FRI at 00:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/11/15 - FRI at 21:10
+date reported: 09/11/15 - FRI at 21:46
+location:
+
+cad event #:
+
+15-09-11-021010
+
+FOREST QUAD, 1725 E. 3RD STREET, B - 7
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/11/15 - FRI at 23:08
+date reported: 09/11/15 - FRI at 22:33
+general location:
+
+report #:
+
+152273
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 09/11/15 - FRI at 22:00
+date occurred to:
+
+09/11/15 - FRI at 22:33
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/14/15 - MON at 08:13
+date reported: 09/11/15 - FRI at 22:56
+location:
+
+cad event #:
+
+15-09-11-021021
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 8TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/11/15 - FRI at 23:05
+date reported: 09/11/15 - FRI at 23:25
+general location:
+
+report #:
+
+152274
+
+8TH STREET/WEST OF JORDAN - On Campus
+
+date occurred from: 09/11/15 - FRI at 23:20
+date occurred to:
+
+09/11/15 - FRI at 23:25
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/14/15 - MON at 08:25
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/11/2015 00:00 to 09/11/2015 23:59
+date reported: 09/11/15 - FRI at 23:38
+general location:
+
+report #:
+
+152275
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/11/15 - FRI at 23:38
+date occurred to:
+
+09/11/15 - FRI at 23:38
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/12/15 - SAT at 03:19
+
+

@@ -1,0 +1,185 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/11/2015 00:00 to 11/11/2015 23:59
+date reported: 11/11/15 - WED at 00:25
+location:
+
+cad event #:
+
+15-11-11-026795
+
+MCNUTT QUAD, 1101 N. FEE LANE, BOCOBO
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/11/15 - WED at 00:40
+date reported: 11/11/15 - WED at 00:47
+location:
+
+cad event #:
+
+15-11-11-026796
+
+TETER QUAD, 501 N. SUNRISE, RABB 5
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/11/15 - WED at 00:59
+date reported: 11/11/15 - WED at 01:09
+general location:
+
+report #:
+
+153088
+
+ALL OTHER NON-UNIVERSITY - 17TH @ COLLEGE
+
+date occurred from: 11/11/15 - WED at 01:09
+date occurred to:
+
+11/11/15 - WED at 02:13
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/11/15 - WED at 04:07
+date reported: 11/11/15 - WED at 09:29
+general location:
+
+report #:
+
+153089
+
+WRIGHT EDUCATION BLDG - On Campus
+
+date occurred from: 11/04/15 - WED at 08:00
+date occurred to:
+
+11/11/15 - WED at 09:25
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 11/12/15 - THU at 08:22
+date reported: 11/11/15 - WED at 14:45
+general location:
+
+report #:
+
+153094
+
+SRSC - On Campus
+
+date occurred from: 11/07/15 - SAT at 13:20
+date occurred to:
+
+11/07/15 - SAT at 13:27
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: OPEN CASE
+modified date: 11/11/15 - WED at 18:17
+date reported: 11/11/15 - WED at 15:55
+general location:
+
+report #:
+
+153097
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 11/11/15 - WED at 15:45
+date occurred to:
+
+11/11/15 - WED at 15:55
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/12/15 - THU at 08:35
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/11/2015 00:00 to 11/11/2015 23:59
+date reported: 11/11/15 - WED at 16:08
+general location:
+
+report #:
+
+153098
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 11/11/15 - WED at 14:00
+date occurred to:
+
+11/11/15 - WED at 14:15
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 11/12/15 - THU at 08:52
+date reported: 11/11/15 - WED at 18:44
+location:
+
+cad event #:
+
+15-11-11-026863
+
+ATWATER AVENUE/WEST OF JORDAN, WEST OF JORDAN ATWATER AVENUE, TIS WHITE TOYOTA
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: NO CASE REPORT
+modified date: 11/11/15 - WED at 18:55
+date reported: 11/11/15 - WED at 20:55
+general location:
+
+report #:
+
+153100
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/20/15 - THU at 12:00
+date occurred to:
+
+11/11/15 - WED at 21:32
+
+incident/offenses:
+
+SALE/MANUFACTURING MARIJUANA
+
+disposition: OPEN CASE
+modified date: 11/11/15 - WED at 22:28
+date reported: 11/11/15 - WED at 22:02
+location:
+
+cad event #:
+
+15-11-11-026878
+
+JORDAN AVENUE/SOUTH OF 10, SOUTH OF 10TH JORDAN AVENUE, AT TRAFFIC CIRCLE -
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 11/11/15 - WED at 22:21
+
+

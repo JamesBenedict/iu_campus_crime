@@ -1,0 +1,133 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/28/2015 00:00 to 09/28/2015 23:59
+date reported: 09/28/15 - MON at 11:35
+general location:
+
+report #:
+
+152507
+
+ALL OTHER CAMPUS BUILDING - Non-campus building or property
+
+date occurred from: 09/28/15 - MON at 04:00
+date occurred to:
+
+09/28/15 - MON at 13:30
+
+incident/offenses:
+
+MISSING PERSON
+
+disposition: OPEN CASE
+modified date: 09/29/15 - TUE at 13:07
+date reported: 09/28/15 - MON at 16:20
+general location:
+
+report #:
+
+152510
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/28/15 - MON at 16:00
+date occurred to:
+
+09/28/15 - MON at 16:23
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/28/15 - MON at 23:17
+date reported: 09/28/15 - MON at 18:11
+general location:
+
+report #:
+
+152511
+
+LAW LANE/EAST OF JORDAN AVE - Public property
+
+date occurred from: 09/28/15 - MON at 17:30
+date occurred to:
+
+09/28/15 - MON at 17:49
+
+incident/offenses:
+
+INDECENT EXPOSURE
+
+disposition: OPEN CASE
+modified date: 09/29/15 - TUE at 09:45
+date reported: 09/28/15 - MON at 19:42
+general location:
+
+report #:
+
+152512
+
+ALL OTHER NON-UNIVERSITY – ARIZONA
+
+date occurred from: 09/17/15 - THU at 12:00
+date occurred to:
+
+09/28/15 - MON at 19:52
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 09/29/15 - TUE at 11:03
+date reported: 09/28/15 - MON at 21:56
+general location:
+
+report #:
+
+152513
+
+SIGMA ALPHA MU - Non-campus building or property
+
+date occurred from: 09/28/15 - MON at 05:00
+date occurred to:
+
+09/28/15 - MON at 17:00
+
+incident/offenses:
+
+THEFT-AUTOS
+
+disposition: UNFOUNDED
+modified date: 09/28/15 - MON at 23:28
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/28/2015 00:00 to 09/28/2015 23:59
+date reported: 09/28/15 - MON at 23:10
+general location:
+
+report #:
+
+152514
+
+ASHTON MOFFAT HALL - On Campus - in any student residential facility
+
+date occurred from: 09/28/15 - MON at 23:10
+date occurred to:
+
+09/29/15 - TUE at 01:02
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // DISORDERLY CONDUCT
+
+disposition: OPEN CASE
+modified date: 09/29/15 - TUE at 10:36
+
+

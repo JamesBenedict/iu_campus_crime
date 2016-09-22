@@ -1,0 +1,68 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 07/09/2015 00:00 to 07/09/2015 23:59
+
+date reported: 07/09/15 - THU at 00:52
+general location:
+
+report #:
+
+151693
+
+46 BYPASS/EAST OF GOLF CO - Public property
+
+date occurred from: 07/09/15 - THU at 00:51
+date occurred to:
+
+07/09/15 - THU at 02:12
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 07/09/15 - THU at 08:07
+date reported: 07/09/15 - THU at 02:40
+general location:
+
+report #:
+
+151694
+
+ALPHA TAU OMEGA - Non-campus building or property
+
+date occurred from: 07/09/15 - THU at 02:02
+date occurred to:
+
+07/09/15 - THU at 02:33
+
+incident/offenses:
+
+ATTEMPTED FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 07/09/15 - THU at 05:29
+date reported: 07/09/15 - THU at 08:11
+general location:
+
+report #:
+
+151695
+
+POPLARS PARKING GARAGE - On Campus
+
+date occurred from: 07/07/15 - TUE at 12:30
+date occurred to:
+
+07/07/15 - TUE at 18:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 07/10/15 - FRI at 11:45
+
+

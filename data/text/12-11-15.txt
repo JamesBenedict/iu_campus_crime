@@ -1,0 +1,154 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/11/2015 00:00 to 12/11/2015 23:59
+date reported: 12/11/15 - FRI at 02:19
+location:
+
+cad event #:
+
+15-12-11-029045
+
+WRIGHT QUAD, 501 N. JORDAN, MEET AT CAMPBELL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/11/15 - FRI at 02:30
+date reported: 12/11/15 - FRI at 07:05
+general location:
+
+report #:
+
+153368
+
+HPER -SCHOOL OF PUBLIC HEALTH - On Campus
+
+date occurred from: 12/11/15 - FRI at 05:55
+date occurred to:
+
+12/11/15 - FRI at 07:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 12/14/15 - MON at 09:40
+date reported: 12/11/15 - FRI at 10:31
+general location:
+
+report #:
+
+153372
+
+ALPHA TAU OMEGA - Non-campus building or property
+
+date occurred from: 12/11/15 - FRI at 03:32
+date occurred to:
+
+12/11/15 - FRI at 03:35
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 12/11/15 - FRI at 22:01
+date reported: 12/11/15 - FRI at 13:15
+location:
+
+cad event #:
+
+15-12-11-029092
+
+EIGENMANN HALL, 1900 E. 10TH STREET
+
+incident: SALE/MANUFACTURING MARIJUANA
+final incident: SALE/MANUFACTURING MARIJUANA
+disposition: NO CASE REPORT
+modified date: 12/14/15 - MON at 08:29
+date reported: 12/11/15 - FRI at 13:43
+location:
+
+cad event #:
+
+15-12-11-029098
+
+FOREST QUAD, 1725 E. 3RD STREET, B TOWER 7TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/11/15 - FRI at 14:00
+date reported: 12/11/15 - FRI at 14:38
+location:
+
+cad event #:
+
+15-12-11-029102
+
+SPRUCE HALL, 1801 E. JONES AVE, 2ND FLOOR B SIDE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/11/15 - FRI at 15:04
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/11/2015 00:00 to 12/11/2015 23:59
+
+date reported:
+location:
+
+12/11/15 - FRI at 17:02
+
+cad event #:
+
+15-12-11-029115
+
+COLLINS EDMONDSON, 541 N WOODLAWN, 2ND FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/11/15 - FRI at 17:13
+date reported: 12/11/15 - FRI at 22:18
+general location:
+
+report #:
+
+153380
+
+IMU PAY LOT #1 - On Campus
+
+date occurred from: 12/11/15 - FRI at 22:18
+date occurred to:
+
+12/11/15 - FRI at 22:21
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 12/14/15 - MON at 08:08
+date reported: 12/11/15 - FRI at 23:36
+location:
+
+cad event #:
+
+SPRUCE HALL, 1801 E. JONES AVE, 3RD FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/11/15 - FRI at 23:51
+
+15-12-11-029147
+
+

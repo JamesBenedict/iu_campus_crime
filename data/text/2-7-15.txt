@@ -1,0 +1,273 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/07/2015 00:00 to 02/07/2015 23:59
+date reported: 02/07/15 - SAT at 00:59
+general location:
+
+report #:
+
+150364
+
+ALL OTHER NON-UNIVERSITY - 411 E. 8TH ST
+
+date occurred from: 02/07/15 - SAT at 00:55
+date occurred to:
+
+02/07/15 - SAT at 00:59
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition:
+
+CLOSED CASE- ARREST
+
+modified date: 02/07/15 - SAT at 10:31
+
+date reported: 02/07/15 - SAT at 01:06
+general location:
+
+report #:
+
+150365
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/06/15 - FRI at 21:00
+date occurred to:
+
+02/07/15 - SAT at 01:08
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/09/15 - MON at 09:23
+
+date reported: 02/07/15 - SAT at 01:11
+general location:
+
+report #:
+
+150368
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 02/07/15 - SAT at 01:12
+date occurred to:
+
+02/07/15 - SAT at 01:16
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/07/15 - SAT at 22:43
+
+date reported: 02/07/15 - SAT at 01:23
+general location:
+
+report #:
+
+150366
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 02/07/15 - SAT at 01:25
+date occurred to:
+
+02/07/15 - SAT at 02:05
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/07/15 - SAT at 23:47
+
+date reported: 02/07/15 - SAT at 02:32
+general location:
+
+report #:
+
+150370
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 02/07/15 - SAT at 02:29
+date occurred to:
+
+02/07/15 - SAT at 02:32
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: REFERRED
+modified date: 02/09/15 - MON at 10:31
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/07/2015 00:00 to 02/07/2015 23:59
+
+date reported: 02/07/15 - SAT at 02:43
+location:
+
+cad event #:
+
+15-02-07-003098
+
+FOSTER JENKINSON HALL, 1000 N. FEE LANE, 3RD FL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 02/07/15 - SAT at 02:51
+date reported: 02/07/15 - SAT at 03:37
+general location:
+
+report #:
+
+150369
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 02/07/15 - SAT at 03:34
+date occurred to:
+
+02/07/15 - SAT at 03:37
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // UNLAWFUL ENTRY - NO FORCE // DISORDERLY
+CONDUCT // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/07/15 - SAT at 09:51
+
+date reported: 02/07/15 - SAT at 05:10
+general location:
+
+report #:
+
+150372
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 02/07/15 - SAT at 05:00
+date occurred to:
+
+02/07/15 - SAT at 05:10
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/07/15 - SAT at 11:58
+
+date reported: 02/07/15 - SAT at 05:39
+general location:
+
+report #:
+
+150371
+
+HEPBURN APTS - On Campus - in any student residential facility
+
+date occurred from: 02/07/15 - SAT at 05:35
+date occurred to:
+
+02/07/15 - SAT at 05:41
+
+incident/offenses:
+
+DISORDERLY CONDUCT
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 02/09/15 - MON at 10:23
+
+date reported: 02/07/15 - SAT at 11:42
+location:
+
+cad event #:
+
+ALL OTHER NON-UNIVERSITY, , 100 W 10TH
+
+incident: DOMESTIC DISTURBANCES
+final incident: DOMESTIC DISTURBANCES
+disposition: FAILED TO LOCATE
+modified date: 02/07/15 - SAT at 11:44
+
+15-02-07-003118
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 02/07/2015 00:00 to 02/07/2015 23:59
+
+date reported: 02/07/15 - SAT at 16:33
+general location:
+
+report #:
+
+150374
+
+WOODLAWN AVENUE/NORTH OF - Public property
+
+date occurred from: 02/07/15 - SAT at 16:30
+date occurred to:
+
+02/07/15 - SAT at 16:33
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA // POSSESSION - MARIJUANA // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: OPEN CASE
+modified date: 02/09/15 - MON at 08:34
+
+date reported: 02/07/15 - SAT at 23:31
+location:
+
+cad event #:
+
+15-02-07-003165
+
+INDIANA MEMORIAL UNION, 900 E. 7TH STREET, IMU FIRST FLOOR WOMENS RESTROOM NEAR ESCALATOR
+
+incident: SUSPICIOUS PERSON OR VEHICLE
+final incident: INDECENT EXPOSURE
+disposition: FAILED TO LOCATE
+modified date: 02/07/15 - SAT at 23:46
+date reported: 02/07/15 - SAT at 23:46
+general location:
+
+report #:
+
+150377
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 02/07/15 - SAT at 23:48
+date occurred to:
+
+02/08/15 - SUN at 01:13
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 02/09/15 - MON at 09:50
+
+

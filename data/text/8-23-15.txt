@@ -1,0 +1,294 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/23/2015 00:00 to 08/23/2015 23:59
+date reported: 08/23/15 - SUN at 00:09
+location:
+
+cad event #:
+
+15-08-23-018847
+
+WRIGHT QUAD, 501 N. JORDAN, 9-2ND FLOOR
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 08/23/15 - SUN at 00:26
+date reported: 08/23/15 - SUN at 00:29
+location:
+
+cad event #:
+
+15-08-23-018849
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 8TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/23/15 - SUN at 00:49
+date reported: 08/23/15 - SUN at 00:30
+general location:
+
+report #:
+
+151973
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 08/23/15 - SUN at 00:28
+date occurred to:
+
+08/23/15 - SUN at 00:35
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // OTHER DISTURBANCES // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/23/15 - SUN at 06:31
+date reported: 08/23/15 - SUN at 00:39
+general location:
+
+report #:
+
+151975
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/23/15 - SUN at 00:20
+date occurred to:
+
+08/23/15 - SUN at 00:39
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/23/15 - SUN at 04:19
+date reported: 08/23/15 - SUN at 01:16
+general location:
+
+report #:
+
+151974
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 08/23/15 - SUN at 01:10
+date occurred to:
+
+08/23/15 - SUN at 01:16
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/23/15 - SUN at 03:37
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/23/2015 00:00 to 08/23/2015 23:59
+
+date reported: 08/23/15 - SUN at 01:36
+location:
+
+cad event #:
+
+15-08-23-018860
+
+ALL OTHER NON-UNIVERSITY, , 300 BLOCK E 14TH
+
+incident: PUBLIC INTOXICATION
+final incident: ASSIST OTHER AGENCY
+disposition: NO CASE REPORT
+modified date: 08/23/15 - SUN at 01:45
+date reported: 08/23/15 - SUN at 01:47
+general location:
+
+report #:
+
+151976
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/23/15 - SUN at 00:01
+date occurred to:
+
+08/23/15 - SUN at 01:48
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/23/15 - SUN at 06:03
+date reported: 08/23/15 - SUN at 02:32
+general location:
+
+report #:
+
+151977
+
+ALL OTHER NON-UNIVERSITY - 4TH @ WALNUT
+
+date occurred from: 08/23/15 - SUN at 02:31
+date occurred to:
+
+08/23/15 - SUN at 04:43
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // DRIVING UNDER THE INFLUENCE // ILLEGAL
+POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/24/15 - MON at 08:33
+date reported: 08/23/15 - SUN at 02:53
+general location:
+
+report #:
+
+151979
+
+MCNUTT QUAD BACK LOT - On Campus
+
+date occurred from: 08/23/15 - SUN at 00:01
+date occurred to:
+
+08/23/15 - SUN at 02:57
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/23/15 - SUN at 06:24
+date reported: 08/23/15 - SUN at 03:48
+general location:
+
+report #:
+
+151978
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 08/23/15 - SUN at 03:20
+date occurred to:
+
+08/23/15 - SUN at 03:48
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 08/23/15 - SUN at 05:51
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/23/2015 00:00 to 08/23/2015 23:59
+
+date reported: 08/23/15 - SUN at 08:53
+general location:
+
+report #:
+
+151980
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 08/22/15 - SAT at 22:15
+date occurred to:
+
+08/23/15 - SUN at 00:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 08/23/15 - SUN at 12:54
+date reported: 08/23/15 - SUN at 11:05
+general location:
+
+report #:
+
+151981
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 08/23/15 - SUN at 01:10
+date occurred to:
+
+08/23/15 - SUN at 01:15
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED
+
+disposition: REFERRED
+modified date: 08/24/15 - MON at 09:15
+date reported: 08/23/15 - SUN at 17:21
+general location:
+
+report #:
+
+151983
+
+CAMPUS VIEW APTS. - On Campus - in any student residential facility
+
+date occurred from: 08/23/15 - SUN at 17:15
+date occurred to:
+
+08/23/15 - SUN at 17:33
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/23/15 - SUN at 22:22
+date reported: 08/23/15 - SUN at 21:28
+location:
+
+cad event #:
+
+15-08-23-018903
+
+FOSTER HARPER HALL, 1000 N. FEE LANE, CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/23/15 - SUN at 21:40
+date reported: 08/23/15 - SUN at 23:51
+general location:
+
+report #:
+
+151985
+
+ASHTON - On Campus - in any student residential facility
+
+date occurred from: 08/22/15 - SAT at 21:49
+date occurred to:
+
+08/23/15 - SUN at 09:30
+
+incident/offenses:
+
+RAPE // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: OPEN CASE
+modified date: 08/24/15 - MON at 03:41
+
+

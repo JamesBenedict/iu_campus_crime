@@ -1,0 +1,79 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Dec 18, 2014 to Dec 18, 2014.
+
+date reported: 12/18/14 - THU at 00:40
+
+location : BRISCOE QUAD
+
+date and time occurred from - occurred to:
+incident : SMOKING
+disposition: : NO CASE REPORT
+date reported: 12/18/14 - THU at 03:21
+
+event #: 14-12-18-029662
+report #:
+
+location : EIGENMANN HALL
+
+event #: 14-12-18-029679
+
+date and time occurred from - occurred to: 12/18/14 - THU at 03:21 - 12/18/14 - THU at 03:21
+incident : ILLEGAL POSSESSION/CONSUMPTION
+report #: 143595
+disposition: : CLOSED BY ARREST
+date reported: 12/18/14 - THU at 13:39
+date and time occurred from - occurred to:
+incident : VANDALISM
+disposition: : INACTIVE.
+date reported: 12/18/14 - THU at 19:04
+
+location : BELL TOWER
+
+11/03/14 - MON at 12:00 - 12/17/14 - WED at 08:00
+report #: 143597
+
+location : REDBUD N 900-1600
+
+date and time occurred from - occurred to:
+incident : DISTURBANCES
+disposition: : NO CASE REPORT
+date reported: 12/18/14 - THU at 22:15
+
+event #: 14-12-18-029728
+report #:
+
+location : MCNUTT QUAD
+
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : FAILED TO LOCATE
+date reported: 12/18/14 - THU at 23:26
+
+event #: 14-12-18-029702
+
+event #: 14-12-18-029734
+report #:
+
+location : TETER QUAD
+
+event #: 14-12-18-029745
+
+date and time occurred from - occurred to: 12/18/14 - THU at 23:26 - 12/19/14 - FRI at 00:03
+incident : ASSAULT - SIMPLE, NOT AGGRAVATED/ RESISTING LAW ENFORCEMENT/
+report #: 143601
+ILLEGAL CONSUMPTION
+disposition: : CLOSED BY ARREST.
+6 incidents listed.
+
+print date and time
+
+12/19/2014 11:59:14AM
+
+at page no.
+
+1
+
+

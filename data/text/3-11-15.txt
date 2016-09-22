@@ -1,0 +1,199 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/11/2015 00:00 to 03/11/2015 23:59
+
+date reported: 03/11/15 - WED at 01:33
+general location:
+
+report #:
+
+ALL OTHER NON-UNIVERSITY – 8
+
+150782
+TH
+
+@ FESS
+
+date occurred from: 03/11/15 - WED at 00:00
+date occurred to:
+
+03/11/15 - WED at 01:33
+
+incident/offenses:
+
+FALSE IDENTIFICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/11/15 - WED at 03:47
+date reported: 03/11/15 - WED at 03:11
+general location:
+
+report #:
+
+150783
+
+ALL OTHER NON-UNIVERSITY – 17
+
+TH
+
+@ WALNUT
+
+date occurred from: 03/11/15 - WED at 03:09
+date occurred to:
+
+03/11/15 - WED at 03:11
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/12/15 - THU at 03:40
+date reported: 03/11/15 - WED at 12:16
+general location:
+
+report #:
+
+150784
+
+MUSIC ADDITION&MERRILL HALL - On Campus
+
+date occurred from: 03/11/15 - WED at 12:00
+date occurred to:
+
+03/11/15 - WED at 12:15
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 03/11/15 - WED at 14:48
+date reported: 03/11/15 - WED at 13:29
+general location:
+
+report #:
+
+150786
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 03/10/15 - TUE at 16:40
+date occurred to:
+
+03/10/15 - TUE at 17:40
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/12/15 - THU at 10:17
+date reported: 03/11/15 - WED at 13:29
+general location:
+
+report #:
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 03/11/15 - WED at 16:40
+date occurred to:
+
+03/11/15 - WED at 17:40
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/12/15 - THU at 10:17
+
+150787
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/11/2015 00:00 to 03/11/2015 23:59
+
+date reported: 03/11/15 - WED at 17:34
+general location:
+
+report #:
+
+150790
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 03/11/15 - WED at 16:00
+date occurred to:
+
+03/11/15 - WED at 17:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/11/15 - WED at 22:29
+date reported: 03/11/15 - WED at 18:38
+location:
+
+cad event #:
+
+15-03-11-006139
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, BUS STOP IN WHITE LOT
+
+incident: THEFT-AUTOS
+final incident: THEFT-AUTOS
+disposition: CANCELLED EVENT
+modified date: 03/11/15 - WED at 19:08
+
+date reported: 03/11/15 - WED at 19:51
+general location:
+
+report #:
+
+150793
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 03/11/15 - WED at 18:30
+date occurred to:
+
+12/21/15 - MON at 20:08
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 03/11/15 - WED at 22:25
+date reported:
+
+03/11/15 - WED at 16:46
+
+general location:
+
+report #:
+
+150789
+
+ALL OTHER NON-UNIVERSITY- COTTAGE GROVE
+
+date occurred from: 03/11/15 - WED at 16:00
+date occurred to:
+
+04/14/15 - TUE at 21:00
+
+incident/offenses:
+
+SALE/MANUFACTURING DANGEROUS NON-NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/24/15 - FRI at 16:07
+
+

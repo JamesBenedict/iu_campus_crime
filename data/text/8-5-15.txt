@@ -1,0 +1,83 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/05/2015 00:00 to 08/05/2015 23:59
+date reported: 08/05/15 - WED at 00:10
+general location:
+
+report #:
+
+151839
+
+JORDAN HALL - On Campus
+
+date occurred from: 08/04/15 - TUE at 17:00
+date occurred to:
+
+08/05/15 - WED at 00:10
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 08/05/15 - WED at 09:56
+date reported: 08/05/15 - WED at 01:40
+general location:
+
+report #:
+
+151840
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 08/05/15 - WED at 01:40
+date occurred to:
+
+08/05/15 - WED at 03:56
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // SALE/MANUFACTURING MARIJUANA
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/05/15 - WED at 08:38
+date reported: 08/05/15 - WED at 01:46
+general location:
+
+report #:
+
+ALL OTHER NON-UNIVERSITY - 4
+
+151841
+TH
+
+@ GRANT
+
+date occurred from: 08/05/15 - WED at 01:45
+date occurred to:
+
+08/05/15 - WED at 01:46
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/05/15 - WED at 11:14
+date reported: 08/05/15 - WED at 17:39
+location:
+
+cad event #:
+
+15-08-05-017453
+
+10TH STREET/WEST OF JORDAN, WEST OF JORDAN 10TH STREET, 10TH AND WOODLAWN - PARK
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 08/05/15 - WED at 17:54
+
+

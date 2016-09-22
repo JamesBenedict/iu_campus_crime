@@ -1,0 +1,80 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/27/2015 00:00 to 05/27/2015 23:59
+date reported: 05/27/15 - WED at 01:52
+general location:
+
+report #:
+
+151498
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 05/27/15 - WED at 00:01
+date occurred to:
+
+05/27/15 - WED at 01:51
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 05/28/15 - THU at 13:49
+date reported: 05/27/15 - WED at 05:49
+location:
+
+cad event #:
+
+15-05-27-012833
+
+CARMICHAEL BUILDING, 530 E. KIRKWOOD, INDIANA AND KIRKWOOD
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: UNFOUNDED
+modified date: 05/29/15 - FRI at 08:39
+date reported: 05/27/15 - WED at 10:48
+general location:
+
+report #:
+
+151499
+
+LAMDA CHI ALPHA - Non-campus building or property
+
+date occurred from: 05/27/15 - WED at 03:45
+date occurred to:
+
+05/27/15 - WED at 05:00
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 05/28/15 - THU at 15:20
+date reported: 05/27/15 - WED at 14:46
+general location:
+
+report #:
+
+151501
+
+POPLARS - On Campus
+
+date occurred from: 05/27/15 - WED at 14:45
+date occurred to:
+
+05/27/15 - WED at 14:46
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: OPEN CASE
+modified date: 05/27/15 - WED at 19:20
+
+

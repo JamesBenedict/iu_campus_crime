@@ -1,0 +1,40 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/02/2015 00:00 to 08/02/2015 23:59
+date reported: 08/02/15 - SUN at 21:04
+location:
+
+cad event #:
+
+15-08-02-017265
+
+VON LEE LOT, 100 BLOCK N. INDIANA AVE, FRONT ROW FACING PEOPLE'S PARK
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: UNFOUNDED
+modified date: 08/02/15 - SUN at 21:35
+date reported: 08/02/15 - SUN at 21:15
+general location:
+
+report #:
+
+151828
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 08/02/15 - SUN at 21:00
+date occurred to:
+
+08/02/15 - SUN at 21:15
+
+incident/offenses:
+
+DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/03/15 - MON at 09:08
+
+

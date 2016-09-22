@@ -1,0 +1,48 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/22/2015 00:00 to 11/22/2015 23:59
+date reported: 11/22/15 - SUN at 01:08
+general location:
+
+report #:
+
+153232
+
+DUNN STREET/SOUTH OF 10TH - Public property
+
+date occurred from: 11/22/15 - SUN at 01:08
+date occurred to:
+
+11/22/15 - SUN at 06:54
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/22/15 - SUN at 07:19
+date reported: 11/22/15 - SUN at 02:19
+general location:
+
+report #:
+
+153233
+
+IU HEALTH BLOOMINGTON HOSPITAL - Non-reportable Location
+
+date occurred from: 11/22/15 - SUN at 02:04
+date occurred to:
+
+11/22/15 - SUN at 02:43
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // RESISTING LAW ENFORCEMENT // HARASSMENT/INTIMIDATION //
+DISORDERLY CONDUCT
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/22/15 - SUN at 07:35
+
+

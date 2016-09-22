@@ -1,0 +1,146 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/01/2015 00:00 to 12/01/2015 23:59
+date reported: 12/01/15 - TUE at 00:15
+general location:
+
+report #:
+
+153262
+
+FOSTER HARPER HALL - On Campus - in any student residential facility
+
+date occurred from: 11/30/15 - MON at 23:45
+date occurred to:
+
+12/01/15 - TUE at 00:15
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 12/02/15 - WED at 00:46
+date reported: 12/01/15 - TUE at 13:38
+general location:
+
+report #:
+
+153263
+
+MEMORIAL HALL - On Campus
+
+date occurred from: 11/23/15 - MON at 12:00
+date occurred to:
+
+11/30/15 - MON at 20:00
+
+incident/offenses:
+
+STALKING
+
+disposition: OPEN CASE
+modified date: 12/02/15 - WED at 09:35
+date reported: 12/01/15 - TUE at 16:07
+general location:
+
+report #:
+
+153267
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 12/01/15 - TUE at 15:50
+date occurred to:
+
+12/01/15 - TUE at 16:07
+
+incident/offenses:
+
+SALE/MANUFACTURING MARIJUANA // POSSESSION - MARIJUANA // POSSESSION OF DRUG
+PARAPHERNALIA
+disposition: CLOSED CASE- NO ARREST
+modified date: 12/02/15 - WED at 08:19
+date reported: 12/01/15 - TUE at 17:49
+general location:
+
+report #:
+
+153265
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 12/01/15 - TUE at 17:30
+date occurred to:
+
+12/01/15 - TUE at 17:49
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 12/02/15 - WED at 09:57
+date reported: 12/01/15 - TUE at 18:59
+general location:
+
+report #:
+
+153266
+
+WILLKIE SOUTH - On Campus - in any student residential facility
+
+date occurred from: 11/20/15 - FRI at 17:00
+date occurred to:
+
+11/29/15 - SUN at 18:30
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 12/01/15 - TUE at 22:09
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/01/2015 00:00 to 12/01/2015 23:59
+date reported: 12/01/15 - TUE at 21:33
+location:
+
+cad event #:
+
+15-12-01-028260
+
+COLLINS SMITH, 541 N WOODLAWN, COLLINS- MEET AT LOADING DOCK ON PARK AVE.
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/01/15 - TUE at 21:48
+date reported: 12/01/15 - TUE at 23:16
+general location:
+
+report #:
+
+153269
+
+CAMPUS VIEW APTS. - On Campus - in any student residential facility
+
+date occurred from: 11/23/15 - MON at 00:00
+date occurred to:
+
+11/23/15 - MON at 23:59
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 12/02/15 - WED at 00:10
+
+

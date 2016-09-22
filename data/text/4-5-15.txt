@@ -1,0 +1,96 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/05/2015 00:00 to 04/05/2015 23:59
+
+date reported:
+location:
+
+04/05/15 - SUN at 01:29
+
+cad event #:
+
+15-04-05-008175
+
+WRIGHT QUAD, 501 N. JORDAN, STOCKWELL HOUSE 3, 100 LEVEL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/05/15 - SUN at 01:42
+date reported: 04/05/15 - SUN at 01:32
+general location:
+
+report #:
+
+150986
+
+ALL OTHER NON-UNIVERSITY – 500 BLK N GRANT
+
+date occurred from: 04/05/15 - SUN at 01:00
+date occurred to:
+
+04/05/15 - SUN at 01:32
+
+incident/offenses:
+
+FIRE- NOT ARSON
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 04/06/15 - MON at 09:20
+date reported: 04/05/15 - SUN at 01:38
+location:
+
+cad event #:
+
+15-04-05-008177
+
+ALL OTHER NON-UNIVERSITY, , 500 BLK N. LINCOLN
+
+incident: ALL STRUCTURE-UNDER CONSTRUCTION,OUT BLD
+final incident: FIRE- NOT ARSON
+disposition: CLOSED CASE- RECORDS ONLY.
+modified date: 04/05/15 - SUN at 01:54
+date reported: 04/05/15 - SUN at 02:47
+general location:
+
+report #:
+
+150987
+
+ALL OTHER NON-UNIVERSITY - KIRKWOOD COLLEGE
+
+date occurred from: 04/05/15 - SUN at 02:47
+date occurred to:
+
+04/05/15 - SUN at 04:19
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/06/15 - MON at 08:57
+date reported: 04/05/15 - SUN at 17:26
+general location:
+
+report #:
+
+150989
+
+READ CENTER - On Campus - in any student residential facility
+
+date occurred from: 04/05/15 - SUN at 02:00
+date occurred to:
+
+04/05/15 - SUN at 13:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/05/15 - SUN at 21:53
+
+

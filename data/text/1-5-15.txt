@@ -1,0 +1,63 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Jan 05, 2015 to Jan 05, 2015.
+
+date reported: 01/05/15 - MON at 09:37
+date and time occurred from - occurred to:
+incident : VANDALISM
+disposition: : INACTIVE
+date reported: 01/05/15 - MON at 12:36
+date and time occurred from - occurred to:
+incident : HARASSMENT
+disposition: : ACTIVE
+date reported: 01/05/15 - MON at 20:09
+date and time occurred from - occurred to:
+incident : DOMESTIC DISTURBANCES
+disposition: : NO CASE REPORT
+date reported: 01/05/15 - MON at 21:34
+
+location : BRISCOE QUAD BACK LOT
+
+event #: 15-01-05-000173
+
+11/01/14 - SAT at 09:00 - 01/05/15 - MON at 09:37
+report #: 150005
+
+location : DELTA GAMMA
+
+event #: 15-01-05-000181
+
+01/05/15 - MON at 12:36 - 01/05/15 - MON at 12:36
+report #: 150006
+
+location : 1200 BLK N DUNN
+
+event #: 15-01-05-000202
+
+01/05/15 - MON at 20:05 - 01/05/15 - MON at 20:10
+report #: 150009
+
+location : READ CENTER
+
+event #: 15-01-05-000205
+
+date and time occurred from - occurred to:
+incident : FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: : NO CASE REPORT
+4 incidents listed.
+
+report #:
+
+print date and time
+
+1/7/2015
+
+12:04:52PM
+
+at page no.
+
+1
+
+

@@ -1,0 +1,60 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/29/2015 00:00 to 11/29/2015 23:59
+date reported: 11/29/15 - SUN at 17:47
+general location:
+
+report #:
+
+153253
+
+FOSTER SHEA HALL - On Campus - in any student residential facility
+
+date occurred from: 11/12/15 - THU at 19:00
+date occurred to:
+
+11/29/15 - SUN at 17:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: UNFOUNDED
+modified date: 11/30/15 - MON at 10:03
+date reported: 11/29/15 - SUN at 20:43
+general location:
+
+report #:
+
+153255
+
+SIGMA ALPHA MU - Non-campus building or property
+
+date occurred from: 11/25/15 - WED at 16:00
+date occurred to:
+
+11/29/15 - SUN at 13:15
+
+incident/offenses:
+
+FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 11/29/15 - SUN at 22:44
+date reported: 11/29/15 - SUN at 23:14
+location:
+
+cad event #:
+
+15-11-29-028139
+
+MCNUTT QUAD, 1101 N. FEE LANE, BOCOBO 300 MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/29/15 - SUN at 23:29
+
+

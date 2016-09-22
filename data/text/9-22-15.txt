@@ -1,0 +1,159 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/22/2015 00:00 to 09/22/2015 23:59
+date reported: 09/22/15 - TUE at 14:20
+general location:
+
+report #:
+
+152415
+
+TETER QUAD COMMON AREA - On Campus
+
+date occurred from: 09/22/15 - TUE at 11:15
+date occurred to:
+
+09/22/15 - TUE at 13:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 09/23/15 - WED at 08:11
+date reported: 09/22/15 - TUE at 15:26
+general location:
+
+report #:
+
+152417
+
+ASHTON JOHNSTON - On Campus - in any student residential facility
+
+date occurred from: 09/15/15 - TUE at 12:00
+date occurred to:
+
+09/20/15 - SUN at 14:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/22/15 - TUE at 17:31
+date reported: 09/22/15 - TUE at 21:06
+location:
+
+cad event #:
+
+15-09-22-022085
+
+MCNUTT QUAD, 1101 N. FEE LANE, BOCOBO 1
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/22/15 - TUE at 21:17
+date reported: 09/22/15 - TUE at 21:18
+general location:
+
+report #:
+
+152423
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/22/15 - TUE at 21:15
+date occurred to:
+
+09/22/15 - TUE at 21:23
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/23/15 - WED at 00:03
+date reported: 09/22/15 - TUE at 21:25
+location:
+
+cad event #:
+
+15-09-22-022087
+
+ASHTON COMMON AREA, , SMOKERS TABLE OUTSIDE OF HERSHEY NEAR SUNRISE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/22/15 - TUE at 21:37
+date reported: 09/22/15 - TUE at 21:35
+general location:
+
+report #:
+
+152422
+
+TENTH STREET LOT - On Campus
+
+date occurred from: 09/22/15 - TUE at 21:30
+date occurred to:
+
+09/22/15 - TUE at 21:35
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/22/15 - TUE at 22:16
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/22/2015 00:00 to 09/22/2015 23:59
+date reported: 09/22/15 - TUE at 21:50
+general location:
+
+report #:
+
+152424
+
+SRSC - On Campus
+
+date occurred from: 09/22/15 - TUE at 21:50
+date occurred to:
+
+09/22/15 - TUE at 21:57
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/22/15 - TUE at 23:50
+date reported: 09/22/15 - TUE at 23:11
+general location:
+
+report #:
+
+152428
+
+UNION STREET/NORTH OF 10TH - Public property
+
+date occurred from: 09/22/15 - TUE at 23:11
+date occurred to:
+
+09/22/15 - TUE at 23:16
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/23/15 - WED at 05:33
+
+

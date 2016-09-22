@@ -1,0 +1,40 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/30/2015 00:00 to 05/30/2015 23:59
+date reported: 05/30/15 - SAT at 01:17
+general location:
+
+report #:
+
+151512
+
+ATWATER AVENUE/EAST OF JORDAN - Public property
+
+date occurred from: 05/30/15 - SAT at 01:16
+date occurred to:
+
+05/30/15 - SAT at 01:31
+
+incident/offenses:
+
+NO OPER, CHAUFF, OR PUBLIC PASS LICENSE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/30/15 - SAT at 05:27
+date reported: 05/30/15 - SAT at 20:14
+location:
+
+cad event #:
+
+15-05-30-013075
+
+ALL OTHER NON-UNIVERSITY, 430 E KIRKWOOD, ALLEY BEHIND FALAFELS
+
+incident: DOMESTIC DISTURBANCES
+final incident: DOMESTIC DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 05/30/15 - SAT at 20:25
+
+

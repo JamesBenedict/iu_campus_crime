@@ -1,0 +1,146 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/02/2015 00:00 to 09/02/2015 23:59
+date reported: 09/02/15 - WED at 01:49
+general location:
+
+report #:
+
+152119
+
+ALL OTHER NON-UNIVERSITY – KIRKWOOD @ DUNN
+
+date occurred from: 09/02/15 - WED at 01:49
+date occurred to:
+
+09/02/15 - WED at 01:49
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/02/15 - WED at 10:38
+date reported: 09/02/15 - WED at 01:55
+location:
+
+cad event #:
+
+15-09-02-019938
+
+3RD STREET/WEST OF JORDAN,
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 09/02/15 - WED at 01:58
+date reported: 09/02/15 - WED at 02:16
+general location:
+
+report #:
+
+152132
+
+PI KAPPA PHI - Non-campus building or property
+
+date occurred from: 09/02/15 - WED at 02:20
+date occurred to:
+
+09/02/15 - WED at 02:29
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/04/15 - FRI at 05:53
+date reported: 09/02/15 - WED at 13:59
+general location:
+
+report #:
+
+152121
+
+SERVICE BUILDING - On Campus
+
+date occurred from: 08/26/15 - WED at 08:00
+date occurred to:
+
+09/02/15 - WED at 12:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 09/03/15 - THU at 09:13
+date reported: 09/02/15 - WED at 16:10
+general location:
+
+report #:
+
+152124
+
+WRIGHT EDUCATION BLDG - On Campus
+
+date occurred from: 09/02/15 - WED at 12:00
+date occurred to:
+
+09/02/15 - WED at 16:10
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // WELFARE CHECK
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 09/02/15 - WED at 19:49
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/02/2015 00:00 to 09/02/2015 23:59
+
+date reported: 09/02/15 - WED at 22:14
+location:
+
+cad event #:
+
+15-09-02-020015
+
+READ CENTER, 125 S. JORDAN, CURRY 2 NORTH CIRCLE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/02/15 - WED at 22:29
+date reported: 09/02/15 - WED at 23:06
+location:
+
+cad event #:
+
+15-09-02-020021
+
+CAMPUS VIEW APTS., 800 N. UNION
+
+incident: TRESPASS & MALICIOUS TRESPASS
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: FAILED TO LOCATE
+modified date: 09/02/15 - WED at 23:20
+date reported: 09/02/15 - WED at 23:39
+location:
+
+cad event #:
+
+15-09-02-020023
+
+FOSTER MAGEE HALL, 1000 N. FEE LANE, 2 FOSTER DRIVE NORTH SIDE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/02/15 - WED at 23:51
+
+

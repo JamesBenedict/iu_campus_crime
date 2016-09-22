@@ -1,0 +1,132 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/08/2015 00:00 to 05/08/2015 23:59
+date reported: 05/08/15 - FRI at 00:41
+location:
+
+cad event #:
+
+15-05-08-011573
+
+DUNN STREET/SOUTH OF 10TH, SOUTH OF 10TH DUNN STREET, KIRKWOOD DUNN
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 05/08/15 - FRI at 00:44
+date reported: 05/08/15 - FRI at 01:35
+location:
+
+cad event #:
+
+15-05-08-011578
+
+COLLINS SMITH, 541 N WOODLAWN, LOADING DOCK
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: NO CASE REPORT
+modified date: 05/08/15 - FRI at 01:40
+date reported: 05/08/15 - FRI at 03:00
+general location:
+
+report #:
+
+151394
+
+ATWATER AVENUE/EAST OF JORDAN - Public property
+
+date occurred from: 05/08/15 - FRI at 03:00
+date occurred to:
+
+05/08/15 - FRI at 04:34
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/08/15 - FRI at 07:40
+date reported: 05/08/15 - FRI at 03:41
+location:
+
+cad event #:
+
+15-05-08-011581
+
+WELLS LIBRARY, 1320 E. 10TH STREET
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: FAILED TO LOCATE
+modified date: 05/08/15 - FRI at 03:46
+date reported: 05/08/15 - FRI at 09:36
+general location:
+
+report #:
+
+151397
+
+ALL OTHER NON-CAMPUS- IU HEALTH BLOOMINGTON HOSPITAL
+
+date occurred from: 05/07/15 - THU at 07:00
+date occurred to:
+
+05/08/15 - FRI at 09:15
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: OPEN CASE
+modified date: 05/11/15 - MON at 11:45
+date reported: 05/08/15 - FRI at 12:55
+general location:
+
+report #:
+
+151402
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 05/07/15 - THU at 12:45
+date occurred to:
+
+05/08/15 - FRI at 15:27
+
+incident/offenses:
+
+SHOPLIFTING // RECEIVING/POSSESSING STOLEN PROPERTY
+
+disposition: OPEN CASE
+modified date: 05/11/15 - MON at 11:44
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/08/2015 00:00 to 05/08/2015 23:59
+date reported: 05/08/15 - FRI at 15:27
+general location:
+
+report #:
+
+151404
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 05/08/15 - FRI at 15:00
+date occurred to:
+
+05/08/15 - FRI at 15:30
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/08/15 - FRI at 20:53
+
+

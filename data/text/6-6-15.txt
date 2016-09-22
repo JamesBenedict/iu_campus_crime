@@ -1,0 +1,47 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 06/06/2015 00:00 to 06/06/2015 23:59
+date reported: 06/06/15 - SAT at 01:20
+general location:
+
+report #:
+
+151538
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 06/06/15 - SAT at 01:20
+date occurred to:
+
+06/06/15 - SAT at 02:42
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/06/15 - SAT at 06:15
+date reported: 06/06/15 - SAT at 04:54
+general location:
+
+report #:
+
+151539
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 06/06/15 - SAT at 04:54
+date occurred to:
+
+06/06/15 - SAT at 05:26
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/06/15 - SAT at 05:52
+
+

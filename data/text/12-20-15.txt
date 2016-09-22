@@ -1,0 +1,58 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 12/20/2015 00:00 to 12/20/2015 23:59
+date reported: 12/20/15 - SUN at 03:17
+
+report #:
+
+153460
+
+general location:ALL OTHER NON-UNIVERSITY - KINSER AND BYPASS
+date occurred from: 12/20/15 - SUN at 03:17
+date occurred to:
+
+12/20/15 - SUN at 04:39
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 12/21/15 - MON at 08:16
+date reported: 12/20/15 - SUN at 10:59
+location:
+
+cad event #:
+
+15-12-20-029796
+
+ZETA BETA TAU, 1500 N. JORDAN AVE
+
+incident: TRESPASS & MALICIOUS TRESPASS
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: NO CASE REPORT
+modified date: 12/21/15 - MON at 10:35
+date reported: 12/20/15 - SUN at 16:29
+general location:
+
+report #:
+
+153461
+
+4TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 12/20/15 - SUN at 16:25
+date occurred to:
+
+12/20/15 - SUN at 16:29
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // OTHER DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 12/21/15 - MON at 10:40
+
+

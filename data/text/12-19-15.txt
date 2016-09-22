@@ -1,0 +1,81 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime log
+from 12/19/2015 00:00 to 12/19/2015 23:59
+date reported: 12/19/15 - SAT at 10:36
+general location:
+
+report #:
+
+153455
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 12/19/15 - SAT at 10:36
+date occurred to:
+
+12/19/15 - SAT at 11:01
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: REFERRED
+modified date: 12/21/15 - MON at 10:19
+date reported: 12/19/15 - SAT at 10:43
+location:
+
+cad event #:
+
+15-12-19-029751
+
+WILLKIE NORTH, 150 N. ROSE, FLOOR 5TH; 502A
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 12/19/15 - SAT at 11:08
+date reported: 12/19/15 - SAT at 11:14
+general location:
+
+report #:
+
+153456
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 12/19/15 - SAT at 11:14
+date occurred to:
+
+12/19/15 - SAT at 11:36
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: REFERRED
+modified date: 12/21/15 - MON at 10:20
+date reported: 12/19/15 - SAT at 17:11
+general location:
+
+report #:
+
+153458
+
+ZETA BETA TAU - Non-campus building or property
+
+date occurred from: 12/19/15 - SAT at 12:00
+date occurred to:
+
+12/19/15 - SAT at 17:16
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSS-DANGEROUS NON-NARCOTICS // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 12/20/15 - SUN at 12:05
+
+

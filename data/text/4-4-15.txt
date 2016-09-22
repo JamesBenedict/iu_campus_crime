@@ -1,0 +1,88 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/04/2015 00:00 to 04/04/2015 23:59
+
+date reported: 04/04/15 - SAT at 02:21
+general location:
+
+report #:
+
+150981
+
+FORREST AVE./NORTH OF 10T - Public property
+
+date occurred from: 04/04/15 - SAT at 02:15
+date occurred to:
+
+04/04/15 - SAT at 02:21
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: OPEN CASE
+modified date: 04/06/15 - MON at 09:06
+date reported: 04/04/15 - SAT at 03:28
+general location:
+
+report #:
+
+150982
+
+DUNN STREET/NORTH OF 10TH - Public property
+
+date occurred from: 04/04/15 - SAT at 03:26
+date occurred to:
+
+04/04/15 - SAT at 06:01
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/06/15 - MON at 08:41
+date reported: 04/04/15 - SAT at 10:58
+general location:
+
+report #:
+
+150983
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/02/15 - THU at 06:00
+date occurred to:
+
+04/02/15 - THU at 18:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/04/15 - SAT at 14:40
+date reported: 04/04/15 - SAT at 23:58
+general location:
+
+report #:
+
+150984
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 04/05/15 - SUN at 00:00
+date occurred to:
+
+04/05/15 - SUN at 00:22
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/05/15 - SUN at 01:27
+
+

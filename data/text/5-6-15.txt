@@ -1,0 +1,107 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/06/2015 00:00 to 05/06/2015 23:59
+date reported: 05/06/15 - WED at 03:37
+general location:
+
+report #:
+
+151365
+
+ALL OTHER NON-UNIVERSITY - 7TH @ COLLEGE
+
+date occurred from: 05/06/15 - WED at 03:35
+date occurred to:
+
+05/06/15 - WED at 03:37
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // DISORDERLY
+CONDUCT // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/06/15 - WED at 09:42
+date reported: 05/06/15 - WED at 11:06
+location:
+
+cad event #:
+
+15-05-06-011393
+
+Global & International Studies, 355 N. JORDAN, JOB SITE - MEET AT JORDAN & 7TH STREET
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: NO CASE REPORT
+modified date: 05/06/15 - WED at 11:22
+date reported: 05/06/15 - WED at 12:50
+location:
+
+cad event #:
+
+15-05-06-011402
+
+BLOOMINGTON HOSPITAL, 601 W. 2ND STREET
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: NO CASE REPORT
+modified date: 05/06/15 - WED at 12:57
+date reported: 05/06/15 - WED at 18:11
+general location:
+
+report #:
+
+151375
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 04/22/15 - WED at 00:00
+date occurred to:
+
+05/06/15 - WED at 18:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 05/06/15 - WED at 19:45
+date reported: 05/06/15 - WED at 19:51
+general location:
+
+report #:
+
+151376
+
+CROSSTOWN SHOP CTR - On Campus - in any student residential facility
+
+date occurred from: 05/06/15 - WED at 19:30
+date occurred to:
+
+05/06/15 - WED at 19:53
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 05/08/15 - FRI at 07:57
+date reported: 05/06/15 - WED at 23:33
+location:
+
+cad event #:
+
+WRIGHT QUAD, 501 N. JORDAN, CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 05/06/15 - WED at 23:45
+
+15-05-06-011450
+
+

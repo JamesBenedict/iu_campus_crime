@@ -1,0 +1,71 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Jan 01, 2015 to Jan 01, 2015.
+
+date reported: 01/01/15 - THU at 21:21
+date and time occurred from - occurred to:
+incident : TRESPASS
+disposition: : ACTIVE
+date reported: 01/01/15 - THU at 00:22
+date and time occurred from - occurred to:
+incident : PUBLIC INTOXICATION
+disposition: : CLOSED BY ARREST.
+date reported: 01/01/15 - THU at 01:49
+
+location : INDIANA MEMORIAL UNION
+
+event #: 15-01-01-000015
+
+01/01/15 - THU at 21:20 - 01/01/15 - THU at 21:55
+report #: 150001
+
+location : 10TH STREET/EAST OF JORDAN
+
+event #: 15-01-01-030419
+
+01/01/15 - THU at 00:22 - 01/01/15 - THU at 00:40
+report #: 153638
+
+location : ATWATER @ DUNN
+
+event #: 15-01-01-030423
+
+date and time occurred from - occurred to: 01/01/15 - THU at 01:49 - 01/01/15 - THU at 03:32
+incident : DRIVING UNDER THE INFLUENCE
+report #: 153639
+disposition: : CLOSED BY ARREST.
+date reported: 01/01/15 - THU at 03:40
+
+location : 4TH & DUNN PARKING LOT
+
+event #: 15-01-01-030426
+
+date and time occurred from - occurred to:
+incident : DISTURBANCES
+disposition: : NO CASE REPORT
+date reported: 01/01/15 - THU at 04:09
+
+report #:
+
+location : 400 BLK E KIRKWOOD
+
+event #: 15-01-01-030427
+
+date and time occurred from - occurred to: 01/01/15 - THU at 04:09 - 01/01/15 - THU at 04:09
+incident : ASSAULT - SIMPLE, NOT AGGRAVATE/ PUBLIC INTOXICATION/ DISORDERLY CONDUCT report #:153640
+disposition: : CLOSED BY ARREST.
+5 incidents listed.
+
+print date and time
+
+1/7/2015
+
+12:02:51PM
+
+at page no.
+
+1
+
+

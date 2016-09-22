@@ -1,0 +1,284 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/17/2015 00:00 to 09/17/2015 23:59
+date reported: 09/17/15 - THU at 00:55
+location:
+
+cad event #:
+
+15-09-17-021510
+
+ATWATER PARKING LOT, 700-800 E. ATWATER, ALLEYWAY BEHIND ALPHA PHI
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: FAILED TO LOCATE
+modified date: 09/17/15 - THU at 01:06
+date reported: 09/17/15 - THU at 01:55
+general location:
+
+report #:
+
+152337
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 09/17/15 - THU at 01:53
+date occurred to:
+
+09/17/15 - THU at 01:55
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/17/15 - THU at 02:46
+date reported: 09/17/15 - THU at 03:31
+location:
+
+cad event #:
+
+15-09-17-021522
+
+ALL OTHER NON-UNIVERSITY, , 4TH AND INDIANA
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 09/17/15 - THU at 03:42
+date reported: 09/17/15 - THU at 04:21
+general location:
+
+report #:
+
+152338
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 09/17/15 - THU at 04:21
+date occurred to:
+
+09/17/15 - THU at 05:12
+
+incident/offenses:
+
+FALSE INFORMING // DRIVING WHILE SUSPENDED
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/17/15 - THU at 06:37
+date reported: 09/17/15 - THU at 08:20
+location:
+
+cad event #:
+
+15-09-17-021537
+
+ALL OTHER LOCATIONS OUT OF BLTGN, , INDIANAPOLIS
+
+incident: FORGERY/COUNTERFEITING
+final incident: FORGERY/COUNTERFEITING
+disposition: NO CASE REPORT
+modified date: 09/17/15 - THU at 09:27
+date reported: 09/17/15 - THU at 10:48
+general location:
+
+report #:
+
+152340
+
+MCCALLA SCHOOL - On Campus
+
+date occurred from: 09/16/15 - WED at 23:00
+date occurred to:
+
+09/17/15 - THU at 07:30
+
+incident/offenses:
+
+ATTEMPTED FORCIBLE ENTRY // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 09/18/15 - FRI at 08:15
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/17/2015 00:00 to 09/17/2015 23:59
+date reported: 09/17/15 - THU at 11:11
+location:
+
+cad event #:
+
+15-09-17-021562
+
+SYCAMORE HALL, 1033 E. 3RD STREET
+
+incident: HARASSMENT/INTIMIDATION
+final incident: HARASSMENT/INTIMIDATION
+disposition: NO CASE REPORT
+modified date: 09/17/15 - THU at 11:44
+date reported: 09/17/15 - THU at 11:13
+general location:
+
+report #:
+
+152341
+
+1015 ATWATER - On Campus - in any student residential facility
+
+date occurred from: 09/08/15 - TUE at 00:00
+date occurred to:
+
+09/16/15 - WED at 23:59
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/18/15 - FRI at 08:52
+date reported: 09/17/15 - THU at 12:41
+general location:
+
+report #:
+
+152343
+
+FOREST QUAD COMMON AREA - On Campus
+
+date occurred from: 09/12/15 - SAT at 14:53
+date occurred to:
+
+09/12/15 - SAT at 15:02
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/18/15 - FRI at 08:11
+date reported: 09/17/15 - THU at 13:49
+location:
+
+cad event #:
+
+15-09-17-021582
+
+HPER -SCHOOL OF PUBLIC HEALTH, 1025 E. 7TH STREET, C100
+
+incident: THEFT FROM BUILDINGS
+final incident: THEFT FROM BUILDINGS
+disposition: NO CASE REPORT
+modified date: 09/17/15 - THU at 14:13
+date reported: 09/17/15 - THU at 18:11
+location:
+
+cad event #:
+
+15-09-17-021602
+
+ASHTON JOHNSTON, 1770 E. 10TH STREET, ASHTON JOHNSON - MEET AT 10TH AND SUNRISE CORNER
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/17/15 - THU at 18:25
+date reported: 09/17/15 - THU at 18:52
+general location:
+
+report #:
+
+MUSIC PRACTICE BLDG - On Campus
+
+date occurred from: 09/17/15 - THU at 18:30
+date occurred to:
+
+09/17/15 - THU at 19:00
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/17/15 - THU at 21:51
+
+152347
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/17/2015 00:00 to 09/17/2015 23:59
+date reported: 09/17/15 - THU at 20:40
+location:
+
+cad event #:
+
+15-09-17-021616
+
+FOREST QUAD, 1725 E. 3RD STREET, FOREST - CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/17/15 - THU at 20:54
+date reported: 09/17/15 - THU at 21:44
+general location:
+
+report #:
+
+152350
+
+10TH STREET/EAST OF JORDA - Public property
+
+date occurred from: 09/17/15 - THU at 00:00
+date occurred to:
+
+09/17/15 - THU at 00:00
+
+incident/offenses:
+
+HIT & RUN, PERSONAL INJURY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 09/18/15 - FRI at 08:09
+date reported: 09/17/15 - THU at 21:53
+general location:
+
+report #:
+
+152351
+
+13TH STREET PARKING LOT - On Campus
+
+date occurred from: 09/17/15 - THU at 00:00
+date occurred to:
+
+09/17/15 - THU at 00:00
+
+incident/offenses:
+
+POSSESSION - COCAINE,OPIUM,DERIVATIVE // POSSESSION - MARIJUANA // POSSESSION OF DRUG
+PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/18/15 - FRI at 01:39
+date reported: 09/17/15 - THU at 23:10
+location:
+
+cad event #:
+
+15-09-17-021628
+
+FOREST QUAD, 1725 E. 3RD STREET, MEET ON CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/17/15 - THU at 23:19
+
+

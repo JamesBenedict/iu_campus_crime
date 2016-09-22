@@ -1,0 +1,133 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/16/2015 00:00 to 08/16/2015 23:59
+date reported: 08/16/15 - SUN at 01:46
+location:
+
+cad event #:
+
+15-08-16-018183
+
+MCNUTT QUAD, 1101 N. FEE LANE, MCNUTT BRIAN GROUND HALLWAY
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/16/15 - SUN at 01:55
+date reported: 08/16/15 - SUN at 04:39
+general location:
+
+report #:
+
+151884
+
+ALL OTHER NON-UNIVERSITY - WASHINGTON @ 16TH
+
+date occurred from: 08/16/15 - SUN at 04:39
+date occurred to:
+
+08/16/15 - SUN at 06:05
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/17/15 - MON at 08:11
+date reported: 08/16/15 - SUN at 09:17
+general location:
+
+report #:
+
+151885
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 08/16/15 - SUN at 00:00
+date occurred to:
+
+08/16/15 - SUN at 09:00
+
+incident/offenses:
+
+ATTEMPTED FORCIBLE ENTRY
+
+disposition: OPEN CASE
+modified date: 08/17/15 - MON at 06:37
+date reported: 08/16/15 - SUN at 14:45
+location:
+
+cad event #:
+
+15-08-16-018227
+
+NEAL MARSHALL CENTER, 275 N. JORDAN, LEE NORVELL CTR
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: NO CASE REPORT
+modified date: 08/16/15 - SUN at 15:09
+date reported: 08/16/15 - SUN at 17:04
+general location:
+
+report #:
+
+151888
+
+INDIANA AVENUE/NORTH OF 1OTH STR - Public property
+
+date occurred from: 08/09/12 - THU at 12:00
+date occurred to:
+
+08/16/15 - SUN at 17:04
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 08/16/15 - SUN at 18:07
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 08/16/2015 00:00 to 08/16/2015 23:59
+date reported: 08/16/15 - SUN at 21:35
+general location:
+
+report #:
+
+151889
+
+WRIGHT QUAD - On Campus - in any student residential facility
+
+date occurred from: 08/16/15 - SUN at 21:30
+date occurred to:
+
+08/16/15 - SUN at 21:40
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS // OTHER DANGEROUS WEAPON // PUBLIC INTOXICATION // ILLEGAL
+POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 08/17/15 - MON at 08:48
+date reported: 08/16/15 - SUN at 22:00
+location:
+
+cad event #:
+
+15-08-16-018254
+
+FOREST QUAD, 1725 E. 3RD STREET, FORREST- CIRLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 08/16/15 - SUN at 22:28
+
+

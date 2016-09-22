@@ -1,0 +1,193 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/08/2015 00:00 to 04/08/2015 23:59
+
+date reported: 04/08/15 - WED at 03:49
+location:
+
+cad event #:
+
+15-04-08-008417
+
+ALL OTHER NON-UNIVERSITY, , WALNUT IN FRONT OF BLUEBIRD
+
+incident: VANDALISM, MISCHIEF
+final incident: VANDALISM, MISCHIEF
+disposition: NO CASE REPORT
+modified date: 04/08/15 - WED at 03:53
+date reported: 04/08/15 - WED at 07:25
+general location:
+
+report #:
+
+151005
+
+SWAIN HALL (E & W) - On Campus
+
+date occurred from: 04/06/15 - MON at 17:00
+date occurred to:
+
+04/08/15 - WED at 06:30
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/08/15 - WED at 15:36
+date reported: 04/08/15 - WED at 09:58
+general location:
+
+report #:
+
+151007
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/07/15 - TUE at 00:00
+date occurred to:
+
+04/08/15 - WED at 11:25
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/09/15 - THU at 10:15
+date reported: 04/08/15 - WED at 10:14
+general location:
+
+report #:
+
+151006
+
+KIRKWOOD HALL - On Campus
+
+date occurred from: 04/07/15 - TUE at 17:00
+date occurred to:
+
+04/08/15 - WED at 10:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/08/15 - WED at 15:29
+date reported: 04/08/15 - WED at 10:31
+location:
+
+cad event #:
+
+15-04-08-008446
+
+FORREST AVE./SOUTH OF 10T, SOUTH OF 10T FORREST AVE., FORREST & KIRKWOOD
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: FAILED TO LOCATE
+modified date: 04/08/15 - WED at 10:46
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/08/2015 00:00 to 04/08/2015 23:59
+date reported: 04/08/15 - WED at 12:45
+general location:
+
+report #:
+
+151010
+
+ATHLETIC/WHITE LOT - On Campus
+
+date occurred from: 04/08/15 - WED at 08:00
+date occurred to:
+
+04/08/15 - WED at 12:40
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 04/08/15 - WED at 15:27
+date reported: 04/08/15 - WED at 15:15
+location:
+
+cad event #:
+
+15-04-08-008471
+
+MCNUTT QUAD, 1101 N. FEE LANE, BORDNER GROUND
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 04/08/15 - WED at 15:29
+date reported: 04/08/15 - WED at 16:51
+general location:
+
+report #:
+
+151011
+
+LAW LANE/EAST OF JORDAN AVE - Public property
+
+date occurred from: 04/08/15 - WED at 16:50
+date occurred to:
+
+04/08/15 - WED at 16:53
+
+incident/offenses:
+
+DOMESTIC DISTURBANCES
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/09/15 - THU at 09:51
+date reported: 04/08/15 - WED at 21:42
+general location:
+
+report #:
+
+151012
+
+FOSTER COMMON AREA - On Campus
+
+date occurred from: 04/08/15 - WED at 21:38
+date occurred to:
+
+04/08/15 - WED at 21:42
+
+incident/offenses:
+
+POSSESSION - SYNTHETIC NARCOTICS
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/09/15 - THU at 09:04
+date reported: 04/08/15 - WED at 21:57
+general location:
+
+report #:
+
+151013
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 04/08/15 - WED at 21:58
+date occurred to:
+
+04/08/15 - WED at 23:11
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/09/15 - THU at 09:07
+
+

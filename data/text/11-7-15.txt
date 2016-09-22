@@ -1,0 +1,524 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/07/2015 00:00 to 11/07/2015 23:59
+date reported: 11/07/15 - SAT at 00:06
+location:
+
+cad event #:
+
+15-11-07-026446
+
+MCNUTT QUAD, 1101 N. FEE LANE, DELGADO 200
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/07/15 - SAT at 01:05
+date reported: 11/07/15 - SAT at 00:28
+general location:
+
+report #:
+
+153030
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/07/15 - SAT at 00:28
+date occurred to:
+
+11/07/15 - SAT at 00:53
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/07/15 - SAT at 05:07
+date reported: 11/07/15 - SAT at 00:47
+location:
+
+cad event #:
+
+15-11-07-026451
+
+COLLINS CRAVENS, 541 N WOODLAWN, 1ST FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 11/07/15 - SAT at 00:57
+date reported: 11/07/15 - SAT at 02:12
+general location:
+
+report #:
+
+153031
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/07/15 - SAT at 02:00
+date occurred to:
+
+11/07/15 - SAT at 02:18
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/09/15 - MON at 10:50
+date reported: 11/07/15 - SAT at 03:15
+general location:
+
+report #:
+
+153032
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/17/15 - TUE at 03:15
+date occurred to:
+
+11/17/15 - TUE at 04:05
+
+incident/offenses:
+
+RESISTING LAW ENFORCEMENT // PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION //
+INDECENT EXPOSURE
+disposition: CLOSED CASE- ARREST
+modified date: 11/07/15 - SAT at 05:28
+date reported: 11/07/15 - SAT at 08:15
+general location:
+
+report #:
+
+MYERS HALL - On Campus
+
+date occurred from: 11/06/15 - FRI at 23:00
+date occurred to:
+
+11/07/15 - SAT at 08:00
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 11/09/15 - MON at 10:59
+
+153033
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/07/2015 00:00 to 11/07/2015 23:59
+date reported: 11/07/15 - SAT at 13:57
+general location:
+
+report #:
+
+153049
+
+FEE LANE/NORTH OF 10TH ST - Public property
+
+date occurred from: 11/07/15 - SAT at 13:58
+date occurred to:
+
+11/07/15 - SAT at 14:12
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/07/15 - SAT at 20:59
+date reported: 11/07/15 - SAT at 14:05
+general location:
+
+report #:
+
+153036
+
+IUPD STATION - On Campus
+
+date occurred from: 11/07/15 - SAT at 14:00
+date occurred to:
+
+11/07/15 - SAT at 14:05
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/07/15 - SAT at 19:00
+date reported: 11/07/15 - SAT at 14:36
+general location:
+
+report #:
+
+153038
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 11/07/15 - SAT at 14:36
+date occurred to:
+
+11/07/15 - SAT at 14:52
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/07/15 - SAT at 20:17
+date reported: 11/07/15 - SAT at 15:30
+location:
+
+cad event #:
+
+15-11-07-026505
+
+FEE LANE/NORTH OF 10TH ST, NORTH OF 10TH ST FEE LANE, GATE 13
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 11/07/15 - SAT at 15:35
+date reported: 11/07/15 - SAT at 15:35
+location:
+
+cad event #:
+
+15-11-07-026506
+
+ASSEMBLY HALL, 1001 E. 17TH, GATE 4, PKG SECT C
+
+incident: FIRE ALARMS - ACTUAL, NOT ARSON
+final incident: FIRE ALARMS - ACTUAL, NOT ARSON
+disposition: NO CASE REPORT
+modified date: 11/07/15 - SAT at 15:52
+date reported: 11/07/15 - SAT at 15:52
+general location:
+
+report #:
+
+153042
+
+17TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 11/07/15 - SAT at 15:48
+date occurred to:
+
+11/07/15 - SAT at 15:52
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/07/15 - SAT at 19:56
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/07/2015 00:00 to 11/07/2015 23:59
+date reported: 11/07/15 - SAT at 16:03
+general location:
+
+report #:
+
+153039
+
+JORDAN AVENUE/NORTH OF 10 - Public property
+
+date occurred from: 11/07/15 - SAT at 11:30
+date occurred to:
+
+11/07/15 - SAT at 16:00
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/07/15 - SAT at 19:31
+date reported: 11/07/15 - SAT at 16:23
+general location:
+
+report #:
+
+153043
+
+ATHLETIC/RED LOT - On Campus
+
+date occurred from: 11/07/15 - SAT at 16:00
+date occurred to:
+
+11/07/15 - SAT at 16:23
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION // MEDICAL ASSIST
+
+disposition: REFERRED
+modified date: 11/07/15 - SAT at 20:30
+date reported: 11/07/15 - SAT at 16:35
+general location:
+
+report #:
+
+153040
+
+DEVAULT ALUMNI - On Campus
+
+date occurred from: 11/07/15 - SAT at 16:35
+date occurred to:
+
+11/07/15 - SAT at 16:35
+
+incident/offenses:
+
+PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/07/15 - SAT at 20:17
+date reported: 11/07/15 - SAT at 16:51
+location:
+
+cad event #:
+
+15-11-07-026515
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, SEC 27 ROW 58
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 11/07/15 - SAT at 17:13
+date reported: 11/07/15 - SAT at 17:29
+location:
+
+cad event #:
+
+15-11-07-026521
+
+MEMORIAL STADIUM, 701 E. 17TH STREET
+
+incident: THEFT-ALL OTHER
+final incident: THEFT-ALL OTHER.
+disposition: NO CASE REPORT
+modified date: 11/07/15 - SAT at 17:59
+date reported: 11/07/15 - SAT at 17:57
+general location:
+
+report #:
+
+153045
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 11/07/15 - SAT at 17:45
+date occurred to:
+
+11/07/15 - SAT at 18:18
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/07/15 - SAT at 20:21
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/07/2015 00:00 to 11/07/2015 23:59
+date reported: 11/07/15 - SAT at 18:02
+general location:
+
+report #:
+
+153044
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 11/07/15 - SAT at 17:45
+date occurred to:
+
+11/07/15 - SAT at 18:02
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/07/15 - SAT at 22:23
+date reported: 11/07/15 - SAT at 18:29
+general location:
+
+report #:
+
+153046
+
+MEMORIAL STADIUM - On Campus
+
+date occurred from: 11/07/15 - SAT at 18:25
+date occurred to:
+
+11/07/15 - SAT at 18:29
+
+incident/offenses:
+
+DISORDERLY CONDUCT
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/08/15 - SUN at 15:45
+date reported: 11/07/15 - SAT at 18:40
+location:
+
+cad event #:
+
+15-11-07-026533
+
+ALL OTHER NON-UNIVERSITY, , 430 E KIRKWOOD, JIMMY JOHNS
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: FAILED TO LOCATE
+modified date: 11/07/15 - SAT at 18:53
+date reported: 11/07/15 - SAT at 19:07
+location:
+
+cad event #:
+
+15-11-07-026538
+
+MEMORIAL STADIUM, 701 E. 17TH STREET, W1
+
+incident: OTHER DISTURBANCES
+final incident: OTHER DISTURBANCES
+disposition: FAILED TO LOCATE
+modified date: 11/07/15 - SAT at 19:12
+date reported: 11/07/15 - SAT at 20:01
+location:
+
+cad event #:
+
+15-11-07-026544
+
+TETER QUAD, 501 N. SUNRISE, BOISIN ROOF
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: NO CASE REPORT
+modified date: 11/07/15 - SAT at 20:11
+date reported: 11/07/15 - SAT at 21:22
+location:
+
+cad event #:
+
+15-11-07-026548
+
+INDIANA MEMORIAL UNION, 900 E. 7TH STREET, SOUTH SIDE
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 11/07/15 - SAT at 21:52
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 11/07/2015 00:00 to 11/07/2015 23:59
+date reported:
+
+11/07/15 - SAT at 21:47
+
+general location:
+
+report #:
+
+153051
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/07/15 - SAT at 21:47
+date occurred to:
+
+11/07/15 - SAT at 21:47
+
+incident/offenses:
+
+POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/09/15 - MON at 06:16
+date reported: 11/07/15 - SAT at 23:25
+general location:
+
+report #:
+
+153052
+
+MCNUTT QUAD COMMON AREA - On Campus
+
+date occurred from: 11/07/15 - SAT at 23:20
+date occurred to:
+
+11/07/15 - SAT at 23:36
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/08/15 - SUN at 02:08
+date reported: 11/07/15 - SAT at 23:25
+general location:
+
+report #:
+
+153053
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/07/15 - SAT at 23:24
+date occurred to:
+
+11/07/15 - SAT at 23:25
+
+incident/offenses:
+
+POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 11/08/15 - SUN at 00:39
+date reported: 11/07/15 - SAT at 23:33
+general location:
+
+report #:
+
+153054
+
+FOREST QUAD - On Campus - in any student residential facility
+
+date occurred from: 11/07/15 - SAT at 23:35
+date occurred to:
+
+11/08/15 - SUN at 00:45
+
+incident/offenses:
+
+POSSESSION - MARIJUANA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 11/09/15 - MON at 06:14
+
+

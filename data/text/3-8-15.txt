@@ -1,0 +1,121 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/08/2015 00:00 to 03/08/2015 23:59
+date reported: 03/08/15 - SUN at 00:15
+location:
+
+cad event #:
+
+15-03-08-005833
+
+EIGENMANN HALL, 1900 E. 10TH STREET, 12TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/08/15 - SUN at 00:28
+date reported: 03/08/15 - SUN at 01:05
+location:
+
+cad event #:
+
+15-03-08-005840
+
+ALL OTHER NON-UNIVERSITY, , KIKRWOOD WALNUT
+
+incident: PUBLIC INTOXICATION
+final incident: PUBLIC INTOXICATION
+disposition: NO CASE REPORT
+modified date: 03/08/15 - SUN at 01:11
+date reported: 03/08/15 - SUN at 01:35
+general location:
+
+report #:
+
+150754
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 03/08/15 - SUN at 01:34
+date occurred to:
+
+03/08/15 - SUN at 01:36
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition:
+
+CLOSED CASE- ARREST
+
+modified date: 03/09/15 - MON at 11:54
+date reported: 03/08/15 - SUN at 01:49
+general location:
+
+report #:
+
+150753
+
+BRISCOE QUAD - On Campus - in any student residential facility
+
+date occurred from: 03/08/15 - SUN at 01:49
+date occurred to:
+
+03/08/15 - SUN at 03:22
+
+incident/offenses:
+
+ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 03/08/15 - SUN at 04:04
+date reported: 03/08/15 - SUN at 15:18
+location:
+
+cad event #:
+
+15-03-08-005878
+
+WRIGHT QUAD, 501 N. JORDAN, HALL 13-1ST FLOOR MEET ON CAMPBELL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/08/15 - SUN at 15:35
+date reported: 03/08/15 - SUN at 16:19
+location:
+
+cad event #:
+
+15-03-08-005880
+
+OWEN HALL, 790 E. KIRKWOOD, REAR OF BUILDING
+
+incident: VANDALISM, MISCHIEF
+final incident: VANDALISM, MISCHIEF
+disposition: NO CASE REPORT
+modified date: 03/08/15 - SUN at 16:31
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/08/2015 00:00 to 03/08/2015 23:59
+date reported: 03/08/15 - SUN at 22:21
+location:
+
+cad event #:
+
+15-03-08-005897
+
+MCNUTT QUAD, 1101 N. FEE LANE, DEJOYA GROUND
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 03/08/15 - SUN at 22:32
+
+

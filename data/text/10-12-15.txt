@@ -1,0 +1,155 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/12/2015 00:00 to 10/12/2015 23:59
+date reported: 10/12/15 - MON at 02:14
+general location:
+
+report #:
+
+152676
+
+ALL OTHER NON-UNIVERSITY - 7TH AND LINCOLN
+
+date occurred from: 10/12/15 - MON at 02:13
+date occurred to:
+
+10/12/15 - MON at 03:34
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/12/15 - MON at 08:45
+date reported: 10/12/15 - MON at 07:51
+general location:
+
+report #:
+
+152677
+
+SRSC - On Campus
+
+date occurred from: 10/12/15 - MON at 07:40
+date occurred to:
+
+10/12/15 - MON at 07:51
+
+incident/offenses:
+
+THEFT-ALL OTHER // DAMAGED PROPERTY
+
+disposition: OPEN CASE
+modified date: 10/13/15 - TUE at 09:14
+date reported: 10/12/15 - MON at 09:38
+general location:
+
+report #:
+
+152678
+
+ALL OTHER NON-UNIVERSITY - CHICACO
+
+date occurred from: 10/09/15 - FRI at 19:00
+date occurred to:
+
+10/10/15 - SAT at 08:00
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition:
+
+OPEN CASE
+
+modified date: 10/13/15 - TUE at 07:51
+date reported: 10/12/15 - MON at 10:37
+general location:
+
+report #:
+
+152679
+
+MAXWELL HALL - On Campus
+
+date occurred from: 10/12/15 - MON at 10:30
+date occurred to:
+
+10/12/15 - MON at 10:36
+
+incident/offenses:
+
+TRESPASS & MALICIOUS TRESPASS
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 10/13/15 - TUE at 09:11
+date reported: 10/12/15 - MON at 14:25
+general location:
+
+report #:
+
+152681
+
+ALL OTHER NON-UNIVERSITY - Non-reportable Location
+
+date occurred from: 10/12/15 - MON at 10:00
+date occurred to:
+
+10/12/15 - MON at 13:00
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 10/12/15 - MON at 20:54
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/12/2015 00:00 to 10/12/2015 23:59
+date reported: 10/12/15 - MON at 20:51
+location:
+
+cad event #:
+
+15-10-12-024036
+
+FEE LANE PARKING GARAGE, 709 N. FEE LANE, 2ND FLOOR
+
+incident: VANDALISM, MISCHIEF
+final incident: VANDALISM, MISCHIEF
+disposition: NO CASE REPORT
+modified date: 10/12/15 - MON at 20:58
+date reported: 10/12/15 - MON at 22:13
+location:
+
+cad event #:
+
+15-10-12-024039
+
+SPRUCE HALL, 1801 E. JONES AVE, SPRUCE- 3B - MEET FLAG POLE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/12/15 - MON at 22:31
+date reported: 10/12/15 - MON at 22:15
+location:
+
+cad event #:
+
+15-10-12-024040
+
+EIGENMANN HALL, 1900 E. 10TH STREET, MEET AT CIRCLE DRIVE - 9TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/12/15 - MON at 22:31
+
+

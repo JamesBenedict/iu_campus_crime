@@ -1,0 +1,234 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/19/2015 00:00 to 10/19/2015 23:59
+date reported: 10/19/15 - MON at 07:55
+general location:
+
+report #:
+
+152771
+
+SERVICE BUILDING - On Campus
+
+date occurred from: 10/16/15 - FRI at 15:45
+date occurred to:
+
+10/19/15 - MON at 07:00
+
+incident/offenses:
+
+THEFT FROM MOTOR VEHICLE
+
+disposition: OPEN CASE
+modified date: 10/20/15 - TUE at 10:14
+date reported: 10/19/15 - MON at 08:44
+general location:
+
+report #:
+
+152773
+
+ASSEMBLY HALL - On Campus
+
+date occurred from: 10/19/15 - MON at 08:44
+date occurred to:
+
+10/19/15 - MON at 09:30
+
+incident/offenses:
+
+NATURAL DEATH
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 10/20/15 - TUE at 10:11
+date reported: 10/19/15 - MON at 08:50
+general location:
+
+report #:
+
+152772
+
+FOLKLORE DEPT - On Campus
+
+date occurred from: 10/15/15 - THU at 08:00
+date occurred to:
+
+10/16/15 - FRI at 08:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 10/20/15 - TUE at 10:12
+date reported: 10/19/15 - MON at 12:07
+general location:
+
+report #:
+
+152775
+
+KAPPA SIGMA - Non-campus building or property
+
+date occurred from: 10/19/15 - MON at 01:05
+date occurred to:
+
+10/19/15 - MON at 01:05
+
+incident/offenses:
+
+ALL TYPES OF FRAUD
+
+disposition: OPEN CASE
+modified date: 10/19/15 - MON at 12:50
+date reported: 10/19/15 - MON at 12:08
+location:
+
+cad event #:
+
+15-10-19-024669
+
+ASHTON VOS HALL, 1786 E. 10TH STREET
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: NO CASE REPORT
+modified date: 10/19/15 - MON at 14:47
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/19/2015 00:00 to 10/19/2015 23:59
+date reported:
+
+10/19/15 - MON at 13:35
+
+general location:
+
+report #:
+
+152776
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 10/16/15 - FRI at 20:00
+date occurred to:
+
+10/17/15 - SAT at 20:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 10/19/15 - MON at 14:58
+date reported: 10/19/15 - MON at 15:16
+general location:
+
+report #:
+
+152777
+
+ATHLETIC/PURPLE LOT - On Campus
+
+date occurred from: 10/17/15 - SAT at 19:30
+date occurred to:
+
+10/17/15 - SAT at 20:00
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 10/19/15 - MON at 19:32
+date reported: 10/19/15 - MON at 16:10
+location:
+
+cad event #:
+
+15-10-19-024689
+
+USA LINDEN HALL, 435 N. UNION, MEET AT 2HR PARKING OUTSIDE LINDENHALL
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/19/15 - MON at 16:34
+date reported: 10/19/15 - MON at 16:54
+general location:
+
+report #:
+
+152781
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 10/18/15 - SUN at 08:00
+date occurred to:
+
+10/19/15 - MON at 16:54
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 10/19/15 - MON at 20:14
+date reported: 10/19/15 - MON at 17:03
+general location:
+
+report #:
+
+152785
+
+ASHTON VOS HALL - On Campus - in any student residential facility
+
+date occurred from: 10/19/15 - MON at 00:00
+date occurred to:
+
+10/19/15 - MON at 00:00
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 10/19/15 - MON at 22:23
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/19/2015 00:00 to 10/19/2015 23:59
+date reported: 10/19/15 - MON at 21:18
+location:
+
+cad event #:
+
+15-10-19-024710
+
+MCNUTT QUAD, 1101 N. FEE LANE, DEGALDO 200- MEET AT CIRCLE DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/19/15 - MON at 21:32
+date reported: 10/19/15 - MON at 22:18
+location:
+
+cad event #:
+
+15-10-19-024713
+
+ASHTON VOS HALL, 1786 E. 10TH STREET, VOS 2. MEET IN SVC DRIVE
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 10/19/15 - MON at 22:28
+
+

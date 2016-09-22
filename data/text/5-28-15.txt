@@ -1,0 +1,68 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/28/2015 00:00 to 05/28/2015 23:59
+
+date reported: 05/28/15 - THU at 11:09
+general location:
+
+report #:
+
+151504
+
+TETER QUAD - On Campus - in any student residential facility
+
+date occurred from: 05/06/15 - WED at 00:00
+date occurred to:
+
+05/28/15 - THU at 00:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 05/29/15 - FRI at 08:35
+date reported: 05/28/15 - THU at 13:56
+general location:
+
+report #:
+
+151508
+
+BICKNELL APTS - On Campus - in any student residential facility
+
+date occurred from: 05/27/15 - WED at 20:50
+date occurred to:
+
+05/27/15 - WED at 20:50
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 05/28/15 - THU at 15:15
+date reported: 05/28/15 - THU at 20:46
+general location:
+
+report #:
+
+151509
+
+VON LEE LOT - On Campus
+
+date occurred from: 05/28/15 - THU at 20:40
+date occurred to:
+
+05/28/15 - THU at 20:46
+
+incident/offenses:
+
+PUBLIC INTOXICATION // POSSESSION - MARIJUANA // INDECENT EXPOSURE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/29/15 - FRI at 08:00
+
+

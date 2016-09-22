@@ -1,0 +1,28 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 03/17/2015 00:00 to 03/17/2015 23:59
+
+date reported: 03/17/15 - TUE at 12:48
+general location:
+
+report #:
+
+150828
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 10/26/14 - SUN at 07:00
+date occurred to:
+
+10/26/14 - SUN at 17:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 03/17/15 - TUE at 14:11
+
+

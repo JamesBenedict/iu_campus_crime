@@ -1,0 +1,235 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/15/2015 00:00 to 04/15/2015 23:59
+date reported: 04/15/15 - WED at 02:33
+general location:
+
+report #:
+
+151081
+
+3RD STREET/EAST OF JORDAN - Public property
+
+date occurred from: 04/15/15 - WED at 02:33
+date occurred to:
+
+04/15/15 - WED at 03:59
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/15/15 - WED at 08:16
+date reported: 04/15/15 - WED at 03:28
+general location:
+
+report #:
+
+151082
+
+10TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 04/15/15 - WED at 03:28
+date occurred to:
+
+04/15/15 - WED at 03:34
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA // PUBLIC INTOXICATION
+
+disposition: CLOSED CASE- ARREST
+modified date: 04/16/15 - THU at 23:41
+date reported: 04/15/15 - WED at 04:04
+general location:
+
+report #:
+
+151083
+
+OWEN HALL PARKING LOT - On Campus
+
+date occurred from: 04/14/15 - TUE at 23:30
+date occurred to:
+
+04/15/15 - WED at 04:04
+
+incident/offenses:
+
+VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/15/15 - WED at 06:12
+date reported: 04/15/15 - WED at 07:20
+general location:
+
+report #:
+
+151084
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 04/15/15 - WED at 03:48
+date occurred to:
+
+04/15/15 - WED at 03:48
+
+incident/offenses:
+
+PUBLIC INTOXICATION // THEFT FROM BUILDINGS // VANDALISM, MISCHIEF
+
+disposition: OPEN CASE
+modified date: 04/15/15 - WED at 13:49
+date reported:
+
+04/15/15 - WED at 11:18
+
+general location:
+
+report #:
+
+SERVICE BUILDING - On Campus
+
+date occurred from: 04/15/15 - WED at 08:00
+date occurred to:
+
+04/15/15 - WED at 11:00
+
+incident/offenses:
+
+HARASSMENT/INTIMIDATION
+
+disposition: OPEN CASE
+modified date: 04/17/15 - FRI at 15:47
+
+151085
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/15/2015 00:00 to 04/15/2015 23:59
+date reported: 04/15/15 - WED at 14:09
+general location:
+
+report #:
+
+151087
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 04/14/15 - TUE at 22:30
+date occurred to:
+
+04/15/15 - WED at 02:30
+
+incident/offenses:
+
+OTHER ASSAULTS - SIMPLE, NOT AGGRAVATED // WELFARE CHECK
+
+disposition: UNFOUNDED
+modified date: 04/17/15 - FRI at 09:44
+date reported: 04/15/15 - WED at 19:54
+general location:
+
+report #:
+
+151092
+
+OPTOMETRY - On Campus
+
+date occurred from: 04/15/15 - WED at 19:50
+date occurred to:
+
+04/15/15 - WED at 19:54
+
+incident/offenses:
+
+OTHER DISTURBANCES // MEDICAL ASSIST
+
+disposition: CLOSED CASE- RECORDS ONLY
+modified date: 04/16/15 - THU at 09:43
+date reported: 04/15/15 - WED at 21:08
+location:
+
+cad event #:
+
+15-04-15-009249
+
+ALL OTHER NON-UNIVERSITY, , DILLON APARTMENTS #24203
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: NO CASE REPORT
+modified date: 04/15/15 - WED at 21:35
+date reported: 04/15/15 - WED at 21:09
+general location:
+
+report #:
+
+151093
+
+SRSC - On Campus
+
+date occurred from: 04/15/15 - WED at 21:09
+date occurred to:
+
+04/15/15 - WED at 21:47
+
+incident/offenses:
+
+LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 04/16/15 - THU at 10:13
+date reported: 04/15/15 - WED at 21:50
+general location:
+
+report #:
+
+BALLANTINE HALL - On Campus
+
+date occurred from: 04/15/15 - WED at 21:20
+date occurred to:
+
+04/15/15 - WED at 21:35
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 04/16/15 - THU at 09:56
+
+151094
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 04/15/2015 00:00 to 04/15/2015 23:59
+date reported: 04/15/15 - WED at 22:04
+general location:
+
+report #:
+
+151095
+
+BRISCOE QUAD COMMON AREA - On Campus
+
+date occurred from: 04/15/15 - WED at 21:45
+date occurred to:
+
+04/15/15 - WED at 22:05
+
+incident/offenses:
+
+THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 04/16/15 - THU at 23:38
+
+

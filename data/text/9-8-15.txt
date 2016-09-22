@@ -1,0 +1,301 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/08/2015 00:00 to 09/08/2015 23:59
+date reported: 09/08/15 - TUE at 05:16
+location:
+
+cad event #:
+
+15-09-08-020576
+
+IUPD STATION, 1469 E. 17TH STREET
+
+incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+final incident: LEGAL NOTICE, WARRANT, SUMMONS, SUBPOENA
+disposition: NO CASE REPORT
+modified date: 09/08/15 - TUE at 05:19
+date reported: 09/08/15 - TUE at 08:50
+general location:
+
+report #:
+
+152208
+
+CHEMISTRY BLDG. - On Campus
+
+date occurred from: 08/28/15 - FRI at 09:30
+date occurred to:
+
+09/08/15 - TUE at 08:50
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 09/08/15 - TUE at 10:43
+date reported: 09/08/15 - TUE at 09:04
+general location:
+
+report #:
+
+152207
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/04/15 - FRI at 00:00
+date occurred to:
+
+09/05/15 - SAT at 07:00
+
+incident/offenses:
+
+RAPE
+
+disposition: OPEN CASE
+modified date: 09/08/15 - TUE at 15:42
+date reported: 09/08/15 - TUE at 10:36
+location:
+
+cad event #:
+
+15-09-08-020603
+
+WRIGHT QUAD COMMON AREA, , CIRCLE DRIVE BIKE RACK
+
+incident: VANDALISM, MISCHIEF
+final incident: VANDALISM, MISCHIEF
+disposition: NO CASE REPORT
+modified date: 09/08/15 - TUE at 10:54
+date reported: 09/08/15 - TUE at 10:41
+location:
+
+cad event #:
+
+15-09-08-020605
+
+5TH STREET/WEST OF JORDAN, WEST OF JORDAN 5TH STREET, KIRKWOOD IN FRONT OF BALLANTINE
+
+incident: TRESPASS & MALICIOUS TRESPASS
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: NO CASE REPORT
+modified date: 09/08/15 - TUE at 11:21
+date reported: 09/08/15 - TUE at 12:29
+general location:
+
+report #:
+
+152209
+
+FOSTER MARTIN HALL - On Campus - in any student residential facility
+
+date occurred from: 09/07/15 - MON at 23:00
+date occurred to:
+
+09/08/15 - TUE at 07:00
+
+incident/offenses:
+
+UNLAWFUL ENTRY - NO FORCE
+
+disposition: OPEN CASE
+modified date: 09/08/15 - TUE at 14:23
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/08/2015 00:00 to 09/08/2015 23:59
+date reported: 09/08/15 - TUE at 12:30
+
+cad event #:
+
+15-09-08-020616
+
+location: ATWATER AVENUE/WEST OF JORDAN, WEST OF JORDAN ATWATER AVENUE
+incident: VANDALISM, MISCHIEF
+final incident:VANDALISM, MISCHIEF
+disposition: UNFOUNDED
+modified date: 09/08/15 - TUE at 12:45
+date reported: 09/08/15 - TUE at 13:21
+location:
+
+cad event #:
+
+15-09-08-020620
+
+NEAL MARSHALL CENTER, 275 N. JORDAN, LOADING DOCK - GREEN DUMPSTER FACING LIBRARY
+
+incident: TRESPASS & MALICIOUS TRESPASS
+final incident: TRESPASS & MALICIOUS TRESPASS
+disposition: NO CASE REPORT
+modified date: 09/08/15 - TUE at 13:46
+date reported: 09/08/15 - TUE at 14:20
+general location:
+
+report #:
+
+152211
+
+WELLS LIBRARY - On Campus
+
+date occurred from: 09/08/15 - TUE at 13:30
+date occurred to:
+
+09/08/15 - TUE at 13:50
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 09/08/15 - TUE at 18:17
+date reported: 09/08/15 - TUE at 14:31
+general location:
+
+report #:
+
+152214
+
+INDIANA MEMORIAL UNION - On Campus
+
+date occurred from: 08/25/15 - TUE at 15:00
+date occurred to:
+
+09/08/15 - TUE at 15:00
+
+incident/offenses:
+
+THEFT FROM ANY COIN-OPERATED MACHINE
+
+disposition: OPEN CASE
+modified date: 09/08/15 - TUE at 18:12
+date reported: 09/08/15 - TUE at 15:25
+general location:
+
+report #:
+
+152213
+
+WILLKIE NORTH - On Campus - in any student residential facility
+
+date occurred from: 08/24/15 - MON at 08:00
+date occurred to:
+
+09/08/15 - TUE at 15:25
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/08/15 - TUE at 18:04
+date reported: 09/08/15 - TUE at 16:06
+general location:
+
+report #:
+
+152215
+
+ATWATER PARKING GARAGE - On Campus
+
+date occurred from: 09/08/15 - TUE at 15:30
+date occurred to:
+
+09/08/15 - TUE at 15:35
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: CLOSED CASE- ARREST
+modified date: 09/09/15 - WED at 14:42
+
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 09/08/2015 00:00 to 09/08/2015 23:59
+date reported: 09/08/15 - TUE at 18:08
+general location:
+
+report #:
+
+152218
+
+MCNUTT QUAD - On Campus - in any student residential facility
+
+date occurred from: 09/07/15 - MON at 21:45
+date occurred to:
+
+09/07/15 - MON at 22:30
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/09/15 - WED at 14:49
+date reported: 09/08/15 - TUE at 21:42
+general location:
+
+report #:
+
+152219
+
+EIGENMANN HALL - On Campus - in any student residential facility
+
+date occurred from: 09/04/15 - FRI at 22:00
+date occurred to:
+
+09/08/15 - TUE at 16:00
+
+incident/offenses:
+
+THEFT FROM BUILDINGS
+
+disposition: OPEN CASE
+modified date: 09/08/15 - TUE at 22:32
+date reported: 09/08/15 - TUE at 22:32
+location:
+
+cad event #:
+
+15-09-08-020661
+
+BRISCOE QUAD, 1225 N. FEE LANE, GUCKER 10TH FLOOR
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/08/15 - TUE at 22:45
+date reported: 09/08/15 - TUE at 23:08
+location:
+
+cad event #:
+
+15-09-08-020666
+
+CAMPUS VIEW PARKING LOT,
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 09/08/15 - TUE at 23:49
+date reported: 09/08/15 - TUE at 23:14
+location:
+
+cad event #:
+
+15-09-08-020667
+
+WRIGHT QUAD, 501 N. JORDAN, CAMPBELL SIDE, HOUSE 16
+
+incident: POSSESSION - MARIJUANA
+final incident: POSSESSION - MARIJUANA
+disposition: FAILED TO LOCATE
+modified date: 09/08/15 - TUE at 23:28
+
+

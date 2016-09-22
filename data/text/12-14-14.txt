@@ -1,0 +1,106 @@
+Indiana University, Bloomington
+Police Department
+Student Right To Know CAD Daily Log
+
+From Dec 14, 2014 to Dec 14, 2014.
+
+date reported: 12/14/14 - SUN at 00:58
+date and time occurred from - occurred to:
+incident : POSSESSION - MARIJUANA
+disposition: : CLOSED BY ARREST
+date reported: 12/14/14 - SUN at 02:23
+
+location : FOREST QUAD
+
+event #: 14-12-14-029314
+
+12/14/14 - SUN at 00:30 - 12/14/14 - SUN at 00:58
+report #: 143560
+
+location : FOREST QUAD
+
+event #: 14-12-14-029319
+
+date and time occurred from - occurred to: 12/14/14 - SUN at 02:20 - 12/14/14 - SUN at 02:23
+incident : ILLEGAL POSSESSION/CONSUMPTION
+report #: 143561
+disposition: : CLOSED NO ARREST.
+date reported: 12/14/14 - SUN at 03:18
+
+location : KILROYS PARKING LOT (EAST)
+
+date and time occurred from - occurred to:
+incident : DISTURBANCES
+disposition: :NO CASE REPORT
+date reported: 12/14/14 - SUN at 14:55
+date and time occurred from - occurred to:
+incident : VANDALISM
+disposition: : INACTIVE
+
+event #: 14-12-14-029324
+report #:
+
+location : NEAL MARSHALL CENTER
+
+event #: 14-12-14-029339
+
+12/13/14 - SAT at 23:00 - 12/14/14 - SUN at 10:30
+report #: 143562
+
+.
+date reported: 12/14/14 - SUN at 17:26
+date and time occurred from - occurred to:
+incident : THEFT - FROM BUILDINGS
+disposition: : INACTIVE.
+date reported: 12/14/14 - SUN at 18:00
+
+location : SRSC
+
+event #: 14-12-14-029342
+
+12/14/14 - SUN at 15:30 - 12/14/14 - SUN at 17:20
+report #: 143563
+
+location : ALPHA GAMMA DELTA
+
+event #: 14-12-14-029345
+
+date and time occurred from - occurred to:
+incident : ACCIDENTS - HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: : INACTIVE.
+
+report #: 143564
+
+date reported: 12/14/14 - SUN at 22:04
+
+event #: 14-12-14-029360
+
+date and time occurred from - occurred to:
+incident : HARASSMENT
+disposition: : INACTIVE.
+date reported: 12/14/14 - SUN at 22:14
+
+location : WILLKIE NORTH
+
+11/25/14 - TUE at 08:00 - 12/14/14 - SUN at 22:11
+report #: 143565
+
+location : WYLIE HALL
+
+date and time occurred from - occurred to:
+incident : TRESPASS
+disposition: : FAILED TO LOCATE
+8 incidents listed.
+
+event #: 14-12-14-029363
+report #:
+
+print date and time
+
+12/16/2014 1:51:23PM
+
+at page no.
+
+1
+
+

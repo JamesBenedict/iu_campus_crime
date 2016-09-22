@@ -1,0 +1,61 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 05/17/2015 00:00 to 05/17/2015 23:59
+
+date reported: 05/17/15 - SUN at 00:22
+general location:
+
+report #:
+
+151462
+
+7TH STREET/WEST OF JORDAN - Public property
+
+date occurred from: 05/17/15 - SUN at 00:22
+date occurred to:
+
+05/17/15 - SUN at 02:00
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/18/15 - MON at 08:19
+date reported: 05/17/15 - SUN at 03:12
+general location:
+
+report #:
+
+151463
+
+3RD STREET/EAST OF JORDAN - Public property
+
+date occurred from: 05/17/15 - SUN at 03:12
+date occurred to:
+
+05/17/15 - SUN at 04:52
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE
+
+disposition: CLOSED CASE- ARREST
+modified date: 05/18/15 - MON at 08:31
+date reported: 05/17/15 - SUN at 14:12
+location:
+
+cad event #:
+
+15-05-17-012284
+
+CAMPUS VIEW PARKING LOT, , MEET AT TULIP TREE
+
+incident: HIT & RUN, PROPERTY DAMAGE ONLY
+final incident: HIT & RUN, PROPERTY DAMAGE ONLY
+disposition: NO CASE REPORT
+modified date: 05/17/15 - SUN at 14:30
+
+

@@ -1,0 +1,87 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 06/19/2015 00:00 to 06/19/2015 23:59
+date reported: 06/19/15 - FRI at 00:17
+general location:
+
+report #:
+
+151605
+
+46 BYPASS/EAST OF GOLF CO - Public property
+
+date occurred from: 06/19/15 - FRI at 00:18
+date occurred to:
+
+06/19/15 - FRI at 00:18
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // PERSONAL INJURY
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/22/15 - MON at 10:16
+date reported: 06/19/15 - FRI at 02:04
+general location:
+
+report #:
+
+151606
+
+ALL OTHER NON-UNIVERSITY - 12TH WASHINGTON
+
+date occurred from: 06/19/15 - FRI at 02:04
+date occurred to:
+
+06/19/15 - FRI at 04:08
+
+incident/offenses:
+
+DRIVING UNDER THE INFLUENCE // POSSESSION - MARIJUANA // POSSESSION OF DRUG PARAPHERNALIA
+
+disposition: CLOSED CASE- ARREST
+modified date: 06/22/15 - MON at 09:19
+date reported: 06/19/15 - FRI at 17:14
+general location:
+
+report #:
+
+151611
+
+MELLENCAMP SPORT BLDG - On Campus
+
+date occurred from: 06/19/15 - FRI at 00:00
+date occurred to:
+
+06/19/15 - FRI at 00:00
+
+incident/offenses:
+
+HIT & RUN, PROPERTY DAMAGE ONLY
+
+disposition: OPEN CASE
+modified date: 06/19/15 - FRI at 22:02
+date reported: 06/19/15 - FRI at 18:55
+general location:
+
+report #:
+
+151612
+
+ALL OTHER NON-UNIVERSITY - , KIRKWOOD AND DUNN
+
+date occurred from: 06/19/15 - FRI at 18:53
+date occurred to:
+
+06/19/15 - FRI at 18:55
+
+incident/offenses:
+
+DISORDERLY CONDUCT
+
+disposition: CLOSED CASE- NO ARREST
+modified date: 06/19/15 - FRI at 19:48
+
+

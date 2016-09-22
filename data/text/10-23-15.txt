@@ -1,0 +1,87 @@
+Indiana University, Bloomington
+
+Police Department
+Daily Crime Log
+from 10/23/2015 00:00 to 10/23/2015 23:59
+date reported: 10/23/15 - FRI at 01:43
+general location:
+
+report #:
+
+152828
+
+222 NORTH DUNN - On Campus - in any student residential facility
+
+date occurred from: 10/23/15 - FRI at 01:43
+date occurred to:
+
+10/23/15 - FRI at 01:43
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION // VANDALISM, MISCHIEF
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/23/15 - FRI at 06:14
+date reported: 10/23/15 - FRI at 09:28
+general location:
+
+report #:
+
+152829
+
+FOREST QUAD COMMON AREA - On Campus
+
+date occurred from: 10/07/15 - WED at 12:00
+date occurred to:
+
+10/20/15 - TUE at 17:00
+
+incident/offenses:
+
+THEFT-BICYCLES
+
+disposition: OPEN CASE
+modified date: 10/26/15 - MON at 09:43
+date reported: 10/23/15 - FRI at 15:01
+general location:
+
+report #:
+
+152831
+
+UNKOWN LOCATION
+
+date occurred from: 10/05/15 - MON at 17:00
+date occurred to:
+
+10/23/15 - FRI at 15:00
+
+incident/offenses:
+
+RAPE // THEFT-ALL OTHER
+
+disposition: OPEN CASE
+modified date: 10/26/15 - MON at 13:09
+date reported: 10/23/15 - FRI at 23:48
+general location:
+
+report #:
+
+152832
+
+3RD STREET/WEST OF JORDAN - Public property
+
+date occurred from: 10/23/15 - FRI at 22:30
+date occurred to:
+
+10/24/15 - SAT at 00:01
+
+incident/offenses:
+
+PUBLIC INTOXICATION // ILLEGAL POSSESSION/CONSUMPTION
+
+disposition: CLOSED CASE- ARREST
+modified date: 10/24/15 - SAT at 05:04
+
+

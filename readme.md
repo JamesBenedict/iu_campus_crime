@@ -29,3 +29,7 @@ The history.txt file is a log of dates analyzed so the program can ignore them i
 
 crime_list()_output.txt is the exact output of each crime chunks. The output is a list of lists, with the first list representing the day and the nested list representing each crime in that day. Unnecessary text like the header is removed from during this processes. crimelist.txt is the same output, but with line breaks at each ',' to make it easier to read.
 
+## Examples
+[Bloomington crime map w/short timespan](https://jamesbenedict.carto.com/viz/886db910-0030-11e6-9f73-0e8c56e2ffdb/embed_map)
+[Crime in Chicagoland](http://crime.chicagotribune.com/)
+[Crime LA](http://maps.latimes.com/crime/)

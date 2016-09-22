@@ -63,7 +63,7 @@ def scrapper():
 		day = day.strip()
 		download = 'http://www.indiana.edu/~iupd/Documents/Daily%20Log/'+day+'.pdf'
 		output = 'data/pdf/'+day+'.pdf'
-		print(download)
+		# print(download)
 		try:
 			urllib.request.urlretrieve(download, output)
 		# some dates don't have any crimes, this deals with them
@@ -75,7 +75,7 @@ def pdf_2_txt():
 	for day in new_dates:
 		day = day.strip()
 		os.system("pdftotext '%s' '%s'" % ('data/pdf/'+day+'.pdf', 'data/text/'+day+'.txt'))
-pdf_2_txt()
+# pdf_2_txt()
 
 def pdf_del():
 	# deletes all pdfs, only keep text for record purposes
@@ -94,7 +94,7 @@ def pdf_del():
 
 def day_log_open():
 	# for the moment just sticking to one day
-	file = open('data/text/1-5-16.txt', 'r')
+	file = open('data/text/1-14-16.txt', 'r')
 	log = file.readlines()
 	file.close()
 	return log
@@ -139,6 +139,9 @@ def crime_list():
 		crime_list.append(log[key:value])
 
 	return crime_list
+
+for crime in crime_list():
+		print(crime)
 
 
 #Everything below is me throwing code at the wall 

@@ -38,26 +38,27 @@ def history_compare():
 	# removes all the dates that have already been anaylzed from going further
 	# during tests, must delete content of history.txt
 	all_dates = date_generator()
-	all_dates = [day+'\n' for day in all_dates]
-	new_dates = []
-	
 	print(all_dates)
-	for date in all_dates:
-		# print(type(date))
-		history_file = open('data/history.txt', 'r+')
-		history = history_file.readlines()
-		if date not in history:
-			history_file.writelines(date)
+	# all_dates = [day+'\n' for day in all_dates]
+	# new_dates = []
+	
+	# print(all_dates)
+	# for date in all_dates:
+	# 	# print(type(date))
+	# 	history_file = open('data/history.txt', 'r+')
+	# 	history = history_file.readlines()
+	# 	if date not in history:
+	# 		history_file.writelines(date)
 			
-			# updates history before checking if the date is in it agian
-			new_dates.append(date)
-			history = history_file.readlines()
+	# 		# updates history before checking if the date is in it agian
+	# 		new_dates.append(date)
+	# 		history = history_file.readlines()
 
 			
-			# print(date)
-		history_file.close()
-	print('\n', '\n')
-	print(new_dates)
+	# 		# print(date)
+	# 	history_file.close()
+	# print('\n', '\n')
+	# print(new_dates)
 	# print(new_dates)
 
 # '9-20-16'
@@ -101,8 +102,29 @@ new_dates = history_compare()
 # 		# 	os.makedirs('data/text/20'+day[:-2])
 # 		# 	os.system("pdftotext '%s' '%s'" % ('data/pdf/'+day+'.pdf', 'data/text/20'+day[:-2]+'/'+day+'.txt'))	
 
+
 		
 			
+# pdf_2_txt()
+
+def scrapper():
+	# downloads mi pdf
+	for day in new_dates:
+		day = day.strip()
+		download = 'http://www.indiana.edu/~iupd/Documents/Daily%20Log/'+day+'.pdf'
+		output = 'data/pdf/'+day+'.pdf'
+		print(download)
+		try:
+			urllib.request.urlretrieve(download, output)
+		# some dates don't have any crimes, this deals with them
+		except urllib.error.URLError as e: ResponseData = e.read().decode("utf8", 'ignore')
+
+def pdf_2_txt():
+	# turns my pdf into super unstructed text
+	scrapper()
+	for day in new_dates:
+		day = day.strip()
+		os.system("pdftotext '%s' '%s'" % ('data/pdf/'+day+'.pdf', 'data/text/'+day+'.txt'))
 # pdf_2_txt()
 
 def pdf_del():
@@ -122,7 +144,7 @@ def pdf_del():
 
 def day_log_open():
 	# for the moment just sticking to one day
-	file = open('data/text/1-14-16.txt', 'r')
+	file = open('data/text/1-5-16.txt', 'r')
 	log = file.readlines()
 	file.close()
 	return log

@@ -1,6 +1,6 @@
 """ module for parsing text files that are converted from pdfs """
 import re
-from datetime.datetime import strptime
+from datetime import *
 
 class Record():
     """ class for keeping the daily IU police log """
@@ -35,3 +35,4 @@ class Record():
         t_from = strptime(' '.join([fromdate.strip(), fromtime]), '%m/%d/%y %H:%M')
         t_to = strptime(' '.join([todate.strip(), totime]), '%m/%d/%y %H:%M')
         return (t_from, t_to)
+    

@@ -9,7 +9,8 @@ import re
 import glob
 import csv
 
-open('data/history.txt', 'w').close()
+
+# open('data/history.txt', 'w').close()
 
 def date_generator_range(start, end, delta):
 	# used with date_generator() below
@@ -38,39 +39,66 @@ def history_compare():
 	# removes all the dates that have already been anaylzed from going further
 	# during tests, must delete content of history.txt
 	all_dates = date_generator()
-	print(all_dates)
-	# all_dates = [day+'\n' for day in all_dates]
-	# new_dates = []
-	
 	# print(all_dates)
-	# for date in all_dates:
-	# 	# print(type(date))
-	# 	history_file = open('data/history.txt', 'r+')
-	# 	history = history_file.readlines()
-	# 	if date not in history:
-	# 		history_file.writelines(date)
-			
-	# 		# updates history before checking if the date is in it agian
-	# 		new_dates.append(date)
-	# 		history = history_file.readlines()
+	new_dates = []
 
-			
-	# 		# print(date)
-	# 	history_file.close()
-	# print('\n', '\n')
-	# print(new_dates)
-	# print(new_dates)
-
-# '9-20-16'
-	
-
-
+	for date in all_dates:
+		# print(type(date))
+		history_file = open('data/history.txt', 'r+')
+		history = history_file.readlines()
+		date += '\n'
+		if date not in history:
+			history_file.write(date)
+			# updates history before checking if the date is in it agian
+			new_dates.append(date)
+			history = history_file.readlines()
+			# print(date)
+		history_file.close()
+	print(new_dates)
+	return new_dates
 
 #this seems to work better than calling the function multiple times, i don't know why 
 new_dates = history_compare()
+
 # print(new_dates)
 # print(history_compare())
-# print(new_dates)
+
+
+def scrapper():
+	# downloads mi pdf
+	for day in new_dates:
+		day = day.strip()
+		download = 'http://www.indiana.edu/~iupd/Documents/Daily%20Log/'+day+'.pdf'
+		output = 'data/pdf/'+day+'.pdf'
+		# print(download)
+		try:
+			urllib.request.urlretrieve(download, output)
+		# some dates don't have any crimes, this deals with them
+		except urllib.error.URLError as e: ResponseData = e.read().decode("utf8", 'ignore')
+
+def pdf_2_txt():
+	# turns my pdf into super unstructed text
+	scrapper()
+	if not os.path.exists('data/text/2013'):
+		os.makedirs('data/text/2013')
+	if not os.path.exists('data/text/2014'):
+		os.makedirs('data/text/2014')
+	if not os.path.exists('data/text/2015'):
+		os.makedirs('data/text/2015')
+	if not os.path.exists('data/text/2016'):
+		os.makedirs('data/text/2016')
+
+	for day in new_dates:
+		day = day.strip()
+		print(day[-2:])
+		year_folder = 'data/text/20'+day[-2:]
+	
+		# if not os.path.exists(year_folder):
+		# 	os.makedirs(year_folder)
+
+		os.system("pdftotext '%s' '%s'" % ('data/pdf/'+day+'.pdf', year_folder+'/'+day+'.txt'))		
+pdf_2_txt()
+
 # def scrapper():
 # 	# downloads mi pdf
 # 	for day in new_dates:
@@ -88,44 +116,8 @@ new_dates = history_compare()
 # 	scrapper()
 # 	for day in new_dates:
 # 		day = day.strip()
-
-# 		print(day[-2:])
-# 		# if not os.path.exists('2014'):
-# 		# 	os.makedirs('2014')
-# 		# if not os.path.exists('2015'):
-# 		# 	os.makedirs('2015')
-# 		# if not os.path.exists('2016'):
-# 		# 	os.makedirs('2016')
-
-	
-# 		# if not os.path.exists('data/text/20'+day[:-2]):
-# 		# 	os.makedirs('data/text/20'+day[:-2])
-# 		# 	os.system("pdftotext '%s' '%s'" % ('data/pdf/'+day+'.pdf', 'data/text/20'+day[:-2]+'/'+day+'.txt'))	
-
-
-		
-			
-# pdf_2_txt()
-
-def scrapper():
-	# downloads mi pdf
-	for day in new_dates:
-		day = day.strip()
-		download = 'http://www.indiana.edu/~iupd/Documents/Daily%20Log/'+day+'.pdf'
-		output = 'data/pdf/'+day+'.pdf'
-		print(download)
-		try:
-			urllib.request.urlretrieve(download, output)
-		# some dates don't have any crimes, this deals with them
-		except urllib.error.URLError as e: ResponseData = e.read().decode("utf8", 'ignore')
-
-def pdf_2_txt():
-	# turns my pdf into super unstructed text
-	scrapper()
-	for day in new_dates:
-		day = day.strip()
-		os.system("pdftotext '%s' '%s'" % ('data/pdf/'+day+'.pdf', 'data/text/'+day+'.txt'))
-# pdf_2_txt()
+# 		os.system("pdftotext '%s' '%s'" % ('data/pdf/'+day+'.pdf', 'data/text/'+day+'.txt'))
+# # pdf_2_txt()
 
 def pdf_del():
 	# deletes all pdfs, only keep text for record purposes

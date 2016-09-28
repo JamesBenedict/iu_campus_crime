@@ -35,4 +35,5 @@ class Record():
         t_from = strptime(' '.join([fromdate.strip(), fromtime]), '%m/%d/%y %H:%M')
         t_to = strptime(' '.join([todate.strip(), totime]), '%m/%d/%y %H:%M')
         return (t_from, t_to)
-    
+
+

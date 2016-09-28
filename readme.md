@@ -28,9 +28,9 @@ A sample of three months of data can be found in my data folder.
 ## PDF groupings
 The PDFS aren't standard. Each has its own pattern7
 
-*Pattern 1* 1/26/16 - today
-*Pattern 2* 12/11/14 - 1/24/15
-*Pattern 3* 1/1/13 - 12/10/14
+1. Pattern 1* 1/26/16 - today
+1. Pattern 2* 12/11/14 - 1/24/15
+1. Pattern 3* 1/1/13 - 12/10/14
 
 ## Examples
 [Bloomington crime map w/short timespan](https://jamesbenedict.carto.com/viz/886db910-0030-11e6-9f73-0e8c56e2ffdb/embed_map)

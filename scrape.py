@@ -96,6 +96,7 @@ def pdf_2_txt():
 		# if not os.path.exists(year_folder):
 		# 	os.makedirs(year_folder)
 
+
 		os.system("pdftotext '%s' '%s'" % ('data/pdf/'+day+'.pdf', year_folder+'/'+day+'.txt'))		
 pdf_2_txt()
 

@@ -75,7 +75,7 @@ var crimes = L.geoJson.ajax('../data/json/clean_crime.geojson', {
       }
     },
 
-    //  filter: function(feature, layer){
+    //  filter: function(feature){
     //   if (feature.properties.crime_class == "theft") return true
     // }
 
@@ -102,6 +102,4 @@ var bluelights = L.geoJson.ajax('../data/json/bluelights.geojson', {
 map.addLayer(bluelights);
 map.addLayer(crimes);
 
-// var crime_layers = L.layerGroup([bluelights, crime]);
 
-// map.addLayer(crime_layers)

@@ -1,0 +1,53 @@
+
+
+html{
+	    background-color: #f2f2f2;
+font-family: 'Lato', sans-serif;
+
+}
+article{
+  width: 80%;
+  margin: 0 auto;
+    background-color: white;
+    padding: 4em 2em .5em 2em;
+    box-shadow: 8px 8px 25px #888888;
+}
+
+section{
+	position: relative;
+}
+
+h1,h2,h3,h4,h5,h6,p,li{
+	margin-bottom: .4em;
+
+}
+h1{
+	font-size: 4em;
+	font-weight: 300;
+}
+h2{
+	font-size: 2em;
+	margin-bottom: .6em;
+}
+
+li{
+	padding-left: 1em;
+}
+strong{
+	font-weight: 700;
+}
+.intro{
+	text-align: center;
+	margin-bottom: 5em;
+}
+
+.text{
+	width: 30%;
+
+  float: right
+}
+
+#map{
+	height: 600px;
+	width: 66%;
+}

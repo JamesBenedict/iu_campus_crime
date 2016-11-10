@@ -14,22 +14,30 @@ article{
 }
 
 section{
-	position: relative;
+	margin-bottom: 8em;
 }
 
 h1,h2,h3,h4,h5,h6,p,li{
 	margin-bottom: .4em;
+	color: 	#2F2E2E;
 
 }
 h1{
-	font-size: 4em;
+	font-size: 6em;
 	font-weight: 300;
+	font-family: 'Abril Fatface', cursive;
+
 }
 h2{
 	font-size: 2em;
 	margin-bottom: .6em;
 }
 
+h3{
+	font-size: 1em;
+	font-family: 'Abril Fatface', cursive;
+
+}
 li{
 	padding-left: 1em;
 }
@@ -47,7 +55,26 @@ strong{
   float: right
 }
 
-#map{
+#masterMap,#workingMap,#violentBluelight,#sexualAssault{
 	height: 600px;
 	width: 66%;
 }
+
+#excludedMap{
+	height: 600px;
+	width: 66%;
+}
+.legend{
+	color:white;
+	padding: .25em;
+	padding-bottom: .1em;
+	border-radius: 5px;
+	max-width: 50%;
+	margin-bottom: .5em;
+	text-align: center;
+}
+
+.legend p{
+	color: white;
+}
+

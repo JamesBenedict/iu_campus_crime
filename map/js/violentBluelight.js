@@ -78,27 +78,25 @@ var crimes = L.geoJson.ajax('../data/json/clean_crime.geojson', {
       }
     },
 
-    // filter: function(feature){
-    //   if (feature.properties.crime_class == "alcohol") return true
-    //   if (feature.properties.crime_class == "fake_id") return true
-    //   if (feature.properties.crime_class == "marijuana") return true
-    //   if (feature.properties.crime_class == "possession") return true
-    //   if (feature.properties.crime_class == "disorderly_conduct") return true
-    //   if (feature.properties.crime_class == "missing_person") return true
-    //   if (feature.properties.crime_class == "resisting_arrest") return true
-    //   if (feature.properties.crime_class == "robbery") return true
-    //   if (feature.properties.crime_class == "sexual_misconduct") return true
-    //   if (feature.properties.crime_class == "domestic Violence") return true
-    //   if (feature.properties.crime_class == "harrassment") return true
-    //   if (feature.properties.crime_class == "rape") return true
-    //   if (feature.properties.crime_class == "stalking") return true
-    //   if (feature.properties.crime_class == "property") return true
-    //   if (feature.properties.crime_class == "theft") return true
-    //   if (feature.properties.crime_class == "tresspass") return true
-    // }
+    filter: function(feature){
+      
+      if (feature.properties.crime_class == "assault") return true
+      if (feature.properties.crime_class == "disorderly_conduct") return true
+      if (feature.properties.crime_class == "missing_person") return true
+      if (feature.properties.crime_class == "resisting_arrest") return true
+      if (feature.properties.crime_class == "robbery") return true
+      if (feature.properties.crime_class == "sexual_misconduct") return true
+      if (feature.properties.crime_class == "domestic Violence") return true
+      if (feature.properties.crime_class == "harrassment") return true
+      if (feature.properties.crime_class == "rape") return true
+      if (feature.properties.crime_class == "stalking") return true
+      if (feature.properties.crime_class == "property") return true
+      if (feature.properties.crime_class == "theft") return true
+      if (feature.properties.crime_class == "tresspass") return true
+    }
 
 
-
+                    
   
 });
 

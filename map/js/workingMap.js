@@ -1,11 +1,11 @@
 // load map on bloomington
-var map = L.map('violentBluelight').setView([39.171612, -86.521097], 14);
+var map = L.map('workingMap').setView([39.171612, -86.521097], 14);
 
 // sets background tiles
 var CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-  // attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
-  // subdomains: 'abcd',
-  maxZoom: 19
+    // attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+    // subdomains: 'abcd',
+    maxZoom: 19
 }).addTo(map);
 
 var crimes = L.geoJson.ajax('../data/json/clean_crime.geojson', {
@@ -63,8 +63,6 @@ var crimes = L.geoJson.ajax('../data/json/clean_crime.geojson', {
         // else{
         //   return {color: '#000'};
         // } 
-
-
         return {color: '#be4c39'}
     },
     pointToLayer: function(feature, latlng) {
@@ -78,24 +76,26 @@ var crimes = L.geoJson.ajax('../data/json/clean_crime.geojson', {
       }
     },
 
-    // filter: function(feature){
-    //   if (feature.properties.crime_class == "alcohol") return true
-    //   if (feature.properties.crime_class == "fake_id") return true
-    //   if (feature.properties.crime_class == "marijuana") return true
-    //   if (feature.properties.crime_class == "possession") return true
-    //   if (feature.properties.crime_class == "disorderly_conduct") return true
-    //   if (feature.properties.crime_class == "missing_person") return true
-    //   if (feature.properties.crime_class == "resisting_arrest") return true
-    //   if (feature.properties.crime_class == "robbery") return true
-    //   if (feature.properties.crime_class == "sexual_misconduct") return true
-    //   if (feature.properties.crime_class == "domestic Violence") return true
-    //   if (feature.properties.crime_class == "harrassment") return true
-    //   if (feature.properties.crime_class == "rape") return true
-    //   if (feature.properties.crime_class == "stalking") return true
-    //   if (feature.properties.crime_class == "property") return true
-    //   if (feature.properties.crime_class == "theft") return true
-    //   if (feature.properties.crime_class == "tresspass") return true
-    // }
+    filter: function(feature){
+      if (feature.properties.crime_class == "alcohol") return true
+      if (feature.properties.crime_class == "fake_id") return true
+      if (feature.properties.crime_class == "marijuana") return true
+      if (feature.properties.crime_class == "possession") return true
+      if (feature.properties.crime_class == "assault") return true
+
+      if (feature.properties.crime_class == "disorderly_conduct") return true
+      if (feature.properties.crime_class == "missing_person") return true
+      if (feature.properties.crime_class == "resisting_arrest") return true
+      if (feature.properties.crime_class == "robbery") return true
+      if (feature.properties.crime_class == "sexual_misconduct") return true
+      if (feature.properties.crime_class == "domestic Violence") return true
+      if (feature.properties.crime_class == "harrassment") return true
+      if (feature.properties.crime_class == "rape") return true
+      if (feature.properties.crime_class == "stalking") return true
+      if (feature.properties.crime_class == "property") return true
+      if (feature.properties.crime_class == "theft") return true
+      if (feature.properties.crime_class == "tresspass") return true
+    }
 
 
 
@@ -118,7 +118,7 @@ var bluelights = L.geoJson.ajax('../data/json/bluelights.geojson', {
 
 });
 
-map.addLayer(bluelights);
+// map.addLayer(bluelights);
 map.addLayer(crimes);
 
 

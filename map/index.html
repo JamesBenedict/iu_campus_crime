@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<meta name="viewport" content="width=device-width">
+
 	<meta charset="UTF-8">
 	<title>Campus Crime Map</title>
 		<link rel="stylesheet" href="css/reset.css">
 
 	<link rel="stylesheet" href="css/leaflet.css">
-	<link rel="stylesheet" href="css/style.css">
 
 	<link rel="stylesheet" href="css/styles.css">
 
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,900" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
 
 
 </head>
@@ -20,16 +22,17 @@
 	<article>
 		<div class="intro">
 			<h1>IU Campus Crime</h1>
+			<h2>Informatics Data Analysis and Visualization for GIS day</h2>
 			<h5>By James Benedict and Jason Choi</h5>
 		</div>
 	
 		
 		<section>
 			<div class="text">
-				<h2>Most Crimes</h2>
+				<h2>All Crimes</h2>
 
 				<p><strong>Takeway</strong> Too much noise to make any conclusions</p>
-				<p>Crimes mapped</p>
+				<p><strong>Crimes shown</strong></p>
 				<ol>
 					<li>alcohol</li>
 					<li>fake_id</li>
@@ -37,6 +40,11 @@
 					<li>possession</li>
 
 					<li>disorderly_conduct</li>
+					<li>missing_person</li>
+					<li>resisting_arrest</li>
+					<li>robbery</li>
+
+					<li>assault</li>
 					<li>missing_person</li>
 					<li>resisting_arrest</li>
 					<li>robbery</li>
@@ -62,16 +70,209 @@
 				</ol>
 
 			</div>	
-			<div id="map"></div>
+			<div id="masterMap"></div>
 		</section>
+
+		<section>
+			<div class="text">
+				<h2>Excluded Crimes</h2>
+
+				<p><strong>Takeway</strong> These aren't as relevant and clutter the map.</p>
+
+				<div class="legend" style="background-color: #17655C">
+					<p>Excluded</p>
+				</div>
+
+				<div class="legend" style="background-color: #be4c39">
+					<p>Remain</p>
+				</div>
+
+				<p><strong>Crimes excluded</strong></p>
+				<ol>
+					<li>accidental_death</li>
+					<li>non-criminal</li>
+					<li>traffic</li>
+					<li>nuisance</li>
+					<li>suicide</li>
+					<li>arson</li>
+				</ol>
+
+				
+			</div>	
+			<div id="excludedMap"></div>
+		</section>
+
+
+
+		<section>
+			<div class="text">
+				<h2>Analysed Crimes</h2>
+
+				<p><strong>Takeway</strong> Still cluttered, but can start to see trends. Can now filter easier.</p>
+
+				<p><strong>Crimes shown</strong></p>
+				<ol>
+					<li>alcohol</li>
+					<li>fake_id</li>
+					<li>marijuana</li>
+					<li>possession</li>
+
+					<li>disorderly_conduct</li>
+					<li>missing_person</li>
+					<li>resisting_arrest</li>
+					<li>robbery</li>
+
+					<li>assault</li>
+					<li>missing_person</li>
+					<li>resisting_arrest</li>
+					<li>robbery</li>
+
+					<li>sexual_misconduct</li>
+					<li>domest violence</li>
+					<li>harrassment</li>
+					<li>rape</li>
+					<li>stalking</li>
+
+					<li>property</li>
+					<li>theft</li>
+					<li>tresspass</li>
+
+				</ol>
+
+				
+			</div>	
+			<div id="workingMap"></div>
+		</section>
+
 		
+		<section>
+			<div class="text">
+				<h2>Residential Cluster</h2>
+
+				<p><strong>Takeway</strong> Crimes follow population clusters, especially crimes involving vices</p>
+
+				<p><strong>Crimes shown</strong></p>
+				<ol>
+					<li>alcohol</li>
+					<li>fake_id</li>
+					<li>marijuana</li>
+					<li>possession</li>
+
+					<li>disorderly_conduct</li>
+					<li>resisting_arrest</li>
+				</ol>
+
+				
+			</div>	
+			<iframe width="66%" height="520" frameborder="0" src="http://j3819443.carto.com/viz/1af5364e-a6c3-11e6-83a9-0e05a8b3e3d7/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+		</section>
+
+
+		<section>
+			<div class="text">
+				<h2>Time Cluster</h2>
+				<p><strong>Takeway</strong>Crimes increase while students are at school and when it is warm.</p>
+
+				<p><strong>Crimes shown</strong></p>
+				<ol>
+					<li>alcohol</li>
+					<li>fake_id</li>
+					<li>marijuana</li>
+					<li>possession</li>
+
+					<li>disorderly_conduct</li>
+					<li>missing_person</li>
+					<li>resisting_arrest</li>
+					<li>robbery</li>
+
+					<li>assault</li>
+					<li>missing_person</li>
+					<li>resisting_arrest</li>
+					<li>robbery</li>
+
+
+					<li>sexual_misconduct</li>
+					<li>domest violence</li>
+					<li>harrassment</li>
+					<li>rape</li>
+					<li>stalking</li>
+
+					<li>property</li>
+					<li>theft</li>
+					<li>tresspass</li>
+				</ol>	
+			</div>	
+			<div id="excludedMap"></div>
+		</section>
+
+
+		<section>
+			<div class="text">
+				<h2>Possibly Violent Crimes Compared to Blue Lights Location</h2>
+
+				<p><strong>Takeway</strong>Crimes don't appear to be connected with blue safety lights</p>
+
+				<p><strong>Crimes shown</strong></p>
+				<ol>
+					
+
+					<li>disorderly_conduct</li>
+					<li>missing_person</li>
+					<li>resisting_arrest</li>
+					<li>robbery</li>
+
+					<li>assault</li>
+					<li>missing_person</li>
+					<li>resisting_arrest</li>
+					<li>robbery</li>
+
+
+					<li>sexual_misconduct</li>
+					<li>domest violence</li>
+					<li>harrassment</li>
+					<li>rape</li>
+					<li>stalking</li>
+
+					<li>property</li>
+					<li>theft</li>
+					<li>tresspass</li>
+
+				</ol>
+
+				
+			</div>	
+			<div id="violentBluelight"></div>
+
+	
+		</section>
+
+
+		<section>
+			<div class="text">
+				<h2>Sexual Assaults</h2>
+
+				<p><strong>Takeway</strong> Few people report sexual assaults to the police.</p>
+
+				<p><strong>Crimes shown</strong></p>
+				<ol>
+					<li>sexual_misconduct</li>
+					
+					<li>harrassment</li>
+					<li>rape</li>
+					<li>stalking</li>
+
+				</ol>
+
+				
+			</div>	
+			<div id="sexualAssault"></div>
+		</section>
+
+
+
+
+
 		
-			
-			
-
-
-
-
 		</div>
 	
 	</article>
@@ -81,9 +282,15 @@
 	<script src="js/jquery-3.1.1.min.js"></script>
 	<script src="js/leaflet.js"></script>
 
-	<script src="js/leaflet.geocsv.js"></script>
 	<script src="js/leaflet.ajax.min.js"></script>
 	<script src="js/mastermap.js"></script>
+	<script src="js/excludedmap.js"></script>
+	<script src="js/workingMap.js"></script>
+	<script src="js/violentBluelight.js"></script>
+	<script src="js/sexualAssault.js"></script>
+
+
+
 
 </body>
 </html>

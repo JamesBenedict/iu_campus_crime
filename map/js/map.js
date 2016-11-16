@@ -8,7 +8,7 @@ var CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{
 	maxZoom: 19
 }).addTo(map);
 
-var crimes = L.geoJson.ajax('../data/json/clean_crime.geojson', {
+var crimes = L.geoJson.ajax('../crime_map/data/json/clean_crime.geojson', {
 
  
    style: function(feature) {

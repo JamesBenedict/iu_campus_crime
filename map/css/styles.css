@@ -36,7 +36,7 @@ h2{
 }
 
 h3{
-	font-size: 1em;
+	font-size: 2em;
 	font-family: 'Abril Fatface', cursive;
 
 }
@@ -49,6 +49,17 @@ strong{
 .intro{
 	text-align: center;
 	margin-bottom: 5em;
+	
+	
+}
+
+.intro>h2{
+	/*width: 50%;*/
+	max-width: 80%;
+	margin: 0 auto;
+	text-align: left;
+	margin-bottom: 1em;
+	line-height: 1.5em;
 }
 
 .text{
@@ -80,3 +91,9 @@ strong{
 	color: white;
 }
 
+section{
+	color: red;
+}
+img{
+	width: 100%;
+}

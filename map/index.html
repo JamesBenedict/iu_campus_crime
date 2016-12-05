@@ -22,18 +22,73 @@
 	<article>
 		<div class="intro">
 			<h1>IU Campus Crime</h1>
-			<h2>Informatics Data Analysis and Visualization for GIS day</h2>
-			<h5>By James Benedict and Jason Choi</h5>
+			<!-- <h3>Informatics Data Analysis and Visualization for GIS day</h2> -->
+			<h2>This project maps data provided by the Indiana University Police Department concerning crimes on IU's campus between 2013 - 2015. We hope this project illuminates which areas of campus have the most crimes and allow students to plan for their safety.</h2>
+			<h5>By James Benedict, Jason Choi,  Jialiang Wang and Zhenkai Liu</h5>
+
+
+
 		</div>
 	
 		
+		<section class="section-text">
+			
+			<h3>Main Findings</h3>
+<ol>
+	<li>Crimes cluster around residential areas and increase during the school year</li>
+	<li>IUPD responds to crimes off campus as well as on campus</li>
+	<li>Overwhelmingly the crimes are non-violent</li>
+	
+	<li>We question if blue safety lights are in the most opportune location</li>
+	<li>Sexual crimes go underreported to the police</li>
+</ol>
+
+			<br>
+			<br>
+			<h3>Data descriptions</h3>
+			<p>Due to the lack of consistencey of reported crime names (e.g. "DUI" vs "Driving with a BAC about 0.8") and to simplify the map we grouped certain crimes together. </p>
+			<img src="masteriucrime.png" alt="">
+			<p>Traffic: 478, Theft: 365, Possession: 318, Nuisance: 200, Marijuana: 195, Harassment: 74, Assault: 72, DUI: 49, Trespass: 45, Other: 41, Property: 28, Sexual Misconduct: 12, Rape: 10, Drug Sale: 8, Domestic: 4, Stalking: 4, Arson: 2.</p>
+
+			<br>
+			<br>
+			<h3>Data issues</h3>
+			<p>Data about campus crime was provided by the Indiana University Police Department for the years 2013 - 2015. It represents calls to the police. On our further review we found half of the months were missing from this dataset. Additionally, 1/3 of the months provided had less than 99% percent of the crimes compared to the other months. This leads us to believe there was only 4 reliable months of data provided by the IUPD.</p>
+
+			<p>Further we believe there was systematic under reporting of sexual crimes to IUPD. According to IU Clery report there were 39 reported rapes at Indiana University in 2015. Our data shows of these only six were reported to the police. We believe this demonstrates an lack of willingness to report sexual assaults directly to the police.</p>
+
+			<p>We also were unable to locate 150 additional crimes due to unidentifiable reported locations.</p>
+		
+
+		</section>
+
+
+
 		<section>
 			<div class="text">
-				<h2>All Crimes</h2>
+				<h3>All Crimes</h3>
 
-				<p><strong>Takeway</strong> Too much noise to make any conclusions</p>
+				<p><strong>Takeaway</strong> Too much noise to make any conclusions. We decided to exclude some crimes.</p>
 				<p><strong>Crimes shown</strong></p>
 				<ol>
+					<!-- <li>Traffic: 478</li>
+					<li>Theft: 365</li>
+					<li>Possession: 318</li>
+					<li>Nuisance: 200</li>
+					<li>Marijuana: 195</li>
+					<li>Harassment: 74</li>
+					<li>Assault: 72</li>
+					<li>DUI: 49</li>
+					<li>Trespass: 45</li>
+					<li>Other: 41</li>
+					<li>Property: 28</li>
+					<li>Sexual Misconduct: 12</li>
+					<li>Rape: 10</li>
+					<li>Drug Sale: 8</li>
+					<li>Domestic: 4</li>
+					<li>Stalking: 4</li>
+					<li>Arson: 2</li> -->
+
 					<li>alcohol</li>
 					<li>fake_id</li>
 					<li>marijuana</li>
@@ -45,19 +100,18 @@
 					<li>robbery</li>
 
 					<li>assault</li>
-					<li>missing_person</li>
 					<li>resisting_arrest</li>
 					<li>robbery</li>
 
 					<li>sexual_misconduct</li>
-					<li>domest violence</li>
-					<li>harrassment</li>
+					<li>domestic violence</li>
+					<li>harassment</li>
 					<li>rape</li>
 					<li>stalking</li>
 
 					<li>property</li>
 					<li>theft</li>
-					<li>tresspass</li>
+					<li>trespass</li>
 
 					<li>accidental_death</li>
 					<li>non-criminal</li>
@@ -70,14 +124,14 @@
 				</ol>
 
 			</div>	
-			<div id="masterMap"></div>
+				<div id="masterMap" style="margin:0 auto;"></div>
 		</section>
 
-	<!-- 	<section>
+		<section>
 			<div class="text">
-				<h2>Excluded Crimes</h2>
+				<h3>Excluded Crimes</h3>
 
-				<p><strong>Takeway</strong> These aren't as relevant and clutter the map.</p>
+				<p><strong>Takeaway</strong> These aren't as relevant so we decided to remove them.</p>
 
 				<div class="legend" style="background-color: #17655C">
 					<p>Excluded</p>
@@ -106,9 +160,9 @@
 
 		<section>
 			<div class="text">
-				<h2>Analysed Crimes</h2>
+				<h3>Analyzed Crimes</h3>
 
-				<p><strong>Takeway</strong> Still cluttered, but can start to see trends. Can now filter easier.</p>
+				<p><strong> Takeaway</strong>While this reduced clutter, we still need to filter more to find really relevant information. One trend we immediately noticed was IUPD responded to crimes outside of the immediate campus area. This counters the official position of IUPD that they only respond to crimes on campus. This was especially relevant this year when the IUPD claimed the reason they didn't issue a safety warning to students after <a href="http://www.idsnews.com/article/2016/09/police-investigate-four-connected-break-ins-south-of-campus"> a masked man broke into multiple house because it did not occur on campus</a>. If they responded to some crimes off campus, why would they ignore this one? </p>
 
 				<p><strong>Crimes shown</strong></p>
 				<ol>
@@ -118,7 +172,6 @@
 					<li>possession</li>
 
 					<li>disorderly_conduct</li>
-					<li>missing_person</li>
 					<li>resisting_arrest</li>
 					<li>robbery</li>
 
@@ -128,14 +181,14 @@
 					<li>robbery</li>
 
 					<li>sexual_misconduct</li>
-					<li>domest violence</li>
-					<li>harrassment</li>
+					<li>domestic violence</li>
+					<li>harassment</li>
 					<li>rape</li>
 					<li>stalking</li>
 
 					<li>property</li>
 					<li>theft</li>
-					<li>tresspass</li>
+					<li>trespass</li>
 
 				</ol>
 
@@ -144,12 +197,17 @@
 			<div id="workingMap"></div>
 		</section>
 
-		
+		<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	
 		<section>
 			<div class="text">
-				<h2>Residential Cluster</h2>
+				<h3>Residential Cluster</h3>
 
-				<p><strong>Takeway</strong> Crimes follow population clusters, especially crimes involving vices</p>
+				<p><strong>Takeaway</strong> Crimes follow population clusters, especially crimes involving vices.</p>
 
 				<p><strong>Crimes shown</strong></p>
 				<ol>
@@ -165,10 +223,10 @@
 		</section>
 
 
-		<section>
+		<!-- <section>
 			<div class="text">
-				<h2>Time Cluster</h2>
-				<p><strong>Takeway</strong>Crimes increase while students are at school and when from Sept. - Dec.</p>
+				<h3>Time Cluster</h3>
+				<p><strong>Takeaway</strong>Crimes increase while students are at school and when from Sept. - Dec.</p>
 
 				<p><strong>Crimes shown</strong></p>
 				<ol>
@@ -200,14 +258,12 @@
 				</ol>	
 			</div>	
 			<iframe width="66%" height="520" frameborder="0" src="https://j3819443.carto.com/viz/b0c07332-a6d2-11e6-b037-0ecd1babdde5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-		</section>
-
-
+		</section> -->
 		<section>
 			<div class="text">
-				<h2>Possibly Violent Crimes Compared to Blue Lights Location</h2>
+				<h3>Possibly Violent Crimes Compared to Blue Lights Location</h3>
 
-				<p><strong>Takeway</strong> Crimes don't appear to be connected with blue safety lights</p>
+				<p><strong>Takeaway</strong> Crimes don't appear to be connected with blue safety lights. <a href="http://specials.idsnews.com/in-the-dark/">This corresponds with an investigation by the Indiana Daily Student.</a></p>
 
 				<p><strong>Crimes shown</strong></p>
 				<ol>
@@ -216,8 +272,8 @@
 					<li>disorderly_conduct</li>
 					<li>missing_person</li>
 					<li>resisting_arrest</li>
-					<li>robbery</li>
-
+<!-- 					<li>robbery</li>
+ -->
 					<li>assault</li>
 					<li>missing_person</li>
 					<li>resisting_arrest</li>
@@ -225,15 +281,15 @@
 
 
 					<li>sexual_misconduct</li>
-					<li>domest violence</li>
-					<li>harrassment</li>
+					<li>domestic violence</li>
+					<li>harassment</li>
 					<li>rape</li>
 					<li>stalking</li>
-
+<!-- 
 					<li>property</li>
 					<li>theft</li>
-					<li>tresspass</li>
-
+					<li>trespass</li>
+ -->
 				</ol>
 
 				
@@ -246,15 +302,15 @@
 
 		<section>
 			<div class="text">
-				<h2>Sexual Assaults</h2>
+				<h3>Sexual Crimes</h3>
 
-				<p><strong>Takeway</strong> Few people report sexual assaults to the police.</p>
+				<p><strong>Takeaway</strong> Few people report sexual assaults to the police and we doubt the blue lights are placed in the most effective locations..</p>
 
 				<p><strong>Crimes shown</strong></p>
 				<ol>
 					<li>sexual_misconduct</li>
 					
-					<li>harrassment</li>
+					<li>harassment</li>
 					<li>rape</li>
 					<li>stalking</li>
 
@@ -264,7 +320,44 @@
 			</div>	
 			<div id="sexualAssault"></div>
 		</section>
- -->
+
+		<section>
+			<h3>Future work</h3>
+			<ol>
+				<li>Update our data to include more weekly crime reports </li>
+				<li>Provide filters to allow users to show certain crimes and dates</li>
+				<li>Locate temporal patterns</li>
+			</ol>
+
+			
+			<br>
+			<br>
+	<h3>Comment</h3>
+	<p>If you have any questions or comments, please use the discq board below or email me at jabenedi@indiana.edu</p>
+
+
+		<div id="disqus_thread"></div>
+		<script>
+
+		/**
+		 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+		 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+
+		// var disqus_config = function () {
+		//     this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+		//     this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+		// };
+
+		(function() { // DON'T EDIT BELOW THIS LINE
+		    var d = document, s = d.createElement('script');
+		    s.src = '//jbenedict.disqus.com/embed.js';
+		    s.setAttribute('data-timestamp', +new Date());
+		    (d.head || d.body).appendChild(s);
+		})();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		</section>
+
 
 
 
@@ -285,6 +378,10 @@
 	<script src="js/workingMap.js"></script>
 	<script src="js/violentBluelight.js"></script>
 	<script src="js/sexualAssault.js"></script>
+
+		<script src="js/allmap.js"></script>
+
+		<script id="dsq-count-scr" src="//jbenedict.disqus.com/count.js" async></script>
 
 
 

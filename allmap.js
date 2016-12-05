@@ -41936,45 +41936,63 @@ var data = [{
   ]
 }];
 
-// load map on bloomington
-// var map = L.map('excludedMap').setView([39.171612, -86.521097], 14);
-var map = L.map('excludedMap',{scrollWheelZoom:false}).setView([39.171612, -86.521097], 14);
+//data.features.feature.geometry.coordinates = [feature.geometry.coordinates[0]+((Math.random()/10000)*3 - 0.00015), feature.geometry.coordinates[1]+((Math.random()/10000)*3 - 0.00015)];
+//for (var ftre in data){
+//	var longtitude = parseFloat(ftre.properties.long);
+//	var latitude = parseFloat(ftre.properties.lat);
+//	ftre.geometry.coordinates = [longtitude+((Math.random()/10000)*3 - 0.00015), latitude+((Math.random()/10000)*3 - 0.00015)];
+//};
+// 
 
+// load map on bloomington
+// var map = L.map('masterMap', {
+//   // scrollWheelZoom: FALSE
+// }).setView([39.171612, -86.521097], 11);
+
+var map = L.map('allMap',{scrollWheelZoom:false}).setView([39.171612, -86.521097], 14);
 
 // sets background tiles
 var CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
 	// attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
 	// subdomains: 'abcd',
-	maxZoom: 19
+	
+
 }).addTo(map);
 
-var crimes = L.geoJson(data, {
-
- 
-   style: function(feature) {
-        if (feature.properties.crime_class =="accidental_death"){
-            return {color: '#17655C'};
-        } else if (feature.properties.crime_class =="non-criminal"){
-            return {color: '#17655C'};
-        } else if (feature.properties.crime_class =="traffic"){
-            return {color: '#17655C'};
-        } else if (feature.properties.crime_class =="nuisance"){
-            return {color: '#17655C'};
-        } else if (feature.properties.crime_class =="suicide"){
-            return {color: '#17655C'};
-        } else if (feature.properties.crime_class =="arson"){
-            return {color: '#17655C'};
-        } else{
-            return {color: '#be4c39'};
+L.geoJSON(data, {
+    style: function(feature) {
+        switch (feature.properties.crime_class ) {
+            case 'alcohol': return {color: "#17655C"};
+            case 'fake_id':   return {color: "#b2df8a"};
+            case 'marijuana':   return {color: "#055d00"};
+            case 'possession':   return {color: "#63c29d"};
+            case 'disorderly_conduct':   return {color: "#63c29d"};
+            case 'drug_sale':   return {color: "#63c29d"};
+			case 'DUI':   return {color: "#63c29d"};
+			case 'assault':   return {color: "#7F3663"};
+			case 'missing_person':   return {color: "#c3519e"};
+			case 'resisting_arrest':   return {color: "#C18BDA"};
+			case 'robbery':   return {color: "#6F2ED0"};
+			case 'sexual_misconduct':   return {color: "#8B2700"};
+			case 'domestic':   return {color: "#E04119"};
+			case 'harrassment':   return {color: "#d48d40"};
+			case 'rape':   return {color: "#bf6363"};
+			case 'stalking':   return {color: "#ffcc00"};
+			case 'property':   return {color: "#63c29d"};
+			case 'theft':   return {color: "#63c29d"};
+			case 'tresspass':   return {color: "#63c29d"};
+			default : return {color: "#000"};
+	
+			
         }
-        
     },
-   pointToLayer: function(feature, latlng) {
-        var newlatlng = [latlng.lat + Math.random()/10000*8 - 0.0004, latlng.lng + Math.random()/10000*8 - 0.0004]
+    
+	pointToLayer: function(feature, latlng) {
+		var newlatlng = [latlng.lat + Math.random()/10000*8 - 0.0004, latlng.lng + Math.random()/10000*8 - 0.0004]
 
         return new L.CircleMarker(newlatlng, {radius: 3, fillOpacity: 0.3, stroke: 0});
     },
-
+    
     onEachFeature: function(feature, layer) {
     // does this feature have a property named popupContent?
      if (feature.properties && feature.properties.crime) {
@@ -41986,12 +42004,33 @@ var crimes = L.geoJson(data, {
       }
     }
 
+    
+    
+    
+}).addTo(map);
+
+
+// map.addLayer(crimes);
+var bluelights = L.geoJson.ajax('../data/json/bluelights.geojson', {
+ style: function(feature) {
+//         if (feature.properties.crime_class == 'alcohol'){
+//           return {color: '#17655C'};
+      return {color: '#4b6892'};
+},
+ pointToLayer: function(feature, latlng) {
+        return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.3, stroke: 0})
+       
+
+    },
+
   
+
 });
 
-
-
 // map.addLayer(bluelights);
-map.addLayer(crimes);
+
+
+
+
 
 

@@ -13,41 +13,41 @@ var crimes = L.geoJson.ajax('../crime_map/data/json/clean_crime.geojson', {
  
    style: function(feature) {
         if (feature.properties.crime_class == 'alcohol'){
-          return {color: '#17655C'};
+          return {color: '#6cd05f'};
         } else if (feature.properties.crime_class == 'fake_id'){
-          return {color: '#b2df8a'};
+          return {color: '#000'};
         } else if (feature.properties.crime_class == 'marijuana'){
-          return {color: '#055d00'};
+          return {color: '#6f3fcc'};
         } else if (feature.properties.crime_class == 'possession'){
-          return {color: '#63c29d'};
+          return {color: '#c3db42'};
         }
 
         else if (feature.properties.crime_class == 'disorderly_conduct'){
-          return {color: '#63c29d'};
+          return {color: '#c84eca'};
         } else if (feature.properties.crime_class == 'drug_sale'){
-          return {color: '#63c29d'};
+          return {color: '#84d1ad'};
         } else if (feature.properties.crime_class == 'DUI'){
-          return {color: '#63c29d'};
+          return {color: '#462a79'};
         }
 
         else if (feature.properties.crime_class == 'assault'){
-          return {color: '#7F3663'};
+          return {color: '#cd7f38'};
         } else if (feature.properties.crime_class == 'missing_person'){
-          return {color: '#c3519e'};
+          return {color: '#000'};
         } else if (feature.properties.crime_class == 'resisting_arrest'){
-          return {color: '#C18BDA'};
+          return {color: '#d1bd60'};
         } else if (feature.properties.crime_class == 'robbery'){
-          return {color: '#6F2ED0'};
+          return {color: '#8B2700 '};
         }
 
         else if (feature.properties.crime_class == 'sexual_misconduct'){
-          return {color: '#8B2700'};
+          return {color: '#d94a86'};
         } else if (feature.properties.crime_class == 'domestic'){
-          return {color: '#E04119'};
+          return {color: '#cd7f38'};
         } else if (feature.properties.crime_class == 'harrassment'){
           return {color: '#d48d40'};
         } else if (feature.properties.crime_class == 'rape'){
-          return {color: '#bf6363'};
+          return {color: '#dd0606'};
         } else if (feature.properties.crime_class == 'stalking'){
           return {color: '#ffcc00'};
         }
@@ -55,7 +55,7 @@ var crimes = L.geoJson.ajax('../crime_map/data/json/clean_crime.geojson', {
         else if (feature.properties.crime_class == 'property'){
           return {color: '#63c29d'};
         } else if (feature.properties.crime_class == 'theft'){
-          return {color: '#63c29d'};
+          return {color: '#606a90'};
         } else if (feature.properties.crime_class == 'tresspass'){
           return {color: '#63c29d'};
         }

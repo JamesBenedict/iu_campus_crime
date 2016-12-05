@@ -1409,28 +1409,28 @@ var data = [{
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "11/14/15 0:00",
-        "status": "missing",
-        "report_num": 153154,
-        "lat": "39.158559",
-        "long": "-86.522636",
-        "location": "WOODLAWN AVENUE/SOUTH OF",
-        "state": "Indiana",
-        "city": "Bloomington",
-        "crime_class": "traffic",
-        "crime": "TRAFFIC ACCIDENTS - PROPERTY DAMAGE ONLY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.522636,
-          39.158559
-        ]
-      }
-    },
+    // {
+    //   "type": "Feature",
+    //   "properties": {
+    //     "date": "11/14/15 0:00",
+    //     "status": "missing",
+    //     "report_num": 153154,
+    //     "lat": "39.158559",
+    //     "long": "-86.522636",
+    //     "location": "WOODLAWN AVENUE/SOUTH OF",
+    //     "state": "Indiana",
+    //     "city": "Bloomington",
+    //     "crime_class": "traffic",
+    //     "crime": "TRAFFIC ACCIDENTS - PROPERTY DAMAGE ONLY"
+    //   },
+    //   "geometry": {
+    //     "type": "Point",
+    //     "coordinates": [
+    //       -86.522636,
+    //       39.158559
+    //     ]
+    //   }
+    // },
     {
       "type": "Feature",
       "properties": {
@@ -2790,8 +2790,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.5375469,
-          39.1637852
+          -86.527561, 39.178629
         ]
       }
     },
@@ -3076,33 +3075,32 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.523021,
-          39.189713
+         -86.513125, 39.176297
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "10/2/14 0:00",
-        "status": "Closed No Arrest",
-        "report_num": 142666,
-        "lat": "39.158559",
-        "long": "-86.522636",
-        "location": "WOODLAWN AVENUE/SOUTH OF",
-        "state": "Indiana",
-        "city": "Bloomington",
-        "crime_class": "traffic",
-        "crime": "TRAFFIC ACCIDENTS - PROPERTY DAMAGE ONLY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.522636,
-          39.158559
-        ]
-      }
-    },
+    // {
+    //   "type": "Feature",
+    //   "properties": {
+    //     "date": "10/2/14 0:00",
+    //     "status": "Closed No Arrest",
+    //     "report_num": 142666,
+    //     "lat": "39.158559",
+    //     "long": "-86.522636",
+    //     "location": "WOODLAWN AVENUE/SOUTH OF",
+    //     "state": "Indiana",
+    //     "city": "Bloomington",
+    //     "crime_class": "traffic",
+    //     "crime": "TRAFFIC ACCIDENTS - PROPERTY DAMAGE ONLY"
+    //   },
+    //   "geometry": {
+    //     "type": "Point",
+    //     "coordinates": [
+    //       -86.522636,
+    //       39.158559
+    //     ]
+    //   }
+    // },
     {
       "type": "Feature",
       "properties": {
@@ -3939,28 +3937,28 @@ var data = [{
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "10/31/13 0:00",
-        "status": "INACTIVE",
-        "report_num": 133003,
-        "lat": "39.158559",
-        "long": "-86.522636",
-        "location": "WOODLAWN AVENUE/SOUTH OF",
-        "state": "Indiana",
-        "city": "Bloomington",
-        "crime_class": "traffic",
-        "crime": "TRAFFIC ACCIDENTS - PROPERTY DAMAGE ONLY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.522636,
-          39.158559
-        ]
-      }
-    },
+    // {
+    //   "type": "Feature",
+    //   "properties": {
+    //     "date": "10/31/13 0:00",
+    //     "status": "INACTIVE",
+    //     "report_num": 133003,
+    //     "lat": "39.158559",
+    //     "long": "-86.522636",
+    //     "location": "WOODLAWN AVENUE/SOUTH OF",
+    //     "state": "Indiana",
+    //     "city": "Bloomington",
+    //     "crime_class": "traffic",
+    //     "crime": "TRAFFIC ACCIDENTS - PROPERTY DAMAGE ONLY"
+    //   },
+    //   "geometry": {
+    //     "type": "Point",
+    //     "coordinates": [
+    //       -86.522636,
+    //       39.158559
+    //     ]
+    //   }
+    // },
     {
       "type": "Feature",
       "properties": {
@@ -4594,8 +4592,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.526645,
-          39.121446
+          -86.533553, 39.171806
         ]
       }
     },
@@ -4819,28 +4816,28 @@ var data = [{
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "10/2/13 0:00",
-        "status": "INACTIVE",
-        "report_num": 132641,
-        "lat": "39.158559",
-        "long": "-86.522636",
-        "location": "WOODLAWN AVENUE/SOUTH OF",
-        "state": "Indiana",
-        "city": "Bloomington",
-        "crime_class": "traffic",
-        "crime": "TRAFFIC ACCIDENTS - PERSONAL INJURY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.522636,
-          39.158559
-        ]
-      }
-    },
+    // {
+    //   "type": "Feature",
+    //   "properties": {
+    //     "date": "10/2/13 0:00",
+    //     "status": "INACTIVE",
+    //     "report_num": 132641,
+    //     "lat": "39.158559",
+    //     "long": "-86.522636",
+    //     "location": "WOODLAWN AVENUE/SOUTH OF",
+    //     "state": "Indiana",
+    //     "city": "Bloomington",
+    //     "crime_class": "traffic",
+    //     "crime": "TRAFFIC ACCIDENTS - PERSONAL INJURY"
+    //   },
+    //   "geometry": {
+    //     "type": "Point",
+    //     "coordinates": [
+    //       -86.522636,
+    //       39.158559
+    //     ]
+    //   }
+    // },
     {
       "type": "Feature",
       "properties": {
@@ -5039,28 +5036,28 @@ var data = [{
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "9/26/13 0:00",
-        "status": "missing",
-        "report_num": 132561,
-        "lat": "39.158559",
-        "long": "-86.522636",
-        "location": "WOODLAWN AVENUE/SOUTH OF",
-        "state": "Indiana",
-        "city": "Bloomington",
-        "crime_class": "traffic",
-        "crime": "TRAFFIC ACCIDENTS - PROPERTY DAMAGE ONLY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.522636,
-          39.158559
-        ]
-      }
-    },
+    // {
+    //   "type": "Feature",
+    //   "properties": {
+    //     "date": "9/26/13 0:00",
+    //     "status": "missing",
+    //     "report_num": 132561,
+    //     "lat": "39.158559",
+    //     "long": "-86.522636",
+    //     "location": "WOODLAWN AVENUE/SOUTH OF",
+    //     "state": "Indiana",
+    //     "city": "Bloomington",
+    //     "crime_class": "traffic",
+    //     "crime": "TRAFFIC ACCIDENTS - PROPERTY DAMAGE ONLY"
+    //   },
+    //   "geometry": {
+    //     "type": "Point",
+    //     "coordinates": [
+    //       -86.522636,
+    //       39.158559
+    //     ]
+    //   }
+    // },
     {
       "type": "Feature",
       "properties": {
@@ -5166,8 +5163,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.526645,
-          39.121446
+          -86.533553, 39.171806
         ]
       }
     },
@@ -12228,8 +12224,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.523021,
-          39.189713
+          -86.513125, 39.176297
         ]
       }
     },
@@ -14868,8 +14863,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.9917751,
-          40.4893488
+          -86.519187, 39.166629
         ]
       }
     },
@@ -19911,28 +19905,28 @@ var data = [{
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "11/22/15 0:00",
-        "status": "CLOSED",
-        "report_num": 153234,
-        "lat": "39.158559",
-        "long": "-86.522636",
-        "location": "WOODLAWN AVENUE/SOUTH OF",
-        "state": "Indiana",
-        "city": "Bloomington",
-        "crime_class": "property",
-        "crime": "DAMAGED PROPERTY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.522636,
-          39.158559
-        ]
-      }
-    },
+    // {
+    //   "type": "Feature",
+    //   "properties": {
+    //     "date": "11/22/15 0:00",
+    //     "status": "CLOSED",
+    //     "report_num": 153234,
+    //     "lat": "39.158559",
+    //     "long": "-86.522636",
+    //     "location": "WOODLAWN AVENUE/SOUTH OF",
+    //     "state": "Indiana",
+    //     "city": "Bloomington",
+    //     "crime_class": "property",
+    //     "crime": "DAMAGED PROPERTY"
+    //   },
+    //   "geometry": {
+    //     "type": "Point",
+    //     "coordinates": [
+    //       -86.522636,
+    //       39.158559
+    //     ]
+    //   }
+    // },
     {
       "type": "Feature",
       "properties": {
@@ -22876,8 +22870,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.526645,
-          39.121446
+          -86.533553,39.171806
         ]
       }
     },
@@ -23052,8 +23045,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.526645,
-          39.121446
+         -86.533553, 39.171806
         ]
       }
     },
@@ -23118,8 +23110,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.526645,
-          39.121446
+          -86.533553, 39.171806
         ]
       }
     },
@@ -30708,8 +30699,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.5375469,
-          39.1637852
+          -86.527561, 39.178629
         ]
       }
     },
@@ -30862,8 +30852,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.5276995,
-          39.1618772
+           -86.524787, 39.171530
         ]
       }
     },
@@ -30884,8 +30873,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.5276995,
-          39.1618772
+          -86.524787, 39.171530
         ]
       }
     },
@@ -33524,8 +33512,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.526645,
-          39.121446
+          -86.533553, 39.171806
         ]
       }
     },
@@ -38144,8 +38131,7 @@ var data = [{
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.5251878,
-          39.1898414
+          -86.522878, 39.189492
         ]
       }
     },
@@ -38941,28 +38927,28 @@ var data = [{
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "9/27/15 0:00",
-        "status": "CLOSED",
-        "report_num": 152487,
-        "lat": "39.158559",
-        "long": "-86.522636",
-        "location": "WOODLAWN AVENUE/SOUTH OF",
-        "state": "Indiana",
-        "city": "Bloomington",
-        "crime_class": "DUI",
-        "crime": "DRIVING UNDER THE INFLUENCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.522636,
-          39.158559
-        ]
-      }
-    },
+    // {
+    //   "type": "Feature",
+    //   "properties": {
+    //     "date": "9/27/15 0:00",
+    //     "status": "CLOSED",
+    //     "report_num": 152487,
+    //     "lat": "39.158559",
+    //     "long": "-86.522636",
+    //     "location": "WOODLAWN AVENUE/SOUTH OF",
+    //     "state": "Indiana",
+    //     "city": "Bloomington",
+    //     "crime_class": "DUI",
+    //     "crime": "DRIVING UNDER THE INFLUENCE"
+    //   },
+    //   "geometry": {
+    //     "type": "Point",
+    //     "coordinates": [
+    //       -86.522636,
+    //       39.158559
+    //     ]
+    //   }
+    // },
     {
       "type": "Feature",
       "properties": {
@@ -41960,49 +41946,78 @@ var CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{
 }).addTo(map);
 
 L.geoJSON(data, {
-    style: function(feature) {
-        switch (feature.properties.crime_class ) {
-            case 'alcohol': return {color: "#17655C"};
-            case 'fake_id':   return {color: "#b2df8a"};
-            case 'marijuana':   return {color: "#055d00"};
-            case 'possession':   return {color: "#63c29d"};
-            case 'disorderly_conduct':   return {color: "#63c29d"};
-            case 'drug_sale':   return {color: "#63c29d"};
-			case 'DUI':   return {color: "#63c29d"};
-			case 'assault':   return {color: "#7F3663"};
-			case 'missing_person':   return {color: "#c3519e"};
-			case 'resisting_arrest':   return {color: "#C18BDA"};
-			case 'robbery':   return {color: "#6F2ED0"};
-			case 'sexual_misconduct':   return {color: "#8B2700"};
-			case 'domestic':   return {color: "#E04119"};
-			case 'harrassment':   return {color: "#d48d40"};
-			case 'rape':   return {color: "#bf6363"};
-			case 'stalking':   return {color: "#ffcc00"};
-			case 'property':   return {color: "#63c29d"};
-			case 'theft':   return {color: "#63c29d"};
-			case 'tresspass':   return {color: "#63c29d"};
-			default : return {color: "#000"};
-	
+    if (feature.properties.crime_class == 'alcohol'){
+          return {color: '#6cd05f'};
+        } else if (feature.properties.crime_class == 'fake_id'){
+          return {color: '#000'};
+        } else if (feature.properties.crime_class == 'marijuana'){
+          return {color: '#6f3fcc'};
+        } else if (feature.properties.crime_class == 'possession'){
+          return {color: '#c3db42'};
+        }
+
+        else if (feature.properties.crime_class == 'disorderly_conduct'){
+          return {color: '#c84eca'};
+        } else if (feature.properties.crime_class == 'drug_sale'){
+          return {color: '#84d1ad'};
+        } else if (feature.properties.crime_class == 'DUI'){
+          return {color: '#462a79'};
+        }
+
+        else if (feature.properties.crime_class == 'assault'){
+          return {color: '#cd7f38'};
+        } else if (feature.properties.crime_class == 'missing_person'){
+          return {color: '#000'};
+        } else if (feature.properties.crime_class == 'resisting_arrest'){
+          return {color: '#d1bd60'};
+        } else if (feature.properties.crime_class == 'robbery'){
+          return {color: '#8B2700 '};
+        }
+
+        else if (feature.properties.crime_class == 'sexual_misconduct'){
+          return {color: '#d94a86'};
+        } else if (feature.properties.crime_class == 'domestic'){
+          return {color: '#cd7f38'};
+        } else if (feature.properties.crime_class == 'harrassment'){
+          return {color: '#d48d40'};
+        } else if (feature.properties.crime_class == 'rape'){
+          return {color: '#dd0606'};
+        } else if (feature.properties.crime_class == 'stalking'){
+          return {color: '#ffcc00'};
+        }
+
+        else if (feature.properties.crime_class == 'property'){
+          return {color: '#63c29d'};
+        } else if (feature.properties.crime_class == 'theft'){
+          return {color: '#606a90'};
+        } else if (feature.properties.crime_class == 'tresspass'){
+          return {color: '#63c29d'};
+        }
+      
+        else{
+          return {color: '#000'};
+        } 
 			
         }
     },
     
 	pointToLayer: function(feature, latlng) {
 		var newlatlng = [latlng.lat + Math.random()/10000*8 - 0.0004, latlng.lng + Math.random()/10000*8 - 0.0004]
-    
-        return new L.CircleMarker(newlatlng, {radius: 2.5, fillOpacity: 0.3, stroke: 0});
+
+        return new L.CircleMarker(newlatlng, {radius: 3, fillOpacity: 0.3, stroke: 0});
     },
     
     onEachFeature: function(feature, layer) {
     // does this feature have a property named popupContent?
      if (feature.properties && feature.properties.crime) {
-          layer.bindPopup(feature.properties.crime)
-          // layer.bindPopup(feature.properties.report_num),
-          // layer.bindPopup(feature.properties.location),
-          // layer.bindPopup(feature.properties.lat),
-          // layer.bindPopup(feature.properties.long);
+          layer.bindPopup(feature.properties.crime + "<br>" 
+            + feature.properties.crime_class 
+            + "<br>" + feature.properties.location
+            + "<br>" + feature.properties.report_num
+            + "," + feature.properties.date);
       }
     }
+
     
     
     

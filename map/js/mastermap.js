@@ -41946,7 +41946,64 @@ var CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{
 }).addTo(map);
 
 L.geoJSON(data, {
-    if (feature.properties.crime_class == 'alcohol'){
+    //  style: function(feature) {
+    // if (feature.properties.crime_class == 'alcohol'){
+    //       return {color: '#6cd05f'};
+    //     } else if (feature.properties.crime_class == 'fake_id'){
+    //       return {color: '#000'};
+    //     } else if (feature.properties.crime_class == 'marijuana'){
+    //       return {color: '#6f3fcc'};
+    //     } else if (feature.properties.crime_class == 'possession'){
+    //       return {color: '#c3db42'};
+    //     }
+
+    //     else if (feature.properties.crime_class == 'disorderly_conduct'){
+    //       return {color: '#c84eca'};
+    //     } else if (feature.properties.crime_class == 'drug_sale'){
+    //       return {color: '#84d1ad'};
+    //     } else if (feature.properties.crime_class == 'DUI'){
+    //       return {color: '#462a79'};
+    //     }
+
+    //     else if (feature.properties.crime_class == 'assault'){
+    //       return {color: '#cd7f38'};
+    //     } else if (feature.properties.crime_class == 'missing_person'){
+    //       return {color: '#000'};
+    //     } else if (feature.properties.crime_class == 'resisting_arrest'){
+    //       return {color: '#d1bd60'};
+    //     } else if (feature.properties.crime_class == 'robbery'){
+    //       return {color: '#8B2700 '};
+    //     }
+
+    //     else if (feature.properties.crime_class == 'sexual_misconduct'){
+    //       return {color: '#d94a86'};
+    //     } else if (feature.properties.crime_class == 'domestic'){
+    //       return {color: '#cd7f38'};
+    //     } else if (feature.properties.crime_class == 'harrassment'){
+    //       return {color: '#d48d40'};
+    //     } else if (feature.properties.crime_class == 'rape'){
+    //       return {color: '#dd0606'};
+    //     } else if (feature.properties.crime_class == 'stalking'){
+    //       return {color: '#ffcc00'};
+    //     }
+
+    //     else if (feature.properties.crime_class == 'property'){
+    //       return {color: '#63c29d'};
+    //     } else if (feature.properties.crime_class == 'theft'){
+    //       return {color: '#606a90'};
+    //     } else if (feature.properties.crime_class == 'tresspass'){
+    //       return {color: '#63c29d'};
+    //     }
+      
+    //     else{
+    //       return {color: '#000'};
+    //     } 
+			
+    //     }
+    // },
+
+   style: function(feature) {
+       if (feature.properties.crime_class == 'alcohol'){
           return {color: '#6cd05f'};
         } else if (feature.properties.crime_class == 'fake_id'){
           return {color: '#000'};
@@ -41997,8 +42054,8 @@ L.geoJSON(data, {
         else{
           return {color: '#000'};
         } 
-			
-        }
+      
+        
     },
     
 	pointToLayer: function(feature, latlng) {

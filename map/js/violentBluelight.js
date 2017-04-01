@@ -42039,9 +42039,8 @@ var crimes = L.geoJson(data, {
                     
   
 });
-
 // map.addLayer(crimes);
-var bluelights = L.geoJson.ajax('../data/json/bluelights.geojson', {
+var bluelights = L.geoJson.ajax('/js/bluelights.geojson', {
  style: function(feature) {
 //         if (feature.properties.crime_class == 'alcohol'){
 //           return {color: '#17655C'};

@@ -42082,21 +42082,21 @@ L.geoJSON(data, {
 
 
 // map.addLayer(crimes);
-var bluelights = L.geoJson.ajax('../data/json/bluelights.geojson', {
- style: function(feature) {
-//         if (feature.properties.crime_class == 'alcohol'){
-//           return {color: '#17655C'};
-      return {color: '#4b6892'};
-},
- pointToLayer: function(feature, latlng) {
-        return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.3, stroke: 0})
+// var bluelights = L.geoJson.ajax('../data/json/bluelights.geojson', {
+//  style: function(feature) {
+// //         if (feature.properties.crime_class == 'alcohol'){
+// //           return {color: '#17655C'};
+//       return {color: '#4b6892'};
+// },
+//  pointToLayer: function(feature, latlng) {
+//         return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.3, stroke: 0})
        
 
-    },
+//     },
 
   
 
-});
+// });
 
 // map.addLayer(bluelights);
 
